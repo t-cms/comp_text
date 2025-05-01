@@ -1,0 +1,3 @@
+"","filename","category","explanation","path","ai_correct","ai_wrong","unsure","notes"
+"1","batch1_3_page0.txt","nixon;vietnam;democrat_critique","Nixon mentioned 5 times, Vietnam mentioned 5 times, words critical of democrats were critics","./perspective_extracted/batch1_3_page0.txt"," "," "," "," "
+"2","batch1_5_page0.txt","democrat_critique","word critical of democrats was democratic","./perspective_extracted/batch1_5_page0.txt"," "," "," "," "

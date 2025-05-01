@@ -1,0 +1,283 @@
+---
+title: "Final Project Summary"
+author: "Tiasia Saunders"
+date: "2025-04-13"
+output: html_document
+---
+In an R Markdown document, provide a summary of your final project. Include a link to the source data that you have compiled in your GitHub repository, 
+
+## Final Project Summary
+
+This project explores how news media covered diversity, equity, and inclusion (DEI) topics during the first month of Donald Trump’s presidency, focusing on the differences between **domestic and international** newspaper coverage. More specifically, articles that discussed Trump's adminsitration dismantling federal DEI programs. I compiled a set of news articles using Nexis Uni, then cleaned and processed them for text analysis. In the Nexis Uni site, I narrowed the articles with Date: 01/20/25-02/20/25, Keyword: Diversity & Inclusion, Data Type: Newspaper Articles, and Language: English. This returned a total of 1916 articles to work with in my analysis. 
+
+## Data Source
+
+The original articles were retrieved from [Nexis Uni](https://www.lexisnexis.com/en-us/professional/academic/nexis-uni.page?srsltid=AfmBOoqGISSgK0YqyAwokQTyWr6QDHbOBuuceMA_q0rxQarhYMv3pkI6).
+The compiled and cleaned dataset used for this project is available on my laptop (files too large for Github-- need help pushing too large files to Github):  
+👉 [Link to articles.csv on GitHub](/Users/tiasiasaunders/Desktop/class_project_files/trump_ die_domestic_vs_international_coverage /all_articles)
+
+## Description of Data
+
+The dataset includes articles published in the first month of Trump's 2025 presidency (Jan2025-Feb2025) containing keywords related to DEI and the Trump administration. It includes variables like publication name, publication country, date, full article text, and a binary variable that I added toindicate  whether the article is **domestic** or **international**, also a column of politically_leaning (which I haven't started to incorporate into my data analysis yet. Right now I am focusing on it from a international versue domestic standpoint, before looking at it through a political lens. 
+
+## Content Analysis Plan
+
+I plan to conduct a content analysis to compare how DEI-related issues were framed across domestic and international newspapers. I’ve created a **preliminary codebook**in my topic_modeling assignment  to identify topic themes such as:
+- **Corporate DEI policies**
+- **Education-related DEI**
+- **Trump’s national politics**
+- **Administrative orders**
+- **Campus media coverage**
+
+These categories are being developed based on the most frequent bigrams and common narrative themes. Preliminary coding involves using keyword matching and bigram frequency analysis to map patterns of coverage.
+
+## Unit of Analysis
+
+The unit of analysis is an individual news article. The content analysis will focus on three components within each article:
+- The **publication_location**
+- The **dom_vs_intl**
+- The **political_leaning**
+
+### Codebook (Preliminary Version)
+
+| Code               | Definition                                                                 | Example                                             |
+|--------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
+| Tone_Positive      | Article uses language reflecting hope, resolution, or positive outcomes     | “Protesters call for reform, urge peaceful change”  |
+| Tone_Negative      | Article uses alarmist or fear-inducing language                             | “Mob storms the Capitol in unprecedented violence”  |
+| Dom_vs_intl        | Classifies the article as Domestic or International                         | Domestic (e.g. NYT), International (e.g. BBC)         |                 |
+| Political_Affiliation | Implies alignment with a political ideology or party                     | “Left-wing activists confront right-wing group”     |
+
+> _Note: Codebook is subject to refinement following further testing 
+
+### Preliminary Work
+
+-creating binary columns to perform content analysis on 
+- Term frequency and bigram analysis were used to supplement theme identification, using packages such as `tidytext`, `dplyr`, and `ggplot2` in R.
+- Graphs were made to show the distribution of outlets via location (domestic vs international) and to show the top 20 bigrams 
+
+## Sample of the Data
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+# Load libraries
+library(tidyverse)
+library(tidytext)
+library(lubridate)
+library(stringr)
+library(ggplot2)
+library(dplyr)
+
+# Load the data
+#dei_articles <- read_csv("trump_dei_final_index.csv")
+library(googledrive)
+library(rio)
+```
+
+# Import Data from Google Drive
+
+```{r}
+googledrive::drive_deauth()
+temp_file <- tempfile()
+drive_download(as_id("1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"), path = temp_file)
+
+#the file id is in the URL for your trump_dei_final_index.csv. which you get from clicking "Share on the Google Drive version and copying the link: https://drive.google.com/file/d/1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB/view?usp=sharing
+#https://drive.google.com/file/d/1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB/view?usp=sharing
+#your file id: "1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"'
+
+# Then import the downloaded file from your hard drive
+dei_articles <- rio::import(temp_file, format = "csv") # If you know the file format, specify it explicitly..."csv" or "xlsx", "txt", etc.
+
+```
+
+
+##Number of columns and rows 
+
+```{r}
+
+print(paste0("This dataset has ", nrow(dei_articles), " rows and ", ncol(dei_articles), " columns."))
+
+```
+
+##Descriptive Statistics 
+
+```{r}
+summary(dei_articles)
+```
+
+
+ #frequency count for each category and their location 
+
+```{r}
+table(dei_articles$dom_vs_intl)
+table(dei_articles$publication_location)
+
+```
+
+
+##adding categorizing columns such as dom_vs_intl to indicate whether the article is international or domestic and policial_leaning to identify blue and red states that the articles came out of
+```{r}
+dei_articles <- dei_articles |> 
+ #mutating a new column to indicate whether the pub location is international or domestic 
+
+mutate(dom_vs_intl = case_when (
+  publication_location == "International" ~ "INTL",
+  publication_location != "International" ~ "US",
+  TRUE ~ NA
+)) |>
+## mutating a new column to indicate whether the state is blue or red 
+mutate(political_leaning = case_when (
+  publication_location == "Maryland" ~ "Blue", 
+  publication_location == "Washington"~ "Blue", 
+  publication_location =="California" ~ "Blue", 
+  publication_location == "Colorado" ~ "Blue", 
+  publication_location == "New Mexico"~ "Blue", 
+  publication_location == "Minnesota" ~ "Blue", 
+  publication_location == "Illinois" ~ "Blue", 
+  publication_location == "Virginia" ~ "Blue", 
+  publication_location == "Maryland" ~ "Blue", 
+  publication_location == "Deleware" ~ "Blue", 
+  publication_location == "New Jersey" ~ "Blue", 
+  publication_location == "New York" ~ "Blue", 
+  publication_location == "Vermont" ~ "Blue", 
+  publication_location == "Rhode Island" ~ "Blue", 
+  publication_location == "Connecticut" ~ "Blue", 
+  publication_location == "Maine" ~ "Blue",
+  publication_location == "New Hampishire" ~ "Blue", 
+  publication_location == "District of Columbia" ~ "Blue", 
+  publication_location == "International" ~ "NA",
+  
+  TRUE ~ "Red"
+  
+))
+
+
+```
+
+
+## GGplot of the articles over time (1 month)
+
+```{r}
+df_time <- dei_articles |> 
+  count(published_date, dom_vs_intl)
+
+ggplot(df_time, aes(x = published_date, y = n, color = dom_vs_intl)) +
+  geom_line(size = 1) +
+  labs(
+    title = "Domestic vs International Coverage Over Time",
+    x = "Publication Date",
+    y = "Number of Articles",
+    color = "Outlet Type"
+  ) +
+  theme_minimal()
+
+
+```
+
+```{r}
+ggplot(dei_articles, aes(x = dom_vs_intl)) +
+  geom_bar(fill = "steelblue") +
+  labs(
+    title = "Distribution of Domestic vs International Coverage",
+    x = "Outlet Type",
+    y = "Number of Articles"
+  ) +
+  theme_minimal()
+
+```
+
+
+
+## Bigrams: 
+
+
+```{r}
+
+stories <- str_replace_all(dei_articles$hlead, "- ", "")
+stories_df <- tibble(stories,)
+
+# unnest includes lower, punct removal
+
+stories_tokenized <- stories_df |> 
+  unnest_tokens(word,stories)
+
+stories_tokenized
+
+```
+
+#Remove stopwords and count the words
+```{r}
+
+stories_tokenized <- stories_tokenized |>
+  anti_join(stop_words, by = c("word" = "word")) 
+
+```
+
+# Word Count
+
+```{r}
+story_word_ct <- stories_tokenized %>%
+  count(word, sort=TRUE)
+```
+
+
+# Create Bigrams
+
+```{r}
+bigrams <- stories_df %>%
+  unnest_tokens(bigram, stories, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+filtered_bigrams <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |> 
+    filter(!is.na(word1)) |> 
+     filter(!is.na(word2))
+
+counted_bigrams <- filtered_bigrams %>%
+  count(word1, word2, sort = TRUE)
+
+
+
+
+```
+
+##top twenty bigrams 
+```{r}
+
+top_bigrams <- counted_bigrams |>
+  arrange(desc(n), word1, word2) |>
+  head(20)
+
+
+```
+
+
+```{r}
+# Combine the bigram into one string for labeling
+top_bigrams <- counted_bigrams |>
+  arrange(desc(n), word1, word2) |>
+  head(20) |>
+  mutate(bigram = paste(word1, word2))
+
+# Plot
+ggplot(top_bigrams, aes(x = reorder(bigram, n), y = n)) +
+  geom_col(fill = "lavender") +
+  coord_flip() +
+  labs(
+    title = "Top 20 Most Frequent Bigrams",
+    x = "Bigram",
+    y = "Frequency"
+  ) +
+  theme_minimal()
+```
+
+###do more work girlypop 
+```{r}
+
+```
+
