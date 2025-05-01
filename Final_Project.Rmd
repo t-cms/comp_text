@@ -1,0 +1,31 @@
+---
+title: "Final Project"
+author: "Tiasia Saunders"
+date: "2025-05-01"
+output: html_document
+---
+In an R Markdown document, compile text from news sources or Reddit, compile it into a dataframe, tokenize it, produce lists of bigrams, examine use of adjectives surrounding your narratives, examine sentiment of the bigrams, use the keyword in context technique to track key narratives, produce one topic model.
+
+Include a link to the source data that you have compiled in your GitHub repository.
+
+Describe a content analysis plan and a draft code book.
+
+Load the appropriate software libraries.
+
+Load the data.
+
+Create ggplot chart showing the distribution of the data over time
+
+Create a ggplot chart showing top 20 bigrams.
+
+Conduct a sentiment analysis by article or by bigram. Determine how sentiment has changed over time. Visualize the sentiment analysis.
+
+Construct a topic model and identify the top six narratives *
+
+Write an essay with your findings, at least 800 words. Add link to essay: 
+
+##load libraries 
+```{r}
+
+```
+
