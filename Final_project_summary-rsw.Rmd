@@ -65,9 +65,6 @@ library(lubridate)
 library(stringr)
 library(ggplot2)
 library(dplyr)
-
-# Load the data
-#dei_articles <- read_csv("trump_dei_final_index.csv")
 library(googledrive)
 library(rio)
 ```

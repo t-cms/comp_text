@@ -26,6 +26,33 @@ Write an essay with your findings, at least 800 words. Add link to essay:
 
 ##load libraries 
 ```{r}
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+# Load libraries
+library(tidyverse)
+library(tidytext)
+library(lubridate)
+library(stringr)
+library(ggplot2)
+library(dplyr)
+library(googledrive)
+library
 
 ```
 
+
+##loading Trump DEI data 
+
+
+```{r}
+googledrive::drive_deauth()
+temp_file <- tempfile()
+drive_download(as_id("1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"), path = temp_file)
+
+#the file id is in the URL for your trump_dei_final_index.csv. which you get from clicking "Share on the Google Drive version and copying the link: https://drive.google.com/file/d/1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB/view?usp=sharing
+#https://drive.google.com/file/d/1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB/view?usp=sharing
+#your file id: "1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"'
+
+# Then import the downloaded file from your hard drive
+dei_articles <- rio::import(temp_file, format = "csv") # If you know the file format, specify it explicitly..."csv" or "xlsx", "txt", etc.
+
+```
