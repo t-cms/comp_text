@@ -201,7 +201,7 @@ ggplot(df_time, aes(x = published_date, y = n, color = dom_vs_intl)) +
 
 ```
 
-### Graphic of Domestic versue Internataional outle distribution 
+### Graphic of Domestic versue International Outlet Distribution 
 ```{r}
 ggplot(dei_articles, aes(x = dom_vs_intl)) +
   geom_bar(fill = "violet") +
