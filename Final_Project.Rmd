@@ -4,30 +4,106 @@ author: "Tiasia Saunders"
 date: "2025-05-01"
 output: html_document
 ---
-In an R Markdown document, compile text from news sources or Reddit, compile it into a dataframe, tokenize it, produce lists of bigrams, examine use of adjectives surrounding your narratives, examine sentiment of the bigrams, use the keyword in context technique to track key narratives, produce one topic model.
 
-Include a link to the source data that you have compiled in your GitHub repository.
+## Data Source
 
-Describe a content analysis plan and a draft code book.
+The original articles were retrieved from [Nexis Uni](https://www.lexisnexis.com/en-us/professional/academic/nexis-uni.page).
 
-Load the appropriate software libraries.
+👉 [Link to articles.csv on Google Drive](https://drive.google.com/drive/folders/1lYh1Ya3htdd24Yre1LakjNi3La3eUhS1?dmr=1&ec=wgc-drive-hero-goto)
 
-Load the data.
+## Description of Data
 
-Create ggplot chart showing the distribution of the data over time
+The dataset includes articles published in the first month of Trump's 2025 presidency (Jan2025-Feb2025) containing keywords related to DEI and the Trump administration. It includes variables like publication name, publication country, date, full article text, and a binary variable that I added to indicate whether the article is **domestic** or **international**. 
 
-Create a ggplot chart showing top 20 bigrams.
+## Content Analysis Plan
 
-Conduct a sentiment analysis by article or by bigram. Determine how sentiment has changed over time. Visualize the sentiment analysis.
+  
+  
 
-Construct a topic model and identify the top six narratives *
+I plan to conduct a content analysis to compare how DEI-related issues were framed across domestic and international newspapers. I’ve created a **preliminary codebook** in my topic_modeling assignment to identify topic themes such as:
 
-Write an essay with your findings, at least 800 words. Add link to essay: 
+- **Trump Executive Orders**
+- **Corporate DEI**
+- **Federal Education Policy**
+- **Airplane Helicopter Crash**
+- **Trump Elon Muske**
+- **Media Website Info** <- considered this not useful in my analysis
 
-##load libraries 
-```{r}
-```{r echo=TRUE, message=FALSE, warning=FALSE}
-# Load libraries
+
+| **Topic Code**              | **Label**                 | **Definition / Description**                                                                                      | **Key Terms / Keywords Detected**                                                                 | **Included in Analysis?**              |
+| --------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| `trump_executive_orders`    | Trump Executive Orders    | Articles focused on Trump’s federal executive actions or policies concerning DEI (Diversity, Equity, Inclusion).  | “trump”, “order”, “execut”, “feder”, “presid”, “divers”, “donald”, “dei”, “govern”, “inclus”      | ✅ Yes                                  |
+| `corporate_dei`             | Corporate DEI             | Coverage of corporate diversity programs, policies, or initiatives, especially those being criticized or removed. | “divers”, “dei”, “inclus”, “equiti”, “compani”, “polici”, “target”, “initi”, “back”, “program”    | ✅ Yes                                  |
+| `federal_education_policy`  | Federal Education Policy  | DEI-related policies in the education sector, including federal funding or university programs.                   | “feder”, “fund”, “trump”, “educ”, “univers”, “state”, “program”, “order”, “student”, “grant”      | ✅ Yes                                  |
+| `airplane_helicopter_crash` | Airplane/Helicopter Crash | Articles incidentally mentioning DEI during unrelated news events such as aircraft crashes.                       | “trump”, “crash”, “plane”, “washington”, “presid”, “divers”, “air”, “blame”, “helicopt”, “donald” | ⚠️ Partial (exclude or tag separately) |
+| `trump_elon_musk`           | Trump and Elon Musk       | Broader commentary pieces linking Trump and Elon Musk in DEI or political discussions.                            | “trump”, “presid”, “donald”, “musk”, “govern”, “world”, “histori”, “month”, “day”, “american”     | ✅ Yes                                  |
+| `media_website_info`        | Media Website Info        | Non-substantive content such as navigation menus or metadata—irrelevant to analysis.                              | “• news”, “art”, “sport”, “search”, “opinion”, “content”, “staff”, “submit”, “washington”         | ❌ No (Exclude)                         |
+| `other`                     | Other / Uncategorized     | Articles that do not fit into the defined categories.                                                             | N/A                                                                                               | ⚠️ Considered if useful                |
+
+
+These categories are being developed based on the most frequent bigrams and common narrative themes. Preliminary coding involves using keyword matching and bigram frequency analysis to map patterns of coverage.
+
+## Unit of Analysis
+
+The unit of analysis is an individual news article. The content analysis will focus on examining several components within each article:
+
+- The **publication_location column**
+- The **dom_vs_intl column**
+- The **tokenization/bigrams**
+- The **sentiment analysis**
+- The **topic modeling**
+
+
+
+## DEI_Articles (my dataframe) Codebook: 
+
+| Variable Name          | Description                                                               | Type      | Example                         |
+| ---------------------- | ------------------------------------------------------------------------- | --------- | ------------------------------- |
+| `V1`                   | Article index number (row ID)                                             | Numeric   | 1, 958, 1916                    |
+| `title`                | Title of the article                                                      | Character | "Trump attacks DEI programs"    |
+| `published_date`       | Date when the article was published                                       | Date      | 2025-01-28                      |
+| `publication_location` | Geographic location of the news outlet (e.g., country, city)              | Character | "New York, USA"                 |
+| `publication_4`        | News outlet name (alternate or duplicate of another publication variable) | Character | "New York Times"                |
+| `publication_type_5`   | Type of publication (e.g., newspaper, magazine, wire service)             | Character | "Newspaper", "Wire"             |
+| `length`               | Length of article in characters                                           | Numeric   | 690.5                           |
+| `section`              | Section of the newspaper or outlet (e.g., Politics, Opinion)              | Character | "Politics", "Business"          |
+| `word_count`           | Number of words in the article                                            | Numeric   | 829                             |
+| `countries`            | Countries mentioned in the article                                        | Character | "United States, China"          |
+| `byline`               | Author(s) of the article                                                  | Character | "By Jane Doe"                   |
+| `agg_copyright`        | Aggregated copyright info (not used; all values = NA)                     | Logical   | NA                              |
+| `cite`                 | Citation or source identifier                                             | Character | "NYT-123456"                    |
+| `company`              | Parent media company                                                      | Character | "Gannett", "News Corp"          |
+| `headline`             | Headline as printed in the publication                                    | Character | "Trump's DEI Agenda"            |
+| `hlead`                | Headline lead/summary sentence                                            | Character | "Former president escalates..." |
+| `publication_16`       | Possibly a duplicate of `publication_4`                                   | Character | "The Guardian"                  |
+| `publication_type_17`  | Possibly a duplicate of `publication_type_5`                              | Character | "Online", "Print"               |
+| `pub_copyright`        | Copyright info (not used; all values = NA)                                | Logical   | NA                              |
+| `show`                 | Possibly denotes whether the article is from a show or broadcast (unused) | Logical   | NA                              |
+| `term`                 | Possibly indicates search term used (all values = NA)                     | Logical   | NA                              |
+| `ticker`               | Possibly stock ticker (unused)                                            | Logical   | NA                              |
+| `index`                | Article index or tag                                                      | Character | "trump\_dei\_001"               |
+| `filename`             | Name of the file where article is stored                                  | Character | "nyt\_2024\_01\_23\_trump.txt"  |
+| `filepath`             | Full path to the article file                                             | Character | "/Users/tiasia/articles/..."    |
+
+
+### Analysis Codebook 
+
+| Code                | Definition                                                             | Example                                             |
+|---------------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| Tone_Positive       | Article uses language reflecting hope, resolution, or positive outcomes | “Protesters call for reform, urge peaceful change”  |
+| Tone_Negative       | Article uses alarmist or fear-inducing language                        | “Mob storms the Capitol in unprecedented violence”  |
+| Dom_vs_intl         | Classifies the article as Domestic or International                    | Domestic (e.g. NYT), International (e.g. BBC)       |
+| Political_Affiliation | Implies alignment with a political ideology or party                | “Left-wing activists confront right-wing group”     |
+
+> _Note: Codebook is subject to refinement following further testing._
+
+# Analysis Work 
+
+
+
+## Load Libraries
+
+```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 library(tidytext)
 library(lubridate)
@@ -35,13 +111,24 @@ library(stringr)
 library(ggplot2)
 library(dplyr)
 library(googledrive)
-library
+library(quanteda)
+library(tm)
+library(topicmodels)
+library(lda)
+library(ldatuning)
+library(DT)
+library(knitr)
+library(kableExtra)
+library(reshape2)
+library(wordcloud)
+library(pals)
+library(SnowballC)
+library(flextable)
+library(rio)
 
 ```
 
-
 ##loading Trump DEI data 
-
 
 ```{r}
 googledrive::drive_deauth()
@@ -56,3 +143,569 @@ drive_download(as_id("1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"), path = temp_file)
 dei_articles <- rio::import(temp_file, format = "csv") # If you know the file format, specify it explicitly..."csv" or "xlsx", "txt", etc.
 
 ```
+
+##Number of columns and rows 
+
+```{r}
+
+print(paste0("This dataset has ", nrow(dei_articles), " rows and ", ncol(dei_articles), " columns."))
+
+```
+
+##Descriptive Statistics 
+
+```{r}
+summary(dei_articles)
+```
+
+ #frequency count for each category and their location 
+
+```{r}
+table(dei_articles$dom_vs_intl)
+table(dei_articles$publication_location)
+
+```
+
+
+###Adding categorizing columns such as dom_vs_intl to indicate whether the article is from an international or domestic outlet 
+```{r}
+dei_articles <- dei_articles |> 
+ #mutating a new column to indicate whether the pub location is international or domestic 
+
+mutate(dom_vs_intl = case_when (
+  publication_location == "International" ~ "INTL",
+  publication_location != "International" ~ "US",
+  TRUE ~ NA
+)) 
+
+
+```
+
+
+### GGplot of the articles over time: From the 01/20-02-20-- one month of Trump's 2025 presidency 
+
+```{r}
+df_time <- dei_articles |> 
+  count(published_date, dom_vs_intl)
+
+ggplot(df_time, aes(x = published_date, y = n, color = dom_vs_intl)) +
+  geom_line(size = 1) +
+  labs(
+    title = "Domestic vs International Coverage Over Time",
+    x = "Publication Date",
+    y = "Number of Articles",
+    color = "Outlet Type"
+  ) +
+  theme_minimal()
+
+
+```
+
+### Graphic of Domestic versue Internataional outle distribution 
+```{r}
+ggplot(dei_articles, aes(x = dom_vs_intl)) +
+  geom_bar(fill = "violet") +
+  labs(
+    title = "Distribution of Domestic vs International Coverage",
+    x = "Outlet Type",
+    y = "Number of Articles"
+  ) +
+  theme_minimal()
+
+```
+##Tokenizing Data 
+
+```{r}
+stories <- str_replace_all(dei_articles$hlead, "- ", "")
+stories_df <- tibble(stories,)
+
+# unnest includes lower, punct removal
+
+stories_tokenized <- stories_df %>%
+  unnest_tokens(word,stories)
+
+stories_tokenized
+
+```
+
+####Remove stopwords and count the words
+```{r}
+
+stories_tokenized <- stories_tokenized |>
+  anti_join(stop_words, by = c("word" = "word")) 
+
+```
+
+### Word Count
+
+```{r}
+story_word_ct <- stories_tokenized %>%
+  count(word, sort=TRUE)
+```
+
+### Create Bigrams
+
+```{r}
+bigrams <- stories_df %>%
+  unnest_tokens(bigram, stories, token="ngrams", n=2)
+
+bigrams
+
+#Filter out stop words.
+
+bigrams1 <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ")
+
+filtered_bigrams <- bigrams1 %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) |> 
+    filter(!is.na(word1)) |> 
+     filter(!is.na(word2))
+
+counted_bigrams <- filtered_bigrams %>%
+  count(word1, word2, sort = TRUE)
+
+
+
+
+```
+
+##Top twenty bigrams 
+```{r}
+
+top_bigrams <- counted_bigrams |>
+  arrange(desc(n), word1, word2) |>
+  head(20)
+
+
+```
+
+###Graphic of the Top 20 Most Frequent Biagrams 
+```{r}
+# Combine the bigram into one string for labeling
+top_bigrams <- counted_bigrams |>
+  arrange(desc(n), word1, word2) |>
+  head(20) |>
+  mutate(bigram = paste(word1, word2))
+
+# Plot
+ggplot(top_bigrams, aes(x = reorder(bigram, n), y = n)) +
+  geom_col(fill = "lavender") +
+  coord_flip() +
+  labs(
+    title = "Top 20 Most Frequent Bigrams",
+    x = "Bigram",
+    y = "Frequency"
+  ) +
+  theme_minimal()
+```
+
+##Sentiment Analysis 
+```{r}
+nrc_sentiments <- get_sentiments("nrc")
+afinn_sentiments <- get_sentiments("afinn")
+
+```
+
+###
+```{r}
+ 
+sentiments_all <-stories_tokenized |> 
+  inner_join(nrc_sentiments) 
+```
+##Overall Sentiment Count 
+```{r}
+overall_sentiment_count <- sentiments_all |> 
+  count(sentiment) |> 
+  arrange(desc(n))
+
+
+```
+
+###Graphic of Sentiment Analysis over time 
+
+```{r}
+ggplot(overall_sentiment_count, aes(x = reorder(sentiment, n), y = n, fill = sentiment)) +
+  geom_bar(stat = "identity") + 
+  coord_flip() +  
+  labs(title = "Sentiment Distribution in Trump DEI Articles", x = "Sentiment", y = "Count") +
+  theme_minimal() 
+
+```
+
+###Topic Modeling
+
+```{r}
+textdata <- dei_articles |>  
+  
+  select(filename, hlead, published_date, publication_location, dom_vs_intl) |> 
+  as.data.frame() |> 
+  rename(doc_id = filename, text= hlead)
+
+# load stopwords
+english_stopwords <- readLines("https://slcladal.github.io/resources/stopwords_en.txt", encoding = "UTF-8")
+# create corpus object
+corpus <- Corpus(DataframeSource(textdata))
+# Preprocessing chain
+processedCorpus <- tm_map(corpus, content_transformer(tolower))
+processedCorpus <- tm_map(processedCorpus, removeWords, english_stopwords)
+processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = TRUE)
+processedCorpus <- tm_map(processedCorpus, removeNumbers)
+processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+```
+
+```{r tm3a}
+#DTM: rows correspond to the documents in the corpus. Columns correspond to the terms in the documents. Cells correspond to the weights of the terms. (Girder)
+# compute document term matrix with terms >= minimumFrequency
+minimumFrequency <- 5
+DTM <- DocumentTermMatrix(processedCorpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+# have a look at the number of documents and terms in the matrix
+dim(DTM)
+# due to vocabulary pruning, we have empty rows in our DTM
+# LDA does not like this. So we remove those docs from the
+# DTM and the metadata
+sel_idx <- slam::row_sums(DTM) > 0
+DTM <- DTM[sel_idx, ]
+textdata <- textdata[sel_idx, ]
+#5 term minimum[1] 1387 3019
+#5 term minimum[1] 308597 10339
+
+```
+
+## Topic proportions over time {.unnumbered}
+
+```{r}
+# dont need this since i am not using dates 
+textdata$day <- weekdays(as.Date(textdata$published_date, format="%Y-%m-%d"))
+```
+
+##Articles per international vs domestic newspapers 
+
+```{r}
+## Articles per international vs domestic newspapers 
+
+articles_per_dom_intl_category <- textdata |> 
+  distinct(doc_id, .keep_all=TRUE) |>  
+  count(dom_vs_intl) |> 
+  mutate(pct_total = (n / sum(n))) |> 
+  mutate(pct_total = formattable::percent(pct_total)) |> 
+  arrange(desc(dom_vs_intl))
+
+articles_per_dom_intl_category %>%
+  kbl(caption = "Trump DEI Articles Per Outlet Type", font_size = 30) %>%
+  kable_classic(full_width = F, html_font = "Cambria") %>% 
+  column_spec(1, bold = T, border_right = T) %>%
+  column_spec(2, width = "5em") %>% 
+  column_spec(3, width = "5em", background = "yellow")
+
+sum(articles_per_dom_intl_category$n)
+```
+
+
+## So I have 1916 total articles. In my dataframe US articles make up 40.1 percent and international artidcles make up 59.1 percent. 
+```{r tm12}
+# number of topics
+# K <- 20
+K <- 6
+# set random number generator seed
+set.seed(9161)
+#Latent Dirichlet Allocation, LDA
+topicModel2 <- LDA(DTM, K, method="Gibbs", control=list(iter = 500, verbose = 25, alpha = 0.2))
+tmResult <- posterior(topicModel2)
+theta <- tmResult$topics
+beta <- tmResult$terms
+topicNames <- apply(terms(topicModel2, 10), 2, paste, collapse = " ")  # reset topicnames
+```
+
+### Mean topic proportions per domestic and international category 
+
+```{r}
+# Step 1: Check dimensions
+# Ensure doc_id and rownames are character
+rownames(theta) <- as.character(rownames(theta))
+textdata$doc_id <- as.character(textdata$doc_id)
+
+# Get common document IDs
+common_ids <- intersect(rownames(theta), textdata$doc_id)
+
+# Filter both datasets to only include common documents
+theta_aligned <- theta[rownames(theta) %in% common_ids, ]
+textdata_filtered <- textdata[textdata$doc_id %in% common_ids, ]
+
+# Reorder textdata_filtered to match theta_aligned
+textdata_filtered <- textdata_filtered[match(rownames(theta_aligned), textdata_filtered$doc_id), ]
+
+# Check that everything lines up
+if (!all(rownames(theta_aligned) == textdata_filtered$doc_id)) {
+  stop("The document IDs still do not match. Please check the data alignment.")
+}
+
+# Print dimensions
+n_theta <- nrow(theta_aligned)
+n_textdata_filtered <- nrow(textdata_filtered)
+cat("Number of aligned theta rows: ", n_theta, "\n")
+cat("Number of aligned textdata rows: ", n_textdata_filtered, "\n")
+
+# Combine data
+topic_data <- data.frame(theta_aligned, dom_vs_intl = textdata_filtered$dom_vs_intl)
+
+# Aggregate topic proportions by dom_vs_intl
+topic_proportion_per_category <- aggregate(. ~ dom_vs_intl, data = topic_data, FUN = mean)
+
+# Rename topic columns (assuming K and topicNames are defined)
+colnames(topic_proportion_per_category)[2:(K+1)] <- topicNames
+
+# Reshape for visualization
+vizDataFrame <- melt(topic_proportion_per_category, id.vars = "dom_vs_intl")
+
+# Optionally filter out a decade if needed
+# vizDataFrame <- subset(vizDataFrame, decade != 1960)
+```
+
+
+##Examine topic names
+
+```{r}
+#enframe(): Converts a named list into a dataframe.
+topics <- enframe(topicNames, name = "number", value = "text") %>% 
+  unnest(cols = c(text)) 
+  
+topics
+```
+
+### Review the topics and determine a 1-2 word label after reading the source documents.
+
+```{r}
+
+#Topic 1	counti citi night mile jail day town morn march juli
+
+theta2 <- as.data.frame(theta)
+
+topic1 <- theta2 %>% 
+  rownames_to_column(var = "file") |> # putting the rownames into a new column called file
+  mutate(file = str_remove(file, "^X"),  # Remove leading 'X'
+         line = str_extract(file, "(?<=\\.txt)\\.\\d+")) |>   # Extract number after .txt
+  mutate(file = str_remove(file, "\\.\\d+$")) |> 
+  rename(topic1 = '1') |> # looking at first topic: ounti citi night mile jail day town morn march juli
+  top_n(20, topic1) |> 
+  arrange(desc(topic1)) |>  
+  select(file, line, topic1) 
+
+
+```
+
+```{r}
+
+#add categories
+vizDataFrame <- vizDataFrame |>
+  mutate(category = case_when(
+    str_detect(str_squish(variable), "trump order execut feder presid divers donald dei govern inclus") ~ "trump_executive_orders",
+    str_detect(variable, "divers dei inclus equiti compani polici target initi back program") ~ "corporate_dei",
+    str_detect(variable, "feder fund trump educ univers state program order student grant") ~ "federal_education_policy",
+    str_detect(variable, "trump crash plane washington presid divers air blame helicopt donald") ~ "airplane_helicopter_crash",
+    str_detect(variable, "trump presid donald musk govern world histori month day american") ~ "trump_elon_musk",
+    str_detect(str_squish(variable), "• news art sport search opinion content staff submit washington") ~ "media_website_info",
+    TRUE ~ "other"
+  ))
+  
+  
+
+
+```
+
+## Fact Check and Validate Topics
+
+--Topic 1: 	univers word fund student length  feder educ state program school
+--Topic 2: order trump feder dei execut divers govern program inclus presid
+--Topic 3: trump presid state musk nation donald govern countri administr hous
+--Topic 4: right reserv copyright februari januari crash air bodi thursday control
+--Topic 5: compani divers end dei document inclus target busi polici year
+--Topic 6: news bodi load-date februari nyu load-date januari search sport student edit open
+
+### For Topic 2 dei_topics in administration topic
+
+```{r}
+# Assuming `theta` is a dataframe related to DEI topics
+theta2 <- as.data.frame(theta)
+
+# Extract and rename relevant column for DEI topic (e.g., for "female" or another DEI-related category)
+dei_topic <- theta2 %>%
+  rename(dei_topic = '2') %>%   # Replace '4' with the column that represents the DEI topic
+  top_n(20, dei_topic) %>%
+  arrange(desc(dei_topic)) %>% 
+  select(dei_topic)
+
+# Apply rownames_to_column to include story IDs
+dei_topic <- tibble::rownames_to_column(dei_topic, "story_id")
+
+# Clean up story_id if necessary (e.g., removing "X" or other unwanted characters)
+dei_topic$story_id <- gsub("X", "", dei_topic$story_id)
+
+# Check the top 20 story IDs
+head(dei_topic$story_id, 20)
+# Now it’s validated for DEI topics
+
+
+
+```
+
+### for university 
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+university <- theta2 %>% 
+  #renaming for a general topic
+  rename(university = '1') %>% 
+  top_n(20, university ) %>%
+  arrange(desc(university )) %>% 
+  select(university)
+
+# Apply rownames_to_column
+university  <- tibble::rownames_to_column(university , "story_id") 
+
+university $story_id <- gsub("X", "", university $story_id)
+
+head(university$story_id, 20)
+#Checks out
+
+
+```
+
+### for trump/elon musck 
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+trump_elon <- theta2 %>% 
+  #renaming for a general topic
+  rename(trump_elon = '3') %>% 
+  top_n(20,trump_elon ) %>%
+  arrange(desc(trump_elon )) %>% 
+  select(trump_elon)
+
+# Apply rownames_to_column
+trump_elon <- tibble::rownames_to_column(trump_elon , "story_id") 
+
+trump_elon $story_id <- gsub("X", "", trump_elon $story_id)
+
+head(trump_elon$story_id, 20)
+#Checks out 
+#main theme is negros are lynching victims
+
+```
+
+#### topic 5 corporate_dei_policies
+
+```{r}
+theta2 <- as.data.frame(theta)
+
+# Rename and extract top 20
+corporate_dei_policies <- theta2 %>%
+  rename(corporate_dei_policies = '5') %>%
+  top_n(20, corporate_dei_policies) %>%
+  arrange(desc(corporate_dei_policies))
+
+# Move rownames to a column BEFORE selecting
+corporate_dei_policies <- tibble::rownames_to_column(corporate_dei_policies, "story_id")
+
+# Clean up the story_id column
+corporate_dei_policies$story_id <- gsub("X", "", corporate_dei_policies$story_id)
+
+# Optionally, select only the columns you want now
+corporate_dei_policies <- corporate_dei_policies %>%
+  select(story_id, corporate_dei_policies)
+#Checks out 
+
+
+```
+
+##Topic Modeling Visualization 
+```{r}
+ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) + 
+  geom_bar(stat = "identity") +
+  ylab("Proportion") + 
+  scale_fill_manual(
+    values = c("#9933FF", "#33FFFF", "red", "yellow", "darkblue", "lavender" ),
+    name = "Dei Topics"
+  ) + 
+  theme(
+    axis.text.x = element_text(angle = 90, hjust = 1)
+  ) +
+  labs(
+    title = "Common Narratives in Trump DEI Coverage",
+    subtitle = "Six probable topics in domestic and international media coverage sample. n = 1,916",
+    caption = "Aggregate mean topic proportions per day from 01/20–02/20.\nGraphic by Tiasia Saunders (redacted - peer review) & (redacted - peer review), 10-19-2024"
+  )
+
+```
+
+#My Findings: (Aware that this is too long-- plan to cut down)
+
+###Key Findings from Overall Analysis: 
+-there are more international articles than there are domestic articles, which is interesting since Trump dismantling of DEI in the federal landscape primarly and for the most part impacts Americans. With this, you would think that domestic outlets would be covering the topic rather than their international counterparts
+-the top 20 bigrams included: diversity equity, white house,  dobnald trump, president dei which is not surprising, other ones included, history month, civil rights.  
+-sentiment analysis: I was surprised that fear made up 5038 in the sentiment count, also anger made up 3434, sadness made up 2908
+-topic modeling: Overall, the most interesting topics for me were the **trump_exective_orders, federal_education_policy, trump_elon_musk, airline_helicopter_crash (because Trump attributed it to DEI hires failure).**
+
+
+### Comparing International vs. Domestic Newspaper Coverage of DEI Issues under Trump: A Content Analysis
+
+In this project, I conducted a content analysis of 1,916 news articles that mentioned DEI-related (Diversity, Equity, and Inclusion) issues during the post-affirmative action landscape, with a special focus on former President Donald Trump’s policies. My goal was to explore how coverage of these issues varied between **domestic** (U.S.-based) and **international** media outlets. Through a combination of topic modeling, bigram analysis, and sentiment analysis, I aimed to uncover the thematic, emotional, and topical patterns shaping news discourse on DEI during this period.
+
+#### More International Coverage Than Domestic
+
+One of the most surprising findings was that **international outlets published more articles** related to DEI and Trump than domestic newspapers. This is noteworthy given that Trump’s actions—such as the executive orders targeting federal diversity trainings and the broader dismantling of DEI programs—have **direct implications for American institutions and citizens.** Yet, international publications devoted more attention to these issues than U.S.-based media did. This raises important questions: Are domestic outlets deprioritizing DEI coverage due to political fatigue, commercial pressures, or editorial bias? Or are international outlets more attuned to global trends in democratic backsliding and human rights, recognizing Trump’s DEI rollback as part of a broader ideological shift?
+
+This gap may suggest that American media has normalized attacks on DEI in a way that international observers have not. Alternatively, it could reflect an international interest in the U.S. as a bellwether for racial and social justice policy—particularly in the wake of the 2020 George Floyd protests and their global ripple effects.
+
+#### Top Bigrams Reveal Central Framing
+
+My analysis of the top 20 bigrams (two-word combinations) in the dataset provided further insight into how DEI-related discourse is framed. Among the most common bigrams were:
+
+* **“Diversity equity”**
+* **“White house”**
+* **“Donald Trump”**
+* **“President DEI”**
+* **“History month”**
+* **“Civil rights”**
+
+These pairings confirm that discussions of DEI were closely tied to federal leadership and political developments. Terms like “White House” and “Donald Trump” suggest a central focus on presidential authority, while “diversity equity” and “civil rights” speak to the broader social justice context. The inclusion of “history month” likely reflects how DEI is seasonally spotlighted during observances like Black History Month—further evidence that coverage may be reactive or symbolic rather than ongoing or systemic.
+
+Notably absent from the bigrams were terms that might reflect more localized or grassroots perspectives, such as “community programs” or “student protests,” which suggests that media discourse may be more elite-driven and top-down than participatory.
+
+#### Sentiment Analysis: Fear, Anger, and Sadness Dominate
+
+Emotionally, the media coverage of DEI under Trump was far from neutral. A sentiment analysis of the article corpus revealed high counts of negative affect:
+
+* **Fear** appeared **5,038** times
+* **Anger** appeared **3,434** times
+* **Sadness** appeared **2,908** times
+
+These results were surprising and suggest that DEI coverage during this time was emotionally charged. Fear may stem from concerns about the rollback of protections or the uncertainty of federal policy. Anger likely reflects opposition to perceived injustices or backlash against diversity efforts. Sadness could correspond with a mourning of social progress or the erasure of inclusive policies. Taken together, these emotions paint a picture of a politically and emotionally volatile media environment around DEI.
+
+This emotional charge could either amplify or dampen public engagement, depending on how readers interpret and internalize these emotions. Media coverage filled with fear and anger can spur action—but it can also result in emotional burnout and disengagement.
+
+#### Topic Modeling: Identifying Thematic Clusters
+
+To better understand the underlying themes across the dataset, I applied topic modeling using keyword-based string detection. From this, I coded articles into six main topic categories:
+
+1. **Trump Executive Orders** – Articles discussing specific policy rollbacks and federal mandates that banned or restricted DEI training and language in government agencies.
+2. **Corporate DEI** – Coverage focused on companies’ diversity initiatives, particularly in response to external political pressure or internal culture debates.
+3. **Federal Education Policy** – Articles dealing with the intersection of DEI and higher education, including student grants, Title IX issues, and university policy changes.
+4. **Airplane/Helicopter Crash** – A non-DEI-related outlier category that likely emerged due to Trump being mentioned in unrelated breaking news contexts.
+5. **Trump and Elon Musk** – Articles speculating on shared ideologies or public commentary by the two figures, often linked to anti-DEI sentiment.
+6. **Media Website Info** – Flagged as **not useful**, this group contained metadata and generic web content rather than editorial substance.
+
+Most of the content was centered in the **Trump Executive Orders** and **Corporate DEI** categories, underscoring the media’s tendency to focus on high-profile political acts and large institutions rather than individual or community-level impacts. Surprisingly, while education was a battleground for DEI policy, it was not as dominant in the dataset—possibly due to limited access to localized education reporting.
+
+#### Domestic vs. International Framing
+
+When comparing topic categories across domestic and international coverage, early results suggest **international articles tended to frame DEI as part of a broader human rights narrative**, linking U.S. policy to global democratic trends or regressions. Domestic outlets, in contrast, were more likely to treat DEI as a political football, emphasizing partisan divides or executive overreach.
+
+This framing distinction has important implications. It suggests that **international media may provide a more structural or global view**, whereas domestic outlets focus more narrowly on short-term political developments. This difference could influence how readers in each region understand the stakes and significance of DEI issues.
+
+---
+
+Would you like a version of this formatted for a report or presentation?
