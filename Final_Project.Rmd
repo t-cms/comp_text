@@ -402,7 +402,7 @@ sum(articles_per_dom_intl_category$n)
 ```
 
 
-## So I have 1916 total articles. In my dataframe US articles make up 40.1 percent and international artidcles make up 59.1 percent. 
+### So I have 1916 total articles. In my dataframe US articles make up 40.1 percent and international artidcles make up 59.1 percent. 
 ```{r tm12}
 # number of topics
 # K <- 20
