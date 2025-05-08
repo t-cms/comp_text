@@ -704,6 +704,6 @@ Most of the content was centered in the **Trump Executive Orders** and **Corpora
 
 When comparing topic categories across domestic and international coverage, early results suggest **international articles tended to frame DEI as part of a broader human rights narrative**, linking U.S. policy to global democratic trends or regressions. Domestic outlets, in contrast, were more likely to treat DEI as a political football, emphasizing partisan divides or executive overreach.
 
-This framing distinction has important implications. It suggests that **international media may provide a more structural or global view**, whereas domestic outlets focus more narrowly on short-term political developments. This difference could influence how readers in each region understand the stakes and significance of DEI issues.
+This framing distinction has important implications. It suggests that **international media may provide a more structural or global view**, whereas domestic outlets focus more narrowly on short-term political developments. This difference could influence how readers in each region understand the stakes and significance of DEI issues. 
 
 
