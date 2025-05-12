@@ -158,7 +158,7 @@ print(paste0("This dataset has ", nrow(dei_articles), " rows and ", ncol(dei_art
 summary(dei_articles)
 ```
 
- ## Frequency count for each category and their location 
+## Frequency count for each category and their location 
 
 ```{r}
 table(dei_articles$dom_vs_intl)
