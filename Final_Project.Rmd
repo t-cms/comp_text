@@ -328,32 +328,8 @@ ggplot(top_bigrams, aes(x = reorder(bigram, n), y = n)) +
   theme_minimal()
 ```
 
-### Creating International  
 
-```{r}
-intl_dei_articles <- dei_articles  |> 
-  filter(dom_vs_intl == "INTL")
-
-
-stories <- str_replace_all(intl_dei_articles$hlead, "- ", "")
-intl_stories_df <- tibble(stories)
-
-# unnest includes lower, punct removal
-
-intl_stories_tokenized <- intl_stories_df %>%
-  unnest_tokens(word,stories)
-
-intl_stories_tokenized
-
-intl_stories_tokenized <- intl_stories_tokenized |>
-  anti_join(stop_words, by = c("word" = "word")) 
-
-story_word_ct <- intl_stories_tokenized %>%
-  count(word, sort=TRUE)
-
-```
-
-## Creating domestic articles tokenization
+## Creating Domestic articles tokenization
 ```{r}
 dom_dei_articles <- dei_articles  |> 
   filter(dom_vs_intl == "US")
@@ -499,6 +475,7 @@ print(overall_postive_count)
 
 ```
 
+### Leading Negative Sentiment 
 ```{r}
 overall_negative_count <- sentiments_all |> 
    filter(sentiment == "negative") |> 
@@ -555,7 +532,7 @@ sentiments_intl_all %>%
   facet_wrap(~sentiment, scales = "free_y") +  
   scale_y_reordered() + 
   labs(
-    x = "Sentiment Analysis Breakdown For Domestic Articles",
+    x = "Sentiment Analysis Breakdown For International Articles",
     y = NULL,
     caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) 
@@ -633,7 +610,7 @@ sum(articles_per_dom_intl_category$n)
 ```
 
 
-### So I have 1916 total articles. In my dataframe US articles make up 40.1 percent and international artidcles make up 59.1 percent. 
+##### So I have 1916 total articles. In my dataframe US articles make up 40.1 percent and international artidcles make up 59.1 percent. 
 ```{r tm12}
 # number of topics
 # K <- 20
@@ -694,7 +671,7 @@ vizDataFrame <- melt(topic_proportion_per_category, id.vars = "dom_vs_intl")
 ```
 
 
-## Examine topic names
+#### Examine topic names
 
 ```{r}
 #enframe(): Converts a named list into a dataframe.
@@ -752,7 +729,7 @@ vizDataFrame <- vizDataFrame |>
 --Topic 5: compani divers end dei document inclus target busi polici year
 --Topic 6: news bodi load-date februari nyu load-date januari search sport student edit open
 
-### For Topic 2 dei_topics in administration topic
+#### For Topic 2 dei_topics in administration topic
 
 ```{r}
 # Assuming `theta` is a dataframe related to DEI topics
@@ -779,7 +756,7 @@ head(dei_topic$story_id, 20)
 
 ```
 
-### for university 
+#### For dei_topics in in topic 1 university 
 
 ```{r}
 theta2 <- as.data.frame(theta)
@@ -802,7 +779,7 @@ head(university$story_id, 20)
 
 ```
 
-### for Trump/Elon musk 
+#### For dei_topics in topic 3 Trump/Elon musk 
 
 ```{r}
 theta2 <- as.data.frame(theta)
@@ -825,7 +802,7 @@ head(trump_elon$story_id, 20)
 
 ```
 
-#### topic 5 corporate_dei_policies
+#### For dei_topics in topic 5 corporate_dei_policies
 
 ```{r}
 theta2 <- as.data.frame(theta)
