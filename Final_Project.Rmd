@@ -181,6 +181,29 @@ mutate(dom_vs_intl = case_when (
 
 ```
 
+## Top 5 Domestic Articles 
+```{r}
+top_five_domestic <- dei_articles |>
+  filter(dom_vs_intl == "US") |>
+  count(publication_4, sort = TRUE) |>
+  slice_max(n, n = 5) 
+
+print(top_five_domestic)
+
+
+```
+
+## Top 5 International Articles 
+```{r}
+top_five_intl <- dei_articles |>
+  filter(dom_vs_intl == "INTL") |>
+  count(publication_4, sort = TRUE) |>
+  slice_max(n, n = 5) 
+
+print(top_five_intl)
+
+```
+
 
 ### GGplot of the articles over time: From the 01/20-02-20-- one month of Trump's 2025 presidency 
 
@@ -194,7 +217,8 @@ ggplot(df_time, aes(x = published_date, y = n, color = dom_vs_intl)) +
     title = "Domestic vs International Coverage Over Time",
     x = "Publication Date",
     y = "Number of Articles",
-    color = "Outlet Type"
+    color = "Outlet Type", 
+    caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) +
   theme_minimal()
 
@@ -208,8 +232,10 @@ ggplot(dei_articles, aes(x = dom_vs_intl)) +
   labs(
     title = "Distribution of Domestic vs International Coverage",
     x = "Outlet Type",
-    y = "Number of Articles"
+    y = "Number of Articles", 
+      caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) +
+  
   theme_minimal()
 
 ```
@@ -218,7 +244,7 @@ ggplot(dei_articles, aes(x = dom_vs_intl)) +
 
 ```{r}
 stories <- str_replace_all(dei_articles$hlead, "- ", "")
-stories_df <- tibble(stories,)
+stories_df <- tibble(stories)
 
 # unnest includes lower, punct removal
 
@@ -296,9 +322,84 @@ ggplot(top_bigrams, aes(x = reorder(bigram, n), y = n)) +
   labs(
     title = "Top 20 Most Frequent Bigrams",
     x = "Bigram",
-    y = "Frequency"
+    y = "Frequency", 
+      caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) +
   theme_minimal()
+```
+
+### Creating International  
+
+```{r}
+intl_dei_articles <- dei_articles  |> 
+  filter(dom_vs_intl == "INTL")
+
+
+stories <- str_replace_all(intl_dei_articles$hlead, "- ", "")
+intl_stories_df <- tibble(stories)
+
+# unnest includes lower, punct removal
+
+intl_stories_tokenized <- intl_stories_df %>%
+  unnest_tokens(word,stories)
+
+intl_stories_tokenized
+
+intl_stories_tokenized <- intl_stories_tokenized |>
+  anti_join(stop_words, by = c("word" = "word")) 
+
+story_word_ct <- intl_stories_tokenized %>%
+  count(word, sort=TRUE)
+
+```
+
+## Creating domestic articles tokenization
+```{r}
+dom_dei_articles <- dei_articles  |> 
+  filter(dom_vs_intl == "US")
+
+
+stories <- str_replace_all(dom_dei_articles$hlead, "- ", "")
+dom_stories_df <- tibble(stories)
+
+# unnest includes lower, punct removal
+
+dom_stories_tokenized <- dom_stories_df %>%
+  unnest_tokens(word,stories)
+
+dom_stories_tokenized
+
+dom_stories_tokenized <-dom_stories_tokenized |>
+  anti_join(stop_words, by = c("word" = "word")) 
+
+story_word_ct <- dom_stories_tokenized %>%
+  count(word, sort=TRUE)
+
+```
+
+### Creating International articles tokenization 
+
+```{r}
+intl_dei_articles <- dei_articles  |> 
+  filter(dom_vs_intl == "INTL")
+
+
+stories <- str_replace_all(intl_dei_articles$hlead, "- ", "")
+intl_stories_df <- tibble(stories)
+
+# unnest includes lower, punct removal
+
+intl_stories_tokenized <- intl_stories_df %>%
+  unnest_tokens(word,stories)
+
+intl_stories_tokenized
+
+intl_stories_tokenized <- intl_stories_tokenized |>
+  anti_join(stop_words, by = c("word" = "word")) 
+
+story_word_ct <- intl_stories_tokenized %>%
+  count(word, sort=TRUE)
+
 ```
 
 ## Sentiment Analysis 
@@ -308,12 +409,61 @@ afinn_sentiments <- get_sentiments("afinn")
 
 ```
 
+
+#### Joining Domestic and Sentiment 
+
+```{r}
+sentiments_dom_all <- dom_stories_tokenized |>
+  inner_join(nrc_sentiments) 
+dom_overall_sentiment_count <- sentiments_dom_all |> 
+  count(sentiment) |> 
+  arrange(desc(n))
+
+```
+
+#### Joining International and Sentiment 
+```{r}
+sentiments_intl_all <- intl_stories_tokenized |>
+  inner_join(nrc_sentiments) 
+intl_overall_sentiment_count <- sentiments_intl_all |> 
+  count(sentiment) |> 
+  arrange(desc(n))
+
+
+```
+
+```{r}
+# Add source labels
+dom_overall_sentiment_count <- dom_overall_sentiment_count |> 
+  mutate(source = "US")
+
+intl_overall_sentiment_count <- intl_overall_sentiment_count |> 
+  mutate(source = "INTL")
+
+# Combine both dataframes
+combined_sentiment <- bind_rows(dom_overall_sentiment_count, intl_overall_sentiment_count)
+
+# Plot
+ggplot(combined_sentiment, aes(x = sentiment, y = n, fill = source)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(
+    title = "Sentiment Count: Domestic vs International Trump DEI Articles",
+    x = "Sentiment",
+    y = "Count",
+    fill = "Article Source"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
 ```{r}
  
 sentiments_all <-stories_tokenized |> 
   inner_join(nrc_sentiments) 
 ```
-## Overall Sentiment Count 
+
+### Overall Sentiment Count 
 ```{r}
 overall_sentiment_count <- sentiments_all |> 
   count(sentiment) |> 
@@ -322,18 +472,98 @@ overall_sentiment_count <- sentiments_all |>
 
 ```
 
-### Graphic of Sentiment Analysis over time 
+
+## Graphic of Sentiment Analysis over time 
 
 ```{r}
 ggplot(overall_sentiment_count, aes(x = reorder(sentiment, n), y = n, fill = sentiment)) +
   geom_bar(stat = "identity") + 
   coord_flip() +  
-  labs(title = "Sentiment Distribution in Trump DEI Articles", x = "Sentiment", y = "Count") +
-  theme_minimal() 
+  labs(
+    title = "Sentiment Distribution in Trump DEI Articles",
+    x = "Sentiment",
+    y = "Count",
+    caption = "01/20–02/20.\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
+  ) +
+  theme_minimal()
+```
+
+### Leading postive sentiment 
+```{r}
+overall_postive_count <- sentiments_all |> 
+   filter(sentiment == "positive") |> 
+  count(sentiment,word) |> 
+  arrange(desc(n))
+
+print(overall_postive_count)
 
 ```
 
-### Topic Modeling
+```{r}
+overall_negative_count <- sentiments_all |> 
+   filter(sentiment == "negative") |> 
+  count(sentiment,word) |> 
+  arrange(desc(n))
+
+print(overall_negative_count)
+
+```
+
+
+### Getting the top twenty words for each sentiment
+```{r}
+# Get the top 20 words per sentiment
+top_words_per_sentiment <- sentiments_all |> 
+  group_by(sentiment, word) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  arrange(sentiment, desc(count)) |> 
+  group_by(sentiment) |> 
+  slice_max(order_by = count, n = 20)
+```
+
+## Graphic of Sentiment Breakdown for Domestic Articles 
+```{r}
+sentiments_dom_all %>%
+  count(sentiment, word) %>%
+  group_by(sentiment) %>%
+  slice_max(n, n = 10) %>%  
+  ungroup() %>%
+  mutate(word = reorder_within(word, n, sentiment)) %>%  
+  ggplot(aes(n, word, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sentiment, scales = "free_y") +  
+  scale_y_reordered() + 
+  labs(
+    x = "Sentiment Analysis Breakdown For Domestic Articles",
+    y = NULL,
+    caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
+  ) 
+
+
+```
+
+## Graphic of Sentiment Breakdown for International Articles 
+```{r}
+sentiments_intl_all %>%
+  count(sentiment, word) %>%
+  group_by(sentiment) %>%
+  slice_max(n, n = 10) %>%  
+  ungroup() %>%
+  mutate(word = reorder_within(word, n, sentiment)) %>%  
+  ggplot(aes(n, word, fill = sentiment)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~sentiment, scales = "free_y") +  
+  scale_y_reordered() + 
+  labs(
+    x = "Sentiment Analysis Breakdown For Domestic Articles",
+    y = NULL,
+    caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
+  ) 
+
+```
+
+
+## Topic Modeling
 
 ```{r}
 textdata <- dei_articles |>  
@@ -505,7 +735,6 @@ vizDataFrame <- vizDataFrame |>
     str_detect(variable, "feder fund trump educ univers state program order student grant") ~ "federal_education_policy",
     str_detect(variable, "trump crash plane washington presid divers air blame helicopt donald") ~ "airplane_helicopter_crash",
     str_detect(variable, "trump presid donald musk govern world histori month day american") ~ "trump_elon_musk",
-    str_detect(str_squish(variable), "• news art sport search opinion content staff submit washington") ~ "media_website_info",
     TRUE ~ "other"
   ))
   
@@ -573,7 +802,7 @@ head(university$story_id, 20)
 
 ```
 
-### for trump/elon musck 
+### for Trump/Elon musk 
 
 ```{r}
 theta2 <- as.data.frame(theta)
@@ -621,7 +850,7 @@ corporate_dei_policies <- corporate_dei_policies %>%
 
 ```
 
-## Topic Modeling Visualization 
+## Topic Modeling Visualization (make it a split of mini graphics of the topic modeling subject with the words)
 ```{r}
 ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) + 
   geom_bar(stat = "identity") +
@@ -636,16 +865,18 @@ ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) +
   labs(
     title = "Common Narratives in Trump DEI Coverage",
     subtitle = "Six probable topics in domestic and international media coverage sample. n = 1,916",
-    caption = "Aggregate mean topic proportions per day from 01/20–02/20.\nGraphic by Tiasia Saunders (redacted - peer review) & (redacted - peer review), 10-19-2024"
+    caption = "Aggregate mean topic proportions per day from 01/20–02/20.\nGraphic by Tiasia Saunders (redacted - peer review) 05/11/2025"
   )
 
 ```
 
-## My Findings: (Aware that this is too long-- plan to cut down)
+## My Findings: 
 
 ###Key Findings from Overall Analysis: 
--there are more international articles than there are domestic articles, which is interesting since Trump dismantling of DEI in the federal landscape primarly and for the most part impacts Americans. With this, you would think that domestic outlets would be covering the topic rather than their international counterparts
--the top 20 bigrams included: diversity equity, white house,  dobnald trump, president dei which is not surprising, other ones included, history month, civil rights.  
+-there are more international articles than there are domestic articles, which is interesting since Trump dismantling of DEI in the federal landscape and for the most part impacts Americans. With this, you would think that domestic outlets would be covering the topic rather than their international counterparts
+- international articles topics focused more on trump_elon musk and corporate_dei 
+where as domestic articles topics focuse more on federal_education_policy
+-the top 20 bigrams included: diversity equity, white house,  donald trump, president dei which is not surprising, other ones included, history month, civil rights.  
 -sentiment analysis: I was surprised that fear made up 5038 in the sentiment count, also anger made up 3434, sadness made up 2908
 -topic modeling: Overall, the most interesting topics for me were the **trump_exective_orders, federal_education_policy, trump_elon_musk, airline_helicopter_crash (because Trump attributed it to DEI hires failure).**
 
@@ -673,15 +904,27 @@ My analysis of the top 20 bigrams (two-word combinations) in the dataset provide
 
 These pairings confirm that discussions of DEI were closely tied to federal leadership and political developments. Terms like “White House” and “Donald Trump” suggest a central focus on presidential authority, while “diversity equity” and “civil rights” speak to the broader social justice context. The inclusion of “history month” likely reflects how DEI is seasonally spotlighted during observances like Black History Month—further evidence that coverage may be reactive or symbolic rather than ongoing or systemic.
 
-Notably absent from the bigrams were terms that might reflect more localized or grassroots perspectives, such as “community programs” or “student protests,” which suggests that media discourse may be more elite-driven and top-down than participatory.
 
-#### Sentiment Analysis: Fear, Anger, and Sadness Dominate
+
+#### Sentiment Analysis: Fear, Anger, and Sadness 
 
 Emotionally, the media coverage of DEI under Trump was far from neutral. A sentiment analysis of the article corpus revealed high counts of negative affect:
 
+* **Positive** appeared **12,525** times 
 * **Fear** appeared **5,038** times
 * **Anger** appeared **3,434** times
 * **Sadness** appeared **2,908** times
+
+##### Postive Leading Words: 
+
+Overall the top positive words such as president, equity, united, and /university made sense; however as I looked on words like basketball, police, widespread, and choice could be perceived as negative or neutral in some context. 
+### Leading negative sentiment 
+
+##### Negative Leading Words:
+
+As for the negative words, words such as war, ban, force, and collision fit perfectly in my opinion. Despite this, other words such as skip, tax, serve, case, and spoke could have been neautral or negative in some context. 
+
+#### Sentiment Analysis: Domestic versus International 
 
 These results were surprising and suggest that DEI coverage during this time was emotionally charged. Fear may stem from concerns about the rollback of protections or the uncertainty of federal policy. Anger likely reflects opposition to perceived injustices or backlash against diversity efforts. Sadness could correspond with a mourning of social progress or the erasure of inclusive policies. Taken together, these emotions paint a picture of a politically and emotionally volatile media environment around DEI.
 
@@ -696,7 +939,7 @@ To better understand the underlying themes across the dataset, I applied topic m
 3. **Federal Education Policy** – Articles dealing with the intersection of DEI and higher education, including student grants, Title IX issues, and university policy changes.
 4. **Airplane/Helicopter Crash** – A non-DEI-related outlier category that likely emerged due to Trump being mentioned in unrelated breaking news contexts.
 5. **Trump and Elon Musk** – Articles speculating on shared ideologies or public commentary by the two figures, often linked to anti-DEI sentiment.
-6. **Media Website Info** – Flagged as **not useful**, this group contained metadata and generic web content rather than editorial substance.
+6. **Media Website Info** – Flagged as **not useful**, this group contained metadata and generic web content rather than editorial substance. (Ended up filtering this topic out of the topic modeling visualization and findings result). 
 
 Most of the content was centered in the **Trump Executive Orders** and **Corporate DEI** categories, underscoring the media’s tendency to focus on high-profile political acts and large institutions rather than individual or community-level impacts. Surprisingly, while education was a battleground for DEI policy, it was not as dominant in the dataset—possibly due to limited access to localized education reporting.
 
