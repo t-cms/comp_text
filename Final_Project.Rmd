@@ -199,8 +199,8 @@ top_five_intl <- dei_articles |>
   filter(dom_vs_intl == "INTL") |>
   count(publication_4, sort = TRUE) |>
   slice_max(n, n = 5) 
-
 print(top_five_intl)
+
 
 ```
 
@@ -833,7 +833,7 @@ ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) +
   geom_bar(stat = "identity") +
   ylab("Proportion") + 
   scale_fill_manual(
-    values = c("#9933FF", "#33FFFF", "red", "yellow", "darkblue", "lavender" ),
+    values = c("#9933FF", "#33FFFF", "red", "yellow", "darkblue", "brown" ),
     name = "Dei Topics"
   ) + 
   theme(
@@ -842,7 +842,7 @@ ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) +
   labs(
     title = "Common Narratives in Trump DEI Coverage",
     subtitle = "Six probable topics in domestic and international media coverage sample. n = 1,916",
-    caption = "Aggregate mean topic proportions per day from 01/20–02/20.\nGraphic by Tiasia Saunders (redacted - peer review) 05/11/2025"
+    caption = "Aggregate mean topic proportions per day from 01/20–02/20.\nGraphic by Tiasia Saunders  09/13/2025"
   )
 
 ```
