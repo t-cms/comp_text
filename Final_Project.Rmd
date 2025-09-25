@@ -143,6 +143,20 @@ drive_download(as_id("1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"), path = temp_file)
 dei_articles <- rio::import(temp_file, format = "csv") # If you know the file format, specify it explicitly..."csv" or "xlsx", "txt", etc.
 
 ```
+## Publication Count 
+
+```{r}
+#filtered for 10mor more articles, 30 publications and 1479	 articles
+dei_articles |> 
+  count(publication_4) |> 
+  filter( n> 10) %>% 
+  arrange(desc(n)) 
+
+### filter out publication to those who have 10 or more (already did ), mutate new column categorizing the 30 publicaations with centrist, left or right based on the media bias charts resources, add case_when 
+
+
+
+```
 
 ## Number of columns and rows 
 
