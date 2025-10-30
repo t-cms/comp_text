@@ -1,0 +1,96 @@
+
+
+
+
+
+Forbes.com
+February 24, 2025 Monday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 2549 words
+Byline: Megan Poinski, Forbes Staff
+Highlight: Also in the Forbes CEO newsletter: A look at Bic s recent transformation, Apple makes moves in AI, Walmart investors shaken as it readies for slower growth with tariffs.
+Body
+
+
+This is the published version of Forbes  CEO newsletter, which offers the latest news for today's and tomorrow's business leaders and decision makers. Click here to get it delivered to your inbox every week.
+A month into President Donald Trump s second term in office,uncertainty is the overriding theme for many businesses. Major changes to how the U.S. does business with the rest of the world are causing many C-suites to quickly strategize scenarios they might not have expected. But one of the biggest issues has been announcements of tariffs on an unexpected array of countries with often-moved effective dates something that will definitely impact many businesses, but it s unclear how, at what kind of cost, and when.
+In a media briefing last week to discuss the issue, EY Americas Operating Model Effectiveness Leader Al Paul said thatmany call these tariffs an  uncertainty tax. It s going to happen at some cost, and there s no way for companies to avoid its effects. Regardless of how they will be enacted, the impact of tariffs will also ripple across full supply chains. Going through cash to mitigate the initial financial impact and renegotiating existing supplier agreements are obvious impacts. But what about reprogramming ERP systems to reflect the new tariffs? Or tax changes that may be different in the U.S. and other countries? There s always the option of changing manufacturing or supply origin countries or strategies, but what about existing infrastructure? Labor costs? Exit penalties to pay to foreign governments that might depend on you as an employer?
+Trump used tariffs to punish perceived threats and work to reshore production in his first term, butthe impacts weren t as profound as they could have been. Sameer Anand, EY-Parthenon Americas supply chain leader, said that many companies moved production capacity to countries that weren t affected though most of it didn t come to the U.S. And consumer prices did increase, but imports did not decline. Anand broke down what s different now.
+ It s not just tariffs,  Anand said.  On top of it is the geopolitical volatility. On top of it, it is the immigration action. On top of it, it is the energy policy. On top of it, it s the fiscal policy. 
+In this uncertain period, Martin Fiore, EY Americas deputy vice chair of Tax, said thatcompanies should be performing rapid assessmentsto understand the current state of tariffs and areas that might soon be impacted. Quick scenario planning and evaluating the supply chain to mitigate any immediate impacts. Looking at how the entire company s supply chain works is also helpful.
+Lynlee Brown, a partner in global trade for EY, said that as uncertain as the immediate future is,the new tariffs could be seen as an opportunityto rethink how to best do business.
+ Regardless of how long these tariffs stay in effect, you re going to have the nuts and bolts, but you re going to have the brilliance of the ideas to say, I bet we see businesses doing business differently. And this can be that impetus,  Brown said.
+Leadership matters in all kinds of business situations, and Bic CEO Gonzalve Bich spent the last seven years leading a broad turnaround at the iconic company his grandfather started more than 80 years ago. In December, he announced he s stepping down later this year. I talked to him about the business and his career. An excerpt from our conversation is later in this newsletter.
+ARTIFICIAL INTELLIGENCE
+<figure>
+<figcaption>
+Employees work at Apple's R&D facility in Austin, Texas.
+Apple
+</figcaption></figure>
+In the last week,Apple charged forward in the AI space, announcing a$500 billion investmentin infrastructure over the next four years and alower-cost iPhonewith AI capabilities that hits the market on Friday.
+The $500 billion investment, CEO Tim Cook announced this morning in a press release, willbuild a new factory in Houston to manufacture AI serversfor its Apple Intelligence platform. It will also create an academy in Michigan to train manufacturers; add to existing data center capacity in North Carolina, Iowa, Oregon, Arizona and Nevada; and grow R&D to support areas including silicon engineering. Apple estimates these expansions will create 20,000 new jobs. The funding also includes a  multibillion-dollar commitment  toward TSMC s new manufacturing facility in Arizona.
+Apple says its new iPhone 16e will deliverfast performance, long battery life and a chip that works with the company s newly launched Apple Intelligence platform. Pricing will start at $599, $200 less than the current baseline iPhone 16 model. Apple s iPhone sales have fizzled in recent quarters, falling $2 billion short of Wall Street expectations in the most recent quarter. Other areas of the tech giant s business made up for the phone losses, but this new device could boost the segment s sales.
+RETAIL + COMMERCE
+<figure>
+<figcaption>
+Customers shop at a Chicago Walmart.
+Scott Olson/Getty Images
+</figcaption></figure>
+Walmart may be the world s biggest retailer, butit s prepared to take a beating in 2025 due to tariffs. While the retailer reported 4.1% revenue growth in itsmost recent earnings report last week, its expectations for the coming year are net growth of 3% to 4%, below analysts  projections of 4.1%. Walmart CFO John David Rainey told CNBC about two-thirds of Walmart s merchandise is made in the U.S., but the company is not going to be completely immune from tariff impacts, especially if tariffs on imports from Mexico and Canada go into effect,writes .
+ We're wired to try and save people money, so that'll be our ultimate goal,  Walmart CEO Doug McMillon said on the investor call following the earnings report.Investors sold off in reaction to the report, with Walmart s stock falling more than 6.5% immediately after delivering earnings. Shares dropped even further on Friday, losing more than 9.5% of their value last week.
+NOTABLE NEWS
+<figure>
+<figcaption>
+Photo Illustration by Piotr Swat/SOPA Images/LightRocket via Getty Images
+</figcaption></figure>
+AsDEI continues to be seen as an acronym to stay away from, more and more companies are shifting their policies. Last week,PepsiCo saidit will no longer use representation goals in hiring, transition its chief DEI officer position to focus more on employee development and shift its supplier diversity program to focus on all small businesses. Citigroup is also ending its diversity hiring goals, and other financial institutions, including JPMorgan Chase, Morgan Stanley, Wells Fargo and Bank of America, are reviewing and changing their language.
+Institutional Shareholder Services (ISS), one of the two companies that do the vast majority of proxy votes for publicly traded companies, is alsopivoting away from considering race and gender in board of director recommendations,writes . In a statement earlier this month, ISS wrote this is a direct result of government policy and prevailing feelings about DEI. The company did not indicate any changes in how it may vote proxies on DEI-related policies.
+TOMORROW S TRENDS
+Why The Third Generation CEO From The Family That Founded Bic Is Passing On The Pen
+<figure>
+<figcaption>
+Bic CEO Gonzalve Bich.
+Bic
+</figcaption></figure>
+The grandson of Bic founder Marcel Bich and son of former CEO Bruno Bich, 46-year-old Gonzalve Bich is the third generation to serve as CEO of the iconic pen, razor and lighter company. But Gonzalve Bich didn t get the job just because of his family ties. He spent more than 20 years serving in various positions across the company, working his way up to the CEO s office. Once he got there, he led the company through several transitions to modernize its strategy and approach to the market, bringing it to solid growth.
+In December, Gonzalve Bich announced he would step down as CEO by September 30. I spoke to him about his career at the company, its transformation strategy and what s next. This conversation has been edited for length, clarity and continuity. A longer version is .
+Why did you decide to step down now?
+Bich: The natural ending point of theHorizon Planthat I launched is the end of 2025. I always wanted to have two chapters in my career, and this felt like the natural hopping-off point. If I stayed and rewrote the next growth strategy, which would ve built on everything that we ve done organizationally, as well as the acquisitions, that would ve been another six- to-10 year commitment. I felt that at 46, I was in a really good position to transform and do something else. At 56, I might not have quite the same stomach or appetite.
+I feel really good about where the business is. I feel totally confident in its capability to overcome quite significant challenges take the last four or five years [of] the macro geopolitical environment. I look at my management team. It s never been stronger. I ve been here more than 20 years and seen quite a few management teams. This is a team that can take on those challenges.
+All those stars aligned and gave me the comfort to make that decision.
+Tell me about the Horizon Strategic Plan. What were the most important things, and how did you make it work?
+Prior to Horizon, there was a plan calledInvent the Future, which was the reorg of the total business. The business was designed for the lowest operating unit to be optimized, but it had no global strategy. In the 75 years prior to the launch of Horizon, we had actually never had a written strategy at Bic. It had always been: just keep growing demographic growth, unit growth, brand, invest. But it wasn t coordinated. So the first thing I did was transform how we worked.
+Essentially, [Horizon] was a re-imagining of our business. That came through the reframing of each of the businesses.
+Instead of thinking we re a pen manufacturer, we re a human expression company. We do coloring, tattoos, digital notebooks, everything that allows people to express themselves in a myriad of different ways. And that took the total adjustable market from less than $10 billion to north of $50 billion. It gave us not only an aspiration, but I can t tell you how much ambition it drove and engagement within our employee base around the world. Even the guys in the factories were so excited. That opens up all sorts of possibilities of new products we can make, and new channels and new revenue streams.
+Same thing in our lighter business. We rebranded that one  Flame for Life  and said, we re not just here to sell pocket lighters in convenience stores and gas stations where you might buy cigarettes. We re here to address all your usage needs: candles, incense, sports, outdoors, barbecues, cooking, what have you. We ve grown that through new product introduction and a lot of geographic growth.
+Finally, something that was very different from our history. We took our Blade business, where we have all this amazing technology. In many countries that works with the Bic brand, but in some countries, it doesn t. So we launched ourBic Blade Tech businessthat powers new, nascent and ambitious brands who want to make inroads into personal grooming with our technology, their brand, and their capital in markets that we re not in. That s done quite well.
+You have to know that Bic is a company that essentially has been built on acquisition. My grandfather didn t invent the ballpoint pen. We acquired the patent. We didn t invent the disposable lighter. We acquired a small company in Brittany, France, that we transformed. And the Shave business was a company in Greece called Violex that we acquired. This is a company that has always acquired the cornerstone, then built around it and on top of it. I wanted to reconnect with that entrepreneurial acquisitive history.
+We did a number of acquisitions over the period. Webought Djeep, which is a higher-end lighter. It allows us to have higher price points and more decoration. It s a different premium offer to the consumer. Then we boughtInkboxandTattly, our two non-permanent tattoo assets, to start building out our skin creative portfolio.
+And finally at the end of last year, after 18 months of hard work identifying the company that we wanted, webought Tangle Teezer, which gets us into the haircare and grooming segment.
+You are on the committee to help choose your successor. What are you looking for?
+You want someone who understands the long term. The family legacy is definitely there. While we will sit on the board as a family, we want somebody that has that balance of understanding: For the long term you have to have a short term. One of our values is sustainability, and it has many different forms. When we wrote that value into our code, it s about having a sustainable business and not leveraging tomorrow on today.
+Somebody who understands the power of a global brand. Bic is one of the most recognized brands on the planet. You interact with it daily. One of the coolest parts about this job is people have a Bic product in their hand more or less throughout their day. Not a ton of companies and brands can say that. You wake up in the morning, you shave, you re holding your Bic shaver. You go to work, you re holding your Bic pen. You come home, you light a candle, you ve got a Bic. We re really part of your day. You want somebody that understands that.
+Somebody that has the appetite and ambition for growth. We have delivered over performance versus our markets in growth, and we definitely want to continue that. But it s also a stewardship function of the brand, the business and the people. You ve got to understand how to balance the risks short-term, long-term, and make decisions. Hopefully we don t have another Covid for this next person to manage through, but I want to feel comfortable that whoever I hand the keys to would make I m not going to say the right choice but the same kind of choices I made during the pandemic: not terminating people, paying salaries on time, making sure that people were okay, focusing on family. Those are the things that make us successful over the long term.
+FACTS + COMMENTS
+On Friday, theWall Street Journalreported theJustice Department is investigatingUnitedHealth Group s billing practices for Medicare,spurring the Dow Jones Industrial Average s worst day of 2025.
+750: Number of points the index fell on Friday, about 1.7%
+12.7%: Drop in UnitedHealth s stock Friday morning. By market s close, that trimmed to about 7%
+ Suggestion that our practices are fraudulent is outrageous and false : UnitedHealth told the
+STRATEGIES + ADVICE
+In the race to add generative AI and other new functions to the enterprise tech stack, many CEOs are proclaimingtheir companies are also tech companies. Here are somethings you need to knowto make that mindset pivot successful.
+Trust is an important component of leadership, and employees need to have strong faith in their leaders. Here are someways to build trustat your company.
+VIDEO
+QUIZ
+Department store stalwart Saks, which now controls rival Neiman Marcus following a $2.7 billion deal last year,announced a big move last week. What was it?
+A. All physical Neiman Marcus stores will become Saks stores in the next six months
+B. Neiman Marcus s downtown Dallas flagship store is closing
+C. It s rebranding Neiman Marcus as an  affordable luxury  store
+D. All physical Neiman Marcus stores are closing, but the brand will continue online
+See if you got it righthere.
+
+Load-Date: February 25, 2025
+
+
+End of Document

@@ -1,0 +1,147 @@
+
+
+
+
+
+CNN Inside Politics 12:00 PM EST
+January 31, 2025 Friday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; Domestic
+Length: 4631 words
+Byline: Phil Mattingly, Pete Muntean, Peter Goelz, Audie Cornish, Priscilla Alvarez, Lauren Fox
+Guests: Josh Dawsey
+Highlight: New video shows passenger jet colliding with military chopper; FAA indefinitely closes helicopter routes near crash site; NTSB recovers both black boxes from doomed jet; Trump jumps right to blame game over plane crash; Controversial cabinet picks grilled on Capitol Hill; More GOP senators expressing concerns with Gabbard, Kennedy; Sen. Cassidy to RFK Jr., "I've Been Struggling With Your Nomination"
+Body
+
+
+[12:00:00]
+PHIL MATTINGLY, CNN ANCHOR & CHIEF WHITE HOUSE CORRESPONDENT: Welcome to Inside Politics. I'm Phil Mattingly in for Dana Bash. And we are following the aftershocks of the deadliest U.S. plane crash in nearly a quarter century.
+The Federal Aviation Administration just revealed it is indefinitely shutting down the low altitude helicopter route that was in use the night of the collision. It comes on the heels of a New York Times report and presidential social media posts suggesting the Black Hawk helicopter was flying outside its approved flight path.
+CNN has also obtained two exclusive videos. It will be critical to the ongoing investigation. You can see the helicopter on the lefthand side of your screen, moving toward the American Airlines passenger jet which was approaching the runway. It's that bright light you just saw in the center of your screen after the crash, you can see both plunged into the Potomac. And in this next video, you can see both aircraft right before the collision, appearing to take no evasive action before ultimately smashing into one another.
+I'm lucky to be joined by CNN's Pete Muntean, who's been doing indispensable work for CNN, for our network, the last several days, on this investigation, and former NTSB Managing Director and CNN aviation analyst Peter Goelz.
+Pete Muntean, I want to start with you. As a pilot, someone who's really been reporting nonstop on this. These two videos that we've been -- we just looked at, what do you see?
+PETE MUNTEAN, CNN AVIATION CORRESPONDENT: They are sad. They are grisly, Phil, and they are maybe the best view yet of the moments leading up to this horrible tragedy on the Potomac River. This is a perimeter camera from outside of Reagan National Airport. You can see the spot shadow there the helicopter approaching from the left and then the fireball, the parts of the CRJ-700, the American Airlines Flight falling into the deep and dark Potomac River below.
+Sadly, it doesn't add all that much to the narrative, although it will be key for investigators, and they will be piecing apart video like that, frame by frame to try and figure out exactly what went wrong here. What is underscored by the video is that there were no evasive maneuvers taken, apparently, by the pilots of the Black Hawk helicopter. No evasive maneuvers taken by the pilots of American Airlines flight 5342 as it was coming into land on Reagan National Airport's runway three, three.
+And this really opens the can of worms of a conversation about why this helicopter route was able to exist for such a long time, so close to the final approach at Reagan National Airport there. And my new reporting, according to a source at the FAA says, that the FAA is closing down that route, that corridor known as route four. It goes along the eastern shore of D.C., southeast D.C., just across the river from Reagan National Airport in Virginia.
+Also, the FAA closing for an indeterminate amount of time -- undetermined amount of time. Route one, another major helicopter route. Those of us in the district know that helicopters are really a way of life here. And we see the helicopters crisscrossing the Potomac all of the time.
+The big thing now is the altitude restriction that was in place on that route. And you can pull up the FAA charts online. They're publicly available. The top out altitude there is 200 feet above sea level. And so now the question is, was the helicopter in the wrong place at the wrong time and maybe a little bit too high. This was an error that could have been missed by only a few feet, and it turned into tragedy, Phil.
+MATTINGLY: And a horrific tragedy at that. Peter, we're talking about the changes that are being made after, when it comes to looking backwards, when it comes to the investigation itself, both data recorders have been recovered. Walk people through what's happening inside the NTSB right now. What are they looking for?
+PETER GOELZ, CNN AVIATION ANALYST & FORMER NTSB MANAGING DIRECTOR: Well, they will be looking to line up the data recorder information with the very spectacular and sad video evidence. The idea that you need to know where each aircraft was each second leading up to the accident. And the NTSB will be taking apart the videos and will be taking apart the data recorders to make sure that they are synced accurately.
+MATTINGLY: Pete, The New York Times reporter this morning, the Black Hawk may have been flying outside of the approved flight path. You're just talking about the flight paths and the altitudes. We also had the president weigh in this morning. His post on social media, the Black Hawk helicopter was flying too high by a lot. It was far above the 200-foot limit. That's not really too complicated to understand, is it?
+Honestly, my question is, does the president have specific information that maybe isn't public yet? Do we think he's reading the New York Times? Walk people through this on some level.
+MUNTEAN: Maybe, you know, the granular data that is out there right now, according to the opensource data from flight tracking sites like flight aware and flight radar 24 and open ADSB, that shows that this helicopter may have been a little bit high. But here is my word of caution, is that sometimes that data is imperfect, especially at low altitudes.
+[12:05:00]
+And so, I have to wonder here, are these sources from the New York Times reading some of that data, or do they have some greater insight? And does the president have greater insight? The bottom line here is its way, way, way too soon to speculate on any sort of specific piece of data, and there's really not going to be one specific cause here of this accident.
+We know that in major air disasters like this, it is a chain of events that leads up to disaster. And so, it's not going to be just one helicopter in the wrong place at the wrong time. Of course, the NTSB will look, and we heard this from Chair Jennifer Homendy yesterday.
+At the humans involved, not only the pilots. Were they able to see each other? Were they able to see each other at all? Did the helicopter pilot think they were looking at a different airplane when they told the controller in the tower that they had the traffic in sight? Did the air traffic controller have perfect fidelity and situational awareness into what was happening before them.
+And was fatigue a factor here. And that has been something that the NTSB has really keyed in on in these near miss after near miss, near collisions that have happened on the runways of major airports nationwide that really took off in 2023 and continued in 2024.
+It begs mentioning that Reagan National Airport is an airport that is truly bursting at the seams. The popularity there is through the roof. Air travel is through the roof after a post COVID downswing. And so, members of Congress actually approved the FAA reauthorization bill to add flights to National Airport. It is a place that is so, so busy.
+And the main runway there, runway 119, which was the runway that this flight was initially lined up to land on. It is the single busiest runway in the country, and there have been near misses that have come under NTSB investigation two in the last two years that I can think of off the top of my head at Reagan National Airport. It is a really busy place of airspace -- piece of airspace.
+MATTINGLY: Pete Muntean and Peter Goelz' invaluable information, as always. Thanks so much. I want to turn to President Trump's response to the first major tragedy of his second term.
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED FEMALE: Do you have a plan to go visit the site or implementing the --
+DONALD TRUMP, PRESIDENT OF UNITED STATES OF AMERICA: I have a plan to visit not the site, because what it -- you tell me, what's the site, the water? You want me to go swimming?
+UNIDENTIFIED FEMALE: Or to meet with the first responders down there?
+TRUMP: I don't have a plan to do that (END VIDEO CLIP)
+MATTINGLY: Here to discuss, Josh Dawsey of The Wall Street Journal, CNN's Audie Cornish and CNN's Priscilla Alvarez. Dawsey, I'll tee you up with that. That wasn't the entirety of the response we saw from the president yesterday. We already mentioned his tweet, speculating again about the height of things.
+There was a lot of talk after the first week that, at least from an administration perspective, from a bureaucratic competence perspective, things were very different this time around than perhaps they were in 2017. What have you seen in the last 24 hours?
+JOSH DAWSEY, POLITICAL INVESTIGATIONS REPORTER, THE WALL STREET JOURNAL: Well, he did something that other presidents obviously would not do. I mean, most of the time presidents walk into the briefing room after a somber occasion like the White House, and they stick to consoling the families. We have an FIA investigation. We're talking to the airlines. We're seeking more information. That's not what Trump does. That's never what Trump has done, right?
+So, Trump says yesterday, he blames diversity and inclusion initiatives for some of it. He takes shots of Pete Buttigieg, a former transportation secretary. He offers all sorts of theories about what happened. This is long before anyone else in the government has offered these.
+Now we don't know. I mean, I'm not weighing in on whether, you know, what he said about the helicopter, for example, is right or wrong. I don't think we know yet. Maybe he does have information. So, I'm not speculating, but he just saw the blame he was putting on other people yesterday. It just not something we usually see other presidents have done.
+I mean -- I don't think it's surprising for those of us who have followed him for a long time. I mean, Trump sort of says what he thinks, and he is very unorthodox. Let's say, I thought yesterday's briefing was pretty, you know, stunning, but not surprising. I guess you would say.
+MATTINGLY: Yeah. I think it was a reminder. I think to a lot of people who maybe had forgotten the four years he was in office. You mentioned the kind of central focus on DEI policies at the Department of Transportation, the FAA, after the press conference signing executive order related to those issues. This is what he said.
+(BEGIN VIDEO CLIP)
+TRUMP: And Obama, both of them. OK, but Biden, much worse, not even a contest. What they've done is just crazy in so many other ways.
+UNIDENTIFIED FEMALE: Mr. President, to be clear, are you saying race or gender played a role?
+TRUMP: I don't know.
+(END VIDEO CLIP)
+MATTINGLY: I mean, that's kind of like when you deal with a second or third grader who's making a declarative statement, and then you're like, wait, how do you know that? You're like, I don't know. It could be true. Maybe not. Difference, of course, is he's sitting at the resolute desk in the Oval Office.
+Audie, the decision to go this route, and I understand it has been a foil that his team feels, has been politically effective on their way to sitting in the Oval Office. But in this specific case, the decision to go down this route so forcefully and fulsomely. How do you do it?
+[12:10:00]
+AUDIE CORNISH, CNN CORRESPONDENT: You know, it was interesting. Brian Todd this morning, he's another CNN analyst, the Republican was saying that Trump had to pivot from mourning to anger very quickly, like because that's where he's more comfortable.
+And it did make me think about the fact like, to a hammer everything is a nail, and this hammer is obsessed with DEI. And what does it mean for the single-minded focus on race and undoing what is perceived to be any kind of racial progress in the last couple of years to the detriment of all else.
+So instead of talking about the fact of like an escalating number of near misses in the last couple of years. FAA concerns about the academy, which were kind of the air controllers academy, which was shut down several times during government shutdowns, during the pandemic, long list and litany of things that have to do with airline safety that have been reported on by the agency itself, completely ignored, not a word about it, not from him, not from Sean Duffy, not from anyone.
+So, I think -- I guess, in a way, I want to reject the framing, talking about that, we're not talking about any of the things that are actually relevant to the situation.
+MATTINGLY: And that's kind of what makes them difficult, right? Because you want to make very clear air traffic control, that process is a merit-based process. There is no "affirmative action" in how they hire or people go through the training process that has been made very clear by former officials.
+The executive order or the diversity policies he was going after were in place during his administration, and he did not -- his first administration, and he did nothing about it. There is no evidence that any of these issues played any role in anything at this point in time, and yet, to Audie's point, we're talking about it.
+PRISCILLA ALVAREZ, CNN WHITE HOUSE CORRESPONDENT: Well, the point is that there are a lot of facts that can be pointed to that have been perhaps accumulating to this moment, as Pete has also mentioned, but it is the nonconclusive parts of this investigation, like DEI that are getting the attention. And it all underscores the President Trump, that is grievance. He did take a moment in that briefing room to have a moment of silence before quickly pivoting to his grievances with Democrats, with the Obama administration, with the Biden administration.
+We saw this during the coronavirus pandemic, where it was a blame game most of the time, and that is what -- when you were making the comparison between week one and week two, it was a reminder of what we saw in the first Trump administration, happening again with this tragedy.
+DAWSEY: When you saw with the coronavirus pandemic, for example, the more he did that, his numbers went down in 2020, and people didn't like it. And if you talk to the people who were around him in the campaign, that's why he lost that election.
+And so, what will be interesting to see, Democrats as a general public, are folks OK with this, both folks care. I mean, I think what we've been watching in the past few days, with the freezing of the loans and with this and with various things that he's done, you're seeing a ramped up Democratic response.
+It's still not what it was, I think, in 2017 does some of his initiatives, but what folks cares -- are going to stick with him, while other people care that he's handling situations in the way that he chooses to handle them.
+CORNISH: I don't want to defend Democrats in this because I think lots of people have felt like the progressive left is MIA and all of these conversations. But I do think it's worth pointing out that, you know, it's probably what we've all learned from the last 10 years, is to respond to what is factually correct and what is relevant.
+The things he's talking about by just by dint of him talking about them, doesn't make them relevant. They're just something he said, as he described, ideas and opinions, but they're not actually relevant to the investigation at hand. We don't have that, but because he's saying it, we're all supposed to pivot and talk about that. And I think that's what feels different. People aren't necessarily going there. I wanted to hear more from the families who are suffering right now, and we haven't because this is the focus.
+MATTINGLY: That's a really, really important point. It's common sense, and it could be not really the descriptors or explanations for something like this that should be able to pass merit or to Audie's point that should garner all the focus, right? Guys stick with me. Two of President Trump's cabinet picks faced tough questions on Capitol Hill yesterday.
+(BEGIN VIDEO CLIP)
+SEN. MAGGIE HASSAN (D-NH): Do not suggest that anybody in this body of either political party doesn't want to know what the cause of autism is.
+SEN. MICHAEL BENNET (D-CO): Is Edward Snowden a traitor to the United States of America? That is not a hard question to answer when the stakes are this high.
+(END VIDEO CLIP)
+MATTINGLY: And to be clear, it was not just Democrats. There are a lot of uneasy Republicans too. That's next.
+(COMMERCIAL BREAK)
+[12:15:00]
+(COMMERCIAL BREAK)
+MATTINGLY: Three Trump cabinet fits picks faced blistering questions on Capitol Hill yesterday and a handful of Republicans seem genuinely torn on at least two of them, Robert F. Kennedy Jr. and Tulsi Gabbard. Listen to Louisiana Senator Bill Cassidy, who chairs the health committee and is himself a physician at Kennedy's hearing yesterday.
+(BEGIN VIDEO CLIP)
+SEN. BILL CASSIDY (R-LA): My concern is that if there's any false note, any undermining of Obama's trust in vaccines, another person will die from a vaccine preventable disease, and that is why I've been struggling with your nomination.
+(END VIDEO CLIP)
+MATTINGLY: CNN's Lauren Fox joins me now. Lauren, we were going back and forth two days ago in the first hearing, the Senate Finance Committee hearing on RFK Jr., where Cassidy made him look like he had no idea what he's talking about to put it rather bluntly. What's your sense right now of the risks that Kennedy nomination and the Gabbard nomination face?
+[12:20:00]
+LAUREN FOX, CNN CONGRESSIONAL CORRESPONDENT: Yeah. It seems like in both of these hearings yesterday, what Republican members were trying to do is give these nominees the exact script that they needed to earn their support. And in both cases, it seemed like neither one of the nominees took the hints from those members.
+And let's talk a little bit about Kennedy first. You saw there that Senator Kennedy was trying to -- excuse me, Senator Cassidy was trying to make clear to Kennedy, you need to make clear that there is no tie between vaccines and autism.
+And over and over again, as he was asked about those questions, Kennedy really refused to just blatantly come out and say exactly that. And it wasn't just Cassidy who had concerns. Take a listen to what Senator Lisa Murkowski told me after the hearing.
+(BEGIN VIDEO CLIP)
+SEN. LISA MURKOWSKI (R-AK): I think he answered the issue of vaccines multiple different times trying to save that he's pro-safety, follow the science. I think that there were some questions that were particularly telling you that when the science has been out there for a long time that has been proven, do you need to continue being the skeptic?
+(END VIDEO CLIP)
+FOX: And similarly, in Gabbard's hearing, there was another series of moments where Senator James Lankford asked her point blank whether or not she thought Edward Snowden was a traitor. And he told reporters later he really thought this was sort of an easy setup question, and instead, she refused to exactly say that he was a traitor.
+This was something that multiple senators brought up over the course of this testimony, and while Senator John Curtis, who's a Republican from Utah, does not sit on the Senate Intelligence Committee. Here's what he said to our colleagues last night. He said, quote, I leave today's hearing with more questions than answers. Some of her responses and non-responses created more confusion than clarity and only deepened my concerns about her judgment and what this will mean in this vital role.
+We should just clarify that if one Republican on the Senate Finance Committee, which Senator Bill Cassidy sits on, or in the Senate Intelligence Committee, voted against these nominees, that could potentially sink them right then and there. If these nominees can manage to get to the floor, that threshold is higher. But again, Republicans can lose no more than three members on any of Trump's nominees and still get them through.
+MATTINGLY: Lauren Fox, thanks so much. My panel is back now. Priscilla, I actually don't want to start with the handicapping. Where do we think? I have no idea where people are right now. We know that skeptics can turn into yes votes very, very quickly for reasons we don't necessarily know until they're reported a couple days later.
+But I think, Laura made this point where there were a number of Republicans afterwards. I think a couple publicly, certainly a lot privately, who were like, man, we gave them softballs. We were putting this on a tee. And an example of a way that that worked was RFK Jr. on abortion, where he had several prolife senators.
+What appeared to be very choreographed back and forth to put at ease his past positions on abortion, which was effective when you talk to the outside prolife groups, and yet, it seems like there are a number of issues where they weren't ready to do that.
+ALVAREZ: Yes. To your point, we don't know where the votes are going to land but let's just take a temperature of the room. And what we saw over the course of these hearings yesterday was very different than what we saw with the Defense Secretary Hegseth or with Homeland Security Secretary Noem were.
+As they were asking questions, they were also, you know, showing some enthusiasm, heaping some level of praise on each of these nominees, that was really missing with Gabbard's hearing yesterday. It was really asking questions, and there was pushback from the Democrats and from the Republicans, even with Lankford, who has said that he would support her. He was asking some pressing questions as she was also evading those about Snowden, which of course, she has a long history there.
+So, just based off what was happening over the course of these hearings in each of these rooms, it was clear that there were questions lingering that remain unanswered on both sides of the aisle and that that sort of like hug of each of these candidates to show support, given that there are Republican picks, was really sort of missing.
+MATTINGLY: I want to play -- we have the sound of like for a couple of Republicans doing exactly what you're explaining. Listen?
+(BEGIN VIDEO CLIP)
+SEN. JAMES LANKFORD (R-OK): Was Edward Snowden a traitor?
+TULSI GABBARD, DNI NOMINEE: Senator, my heart is with my commitment to our constitution and our nation's security.
+LANKFORD: Was he a traitor at the time when he took America's secrets, released them in public and then ran to China and became a Russian citizen?
+GABBARD: Senator, I'm focused on the future and how we can prevent something like this from happening again.
+SEN. JERRY MORAN (R-KS): I want to make certain that in no way does Russia get a pass in either your mind or your heart or in any policy recommendation you would make or not make.
+GABBARD: Senator, I'm offended by the question.
+(END VIDEO CLIP)
+[12:25:00]
+MATTINGLY: I actually think the last response was probably merited, although Bryan (Ph) willingness to ask that question probably merited too on some level, but Lankford and others going repeatedly, saying like we're asking, we're begging.
+CORNISH: I mean, Lauren did just a fantastic job explaining the meta situation here, which is that Republicans have to show the audience of one, we are giving your guys a chance. We are literally asking the easiest questions, the slowest and most direct way. And then they're like, running to reporters after and being like, did you see me asking the easiest, most softball questions? So, they're trying to make it clear that they want to support the Trump nominees.
+I think the issue is this batch, this week, each sits at the nexus of like, very confused politics for the Republican Party. Do they care about privacy and protect whistleblowers like a Grassley, or do you fire all the inspector generals, like the executive order does.
+There's the same thing with Gabbard. Do you care about Russia? Or is Russia part of the democratic industrial conspiracy complex? This is the nexus of those conversations, and they are actually embodied by each of these nominees.
+MATTINGLY: Yeah, absolutely.
+DAWSEY: Interesting about Gabbard yesterday, I thought was that I talked to some Trump folks earlier in the week, who said, a lot of her meetings with senators had not gone great. They'd had some imperfect meetings and senators --
+CORNISH: Which her fellow lawmakers like crazy.
+DAWSEY: Yeah. And that they knew she had to perform really well yesterday. I mean that hearing inside Trump world was viewed as a highest stakes hearing that she really needed to impress people now. Whether she did or not, I can say --
+CORNISH: She did the clustered --
+DAWSEY: -- but they viewed that hearing is very important because that nomination was in question, and a lot of the meetings had not gone as well as they wanted them to come.
+MATTINGLY: It's a really important point. The other thing here is, like the outside intensity, pushing for RFK Jr. to be confirmed is like nothing I've ever seen in terms of, like the social media element of it, and like the influencer element, and like whoever was sitting behind him, element of these hearings was wild to me. But what is very clear is Bill Cassidy has some significant issues. Watch?
+(BEGIN VIDEO CLIP)
+CASSIDY: Does Medicare pay more? Medicare pay less? Medicaid pay more, Medicaid pay less. How do we do that?
+ROBERT F. KENNEDY JR., HHS SECRETARY NOMINEE: I'm not exactly sure because I'm not in there.
+CASSIDY: Will you reassure mothers unequivocally and without qualification that the measles and hepatitis B vaccines do not cause autism?
+KENNEDY: Senator, I am not going into the agency with any --
+CASSIDY: That's kind of a yes or no question.
+KENNEDY: If the data is there, I will absolutely do that.
+CASSIDY: Now there is the data, just because I used to, I used to do hepatitis B, as I said. I know the data is there.
+(END VIDEO CLIP) MATTINGLY: And that was the day after Cassidy was literally like, how does Medicaid work? I'm paraphrasing here, but the answer he got was not an explanation of how Medicaid worked in any way, shape or form. Is he in trouble -- is Kennedy in trouble here?
+CORNISH: I don't know if he's in trouble. I do know that you underscored an important point, which is he has a huge constituency of Americans in the kind of health and wellness, antivaccine. They were activated during COVID, and they remain rabid now, and now they have a seat at the table, and he represents them in their voice.
+So, every time he says, I'll look at the data, maybe what's going on with vaccines. Yes, it's going to feel awkward when he meets up with, you know, an actual doctor who believes in those things. Again, that's one of those moments for the party where they have courted an audience that believes in a certain set of ideas, and that's going to come up against the act of governing.
+ALVAREZ: Or the actual programs, the nitty gritty of the way the government works, which was what Cassidy seemed to be getting at. So, taking those ideas and facing them against this government apparatus that runs these programs all around the country.
+MATTINGLY: Yeah. Before we go to the -- your insights behind the scenes on Gabbard were fascinating. What's your sense right now from the Trump guys about how they're feeling about Kennedy?
+DAWSEY: I don't think they know how to feel about Kennedy. I don't get the sense that they -- there was optimism going into this hearing that he had the votes to get over the finish line. I don't know after the hearing. I mean, obviously we saw those clips from Cassidy. Cassidy has not been a Trump supporter at all times. She's been critical at times, obviously, particularly after Jan 6. So those questions look very skeptical to me, but I don't know.
+CORNISH: And his response was vastly different than Gabbard performance, which I think was just much more sort of strident and head up.
+MATTINGLY: Yeah. We'll see. I mean, there's legit unanswered questions, passes precedent, they're probably going to get 50, but let's wait and see. All right, stay with me. Coming up. We'll go live the Pentagon for the latest on their investigation into why a Black Hawk helicopter ultimately collided with a passenger jet. Stay with us.
+
+Load-Date: January 31, 2025
+
+
+End of Document

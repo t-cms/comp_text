@@ -1,0 +1,50 @@
+
+
+
+
+
+ 
+FT.com
+January 24, 2025 Friday
+
+
+Copyright 2025 The Financial Times Ltd. All Rights Reserved Please do not cut and paste FT articles and redistribute by email or post to the web.
+
+
+Length: 1339 words
+Byline: Simon Mundy
+Body
+
+
+Welcome back. The conservative campaign against corporate diversity, equity and inclusion policies has been on a roll recently, with US companies from Walmart to McDonald’s to Ford all retreating from pledges and programmes aimed at making their business more socially inclusive. But yesterday, the anti-DEI drive received a noteworthy setback.
+At its annual meeting, Costco faced a shareholder proposal from the National Center for Public Policy Research, a conservative think-tank, arguing that the retailer’s DEI policies exposed it to legal and financial risks, and demanding a formal review. 
+The board resisted the demand, telling shareholders that the policies would “attract and retain employees who will help our business succeed”. Investors agreed:  were voted against the NCPPR proposal. If companies stand up for their diversity policies, it seems, they may get more investor support than they realise.
+Meanwhile, at the World Economic Forum in Davos, Donald Trump appeared by video link to take questions from a panel that included the chief executives of Blackstone, TotalEnergies and Santander. Trump took the chance to upbraid Bank of America chief executive Brian Moynihan for supposedly not doing business with conservatives, while emphasising his destruction of Joe Biden’s “Green New Scam”, and determination to exploit US fossil fuel reserves.
+“Nothing can destroy coal — not the weather, not a bomb — nothing,” Trump said. But financial companies exposed to the coal sector face some important long-term questions, as we explore in today’s newsletter.
+financed carbon emissions
+Banks’ coal policies face fresh scrutiny
+For financiers seeking to reduce their portfolio carbon emissions, cutting exposure to thermal coal — used mainly for power generation — has been a popular choice. Far fewer have moved to cut their financing of metallurgical coal used in steelmaking — even though it packs a bigger carbon punch.
+While financial institutions are now coming under pressure from environmental groups to correct this odd imbalance, it reflects a wider problem — underscoring the need for expanded investment in green technology that will reduce steelmakers’ reliance on the black stuff.
+Yesterday, the Berlin-based non-profit group Urgewald published a new  that sheds light on the expansion of metallurgical coal mines all over the world. It features 160 companies that are expanding 252 “met coal” projects in 18 countries, with growth plans that would increase global production of the commodity by 50 per cent.
+Metallurgical coal is turned into coke and burnt with iron ore in blast furnaces, in an integral part of the conventional steelmaking process, which — despite the widespread adoption of coal-free electric arc furnaces — still accounts for the bulk of global production of the metal.
+Because of its typically larger methane content, and generally higher emissions from its extraction, metallurgical coal accounts for nearly  of thermal coal on a tonne-for-tonne basis, according to analysts at Wood Mackenzie. This is the main reason why the steel sector accounts for  of global carbon emissions.
+Among the companies with the biggest met coal expansion plans is BHP Mitsubishi Alliance, jointly owned by Australian mining company BHP and Japan’s Mitsubishi. For BHP, this presents a stark contrast with its plans for a  from its thermal coal business. Similarly, London-listed Glencore has been doubling down on met coal — notably through last year’s $6.9bn  of a majority stake in Elk Valley Resources — even as it pursues what it calls a “responsible decline strategy” for thermal coal.
+By way of explanation, Glencore says that it expects steelmakers’ demand for coal to decline more slowly than demand from power plants. It is far from alone in that belief. In a major  last month, the International Energy Agency noted that investors appeared much more willing to finance new met coal projects than thermal coal mines, in part because public “resistance to met coal investment is somewhat less pronounced”.
+This is certainly reflected in financial companies’ public policies on coal. Of 386 major financial institutions tracked by Paris-based non-profit Reclaim Finance, 183 (mostly European) have announced policies restricting their financing of thermal coal. Only 16 have done the same for the metallurgical variety: 11 banks including Lloyds and ING; four asset managers including Nordea; and insurer Zurich.
+Urgewald argues that financiers’ failure to turn their backs on metallurgical coal amounts to a “blind spot” in their policies. Yet, it reflects the fact that the world — and especially Europe, which accounts for most of the financial institutions with strong climate-related exclusion policies — has done a far better job of shedding its reliance on coal for electricity than it has for steelmaking.
+In the EU, coal accounted for less than 10 per cent of electricity generation last year, after a strong rise in generation from increasingly cheap renewables over the past decade. More than half of the EU’s steel, in contrast, was made using coal-guzzling blast furnaces. In part, that reflects the EU’s gentle treatment of the steel sector under its carbon pricing system, which has imposed far lower costs on the industry relative to others.
+So for European banks, cutting support for the fading thermal coal sector is a far easier step than taking the same step for metallurgical coal, which remains central to one of the region’s most important industries.
+But it is unlikely to retain that central role forever. Technological advances are enabling electric furnaces to produce higher grades of steel from scrap metal, decreasing the need for coal-burning blast furnaces. Many sorts of steel still require the use of “virgin iron” derived from iron ore rather than scrap. But well-funded start-ups like Sweden’s Stegra and Boston Metal of the US are developing new approaches to treating iron ore without coal, using hydrogen or electrolysis.
+If European financial institutions were to tighten their met coal policies to match their thermal coal ones, it’s unclear how much short-term impact this would have on miners’ cost of capital. US institutions hardly look likely to take a corresponding move in the near future. The majority of expanding met coal companies profiled by Urgewald are in China, Russia, India and Indonesia, with limited reliance on European financing.
+Still, there are sound reasons to reconsider long-term financial exposure to the met coal sector. Even as producers race to increase output, the IEA predicts that demand for the commodity will decline over the next three years, as steel demand in China suffers from its chronic property market malaise. The industry’s gradual evolution towards coal-free alternatives is set to continue and perhaps accelerate with steeper carbon pricing — notably through the EU’s phasing out of free carbon permits for European steelmakers, and the carbon border tariff it will impose on steel imports. 
+A crucial factor in the pace of this transition will be the amount of finance that companies are able to raise to develop and deploy green steelmaking technologies — pushing them down the cost curve, and destroying the economic logic for coal-based steel production.
+The calls for western banks to commit to restricting funding for metallurgical coal are understandable. But they will probably have more impact by focusing on increasing their financing of those low-carbon alternatives.
+Smart reads
+Future foods Australia’s vulnerability to climate change has helped make it a , from experimental fungi to ‘robotic bees’.
+Eyeing the exit President Javier Milei of Argentina is considering a proposal for the country  on climate change.
+Tough times BP’s financial travails reflect its  on fossil fuels, writes John Gapper.
+
+Load-Date: January 27, 2025
+
+
+End of Document

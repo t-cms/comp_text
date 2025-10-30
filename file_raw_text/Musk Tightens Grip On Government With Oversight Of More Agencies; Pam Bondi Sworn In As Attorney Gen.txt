@@ -1,0 +1,320 @@
+
+
+
+
+
+The Source with Kaitlan Collins
+February 5, 2025 Wednesday 09:00 PM EST
+
+
+Copyright 2025 Cable News Network, Inc. All Rights Reserved 
+Section: NEWS; Domestic
+Length: 7912 words
+Byline: Kaitlan Collins, Anderson Cooper, David Culver, Pete Muntean, Elie Honig
+Guests: Wes Moore, Natalie Bara, Rahm Emanuel, Shelby Talcott, Dasha Burns
+Highlight: Elon Musk tightens grip on government with the oversight of more agencies, with FAA becoming the latest focus of Musk's Efficiency team. Pam Bondi sworn in as the United States Attorney General. President Donald Trump takes action to ban trans women from women's sports
+Body
+
+
+[21:00:00]
+ANDERSON COOPER, CNN HOST, ANDERSON COOPER 360: Culver reporting--
+DAVID CULVER, CNN SENIOR NATIONAL CORRESPONDENT: --have to continue.
+COOPER: David, we have you back. You have about 30 more seconds. Sorry.
+CULVER: Yes, you got me now?
+COOPER: Yes.
+CULVER: No worries. Out here, on Palm Beach County. I mean, there are aspects of this county that obviously are quite rural. But no, the farmers that we spoke with, as they support President Trump, they also believe that he has to move forward with this, Anderson. They say, really, you look at the food supply in this country, and it is reliant on these workers.
+The visa program, though, has its limitations. They say, under the Department of Labor, it is just really cumbersome, really complicated.
+COOPER: Yes.
+CULVER: And they say it's got to be made cheaper, particularly when you think about those smaller farmers.
+COOPER: David Culver, appreciate the report. Thank you.
+The news continues. "THE SOURCE WITH KAITLAN COLLINS" starts now. I'll see you, tomorrow.
+KAITLAN COLLINS, CNN CHIEF WHITE HOUSE CORRESPONDENT, CNN HOST, THE SOURCE WITH KAITLAN COLLINS: Straight from THE SOURCE tonight.
+Days after the air disaster over the Potomac, Elon Musk says President Trump has given him the authority to make, quote, "Rapid safety upgrades," to the nation's air traffic control system.
+What exactly does that entail? Our Aviation correspondent has been working his sources tonight.
+Also, translating Trump, aides and allies now attempting to explain what they say the President really meant, about the U.S. taking over Gaza. We'll compare that to what he said himself.
+And the Justice Department, tonight, is accusing the FBI leadership of insubordination, as an internal battle is exploding, right now, over Trump's efforts to potentially purge the January 6 prosecutors.
+I'm Kaitlan Collins. And this is THE SOURCE.
+Good evening from Washington, where CNN is learning tonight that the Trump-Musk blitz, to shrink the federal government, has already resulted in 40,000 federal workers choosing to accept the offer to resign from their jobs, while still being paid for the next several months. That's what we are hearing from a Trump administration official, tonight, amid questions about whether that offer to those employees will really hold.
+Now, the Office of Personnel Management says that that number is growing, and it won't release the final total until after the deadline happens tomorrow.
+But many Democrats are urging federal employees not to take this offer, as we're seeing thousands of people joining rallies, across the country, including in front of state capitol buildings, to protest this move, by Trump and Musk, to dramatically reduce the workforce by 10 percent, either voluntarily or by force.
+We've just learned, tonight, the Elon Musk team is also now plunging itself into another federal agency, days after that horrific plane and helicopter collision, here in Washington.
+The President has now handed Musk the authority to change U.S. aviation's safety. With his backing and that of the Transportation secretary, Musk is promising, quote, "Rapid safety upgrades" to the air traffic control system, adding, quote, "Just a few days ago, the FAA's primary aircraft safety notification system failed for several hours."
+Now, what's unclear, as of this hour, is how much authority and power Musk and his team will have over the U.S. aviation systems.
+But of course, you can remember, he has called for radical reform at the FAA, in the past. And he's also been facing questions about the potential for conflict of interest. His own company, his rocket company, SpaceX, has received billions of dollars in direct government contracts.
+And even before we found out what we did about the FAA today, the White House was questioned, and said this, about those potential conflicts.
+(BEGIN VIDEO CLIP)
+REPORTER: What steps is the Trump administration taking to address that conflict of interest?
+KAROLINE LEAVITT, WHITE HOUSE PRESS SECRETARY: The President was already asked and answered this question this week. And he said, if Elon Musk comes across a conflict of interest with the contracts and the funding that DOGE is overseeing, then Elon will excuse himself from those contracts. And he has, again, abided by all applicable laws.
+(END VIDEO CLIP)
+COLLINS: That answer essentially meaning that Musk will decide himself, if he has any conflicts of interest.
+CNN's Pete Muntean is a pilot and flight instructor who covers all things aviation for CNN, and leads us off tonight.
+Pete, what do you know about this plan to upgrade this technology, but also how Elon's past with the FAA, which is very publicly available to see, how that could maybe come into play here?
+PETE MUNTEAN, CNN CORRESPONDENT: Some really big questions, tonight, about what DOGE could do to the FAA, because the imprimatur of DOGE has really been Cut, cut, cut.
+And any air traffic controller in the FAA system will tell you that's exactly what they do not need right now. Because there's a nationwide shortage of air traffic controllers, the infrastructure at the FAA is aging, and a lot of controllers are working mandatory overtime, six- day weeks of 10-hour shifts.
+This was all really kicked off today, when Transportation secretary, Sean Duffy, tweeted that DOGE was going to plug in to the FAA, and make some upgrades to the aviation system.
+And then, it was followed up with this tweet by Elon Musk saying that he was going to make rapid safety upgrades to the FAA, after the notification system failed over the weekend.
+That's called the NOTAM system, or Notices to Air Missions. Every pilot needs to read those notices legally before they can fly.
+[21:05:00]
+Remember that a nationwide failure of the NOTAM system, back on January 11th, 2023, led to the first nationwide ground stop in the U.S. since 9/11. This system, this past failure on Saturday, was able to operate on a backup system. There was no real impact.
+But you really have to set all of this against the backdrop of what is happening, in aviation, right now.
+We had the midair collision over the Potomac, almost seven days ago, exactly to the moment, pretty much, killing 67 people in total.
+And then also the prior feuds that Musk has had with the FAA. He's feuded with the FAA over launch licenses for SpaceX. Remember, the FAA has in its portfolio commercial space. And he tweeted earlier that maybe make the FAA administrator resign, because of that. And the FAA administrator ultimately did resign on January 20th. Still no permanent head at the FAA. So really-- COLLINS: It's in the echoes of Project 2025, in the sense of privatizing the FAA is what they wanted to do.
+MUNTEAN: And that's been a big push. And it was a push by the first Trump administration, back in 2017, to privatize the FAA. But the level of support was so different then.
+And so, sources in the airlines are telling me it probably won't happen, this time around. There's not enough union support, not enough support from the airlines.
+So, a lot of really big questions here about what DOGE could potentially do to the FAA. 45,000 employees, and so many of them are air traffic controllers. Maybe the one thing that Musk does have going for him here is he's technically a licensed pilot by the FAA, he has a private pilot certificate.
+COLLINS: Yes, and certainly has the nation's attention on this.
+Pete Muntean, thank you for that excellent reporting. Keep us updated.
+Also joining me here tonight is the Democratic governor of Maryland, Wes Moore.
+And Governor Moore, your state's first responders were among those, who were on the frontlines of that crash that happened a week ago. What's your view on Musk and his team's involvement though? We don't really know just how much, how that's going to look inside the nation's aviation system.
+GOV. WES MOORE (D-MD): Yes, some of our first responders are Maryland State Police, our Maryland Department of Natural Resources, local authorities from Prince George's County, Baltimore City, Baltimore County, Charles County. I mean, these are some of the first people to arrive at the scene.
+And not only do we owe a huge debt of gratitude, to our first responders, for the work that they did, it's important to know that we are keeping the families, in our prayers for this -- for this horrific, horrific accident.
+But also, we have to keep these first responders in our minds as well, because they are going to be dealing with the images that they saw that -- as they were the first ones on the scene--
+COLLINS: Yes.
+MOORE: --they'll be dealing with these images for the remainder of their life as well.
+COLLINS: Yes. But what's your view of Elon Musk getting involved, in terms of what this looks like, from the aviation safety perspective that has become such a central focus, because of that collision?
+MOORE: Well, I think, making sure that we -- that people can go from one place to another safely, has got to be the number one priority. We're putting a lot of weight on our first responders to be able to deal with tragedy. But we have to make sure that we're making sure that these tragedies do not happen in the first place.
+And so, making sure that there is full accountability, not just for what happened in that one incident, but making sure that this does not happen again, has got to be the highest priority. And I really hope that they are putting real focus on it, in this moment, and not just looking at it through a -- through a government efficiency lens.
+COLLINS: Yes, and we'll wait to see what it looks like, of course. We don't fully have a picture of that yet. This just happened a few hours ago.
+But on what we are seeing play out, which is this massive campaign to get a lot of federal workers to leave government, using this kind of buyout-style program that we've been reporting on, from everything, from the CIA to other top agencies. Nearly 6 percent of the federal workforce lives in your state, about a 158,000 workers. Are you seeing an impact already?
+MOORE: We're seeing an impact that happened almost instantaneously. And it is the fact that we have a 160,000 federal workers in my state. And that's just the federal workers. That does not include the contractors. That does not include the uniformed personnel. So, this is having a significant impact on not just the lives and the livelihoods. But also, it's what these organizations and what these agencies actually do.
+So, for example, you take USAID. Well, USAID, when you decide to just shutter a federal agency, USAID, for example, does a billion dollars of work with Johns Hopkins University. Well, now that's not just hurting the workers at USAID. It's hurting all these institutions, who rely on that support, and who are doing really good work, both domestically and overseas.
+And so this, the shuttering of these agencies, the firing of thousands of workers, the proactive trade wars that we're having, this is having a distinct impact on middle-class families. It's having a distinct impact on the people who live in my state, and people who live around the country.
+COLLINS: We're seeing some attorneys general and states saying, Don't trust this buyout offer that you're getting, that it's not clear that it'll hold. I know your A.G. joined in on that warning, with a 11 other states.
+[21:10:00]
+What's your concern about it? That essentially they may take it and it's not real?
+MOORE: Yes, that's exactly right. I think the reason that our Attorney General, Anthony Brown, has gotten involved in this is that they believe that this is unlawful. This is not -- this is not the private sector. This is not Tesla. You cannot just come up with an arbitrary number about what you're going to get, when it comes to compensation. And the fear is that you will have people, who will take these offers, and then turn around and realize that those offers were not lawful to do inside the first place.
+Congress has to be involved inside this process as well. This is not something you can do via executive order. And so, I think, for a lot of our government workers, they have to make a -- have a really clear understanding of the offer that is on the table, whether or not that is offer is real or not.
+COLLINS: You must be getting a ton of phone calls about this?
+MOORE: We are. I mean, this is -- this is -- what we're seeing, right now, is just a level of chaos that is just staggering. That, we're seeing a whole flurry of executive orders, some of which are performative, some of which are just deeply have no thought behind them, and some of them are just unlawful and unconstitutional.
+And so, you have a lot of people, who are scared, all throughout our state, from Western Maryland to the Eastern Shore, about what they're doing. The thing that we've assured the people of our state is that we are going to meet this moment of crisis with courage, and we are going to be unafraid to step up and defend the people of our state against any type of threat that comes to their livelihood or their way of life.
+COLLINS: Yes. And of course, the White House would say, This is what Trump ran on. He made clear what he wanted to do here.
+I was -- I was struck by something you said in your State of the State address today, though. You said, If the policy decisions of the last few weeks are any preview, I fear that our most charitable expectations will be met with harsh realities.
+Have you seen anywhere, where you could find common ground with the government, with the Trump administration, whether that's on these efforts by Elon Musk on government efficiency, or what that looks like?
+MOORE: Well, I mean, we've been very clear that I will work with anybody. And if you look at our state, we've introduced 26 pieces of legislation. Not only have we gone 26 for 26, but I've gone 26 for 26 bipartisan, with both Democrat and Republican support, on every single bill that we have introduced thus far.
+And so, we're really proud of the bipartisan record that we have here, in the State of Maryland, to raise the minimum wage, bipartisan support to be able to make historic investments in childcare.
+Bipartisan support to be able to make sure that we're investing in workplace training and apprenticeship program and trade programs. And also, making sure that we're actually reforming the tax code, where, in the most recent proposal that I just made, the vast majority of Marylanders, two-thirds of Marylanders are about to get a tax cut. 82 percent of Marylanders are either going to get a tax cut, or see no change to their taxes at all.
+And so, we're excited about the momentum that we have in our state, to be able to support working families, to be able to grow the middle- class. And we will work with anybody to be able to make sure that happens for the people of my state.
+COLLINS: Yes, and I know you've kind of been dealing with this yourself, with the $3 billion budget deficit that you're confronting in your state.
+Can I ask you, overall -- because you were preparing, I know, you said, since last February, for Trump to win, potentially, what that would look like if it did, how it would affect you as a governor of a neighboring state.
+As someone who was an Army -- was a combat veteran, what is your response to this stunning announcement we saw, last night, where he did not rule out having U.S. forces go to Gaza, as he was talking about a long-time occupation by the -- by the United States?
+MOORE: It's important to remember that these men and women, who raise their hand and put on the uniform, and who are willing to deploy to -- for the interests of this country, like I did? When I deployed to Afghanistan, I led soldiers in combat.
+We do it under the understanding and the expectation that these are well-thought-out plans, that the people who are making the decision are keeping us and our family members in mind, and that we are not going out there to either start unnecessary wars, or to be out there, and do projects and/or assignments that we think do not advance the long-term national interest of the country.
+And so, as they're making these decisions, I really hope they are considering who are the people who are putting on the uniform, and their families, and what this is going to mean for them.
+And so, that's why making sure that we have thoughtful, competent and calm leadership, in this moment, is imperative, not just for the people of my state, and not just for the people who wear the uniform, but for the larger integrity of what this country is supposed to be, and what this country is supposed to mean to the world.
+COLLINS: Governor Wes Moore, thank you for your time tonight.
+MOORE: Thank you, Kaitlan.
+COLLINS: Good to see you.
+[21:15:00]
+Up next. The Justice Department is now accusing FBI leaders, the Acting ones, until Trump's get confirmed, of insubordination, after the effort to identify employees who worked on the January 6 investigations. An FBI agent who is fighting back is here to join me.
+And also tonight, what we are hearing from Trump officials on Gaza, attempting to walk back what the President very plainly said about the U.S. taking over.
+(COMMERCIAL BREAK)
+COLLINS: Pam Bondi took the oath of office in the Oval, today, officially becoming the next Attorney General of the United States. Taking over at a time when the department is facing multiple lawsuits now, from its own employees.
+[21:20:00]
+Her second-in-command is accusing the FBI's Acting leadership, as of this moment, of insubordination. And this all centers around the effort to gather a list of who took part in investigating January 6th.
+The acting Deputy Attorney General, Emil Bove, sent the whole workforce a memo, saying, quote, "The only individuals who should be concerned... are those who acted with corrupt or partisan intent, who blatantly defied orders from Department leadership, or who exercised discretion in weaponizing the FBI."
+My source tonight is the President of the FBI Agents Association, one of the groups that is suing the DOJ right now. Natalie Bara joins me now.
+What is the status of the lawsuits, as of this moment?
+NATALIE BARA, PRESIDENT, FBI AGENTS ASSOCIATION: So tomorrow, there will be a hearing in federal court, and we'll see what the judge decides based on the filing for a temporary restraining order.
+COLLINS: And what are you expecting, hoping? I mean, you're obviously hoping the judge will grant that. But what does that look like? And where do you go from there?
+BARA: I think it looks like the -- I'm hoping that the court comes in and ensures that the DOJ keeps agents' information private.
+COLLINS: And because that's been the concern.
+So essentially, this questionnaire went out, last week, over the weekend, it hit their inboxes, basically saying, If you worked on this in any kind of rank-and-file fashion, acknowledge it here.
+And their concern was that list being turned over, that their names could be used for termination or made public?
+BARA: Right.
+So, I spoke to an agent, last week, and they were part of the recovery for the tragic plane crash that we had over the Potomac, and they were doing recovery of body parts, a gruesome scene. And then, they had to go back to the office, and fill out a survey about their investigative activities related to January 6. So, it's been somewhat distracting for agents.
+And agents need to focus on the mission, focus on what their job is, and focus on keeping the American public safe and upholding the Constitution.
+COLLINS: So, just to be -- the agent was helping in the Potomac, and then had to go back to acknowledge where they played a role in the investigations of January 6 rioters?
+BARA: Right, so -- and this is happening all over the Bureau, or did happen all over the Bureau, where people are -- agents are out on the street, doing work, upholding the Constitution, investigating criminals, stopping cyberthreats, you name it. And then, we're coming -- we're being called back into the office, to fill out a survey, with details about our activities on -- for the investigations related to January 6.
+COLLINS: And what did the agents say about how that made them feel?
+BARA: It's concerning. It's concerning for the agents to be put on a list. I know these are controversial investigations, but -- and there's a way to review them, and investigate them, and ensure that there was no misconduct.
+But putting your name on a list, and having it sent over, and not really knowing where it was going to be, or what it was going to be used for, was concerning. Agents are concerned about their safety and their family's safety.
+COLLINS: Were any of the agents comforted at all by what Emil Bove -- Emil Bove had to say today, in that statement, saying that, No one who followed orders and just carried out their duties related to this is going to be -- or is at risk of termination or other penalties? Is that how the agents see it?
+BARA: I think that's how the agents see it. It's a step in the right direction, for him to address what exactly he was looking for. But it's not -- it's not confirmation. So, we're looking for confirmation of what we're -- what they're planning to do with this.
+COLLINS: And how do they feel about Kash Patel potentially being on the verge of becoming the FBI director, or Pam Bondi taking over as Attorney General today?
+BARA: OK. I think we're excited to have permanent leadership over at DOJ. We're excited to move forward, and to be able to focus on our work. And we're excited to have leadership at the Bureau.
+And, I think, transitions are tough for organizations. But I think it's -- I think once we get through this, and we can just get back to business, within the FBI, I think we'll all be in a better place.
+COLLINS: Natalie Bara, thank you so much. Keep us updated on what happens in court. We'll obviously be watching that very closely. I also want to turn now to our Senior Legal Analyst. And former Assistant U.S. Attorney, Elie Honig is here.
+Elie, what do you make of where these lawsuits stand, and whether or not these agents will be successful?
+ELIE HONIG, CNN SENIOR LEGAL ANALYST, FORMER ASSISTANT U.S. ATTORNEY, SOUTHERN DISTRICT OF NY: Well, I think the FBI is going to prevail on these lawsuits.
+First of all, most fundamentally, big picture, if any of these actions result in firings, the problem is, nobody did anything wrong. That's not even the allegation here.
+[21:25:00]
+The only allegation is simply, You worked on the January 6 case. Those are now politically disfavored in the new administration. Therefore, if we look at what happened to the January 6 agents, you will be fired.
+And I do not think that will stand up in court.
+Now, to the specific issue that's before the court, tomorrow. The instruction from DOJ leadership to the FBI was, Provide a list of names. And that's likely thousands of names.
+What the FBI gave them instead was the employee numbers, which is the ordinary way you would do this, to preserve and protect agent confidentiality.
+And I thought the last thing that Special Agent Bara said there, Kaitlan, was especially important. She said, We just want to get rid of this distraction, we just want to do the work. That is consistent with basically every FBI agent I've known and worked with.
+COLLINS: Yes, I mean, it was remarkable to hear her talk about that one agent who was -- who was working in the--
+HONIG: Yes.
+COLLINS: --in the Potomac recovery. Obviously, such a grim situation. We talked to the first responders dealing with that. And then, immediately being asked to fill out a survey about their job, as you've noted.
+What about the argument, though, that we are hearing from the White House that it's insubordination, that they didn't just turn over the list of everyone who was involved, that they had to get this questionnaire, instead of just simply getting that list from the FBI. Is there any merit to that, in your view?
+HONIG: It's important to understand, the FBI is in and of the Justice Department. So ultimately, the bosses of DOJ do have jurisdiction over the FBI. What has happened here, though, I think Emil Bove's letter today was way over the top, way too dramatic. It's a soap opera to say, This is insubordination.
+What the FBI did is respond in the normal way that one would respond.
+So, I suppose, if you take that view, technically, the FBI did not do exactly what Emil Bove instructed them to do, but for quite good reason. This could have been resolved far short of a public letter saying that there had been insubordination.
+COLLINS: I want you to listen to something that President Trump said today, as Pam Bondi was being sworn in, inside the Oval Office.
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT, UNITED STATES OF AMERICA: I know I'm supposed to say she's going to be totally impartial with respect to Democrats, and I think she will be as impartial as a person can be. I'm not sure if there's a possibility of totally, but she's going to be as total as you can get.
+(END VIDEO CLIP)
+COLLINS: We saw her in her first full day today, first -- a mostly full day, I guess I should say.
+Elie, what are you watching for, in terms of what the DOJ looks like, under Attorney General, Pam Bondi?
+HONIG: Well, the thing that jumped out to me today, Kaitlan, is essentially Pam Bondi's first act in office is to order an investigation of the January 6, and the classified documents prosecution of Donald Trump. That is an outrageous thing to do on your first day. If you're trying to restore DOJ's equilibrium, and establish this as a non-political place? That is an overtly political quest.
+And, by the way, let me spoil the secret, and tell you how it's going to come out. Someday, six months, eight months, 10, months from now, we're going to get a report, and they're going to say, Those prosecutions of Donald Trump were wildly corrupt and political and improper.
+It won't come out any other way. Keep in mind that many of the bosses of DOJ represented Donald Trump in those very same criminal cases.
+Look, Donald Trump won the election. Those cases were dismissed. They won. They should leave well alone. And I do not think it's good for morale or for the independence of DOJ, for Pam Bondi to come in, on day one, and order that.
+COLLINS: Yes. And this comes as Trump as asking for everything that was seized during the classified documents search at Mar-a-Lago to get that back. We'll see what that looks like.
+Elie Honig, as always, thank you for your insights.
+HONIG: Thanks, Kaitlan. All right.
+COLLINS: Up next. We're going to take a look at the fallout, and the scramble to contain the fallout, from President Trump's stunning announcement about the U.S. taking over Gaza, including this reaction from a Republican senator.
+(BEGIN VIDEO CLIP)
+COLLINS: Senator Tuberville, you have a moment? What are your thoughts on, on the President not ruling out, sending U.S. forces to Gaza? Are you -- would you be OK with that?
+(END VIDEO CLIP)
+[21:30:00]
+(COMMERCIAL BREAK)
+COLLINS: Tonight, officials and allies of President Trump are working to contain the fallout and backlash from his announcement that the U.S. would occupy Gaza, and move the millions of Palestinian people who live there, out.
+Compare what the White House press secretary said today, versus what the President himself announced last night.
+(BEGIN VIDEO CLIP)
+LEAVITT: The President has not committed to putting boots on the ground in Gaza.
+TRUMP: As far as Gaza is concerned, we'll do what is necessary. If it's necessary, we'll do that. We're going to take over that piece.
+LEAVITT: The President has made it clear that they need to be temporarily relocated out of Gaza.
+TRUMP: If we can get a beautiful area to resettle people, permanently, in nice homes and where they can be happy.
+(END VIDEO CLIP)
+COLLINS: Also, listen to what Secretary of State, Marco Rubio, said about the U.S.' plan for Gaza. And then hear for yourself, the President's intentions.
+(BEGIN VIDEO CLIP)
+MARCO RUBIO, UNITED STATES SECRETARY OF STATE: The only thing President Trump has done, very generously, in my view, is offer the United States' willingness to step in, clear the debris, clean the place up from all the destruction.
+TRUMP: The U.S. will take over the Gaza Strip, and we will do a job with it too. We'll own it.
+(END VIDEO CLIP)
+COLLINS: Now, arguing that the President did not say exactly what he said is an all-too-familiar scene that has played out on many occasions over the years. It's part of why I asked the President, last night, in the moment, to clarify exactly what he was talking about.
+(BEGIN VIDEO CLIP)
+COLLINS: Who do you envision living there?
+TRUMP: I envision world -- people living there. The world's people.
+[21:35:00]
+We have an opportunity to do something that could be phenomenal. And I don't want to be cute, I don't want to be a wise guy, but the Riviera of the Middle East, this could be something that could be so -- this could be so magnificent.
+COLLINS: But where do those people go in the meantime, Mr. President?
+(END VIDEO CLIP)
+COLLINS: Republican senators and close allies of Trump's were questioned repeatedly, today, by reporters, on Trump's announcement. And they also had questions of their own, during a meeting with Trump's Middle East envoy.
+In the East Room, after that meeting happened on Capitol Hill, I caught up with Alabama's senator, Tommy Tuberville, on it.
+(BEGIN VIDEO CLIP)
+COLLINS: What are your thoughts on, on the President not ruling out, sending U.S. forces to Gaza? Are you -- would you be OK with that?
+SEN. TOMMY TUBERVILLE (R-AL): Well, we're going to leave it up to him. He's got a plan. We've talked about the plan today at noon.
+COLLINS: What did you hear at lunch today from Steve Witkoff, his adviser?
+TUBERVILLE: Yes, it was good. You know, he gave us all the details of what they've talked about. And something's got to be done. And whether it's us, but I don't think that -- I don't think there's going to be a lot of people who -- our troops to go there, OK?
+COLLINS: Did you tell Steve Witkoff that today?
+TUBERVILLE: Well, look, a lot of people did--
+COLLINS: Oh, really?
+TUBERVILLE: But -- but President Trump knows that he doesn't want to get involved in that militarily. There's just -- it's a no-win situation.
+(END VIDEO CLIP)
+COLLINS: My source tonight was President Obama's White House Chief of Staff, and also represented the U.S., as Ambassador to Japan. Ambassador Rahm Emanuel is here.
+When you are looking at this prospect of what Trump put forth, last night, himself not ruling out using U.S. forces. Is there any other way with Hamas fighters still there, for the U.S. to take over Gaza, without using military force, in your view?
+RAHM EMANUEL, FORMER OBAMA CHIEF OF STAFF, FORMER AMBASSADOR TO JAPAN UNDER PRES. BIDEN, FORMER MAYOR OF CHICAGO: Well, Kaitlan, no, the short answer.
+But look, in 1983, we lost 238 Marines in Lebanon. You know about the Iraq War. We've lost thousands of Americans, and thousands of Americans have had their lives permanently damaged, and we spent over a trillion dollars. Those are the experiences of America going into the Middle East, and trying to remake it in its image with troops and money.
+Now, the idea, that we're going to go spend all that money in Gaza, when you have needs here at home, is crazy.
+The second thing that is really damaging here, Kaitlan, is the fact is the Mideast is perfectly set up for the United States leadership, both on the Israeli-Saudi front, and building on the Abraham Accords.
+And also, Iran is on their back heels, having spent $50 billion in Iran, rather in Syria, and losing it, Hezbollah leadership has been decapitated, they have been significantly degraded. You have Iran on their back heels. You have the rest of the Arab world ready to align with us. And in one comment, the entire credibility of the United States was wiped away.
+Our allies and friends will pay a premium for the predictability of America's leadership. We pay the price, we, America, when our leadership is unpredictable. And that's what just happened. Nobody will align around what could have been and can be a significant gain for America's leadership in the Middle East, and put it in place. And I think this is incredibly damaging.
+You look at Iraq. That's a trillion-plus dollars. Thousands of Americans died. Thousands of American troops have had their lives permanently damaged on a lie.
+You're going to go into Gaza? Where? How? With who? With what money? Who's our forces? It's already -- they're already walking away.
+COLLINS: Well it's just--
+EMANUEL: The Donald Trump's administration, within 24 hours, are going to fold like a cheap suit. COLLINS: Yes, it's just remarkable, because we have heard -- I mean, as someone who has covered Republicans, for the last eight years, they have been so against nation-building, or going into the Middle East. I mean, Trump was the one who signed the agreement with the Taliban, on getting U.S. forces out of Afghanistan that President Biden followed through on, when he took office.
+And so, just to hear that comment. I wonder, what did you see in the responses that we got from Capitol Hill today, downright skeptical from some Trump allies. With others, like House Speaker, Mike Johnson, praising it, saying, Well, what's happened there before hasn't worked, so maybe this will.
+EMANUEL: Well, look, having been by President Clinton, President Obama's side, having worked on both from the Oslo Accords, to the Wye Plantation agreement, to the signing in Aqaba between Israel and Jordan, this -- the Middle East, given what has happened over the last year, for America's leadership, you are on the praecipe, both on the historic agreement between Israel and Saudi Arabia.
+Just think of it from Saudi Arabia's position. MBS' leadership, the head of Saudi Arabia, the Prince in Saudi Arabia, is the young of Saudi Arabia. You have made a difficult deal harder for him, because you've now placed the United States in a position, as it relates to doing something with the Palestinian people that is going to make his domestic politics all that much harder.
+Second. The only people smiling right now in the Middle East is Iran. Because they were degraded in Syria. They have been degraded in Lebanon. And their entire anti-missile system, air to -- rather ground-to-air missile system has been decimated.
+[21:40:00]
+You took them out of the corner, because America's allies now are questioning America's leadership, and the predictability around that leadership, and the consistency of that leadership. So, the only people that are actually walking around, how we fighting each other, and spiking the ball, is Iran.
+Our allies from Egypt, Jordan, Bahrain--
+COLLINS: Yes.
+EMANUEL: --Oman, UAE, Qatar, Saudi Arabia, are taking a double take--
+COLLINS: Well and also--
+EMANUEL: --and they're condemning what the American President just said.
+So, when you think of leadership, and you also think of something, first of all, that everybody's double-backed and trying to walk back, it is a -- it is a real hit on the credibility of the United States. And in the foreign policy, national security, like all politics, people's trust in you is essential to the currency you work on. And he just degraded America's currency.
+COLLINS: Yes, well, I mean, also the far-right members of Netanyahu's government seem to be pretty happy.
+But can I ask you, because we've heard from some Democrats on this. John Fetterman was saying he's open that it's a provocative idea.
+But just on the Democratic Party overall, and how they're handling Trump round two. The New York Times was reporting tonight that Senator Schumer is now telling and urging fellow Democrats to vote against all of Trump's remaining nominees, in protest of what they doing to the federal government.
+You can look, right now, at the Senate floor. A marathon of speeches are happening that they are doing, to delay the confirmation of his Office of Management and Budget Director. He will eventually get -- Russ Vought will get confirmed, because Republicans have the majority.
+But do you think Democrats are handling Trump in the right way?
+EMANUEL: No -- I mean, first of all, yes and no. So, let me give you a little on the no-part.
+I understand, as a former ambassador, USAID played an essential role in the office, and I understand the important role it plays in our national security and our foreign policy.
+But the first protest is at the USAID office. Why is it not at the Department of Education, where the Trump administration has decided to close down, the very week -- close down the Department of Education, the very week we got a report that eighth graders, 30 percent cannot read at eighth grade level, the highest in 30 years. Nobody in Washington is talking about the American kids and their future.
+Now, I get the importance, personally of USAID--
+COLLINS: Trump might argue that's why he's doing it.
+EMANUEL: No, I understand -- no, what he -- well no, what he's doing is focusing on the--
+COLLINS: What would you say to that?
+EMANUEL: --letters D, E and I.
+I want to focus on reading, writing and arithmetic. That's what schools are about. And we need to, in that area, put a line in the sand.
+Now, I generally, there are some things you're going to have litigation about, certain things you're going to have communication about, and certain things you're going to have mobilization about. And you got to decide which ones you want to focus.
+We do -- as Democrats, don't have the White House, don't have the Supreme Court, don't have the gavels in the House and the Senate. OK? So you have a limited amount of arsenal, and you have to pick and choose selectively, and strategically, as you build your profile. So, on certain things, on the nominations, that is the right approach to do.
+Now, I remind everybody, as former White House Chief of Staff for President Obama, the Democrats in the Senate had 47 votes. In 2009, the Republicans had 41. And Mitch McConnell said to the Republican caucus, Barack Obama gets not one thing. Now he made, with 41 votes, our life miserable. We start with 47 and what, in my own view, in the Senate, and four votes away in the House from a majority.
+Now, the other piece, I would note that I think is relevant here, and Donald Trump is making in his presidency, in his administration, a classic mistake. He did not get a majority. He got a plurality. No matter how many times he says he's gotten a mandate, he never got a mandate. And all the data shows that. And three, he is dropping in the poll numbers. He is not invincible.
+But as we build up as a Democratic Party, and show and contrast where we are differ from, I think there are places to do that, that are advantageous.
+Classic example? The Secretary of Treasury went and testifying. The very week in which CEOs were announcing that their pay packages were going up 30 percent, 40 percent, 50 percent, he came out against the minimum wage.
+Now, that is definitional for the Democratic Party, and it's a definitional fight. You mean we're against the minimum wage, and CEO pay is up 30 percent, 40 percent, the very people that were at your inaugural? That dog won't hunt. That's what we should be saying. Education, minimum wage, pick those areas.
+I'm not against the USAID. I don't want a lot of hate mail, next day. I'm not against it. Just not the fight you got to engage in. That's not where--
+COLLINS: Well--
+EMANUEL: --you have your protest about.
+COLLINS: You're used to hate mail. You've gotten that before. You'll be fine.
+Rahm Emanuel.
+EMANUEL: Yes, that's usually from my family.
+COLLINS: As always, great to have you. Thank you for sharing your expertise with us.
+EMANUEL: Thank you.
+COLLINS: Coming up. My White House insiders are here, after we saw Trump today, surrounded by women and young girls, signing an executive order banning transgender people from competing in women's sports. [21:45:00]
+(COMMERCIAL BREAK)
+COLLINS: Tonight, a central promise to President Trump's reelection campaign became a reality, inside the White House, after he signed this executive order here, banning transgender women from women's sports.
+(BEGIN VIDEO CLIP)
+TRUMP: We will defend the proud tradition of female athletes, and we will not allow men to beat up, injure and cheat our women and our girls.
+But all of that ends today, because with this executive order, the war on women's sports is over.
+(CHEERING)
+(APPLAUSE)
+(END VIDEO CLIP)
+[21:50:00]
+COLLINS: My deeply-sourced White House insiders are here tonight.
+Shelby Talcott is a White House Correspondent for Semafor.
+And Dasha Burns is Politico's White House Bureau Chief.
+Shelby, you were in the room today. What were your takeaways, just after seeing Trump, talking about this on the campaign trail, to animate his base, and then inside the room tonight?
+SHELBY TALCOTT, WHITE HOUSE CORRESPONDENT, SEMAFOR: Yes, I think it shows that a lot of what Donald Trump said on the campaign trail are actual campaign promises that he plans to implement. And I think that's not the case always, when we see people going out and lobbying for people's votes for two years. But in this case, it is.
+And I also think it's notable, because the social issues are central to this presidency so far, and they were, in a way, central to Donald Trump's win. This is not the only social issue executive order that he has signed already, two weeks into his presidency.
+COLLINS: But there is a question of how the executive orders are clashing up against one another. Because basically what this does is authorizes the Department of Education to withhold federal funding from schools that don't comply with this executive order. And we've seen some schools say, Yes, we will, and some say, No, we won't.
+But Ed O'Keefe from CBS had a great question at the briefing today, about what this means, and what happens--
+DASHA BURNS, WHITE HOUSE BUREAU CHIEF, POLITICO: When they want to dismantle the Department of Education, right?
+COLLINS: If they get rid of the Department of Education.
+Here's that moment today.
+(BEGIN VIDEO CLIP)
+LEAVITT: As of now, this will be enforced through Education, through Title IX, is if the abolishment of the Department of Education continues, which, as the President said yesterday, it's something his team is looking at and considering, it's something he talked a lot about on the campaign trail, then of course, we will look at additional maneuvers to ensure that these very important policies can be -- can be implemented.
+(END VIDEO CLIP)
+COLLINS: And it is a question of how do you enforce this if it doesn't exist, if the Department of Education doesn't exist any longer.
+BURNS: Yes, it's a great question. And that very well might be the case. I mean, he has been doubling down on this.
+One of the sources I was talking to today pointed out, this is a Republican and a Trump ally, that actually a bunch of these executive orders he's signing don't necessarily have that much weight, like they are not going to meaningfully make any policy change. Congress needs to take some action. There need to be other levers of power that are pulled. This relies on Title IX. We'll see where that goes.
+But what the source did say to me is that what's happening at that desk, when he signs these orders, is a cultural and ideological message, and people outside of the public sector are listening.
+People -- companies are dismantling their DEI initiatives. That's not an executive order, but they're taking their cue from Trump. They're dismantling environmental and climate protections. They're changing gender-related policy.
+So, it's both symbolic, in some cases, actual policy change, and in a lot of cases, a cue from Trump that other companies and people are listening to.
+COLLINS: And he also had a lot of his Republican allies inside the room. I mean, there's always Republican lawmakers who were there. But I was looking around Republican governors, including the Governor of Virginia, Governor of Texas, were there. A lot of House Republicans who were there, who have been talking about this on the trail as well.
+TALCOTT: Yes, and I think -- you know, when I talk to people, close to the White House, they've pointed that out as well.
+And one of the things they've noted throughout all of these executive orders is that, for the most part, right now, Donald Trump has the Republican Party behind him, in a way that he didn't during his first term. And so, that alone is different. And Dasha, when you talk about some of these orders do not necessarily -- they're more sort of emotional and symbolic. The Trump administration feels that that matters, that it doesn't necessarily matter how much actual impact. Because, as you said, Donald Trump is signing these orders, and people are taking their cue from him, right now, and the White House is happy with that.
+COLLINS: Yes, we'll see what that looks like.
+Shelby Talcott. Dasha Burns. Great to have you both here, tonight, with your reporting.
+Up next. A lot has been going on, as we noted, in these first few weeks of Trump's second term. In our next segment, The Source Code, we're going to dig into an interesting number tying to one of his biggest promises on the campaign trail, immigration.
+[21:55:00]
+(COMMERCIAL BREAK)
+COLLINS: Tonight's Source Code is 461. According to the White House, that is the number of undocumented immigrants that have been detained, and then released back into the United States.
+(BEGIN VIDEO CLIP)
+LEAVITT: There have been a total of 461 illegal aliens, this is of this morning, when I got this information from DHS, that have been released from custody of the more than 8,000 that have been arrested since President Trump was inaugurated.
+(END VIDEO CLIP)
+COLLINS: The press secretary, Karoline Leavitt, says the reasons for releases include medical conditions, lack of detention capability, meaning beds, and a lack of significant likelihood of removal in the foreseeable future.
+It's really an example of reality colliding with some of Trump's most ambitious plans, of ending catch and release, totally. It was a signature part of his immigration crackdown, and one of his first executive orders that he signed, upon taking office.
+(BEGIN VIDEO CLIP)
+TRUMP: I will end the practice of catch and release.
+We have successfully ended catch and release, and we are deporting -- we're deporting 100 percent of all new trespassers apprehended.
+STEPHEN MILLER, WHITE HOUSE DEPUTY CHIEF OF STAFF: You've gone from a policy of catch and release to no-release within a single-day shift. And we are removing individuals more quickly, and more efficiently, than it's been done any point before in American history.
+TOM HOMAN, PRESIDENT TRUMP'S BORDER CZAR: End catch and release, that needs to happen Day One.
+DONALD TRUMP JR., AMERICAN BUSINESSMAN, PRESIDENT DONALD TRUMP'S SON: All right.
+HOMAN: If you come in through the border, you're going to be detained or removed. Because if you end catch and release, they'll stop coming.
+(END VIDEO CLIP)
+COLLINS: Now, this is just one data point on Trump's mass deportation plan, and frankly, one that shows despite campaign promises to totally end catch and release, they're unable to do so, sometimes, because of the law.
+[22:00:00]
+You heard from Trump's border czar, there, Tom Homan, who has turned to Congress, and said, they need money, to build more detention facilities, to house undocumented immigrants that they plan to arrest and deport. Once they do so, you need somewhere to put them.
+So far, the Department of Homeland Security says there's nearly 6,000 migrants have been deported or removed.
+Thank you so much for joining us tonight, for that. And more news coming, tomorrow night.
+For now, "CNN NEWSNIGHT WITH ABBY PHILLIP" is up next.
+
+Load-Date: February 6, 2025
+
+
+End of Document

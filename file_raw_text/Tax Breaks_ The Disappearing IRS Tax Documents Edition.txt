@@ -1,0 +1,133 @@
+
+
+
+
+
+Forbes.com
+February 1, 2025 Saturday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 3170 words
+Byline: Kelly Phillips Erb, Forbes Staff
+Highlight: Plus: First-time filers, tax refund checks, new tax-related scams, IRS job rescissions, federal estate taxes, tax filing deadlines, industry updates, and more.
+Body
+
+
+<figure>
+<figcaption>
+As a kid, I loved messages that disappear. As an adult, not so much.
+getty
+</figcaption></figure>
+When I was a kid, I used to love the idea of disappearing ink. I remember dipping a small paintbrush into lemon juice and writing very, very important messages to my friends. As the  ink  dried, it was no longer readable unless you had the top secret  key  heating the paper up to make the letters reappear (don t tell my mom, but without matches, the plan involved holding the paper close to an old school light bulb to make the lemon juice turn brown).
+It s a pretty fun trick when you re a kid.
+But having the text of important documents disappear as a grownup? That s less exciting and more concerning. And yet, that s precisely what happened to many tax professionals this week. Sections of the IRS  Internal Revenue Manual weretaken offline( ) some as users were reading them.
+The Internal Revenue Manual (IRM) details how the agency works and is a blueprint for not only IRS employees but also tax professionals. IRM provisions aren t laws and aren t intended to be treated as such they do, however, provide insight into how IRS agents and officers may regard a certain tax matter or criteria in an exam or collections action.
+The missing pages, which were first flagged on social media, were removed as part of a review to ensure that the manual complies with President Trump s January 22 executive order which, among other things, terminates  diversity, equity, and inclusion (DEI) discrimination  in the federal workforce, and federal contracting and spending.
+Predictably, pages directly related to DEI are missing and sections focused on human resources and language initiatives were taken down. However, some pages that no longer appear online like those related to Offers in Compromise don t appear to fit that description. That s because the method used to comply quickly a word search for certain terms flagged a broader set of content, according to a source. The search was needed because the IRM is massive and because the order applies to web pages, forms, and other IRS documents.
+The IRS is referring to the missing sections as simply under review. So far, however, there s no public target date for any of the material to be reposted.
+(Unlike my childhood trick, holding your laptop up to a lightbulb will not make it reappear.)
+Last week, I reportedthat Trump issued an executive order freezing hiring for most federal agencies. I noted that the freeze is intended to be temporary except for the IRS. With respect to the tax agency, the hiring freeze will remain in place until the Secretary of the Treasury, in consultation with the Office of Management & Budget (OMB) and DOGE, "determines that it is in the national interest to lift the freeze." (DOGE, you ll recall, is the effort headed up by Elon Musk, the world s richest man. The initials stand for the Department of Government Efficiency.)
+According to the official IRS jobs website, candidates with offers with a start date on or before February 8, 2025, will be allowed to proceed with the onboarding process but those with a start date after February 8, 2025, or an unconfirmed start date, will have their offers revoked. Job postings on USAJOBS.gov and similar websites have also been removed.
+Several of those impacted by the freeze have posted messages on social media, including law professors trying to find jobs for students who are now out of luck. But many aren't talking to the press, fearful of reprisals.
+As for existing IRS workers? Last week, Trump suggested he might fire IRS employees or send them to the border.
+When asked for comment, former IRS Commissioner Chuck Rettig who was appointed in Trump s first term issued a lengthy statement toForbes, noting, among other things, that  Every type of hiring freeze has an impact, and this will be no different. Of those who interact with the IRS, the vast majority do so in an effort to be in compliance with their filing and payment responsibilities. As such, to the extent possible, the IRS is likely to continue shifting important human resources away from enforcement and into taxpayer services and overall operations support. IRS employees care deeply about the country and will not abandon their mission.  You can read the statement in its entirety together with details about the rescissionshere.( )
+Of course, all of this happened during the first full week of tax season when tax professionals were busy fielding questions including when to expect Forms W-2 and Forms 1099. For most taxpayers, those forms should have been in hand by January 31, 2025 but if yours didn t show up, you may need to go online or make a few phone calls. You can find a list of forms and due dateshere. ( )
+The wild week and maybe some wishful thinking created confusion among some taxpayers about whether they still needed to file their 1040s and pay their taxes. I can report with certainty: Yes,you must still file. ( ) The IRS is open for business (if you re at a loss about getting started, you ll find some tax filing basics for first-timers and repeat filers alikehere).
+Of course, now that the tax season is open, scammers hope that distracted taxpayers will click on malicious links or provide personal information that can be used to steal their identities. One version of these scams is a text message advising taxpayers that they may be eligible to receive a $1,400 Economic Impact Payment if they click on a link and provide their information. As with many scams, the message contains a kernel of truth enough to entice taxpayers to click.
+Yes, it is true that the IRS recently indicated that over one million eligible taxpayers may have failed to claim the Recovery Rebate Credit (RRC) on their 2021 tax returns. And it is true that the agency istaking steps nowto mail out those payments, which vary but are a maximum of $1,400 per individual. That bit of truth is enough to get some normally careful taxpayers to click on the link in the text. Don t do it! If you are truly an eligible recipient, the IRS will automatically pay you. You don t need to do anything, including clicking on any links sent via text, email, or social media that s a trick. ( ) Let s be careful out there.
+Next week, we ll have more information on scams, including one so outrageous that it was made into a docuseries. I ll also catch you up on what I m doing to get ready for Alaska (spoiler alert: I m trying out dehydrated foods).
+Finally, thanks to all of you who watched, commented on, and shared the first episode of the Forbes Tax Breaks podcast. If you missed it, you cancatch up here. We ll have the next one available soon.
+Enjoy your weekend,
+Kelly Phillips Erb (Senior Writer, Tax)
+Articles marked with( ) are premium content and require you to log-in with your Forbes membership credentials. Not a subscriber yet?  to sign up.
+Questions
+<figure>
+<figcaption>
+Refund checks are on hold for some taxpayers until February 15.
+getty
+</figcaption></figure>
+This week, a reader asked:
+I know the IRS holds your refund when you claim the Earned Income Tax Credit, but when can I expect mine?
+The IRS expects to issue most refunds in less than 21 days, assuming you file electronically, rely on direct deposit, and have no issues with your return.
+That said, you re right that the IRS holds some refunds. As a result of the 2015  Protecting Americans from Tax Hikes Act  often just called the PATH Act the IRS must wait until February 15 to issue refunds to taxpayers who claimed the earned-income tax credit (EITC) or the additional child tax credit (ACTC). The extra time allows the IRS to match forms on their end with information reported by taxpayers, all in an effort to prevent fraud.
+This year, the IRS expects EITC and ACTC-related refunds to be available in taxpayer bank accounts or on debit cards by March 3 some taxpayers could see their refunds a few days earlier. That estimate is based on processing times, allowing for Presidents  Day, which is a federal and bank holiday.
+If you claim EITC or ACTC, you can track your refund status using the  Where s my refund?  app or tool on the IRS website you should expect to see an update on or around February 22.
+And remember that your refund will be issued in one piece the IRS isn't allowed to release the part of the refund that is not associated with the EITC and ACTC early.
+ 
+Do you have a tax question or matter that you think we should cover in the next newsletter? We d love to help if we can.Check out our guidelines and submit a question here.
+Statistics, Charts, And Maps (Oh My!)
+We know that the IRS expects 140 million individual federal income tax returns to be filed by Tax Day, April 15, 2025 (an additional 20 million or so, including those on extension or simply filed late, will be filed by the end of the year).
+But do you ever wonder how those numbers stack up with other income tax returns filed with the IRS?
+<figure>
+<figcaption>
+Federal Income Tax Returns Filed By Type
+Kelly Phillips Erb
+</figcaption></figure>
+The IRS processed almost 271.5 million federal tax returns and supplemental documents in fiscal year 2023. Of those, about 179 million were income tax returns the lion s share of which were filed by individuals. S corporations came in a very (very) distant second, followed by partnership, estate and trust, and C corporations in that order.
+How does that translate into dollars?
+Individual income tax payments (including those made through withholding) totaled almost $2.6 trillion before refunds in fiscal year 2023. By comparison, the IRS collected just $457.0 billion in income taxes, before refunds, from businesses. In other words, individuals paid more than five times as much as businesses in income taxes.
+A Deeper Dive
+<figure>
+<figcaption>
+In this life, there's nothing certain but death and taxes.
+getty
+</figcaption></figure>
+Benjamin Franklin famously said,  In this world, nothing is certain except death and taxes.  (Ironically, he died five months later.)
+The federal estate tax combines both of those things it s a tax on the right to transfer property at your death. But with a federal estate tax exemption climbing to $13,990,000 per person (or $27,980,000 per married couple)in 2025, very few estates are subject to the tax. According to estimates from the Tax Policy Center, just over 7,100 estate tax returns are expected to be filed for taxpayers who died in 2023, and just 4,000 of those estates would owe tax. Bottom line: just 0.2% that s a fifth of one percent of deaths in 2023 will result in federal estate taxes.
+One reason other than the obvious dollars that few people pay federal estate tax is estate planning. There are legitimate planning techniques that allow families to pass wealth to the next generation while avoiding (or reducing) the federal estate tax owed. One of those is aqualifying terminable interest property or QTIP trust.
+A QTIP trust allows a surviving spouse to receive income from the trust s assets during their lifetime, with the principal or remainder of the trust passing to other designated beneficiaries, such as children or other family members, after the surviving spouse s death. It has uses outside of taxes, too, including for couples who each have children from another marriage, since it allows the first spouse to die to provide for the surviving spouse throughout the remainder of the survivor s life, while also identifying the separate children as beneficiaries after the second spouse s death.
+For estate tax purposes, when the first spouse passes away, the assets transferred into a QTIP trust qualify for the marital deduction this means that a surviving spouse does not have to pay federal estate taxes on assets which pass to them, instead deferring tax until the death of the surviving spouse. Without a QTIP trust, if the deceased spouse s gross estate were to exceed the available basic estate tax exclusion, the deceased spouse s estate could be subject to estate tax on their death.
+The marital deduction doesn t typically apply to non-citizen surviving spouses. Enter thequalified domestic trust, or QDOT. The QDOT rules allow a decedent to leave assets to their non-citizen spouse without triggering estate taxes at death. Instead, the tax is deferred until the surviving spouse s death. To qualify, assets must be held in trust for the benefit of the surviving spouse, with a U.S. citizen or corporation serving as trustee. The balance of the trust must be included in the non-citizen spouse s estate at their death. This arrangement solves the problem that Congress envisioned where non-citizen spouses take the money from the first spouse s death and flee to their native country (without ever being subject to U.S. estate taxes).
+As U.S. policies on immigration tighten, the focus on limiting benefits for non-citizens is likely to intensify. The government s efforts to curb immigration benefits could extend to various estate planning tools like the QDOT. If lawmakers target these types of trusts, or even the ability to pass on assets tax-free to a non-citizen spouse, individuals may need to act quickly.
+Foreign individuals with U.S. property may also be subject to the U.S. estate tax. Fortunately,estate tax treatiesthat aim to minimize double taxation, a common issue when two jurisdictions claim taxing rights over a decedent s assets. The United States has negotiated estate and gift tax treaties with 14 countries, alongside an income tax treaty with Canada that includes estate tax provisions. These agreements vary significantly in scope and applicability, requiring careful examination of specific treaty terms.
+So, does all of the recent focus on the estate tax mean that it s a goner? While it s on a House GOP wishlist for elimination, there are some practical and political challenges. Under current law, eliminating the estate tax would result in a loss of revenue repealing the tax without offsetting revenue gains would likely violate the Byrd Rule (remember reconciliation?). Public opinion has generally been divided on the issue,making repeal of the estate tax unlikely. Recent comments from GOP Congressional leadersreflect uncertaintyon the appropriate timing of a federal tax reform bill.
+(Fun fact: The estate tax has been repealed in one form or another four times most recently, a one-year reprieve in 2010 as part of the Bush-era tax cuts. The estate tax returned from the dead in 2011, with an exemption of $5 million, indexed for inflation.)
+Tax Filings And Deadlines
+  February 3, 2025. Due date for individuals and businesses affected by Hurricanes Beryl and Debby (more infohere( ) andhere( )), those inSouth Dakotaaffected by severe storms, straight-line winds and flooding that began on June 16, 2024, taxpayers in Puerto Rico affected byTropical Storm Ernesto, and those individuals and businesses in Connecticut and New York affected bysevere storms and floodingfrom torrential rainfalls that began on August 18, 2024.
+ April 15, 2025. Due date for most taxpayers to file an individual tax return or apply for an extension.
+ May 1, 2025.Due date for individuals and businesses in the entire states of Alabama, Georgia, North Carolina, and South Carolina and parts of Florida, Tennessee, and Virginia affected bysevere storms and flooding from Hurricane Helene( ) andHurricane Milton.
+ September 30, 2025.Due date for individuals and businessesimpactedby terrorist attacks in Israel.
+ October 15, 2025.Due date for individuals and businesses affected bywildfires and straight-line winds in southern Californiathat began on January 7, 2025. Currently, individuals and households that reside or have a business in Los Angeles County qualify for tax relief. The same relief will be available to any other counties added later to the disaster area.
+Tax Conferences And Events
+ February 19-21, 2025.ABA Tax Section 2025 Midyear Tax Meeting. JW Marriott Los Angeles L.A.Registration required.
+ May 13-14, 2025.National Association of Enrolled Agents 2025 Capitol Hill Fly-In, Washington, DC.Registration required(NAEA members only).
+ July 21-23, 2025.National Association of Tax Professionals Taxposium 2025, Caesars Palace, Las Vegas.Registration required.
+Trivia
+The prospect of an audit may be scary, but the data suggest that your odds of being chosen are slim. According to the most recent IRS Data Book, the average IRS audit rate is 0.44% of individual tax returns about 1 out of every 227 people. That means that you are more likely to do which of the following than be audited:
+(A) Find a four-leaf clover
+(B) Die from a bee, hornet, or wasp sting
+(C) Win a prize in Powerball
+(D) Get struck by lightning
+Find the answer at the bottom of this newsletter.
+Positions And Guidance
+The IRS has publishedInternal Revenue Bulletin 2025-05.
+Noteworthy
+Wiggam Lawhasannouncedthe addition ofRichard Nessleras legal counsel specializing in tax litigation and IRS controversy matters. With over 20 years of experience, Nessler has represented multinational corporations, financial institutions, family offices, and high-net-worth individuals in complex tax disputes.
+Kostelanetz LLPannouncedthatEduardo A. Cukierhas joined the firm as a counsel focused on corporate, international, and high-net-worth tax planning and transactions. Cukier brings more than two decades of experience in transactions-based domestic and international tax practice.
+Carolyn Ann Tavenner, 74, of Fort Worth, Texas, passed away on January 27, 2025. In the 1980s, Tavenner was known as the  Mother of the 1040-EZ , which she led in developing. She continued to serve the IRS for five decades, including as the Project Director for the Tax Reform Implementation Office. During her career, she was the recipient of five Commissioner Awards and two Presidential Rank Awards. I had the honor to sit next to Tavenner at an IRS luncheon some years ago. She was kind enough to share her story with me you canread more about her here.
+ 
+If you have tax and accounting career or industry news, submit it for consideration  or email me directly.
+In Case You Missed It
+Here's what readers clicked through most often last week:
+IRS Announces 2025 Tax Filing Season Will Open On January 27
+Trump Picks Former Representative Billy Long As Next IRS Commissioner ( )
+You can find the entire newsletterhere.
+Trivia Answer
+The answer is (C).
+<figure>
+<figcaption>
+You're more likely to win a Powerball prize than be audited.
+getty
+</figcaption></figure>
+Your oddsof winning a prize in Powerball are one in 25, or about 4%. (The odds of winning the jackpot are one in 292.2 million.)
+Your chances of finding a four-leaf clover are one in every 10,000 clovers, while your chances of dying from a bee, hornet, or wasp sting are one in 59,507. Your chances of being struck by lightning in any given year are one in 1,222,000.
+Feedback
+How did we do? We'd love your feedback. If you have a suggestion for making the newsletter better, submit ithereoremail me directly.
+IRS Announces 2025 Tax Filing Season Will Open On January 27
+Trump Picks Former Representative Billy Long As Next IRS Commissioner ( )
+
+Load-Date: February 2, 2025
+
+
+End of Document

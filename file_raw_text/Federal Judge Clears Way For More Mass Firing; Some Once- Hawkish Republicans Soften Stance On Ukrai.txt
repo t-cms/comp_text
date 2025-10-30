@@ -1,0 +1,333 @@
+
+
+
+
+
+CNN The Lead with Jake Tapper 5:00 PM EST
+February 20, 2025 Thursday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; Domestic
+Length: 10109 words
+Byline: Jake Tapper, Kaitlan Collins, Rene Marsh, Jim Schultz, Ed Lavandera, Sanjay Gupta, Oren Liebermann, Cornel West
+Guests: Michael Scherer, Neera Tanden, Markwayne Mullin, Cornel West
+Highlight: A federal judge cleared the way for the Trump administration to carry through with mass firings of probationary federal workers. Separately, Secretary of Defense Pete Hegseth could soon move to fire more than half a dozen generals and flag officers, while the Internal Revenue Service is expected to fire about 6,000 workers today, according to sources. As President Trump turns his back on Ukraine, a democracy and U.S. ally publicly denounces its leaders a dictator. Many were standing by the Ukrainian people and President Zelenskyy and push President Biden at the time to send more aid. They criticized Biden for not being aggressive enough, for not permitting Ukraine to attack Russia in Russia for holding back on certain key weaponry, and on and on. Senate confirms Kash Patel to lead the FBI in a 51-49 vote. A young girl's death by suicide is being investigated by school police after her mother says she was bullied by other students who hurled insults at her, claiming her family was in the U.S. illegally.
+Body
+
+
+(COMMERCIAL BREAK)
+[17:00:15]
+JAKE TAPPER, CNN HOST: Welcome to The Lead. I'm Jake Tapper. This hour, CNN exclusive, you're going to see right here on The Lead, an up close look at an Iranian drone brought onto American soil in an attempt to convince MAGA conservatives the need to get tough on Iran. We're going to have a live report ahead.
+Plus, mixed messages. President Trump moving forward with celebrating Black History Month. At the same time he continues his war against diversity programs. Can he really play both sides of the same coin?
+And leading this hour, intelligence officials appear to be walking a thin line as President Trump maintains his inaccurate claim that Ukraine started the war with Russia. We're going to start this hour with CNN's Kaitlan Collins at the White House.
+Kaitlan, you asked the brand new national security advisor, former Republican Congressman Mike Waltz, if he agreed with President Trump's view of Russia and the Ukraine war.
+KAITLAN COLLINS, CNN ANCHOR: Yes, Jake. And the reason we ask this primarily in part is because obviously that is the argument that Trump has been making baselessly that Ukraine started this war. Mike Waltz himself was a former congressman. He has written extensively about Russia's war in Ukraine over these last three years as he's been a congressman here in Washington and made trips to Ukraine. And at one point he also wrote saying that Putin was clearly to blame for what is happening in Ukraine, much like Al-Qaeda was responsible for what happened on 9/11.
+I asked him inside the briefing room today if he still feels that way or if he now shares the views that President Trump has been repeating in recent days, suggesting it is Ukraine that is to blame for this war.
+(BEGIN VIDEO CLIP) COLLINS: You wrote in an op-ed in the fall of 2023 that, quote, Putin is to blame, certainly like al Qaeda was to blame for 9/11. Do you still feel that way now or do you share the president's assessment as he says Ukraine is to blame for the start of this war?
+MICHAEL WALTZ, NATIONAL SECURITY ADVISER: Well, it shouldn't surprise you that I share the president's assessment on all kinds of issues. What I wrote as a member of Congress was as a former member of Congress. Look, what I share the president's assessment on is that the war has to end. And what comes with that, what comes with that should be at some point elections. What comes with that should be peace.
+What comes with that is prosperity that we just offered in this natural resources and economic partnership arrangement, an end to the killing and European security and security for the world. The president's not only determined to do that in Europe, he's determined to do it in the Middle East.
+(END VIDEO CLIP)
+COLLINS: So, Jake, sidestepping that question in the essence of who is responsible and who is ultimately to blame for this war, he was asked by another reporter as well, if Zelenskyy or Putin bears more blame, sidestep that as well. As he is one of the lead negotiators, I should note, when it comes to sitting down with senior Russian officials in Saudi Arabia recently amid real questions about what this looks like going forward, one thing he did make clear, Jake, there and that he did answer inside that briefing room was he was saying that President Trump is frustrated with President Zelenskyy, which was quite clear in his Truth Social post yesterday.
+But the question that remains is how it has a lasting effect on these negotiations and what it looks like for Ukraine as they are at the table and whether or not agreements like this mineral agreement that the Treasury secretary traveled to Kiev and produced to President Zelenskyy, whether or not that gains any traction and goes anywhere and what this looks like going forward, including with the makeup of his national security team, Jake.
+TAPPER: All right, Kaitlan Collins at the White House, thanks so much. Look for Kaitlan and more of her reporting on "The Source with Kaitlan Collins." That's tonight at 9:00 Eastern here on CNN.
+This afternoon, a federal judge cleared the way for more mass firings in the U.S. government after several federal workers unions lost their court bids to stop Trump administration termination. CNN's Rene Marsh is with us.
+Rene, what exactly did this judge rule?
+RENE MARSH, CNN CORRESPONDENT: These labor unions asked this federal judge to put a pause on Trump's mass firing of these probationary employees, but the unions did not win. So for now, the Trump administration can move forward with these mass firings. And the judge simply said that there were more appropriate channels for the unions to bring this particular claim and that he lacked jurisdiction in the review of this particular case. But the judge did appear sympathetic to the workers and what they are going through at this moment, Jake.
+TAPPER: And the IRS is expected to fire about 6,000 workers today, less than two months before the April 15 tax deadline. What's going on there?
+MARSH: So those firings are underway as we speak. We know that IRS employees who I've been speaking to throughout the day, they are describing chaotic scenes, heightened security. Federal officers and officers from Department of Homeland Security positioned inside and outside of IRS buildings in the Atlanta area as emotions are just running extremely high. And this is playing out at tax agency locations across the country. One employee tell me that people are arguing with management, throwing books, kicking chairs in frustration, this source said.
+[17:05:04]
+The bottom line is this wasn't handled with care, and these are people who have no idea where their next paycheck will come from, Jake. Again, lots of emotion running high at these agencies. We did reach out to the agency, and we have not heard back. Back to you.
+TAPPER: All right, Rene Marsh, thanks so much. Appreciate it.
+Let's dive in with our panel. Michael, you're part of a team of reporters for the Atlantic magazine. You interviewed more than two dozen federal workers about what's going on with DOGE, the Department of Government Efficiency, going into government agencies telling them, the agencies, to get rid of people. I want to read this one quote from one formal federal worker, "At present, every hacker in the world knows there are a small number of people new to federal service who hold the keys to access all U.S. government payments, contracts, civil servant personal info, and more. DOGE is one romance scam away from a national security emergency." What did you learn from talking to these employees impacted by these cuts?
+MICHAEL SCHERER, STAFF WRITER, THE ATLANTIC: Well, so DOGE is both everything and nothing at the same time. You know, even Elon Musk says he doesn't work for DOGE, even though he's running this thing. The technical DOGE team is a technical team. And what Musk has brought to the federal workforce, the whole federal government, is this idea that to control government, we start with the computers, we start with the databases, we start with the terminals. If we control the terminals, then we can turn off or on whatever we want.
+We don't have to worry about the way governing is normally done, which is through general counsel's offices and edicts and memos. And so, what we found was that his initial strike forces of people working directly for him were going really at the technical staff in each of these agencies. That's why you've had so much debate over whether you can get access to the databases in various places. And that concern that was, you know, reflected there is that if they take control of those data sets, if they have access to all that information directly, that does open up a new security threat. You know, those data systems are really hardened against outside attacks, are not really hardened against inside attacks. And these are all new people to govern. Many of them are special government employees. They have private sector work they're still doing on the outside or allowed to do, and they haven't fully joined the federal workforce.
+TAPPER: Jim, I presume that you support winnowing the federal workforce, but do you have any issues with how this is being done?
+JIM SCHULTZ, CNN LEGAL COMMENTATOR: No. Look, I think any business, and look, government is not business, but any business that looks at it and it needs to downsize, needs to right size its business. It has -- when it's as massive as the federal government, you have to take some drastic measures if you want to have real impact. And yes, they're going to break some glass. And yes, you're seeing some of the -- it's not a very popular thing to do.
+It's not popular doing business either. But the weather -- I don't have a problem at all about the way they're going about it. I think they're doing it surgically, going in and making determinations on who needs to go. The fact that they're special government employees, they still have to go through background checks, they still have to get through -- go through a process. I don't have any concern whatsoever that they're special government employees.
+Look, there's new people that come to government with every administration. But the fact that these folks are quote unquote, "special government employees" and not full time employees I think is a good thing. That means they're not staying there forever.
+TAPPER: And Neera, I want to play -- first of all, congratulations, you're the brand new CEO of the Center for American Progress.
+NEERA TANDEN, PRESIDENT & CEO, CENTER FOR AMERICAN PROGRESS: Thanks so much.
+TAPPER: Having been the director of a policy council for -- domestic policy council for Biden, I want to play this exchange from the White House press briefing today.
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED FEMALE: Looking for by a lot of people who have been let go at other agencies that they were told they were being dismissed because of poor performance when in some cases they haven't even had a performance review yet because they've only been on the job a couple of months.
+KEVIN HASSETT, DIRECTOR, NATIONAL ECONOMIC COUNCIL: Yes, I've never seen a person who was laid off for poor performance say that they were performing poorly.
+(END VIDEO CLIP)
+TANDEN: I mean, obviously that's an absurd statement because they didn't have their performance review. But I think -- you know, I'd really like to just take a step back here on what's been happening because I think a lot of people like to say this is -- you know, this is -- they're just doing what you do in a business, but that's actually the opposite. You know, if in a business you fired a bunch of people and then you had to hire them back because you're dealing with avian flu or you fired a bunch of people and then you had to hire them back because they're dealing with the nuclear stockpile, you would fire the person who did that because that is not disruption, that is incompetence. And I think that was what we are seeing across the board with DOGE. These people have no idea how government works.
+They think it's all a failure. But at the end of the day, what they are doing is making Americans less safe. When you fire the pandemic response team and then you can't find their e-mails to hire them back. Again, that is making me less safe. That's making my family less safe.
+That's making Americans less safe. So this is not how you run a business. The stock would be diving if a business run this way.
+[17:10:00]
+TAPPER: What is your response?
+SCHULTZ: The stock would be diving if a business was running away. You have way more employees than what you need. I mean, it's just a fact of how business are run.
+TAPPER: What about the -- what about the fact -- I mean, she just cited two examples. There's also the veterans crisis hotline also where they --
+TANDEN: Exactly.
+TAPPER: -- fired some people and had to hire them back. That has happened a few times.
+SCHULTZ: OK. You're going to have some mistakes along the way. There's no doubt about that, right?
+TANDEN: But lives are at stake when you say they're mistakes.
+SCHULTZ: Whatever you're going to break -- whatever you're going to break --
+TANDEN: When you just say they're mistakes, I'm saying the problem with government, which is different from say buying Twitter is people's lives are at stake at this. You know, if you basically get rid of all the veterans' crisis line phone call, people are dealing with those phone calls, people are in crisis and they have no response. That's the difference here. And that's why it's really important that we're not just flip or that you don't have Kevin Hassett.
+TAPPER: Let's give him the last word and then we go.
+SCHULTZ: We had a government that spent $20 billion on a greenhouse gas reduction initiative that went to reportedly to a Stacey Abrams linked organization. What is essentially tantamount to pinstripe patronage at this point, $20 billion, 2 billion of it reportedly went to a Stacey Abrams linked organization, an organization that was just stood up, an organization that had only had revenues about 100 bucks, $2 billion.
+TAPPER: So, thanks one and all. Appreciate it. Sorry, we got to -- we've got to go.
+TANDEN: OK.
+TAPPER: The flip flops on Russia's war in Ukraine. Some Republican lawmakers are standing behind President Trump despite a different view just a few months ago. I'm going to talk with a Republican member of the Senate Armed Services Committee. That's next.
+Plus, Tiger Woods among the guests joining President Trump at the White House celebrating Black History Month. The event of course is raising eyebrows given comments by the president about DEI. We're going to talk to Dr. Cornel West ahead. Stay with us.
+(COMMERCIAL BREAK)
+[17:15:46]
+TAPPER: Back with our world lead, as President Trump turns his back on Ukraine, a democracy and U.S. ally publicly denounces its leaders a dictator. Some prominent Republicans on Capitol Hill seem to have a short memory as to what they were saying about this very same conflict not long ago. Many were standing by the Ukrainian people and President Zelenskyy and push President Biden at the time to send more aid. They criticized Biden for not being aggressive enough, for not permitting Ukraine to attack Russia in Russia for holding back on certain key weaponry, and on and on. Here is, for example, now Senate Majority Leader John Thune in 2024.
+(BEGIN VIDEO CLIP)
+SEN, JOHN THUNE (R-SD): America cannot retreat from the world stage. American leadership is desperately needed now, more than, I think, any time in recent history. And we need to make sure that Ukraine has the weaponry and the resources that it needs to defeat the Russians.
+(END VIDEO CLIP)
+TAPPER: To defeat the Russians, he said. But now things are different. Here is Leader Thune just yesterday.
+(BEGIN VIDEO CLIP)
+THUNE: What I'm in support of is a peaceful outcome and result in Ukraine. And I think right now the administration, the president and his team are working to achieve that. And I think right now you got to give them some space. There's been a lot of cost, a lot of death.
+(END VIDEO CLIP)
+TAPPER: Here's Republican Senator Kevin Kramer in 2022 railing on President Biden for what he saw at the time as a lack of lethal aid being provided by the U.S. to Ukraine.
+(BEGIN VIDEO CLIP)
+SEN. KEVIN CRAMER (R-ND): One of the things that, you know that's important in addition to strength and messages, that there's a consistency coming from the leadership. And I think the leader said it very well right up front. At every step, our president's been a step behind. President Zelenskyy is the single greatest uniter in the world, and we need to have his back.
+(END VIDEO CLIP)
+TAPPER: Just yesterday, when asked about Trump's comments calling Zelenskyy a dictator, Cramer said Putin was a dictator. But he still gave Trump the benefit of the doubt.
+(BEGIN VIDEO CLIP)
+CRAMER: He's always positioning for something. My sense is -- I don't know, I haven't talked to him. My sense is that he's probably setting up Vladimir Putin, you know, for some negotiation. Whatever the reasoning, I suspect it has to do with positioning for negotiation.
+(END VIDEO CLIP)
+TAPPER: Last spring 2024, as Speaker Mike Johnson mulled over the right thing to do in Ukraine, either give in to hardline conservatives and separate big aid builds are in Ukraine and Israel and Taiwan so MAGA faithful could pick and choose or to lump them all in together. Johnson landed on lumping them all together, a decision he admitted could have cost him his speakership. Take a listen.
+(BEGIN VIDEO CLIP)
+REP. MIKE JOHNSON (R-LA), HOUSE SPEAKER: I can make a selfish decision and do something that's different. But I'm doing here what I believe to be the right thing. I think providing lethal aid to Ukraine right now is critically important.
+(END VIDEO CLIP)
+TAPPER: We invite Speaker Johnson to come on and talk about what he thinks the right thing is to do now.
+And joining us in studio to discuss, Republican senator on the Senate Armed Services Committee, Markwayne Mullin of Oklahoma. You don't have to answer for what your colleagues have said or done, but do you sense an explanation -- do you have an explanation for the shift in your -- in the Republican conference beyond that Republican -- there's a Republican president?
+SEN. MARKWAYNE MULLIN (R-OK): Well, you know, Jake, I was very aggressive for making sure we had funding for Ukraine, too. In fact, I was very involved in negotiating the deal that would get aid to Israel, to Ukraine and also to Taiwan. I believe Zelenskyy and Ukraine has made some mistakes. I believe they made some mistakes with the ambassador when they went on a campaign trail with Harris. I think that was a problem.
+And now when the President Zelenskyy has been, I would say, less than grateful to the president, to President Trump and to the United States for their help in the last few meetings that he's had, it has been difficult for the support to still stay there.
+TAPPER: So --
+MULLIN: And I completely still stand with our decisions earlier to stand with Ukraine. I do not want to see Ukraine fail. The President doesn't want to see Ukraine fail. But at the same time, Zelenskyy has failed to call for elections and actually criticized us for even saying that when we held elections in time of war, all the way -- in the civil war and in World War II.
+[17:20:08]
+TAPPER: We've never faced the kind of attack that -- at home, other than Pearl Harbor.
+MULLIN: I take that back, in the Civil War, we did. Civil War was pretty divisive at the time, and we had election right in the middle of the Civil War. So, yes, it was -- I think that was pretty dangerous time for the United States.
+TAPPER: Well, there is a constitutional provision that allows him to suspend elections, and Zelenskyy's chief political opponent supports the idea of suspending it right now because they're in a fight for their lives. But beyond that, there is the issue of who started the war, who -- and like, I take what you're saying, and certainly President Zelenskyy is not above criticism, and I get all of that. And J.D. Vance, Vice President Vance saying that he shouldn't have criticized President Trump openly talking about the disinformation.
+MULLIN: Very true.
+TAPPER: I understand that, but I guess the question is there are bigger issues here in terms of like who is a good guy and who is a bad guy. Not to be too simplistic about it. Nikki Haley, former U.N. Ambassador under President Trump, sees Trump calling Zelenskyy a dictator and saying Zelenskyy and Biden started the war, not Putin. And she said, quote, "The classic Russian talking point is exactly what Putin wants." I mean, do you disagree?
+MULLIN: I completely disagree with her. What President Trump was referring to is if he would been in office, they would have never taken place. Zelenskyy knew, and we in the United States was warning him, and even President Trump had warned him before that this attack was -- this attack by Russia was likely to happen. They had been immensing troops and equipment and -- on the border of Crimea for some time. Zelenskyy never did take it serious. He wouldn't take it serious.
+We were trying to. And --
+TAPPER: Well, you didn't take it seriously when Biden was warning them either.
+MULLIN: I understand that.
+TAPPER: Yes.
+MULLIN: But he should have. And this is what President Trump -- I truly -- I haven't spoken to President Trump about it, but I believe that's what he was referring to, is that this could have been prevented.
+TAPPER: But how are they supposed to prevent it? I mean, Russia has a vastly superior forces.
+MULLIN: But he should have taken it serious and allowed the United States to engage. President Trump is the only one that could have prevented this war from taking place. And President Trump now is cleaning up the mess that Biden left behind. And President Trump will get it done. He will negotiate an end to this war.
+He wants to see the war ended regardless of how that takes place. He wants to see a win for Ukraine and a win for Russia at the same time because it's -- there's a lose going on for both countries right now. People are dying. And the president said he wants dying -- he wants people to stop dying.
+TAPPER: What do you make of Senator Wicker, the chairman of the Armed Services Committee, saying that the Secretary of Defense made some rookie mistakes by giving up some of the chits when it comes to this negotiations such as NATO will never -- I mean Ukraine will never be in NATO or Ukraine can't go back to 2014 borders, that that's to be negotiated. And Hegseth negotiating that away to -- for nothing was a rookie mistake. I'm quoting the chairman.
+MULLIN: Yes, I think Chairman Wicker has a right to his own opinion. I support Pete, I know he supports -- I say Secretary Hegseth completely.
+TAPPER: Oh sure, of course.
+MULLIN: What he's referring to at that point, I mean, I'll just have to let what Senator Wicker says for stand on its own.
+TAPPER: So I want to ask you about Kash Patel, who was just confirmed as director of the FBI.
+MULLIN: Yes.
+TAPPER: You were a big supporter of his. I think there are a lot of people would say he wouldn't be this, I don't know if he's been sworn in yet, but he would --
+MULLIN: He'll be sworn in tomorrow.
+TAPPER: He'll be sworn in. OK. He wouldn't be the -- soon to be FBI director. What do you say to critics and we've -- and there were two Republicans who voted against him, Murkowski and Collins. What do you say to critics who say, hey look, he wrote a book in 2022. He called -- it's called "Government Gangsters."
+He listed 60 so called deep state operatives. He called it a cabal of unelected tyrants. And these include a number of Trump officials, right? Attorney General Bill Barr, National Security Adviser John Bolton, White House Counsel Pat Cipollone, Secretary of Defense Mark Esper, White House Communications Director Alyssa Farah Griffin, FBI Director Chris Wray. I mean, you have no issue with an FBI director that has an enemy's list made up of basically critics of --
+MULLIN: I wouldn't call that an enemy's list. That's what the media likes to call it. What he was doing is exposing what he felt like was truth. And I don't think he was far off base. He's also the one that exposed the hypocrisy coming out of the FBI and exposing what Director Wray was doing and by weaponizing the FBI to go after political enemies.
+You got to remember, this is the same FBI that was going after Catholic churches, think that they could be a domestic terrorist organization. They were saying people that went after parents for going to school board meetings during COVID. This is an organization that should be mission focused on keeping all Americans safe, not weaponize themselves after political foes by treating President Trump's classified documents completely different than what they treated Biden's classified documents. And no one can say that they weren't classified documents. Either they are or they're not.
+Why were they treated different? Kash Patel want to expose that.
+TAPPER: Two different special counsels.
+MULLIN: It doesn't make any difference. The FBI wrote a report feeling sorry for Biden and said that it's probably --
+[17:25:01]
+TAPPER: That was the special counsel, not the FBI.
+MULLIN: Well, the FBI was the one that did the investigation. And so what I'm saying is is Kash Patel is the one that exposed the hypocrisy going on there and he's somebody that can restore the faith back in it. This is why law enforcement overwhelmingly supported him. He had 3,100 law enforcement officers, current law enforcement officers that supported Kash Patel to be the director of FBI.
+TAPPER: Why would somebody who looks like he is eager to politicize the FBI be an answer to what you are --
+MULLIN: What do you mean politicize? He didn't politicize it. Director Wray and the Biden administration politicized it. He's wanting to restore --
+TAPPER: There's a group called government gangsters and called a cabal of unelected tyrants.
+MULLIN: How is that politicizing? That wasn't an enemy's list. That was in his book. And he was exposing the decisions that they had made at the time. When you start saying that he's going to politicize it, he's made it very clear that he's wanting to put them back in focus for protecting American people and get them out of the political game that they've been playing for eight years, really. Because they did it underneath Hillary and they did it underneath Biden.
+TAPPER: Well, Hillary wasn't president.
+MULLIN: Secretary of state.
+TAPPER: OK. Secretary -- Senator Markwayne Mullin of great state of Oklahoma, good to see you, sir. Thank you for being here.
+MULLIN: Thank you. Appreciate it.
+TAPPER: Really appreciate it.
+Our next story is a reminder of how cruel rhetoric can affect the youngest and most vulnerable among us. An 11-year-old girl dying by suicide. Her mother says she was bullied by classmates who claimed that ICE was going to deport her family. We're going to have a live report on that next.
+(COMMERCIAL BREAK)
+[17:30:55]
+TAPPER: In our National Lead are tragedy, 11-year-old Jocelynn Rojo Carranza died by suicide after her mother says she was bullied at school by a classmate with threats to have her family deported. Her death is now being investigated by the Texas School. CNN -- CNN's Ed Lavandera spoke with Jocelynn's mother.
+(BEGIN VIDEO CLIP)
+ED LAVANDERA, CNN SENIOR NATIONAL CORRESPONDENT (voice-over): These are the videos Jocelynn Carranza's mother can't stop watching, a happy young girl playing and laughing. These were the days before Marbella Carranza got the call that her 11-year-old daughter was being rushed to the hospital.
+Marbella says in that moment she felt the world crashing down on her. Her death, she says, has left her broken and searching for why this happened to Jocelynn. Medical teams tried to save her life but she died five days later. Marbella says several days after her daughter's death, a school official told her that Jocelynn was bullied by a classmate at the Gainesville, Texas Intermediate School.
+LAVANDERA: Marbella says that another student was traumatizing her daughter saying that because her parents were immigrants that they were going to be deported and that she was going to be left alone. And the question she has is whether she took her life because she was afraid of being alone or if someone had told her to -- to do that.
+LAVANDERA (voice-over): Marbella says Jocelynn was born in the United States. Multiple parents have told CNN that in the days after President Donald Trump's inauguration as news of ICE raids spread across the country the immigration chatter and taunting spread through the school. Jessi Noble says her daughter came home distraught days before Jocelynn took her life.
+JESSE NOBLE, PARENT AT GAINESVILLE ELEMENTARY: People had been telling her friends that were Hispanic that they were getting deported, ICE was coming for them. And she was just terrified.
+LAVANDERA: Were you surprised --
+NOBLE: Yes.
+LAVANDERA: -- to hear this kind of talk among 10, 11-year-olds?
+NOBLES: Eleven-year-olds. Yes. Absolutely. It breaks my heart. And it scares me that our kids are being bullied and our kids are afraid of being deported of their friends and their families being deported.
+LAVANDERA (voice-over): Parents say the chatter intensified. The school district sent a letter the week before Jocelynn's incident explaining the protocols immigration officers must follow to access students. The letter said the school was committed to supporting you through this uncertain time. Jocelynn was one of Genessis Arnal's favorite friends.
+GENESSIS ARNAL, JOCELYNN'S FRIEND: When I heard that she was gone. I -- I don't know. It just shattered my heart. It hurt me really bad.
+LAVANDERA (voice-over): Hundreds of people turned out for Jocelynn Carranza's funeral service on Wednesday.
+ARNAL: It makes me feel sad because she didn't know how much people actually loved her before she passed away.
+(END VIDEOTAPE)
+LAVANDERA: Jake we reached out to the Gainesville School District, they said they're not able to comment because of privacy laws on specific student cases, but that they take allegations of bullying seriously. Jake?
+[17:34:10]
+TAPPER: All right. Ed Lavandera in Dallas, thank you so much. Of you or anyone, you know is considering suicide, please dial the National Suicide and Crisis Lifeline. The number is on your screen, dial 988, if you or someone you love needs help. There is help for you. There is love for you. We'll be right back.
+(COMMERCIAL BREAK)
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: The last administration tried to reduce all of American history to a single year 1619 but under our administration we honor the indispensable role black Americans have always played in the immortal cause of another date 1776.
+(END VIDEO CLIP)
+TAPPER: At the White House today President Trump hosted a Black History Month reception among those attending professional golfer, Tiger Woods. This as the Trump administration continues its crackdown on diversity, equity and inclusion or DEI programs across the federal government. Let's bring in former presidential candidate, Dr. Cornel West. Dr. West, do you see a -- do you see it as discordant that President Trump is celebrating Black History Month even as his department and he himself focus on banning DEI programs and departments across the government. The Trump administration are banning similar events rooted in black history.
+CORNEL WEST (I), FORMER PRESIDENTIAL CANDIDATE: Well, my dear brother the best of black history sets the standard for the Trump administration in terms of the standard of judgment. He was inaugurated on Martin Luther King Jr.'s anniversary holiday. Tomorrow is the -- the assassination Malcolm X, the 60s anniversary of that and what kind of standard do they set, truth, justice, treating people decently and with dignity. And so that he stands on the judgment of Martin and Malcolm and Fannie Lou Hamer and others.
+[17:40:13]
+So when I hear him say 1619 zeroed in on one particular year. Yes. That's the beginning of a crime against humanity. 1776, yes, that's the American Revolution. But that crime against humanity of barbaric slavery enslavement of black people went on until 1865. Then another hundred years of neo-slavery and lynching every two and a half days for 50 years. So I would just say to Brother Trump, I know that you're a gangster. Gangsters don't want to be concerned about truth and justice. They obsessed with the 11th commandment thou shall not get caught say with what you want with no accountability, do what you want with no answerability, no responsibility.
+We are not just in conflict my dear brother, but there is a war going on, Brother Jake. It's a war against working people, against poor people, war against black people and indigenous people and we have to preserve the moral and the spiritual center of what we do over against the gangsterization of the country.
+TAPPER: So what do you see as the motivation for President Trump targeting DEI programs?
+WEST: Oh, he -- he just transactional. He's manipulative. He just he wants to do whatever he can do to keep his base alive. And -- and -- and therefore he's going to promote a variety of different kind of programs that will keep them ride up and make sure that they focus on scapegoating the most vulnerable immigrants, black people, precious trans as opposed to confronting the most powerful who are his billionaire friends who was a ruling-class that he loves to spend time with and he acts as if he's in solidarity with those slash-don't-call- everyday people. We say no Trump. You're not fooling anybody. No lie can live forever. Truth crushed the earth will rise again. And this too shall pass. That's the best of black history. I come from a great black people who've been on intimate terms with lies and crimes. But we keep fighting for truth and freedom for everybody. That's the love supreme of John Coltrane.
+TAPPER: The love supreme. Dr. Cornell West, always good to have you on. Thank you, sir. Appreciate it.
+WEST: Salute you my brother.
+TAPPER: A measles outbreak in the southwestern United States with cases tripling and the outbreak is growing by the day among one specific group. Dr. Sanjay Gupta is on call. He joins us next from Texas.
+(COMMERCIAL BREAK)
+[17:47:11]
+TAPPER: In our Health Lead, the measles outbreak in West Texas is raising concerns nationwide. Health officials have confirmed at least 58 cases and are scrambling to try to contain the spread. CNN chief medical correspondent, Dr. Sanjay Gupta, joins us now from Lubbock, Texas. Sanjay, what's the feeling on the ground there?
+DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT: I -- I think people are frustrated, Jake. I mean, this is now the largest measles outbreak they've had here in 30 years. So there's frustration. I think people are frightened. There's a sense of just trying to figure out what's going to come next. If you look at the numbers, I mean, this started January 29th. That's when the first person was diagnosed with measles. Three weeks later, the numbers that you see there are the official numbers, which make it the largest outbreak.
+But they're probably a dramatic undercount. It started really with this small, close-knit Mennonite community. But it's starting to spread. And people will say, look, we think we're going to be in this for a few months maybe. And the -- and the numbers will go into the hundreds, they say, easily here. So I think that's sort of the sense of things.
+I -- I got a chance to talk to the state health commissioner specifically, who is sort of focused on seeing how these patients get treated, but also how to sort of stem the tide. Here's what she said.
+(BEGIN VIDEO CLIP)
+GUPTA: Have you ever seen measles before?
+DR. JENNIFER SHUFORD, COMMISSIONER, TEXAS DEPT. OF STATE HEALTH SERVICES: No, and I'm an infectious disease physician.
+GUPTA: Wow.
+SHUFORD: I've never diagnosed a case.
+GUPTA: That's incredible.
+SHUFORD: It's because, you know, measles was declared eliminated --
+GUPTA: Right.
+SHUFORD: -- from the United States back in the year 2000 because of the effectiveness of that vaccine. And it's only now with falling immunization rates, not just here in Texas, but across the country and around the world that we're starting to see more of these outbreaks.
+(END VIDEO CLIP)
+GUPTA: Jake, I mean, I hear that from so many doctors. They have never seen measles before, so many. Even the state health commissioner, who is an ID doc, an infectious disease doc herself. So they're sort of figuring a lot of this out. The good news, I will tell you, is that there does seem to be enough resources here. For example, we're at Covenant Children's. They've taken care of many of the patients that we're talking about here. This is a negative pressure room.
+You've probably heard that term, Jake. But -- but what that means basically is the air is constantly being removed from this room, actually put outside, but also because it's negative pressure, for example, if I open the door, air comes into the room, but air that's potentially infected air does not leave the room. So, you know, you -- you have to have resources like that when you're dealing with an infectious disease outbreak, Jake.
+TAPPER: I'll remind people watching that the QR code is on the right side of your screen if you want to ask Sanjay a question, he can answer it.
+GUPTA: Yes.
+TAPPER: Give us a sense of how contagious and serious this virus really is, Sanjay.
+GUPTA: Probably the most contagious virus really that we know of. If one person has it, they would infect 90 percent of their -- their close contacts who are unvaccinated. It's super, super contagious. And it's serious. I mean, you know, there's been some 17 or so people who have been treated here, hospitalized here, most of them children, two pregnant women.
+[17:50:09]
+On average, about 20 percent of people who get measles end up requiring hospitalization. So it's -- it's serious. And I think that's part of what's driving a lot of the concern here.
+TAPPER: All right. Sanjay, thanks so much. And Sanjay, we'll be back tomorrow to answer your questions about the measles.
+Now, to a Lead exclusive, a rare look at a weapon in use across the globe, an Iranian made Shahed 136 Drone notably used by Russia to repeatedly bomb Ukrainian cities used by Iran to attack Israel and ships in the Red Sea. That weapon is now for the first time in the United States. And CNN's Oren Liebermann got a close look.
+(BEGIN VIDEOTAPE)
+OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT (voice-over): One of Iran's most prolific weapons coming together on American soil, a complete Shahed 136.
+LIEBERMANN: This is the warhead. That's the warhead.
+LIEBERMANN (voice-over): Capable of carrying a 100-pound warhead more than 1,000 miles. The one-way attack drone came to the U.S. by Poland from the Ukrainian battlefield.
+MARK WALLACE, CEO, UNITED AGAINST NUCLEAR IRAN: There are an indiscriminate terror weapon, innocent women, children, infrastructure that's hit.
+LIEBERMANN (voice-over): The Shahed 136 and the smaller Shahed 131 are perhaps Iran's most ubiquitous weapon. They have proliferated in Ukraine, where Russia has terrorized the population with these drones, repeatedly striking civilian infrastructure.
+UNIDENTIFIED MALE: Yes, contact.
+LIEBERMANN (voice-over): Many are intercepted, but not all. Iran has used their Shahed drones to attack shipping in the Middle East, oil facilities in Saudi Arabia, and a direct attack on Israel back in April.
+LIEBERMANN: Do you have this here to advocate for a direct attack on Iran?
+WALLACE: No. I -- look, we -- we have always been the sanctions people. We have been really the architects really of maximum pressure before maximum pressure was even fashionable.
+LIEBERMANN: What's the red line where you go from advocating sanctions and maximum pressure to advocating strikes?
+WALLACE: I think you have to keep all options on the table. And when they attack and they harm or threaten to harm Americans and our allies, I think we have to be prepared to strike those IRGC targets.
+LIEBERMANN (voice-over): We've seen these before, but not in the United States. The organization United Against Nuclear Iran brought this one to CPAC, a right-wing political conference where a hawkish message on Tehran will find a friendly target.
+BENJAMIN NETANYAHU, ISRAELI PRIME MINISTER: Here's a piece of that Iranian drone.
+LIEBERMANN (voice-over): The spectacle reminiscent of the one from Prime Minister Benjamin Netanyahu in 2018.
+NETANYAHU: Mr. Zarif, do you recognize this? You should. It's yours.
+TRUMP: Announcing today --
+LIEBERMANN (voice-over): Months later, President Donald Trump withdrew from the Iran nuclear deal in his first term. Now, Netanyahu is openly pushing for more.
+NETANYAHU: Israel has dealt a mighty blow to Iran's terror axis. Under the strong leadership of President Trump, I have no doubt that we can and will finish the job.
+LIEBERMANN (voice-over): U.S. intelligence agencies warned the Trump administration that Israel will likely attempt to strike Iran's nuclear facilities this year, according to sources familiar with the assessments. But Trump has openly signaled a desire to end wars, not start them.
+TRUMP: You can't allow them to have a nuclear weapon, but there's two ways of stopping them, with bombs or with a written piece of paper. And I'd much rather do a deal that's a deal that's not going to hurt them.
+(END VIDEOTAPE)
+LIEBERMANN: Jake, it's not just a problem of a deadly weapon, it's also a cheap deadly weapon. About $100,000 to put together one of these, give or take. To shoot it down requires missiles that can cost a million or more, so it very quickly becomes an economic or financial problem as well to handle these drones that are mass-produced by Iran and Russia.
+TAPPER: Fascinating stuff. Oren Liebermann, thanks so much. Interesting report.
+I have a reporting project that I want to tell you about. In 2011, in the wake of the Arab Spring, the Italian government commandeered a cruise ship to move Libyan and Tunisian refugees from the southern Italian islands to the mainland on board. On that ship, a man approached an Italian Green Beret and asked him for some water. The Green Beret noticed that the man had a bullet wound.
+He asked him where it came from. From fighting the Americans in Afghanistan, he said. I'm with al-Qaeda. My name is Spin Ghul. The Italians took the man into custody and called the Americans. Have you ever heard of Spin Ghul, they asked. Well, the Americans had. American prosecutors and the FBI flew to Italy and heard his story about killing Americans in Afghanistan, plotting to kill mass more at a U.S. embassy in Nigeria. Take him, the Italians asked, wanting a potentially deadly terrorist out of their country.
+We can't take him, the Americans replied. This was during the Obama years. To bring Spin Ghoul in, the Americans had to build a case beyond a reasonable doubt, one that would withstand a skeptical judge and jury, one that would result in a conviction. We're not going to hold him forever, the Italians said, maybe a month or two. So the Americans, the prosecutors, the FBI agents, counterterrorism intelligence plunged into a fierce world of sleuthing and detective work to figure out how to prove that this al-Qaeda operative had killed Americans and was determined to kill more.
+They could not let him get out of custody. Lives were on the line. Spin Ghul was a murderer who aspired to be a mass murderer. This is just the beginning of the incredible true story in a brand new nonfiction book I've written. It's called "Race Against Terror: Chasing an Al-Qaeda Killer at the Dawn of the Forever War." It's going to be published this fall by Simon & Schuster. It is available for pre-order right now. You can go to jaketapper.com for more details, and I hope you enjoy it, "Race Against Terror."
+[17:55:30]
+A big programming note, starting March 3rd, The Lead is also on the move. Look for the show in our new time slot, 5:00 to 7:00 p.m. Eastern, every weekday here on CNN. The White House is on a firing spree. Sources tell CNN that some top Pentagon generals could be let go. The top Democrat on the Senate Foreign Relations Committee will be here to weigh in on this, coming up next with Wolf Blitzer in the Situation Room after this quick break.
+(COMMERCIAL BREAK)
+(COMMERCIAL BREAK)
+[17:30:55]
+JAKE TAPPER, CNN HOST: In our National Lead are tragedy, 11-year-old Jocelynn Rojo Carranza died by suicide after her mother says she was bullied at school by a classmate with threats to have her family deported. Her death is now being investigated by the Texas School. CNN -- CNN's Ed Lavandera spoke with Jocelynn's mother.
+(BEGIN VIDEO CLIP)
+ED LAVANDERA, CNN SENIOR NATIONAL CORRESPONDENT (voice-over): These are the videos Jocelynn Carranza's mother can't stop watching, a happy young girl playing and laughing. These were the days before Marbella Carranza got the call that her 11-year-old daughter was being rushed to the hospital.
+Marbella says in that moment she felt the world crashing down on her. Her death, she says, has left her broken and searching for why this happened to Jocelynn. Medical teams tried to save her life but she died five days later. Marbella says several days after her daughter's death, a school official told her that Jocelynn was bullied by a classmate at the Gainesville, Texas Intermediate School.
+LAVANDERA: Marbella says that another student was traumatizing her daughter saying that because her parents were immigrants that they were going to be deported and that she was going to be left alone. And the question she has is whether she took her life because she was afraid of being alone or if someone had told her to -- to do that.
+LAVANDERA (voice-over): Marbella says Jocelynn was born in the United States. Multiple parents have told CNN that in the days after President Donald Trump's inauguration as news of ICE raids spread across the country the immigration chatter and taunting spread through the school. Jessi Noble says her daughter came home distraught days before Jocelynn took her life.
+JESSE NOBLE, PARENT AT GAINESVILLE ELEMENTARY: People had been telling her friends that were Hispanic that they were getting deported, ICE was coming for them. And she was just terrified.
+LAVANDERA: Were you surprised --
+NOBLE: Yes.
+LAVANDERA: -- to hear this kind of talk among 10, 11-year-olds?
+NOBLES: Eleven-year-olds. Yes. Absolutely. It breaks my heart. And it scares me that our kids are being bullied and our kids are afraid of being deported of their friends and their families being deported.
+LAVANDERA (voice-over): Parents say the chatter intensified. The school district sent a letter the week before Jocelynn's incident explaining the protocols immigration officers must follow to access students. The letter said the school was committed to supporting you through this uncertain time. Jocelynn was one of Genessis Arnal's favorite friends.
+GENESSIS ARNAL, JOCELYNN'S FRIEND: When I heard that she was gone. I -- I don't know. It just shattered my heart. It hurt me really bad.
+LAVANDERA (voice-over): Hundreds of people turned out for Jocelynn Carranza's funeral service on Wednesday.
+ARNAL: It makes me feel sad because she didn't know how much people actually loved her before she passed away.
+(END VIDEOTAPE)
+LAVANDERA: Jake we reached out to the Gainesville School District, they said they're not able to comment because of privacy laws on specific student cases, but that they take allegations of bullying seriously. Jake?
+[17:34:10]
+TAPPER: All right. Ed Lavandera in Dallas, thank you so much. Of you or anyone, you know is considering suicide, please dial the National Suicide and Crisis Lifeline. The number is on your screen, dial 988, if you or someone you love needs help. There is help for you. There is love for you. We'll be right back.
+(COMMERCIAL BREAK)
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: The last administration tried to reduce all of American history to a single year 1619 but under our administration we honor the indispensable role black Americans have always played in the immortal cause of another date 1776.
+(END VIDEO CLIP)
+TAPPER: At the White House today President Trump hosted a Black History Month reception among those attending professional golfer, Tiger Woods. This as the Trump administration continues its crackdown on diversity, equity and inclusion or DEI programs across the federal government. Let's bring in former presidential candidate, Dr. Cornel West. Dr. West, do you see a -- do you see it as discordant that President Trump is celebrating Black History Month even as his department and he himself focus on banning DEI programs and departments across the government. The Trump administration are banning similar events rooted in black history.
+CORNEL WEST (I), FORMER PRESIDENTIAL CANDIDATE: Well, my dear brother the best of black history sets the standard for the Trump administration in terms of the standard of judgment. He was inaugurated on Martin Luther King Jr.'s anniversary holiday. Tomorrow is the -- the assassination Malcolm X, the 60s anniversary of that and what kind of standard do they set, truth, justice, treating people decently and with dignity. And so that he stands on the judgment of Martin and Malcolm and Fannie Lou Hamer and others.
+[17:40:13]
+So when I hear him say 1619 zeroed in on one particular year. Yes. That's the beginning of a crime against humanity. 1776, yes, that's the American Revolution. But that crime against humanity of barbaric slavery enslavement of black people went on until 1865. Then another hundred years of neo-slavery and lynching every two and a half days for 50 years. So I would just say to Brother Trump, I know that you're a gangster. Gangsters don't want to be concerned about truth and justice. They obsessed with the 11th commandment thou shall not get caught say with what you want with no accountability, do what you want with no answerability, no responsibility.
+We are not just in conflict my dear brother, but there is a war going on, Brother Jake. It's a war against working people, against poor people, war against black people and indigenous people and we have to preserve the moral and the spiritual center of what we do over against the gangsterization of the country.
+TAPPER: So what do you see as the motivation for President Trump targeting DEI programs?
+WEST: Oh, he -- he just transactional. He's manipulative. He just he wants to do whatever he can do to keep his base alive. And -- and -- and therefore he's going to promote a variety of different kind of programs that will keep them ride up and make sure that they focus on scapegoating the most vulnerable immigrants, black people, precious trans as opposed to confronting the most powerful who are his billionaire friends who was a ruling-class that he loves to spend time with and he acts as if he's in solidarity with those slash-don't-call- everyday people. We say no Trump. You're not fooling anybody. No lie can live forever. Truth crushed the earth will rise again.
+And this too shall pass. That's the best of black history. I come from a great black people who've been on intimate terms with lies and crimes. But we keep fighting for truth and freedom for everybody. That's the love supreme of John Coltrane.
+TAPPER: The love supreme. Dr. Cornell West, always good to have you on. Thank you, sir. Appreciate it.
+WEST: Salute you my brother.
+TAPPER: A measles outbreak in the southwestern United States with cases tripling and the outbreak is growing by the day among one specific group. Dr. Sanjay Gupta is on call. He joins us next from Texas.
+(COMMERCIAL BREAK)
+[17:47:11]
+TAPPER: In our Health Lead, the measles outbreak in West Texas is raising concerns nationwide. Health officials have confirmed at least 58 cases and are scrambling to try to contain the spread. CNN chief medical correspondent, Dr. Sanjay Gupta, joins us now from Lubbock, Texas. Sanjay, what's the feeling on the ground there?
+DR. SANJAY GUPTA, CNN CHIEF MEDICAL CORRESPONDENT: I -- I think people are frustrated, Jake. I mean, this is now the largest measles outbreak they've had here in 30 years. So there's frustration. I think people are frightened. There's a sense of just trying to figure out what's going to come next. If you look at the numbers, I mean, this started January 29th. That's when the first person was diagnosed with measles. Three weeks later, the numbers that you see there are the official numbers, which make it the largest outbreak.
+But they're probably a dramatic undercount. It started really with this small, close-knit Mennonite community. But it's starting to spread. And people will say, look, we think we're going to be in this for a few months maybe. And the -- and the numbers will go into the hundreds, they say, easily here. So I think that's sort of the sense of things.
+I -- I got a chance to talk to the state health commissioner specifically, who is sort of focused on seeing how these patients get treated, but also how to sort of stem the tide. Here's what she said.
+(BEGIN VIDEO CLIP)
+GUPTA: Have you ever seen measles before?
+DR. JENNIFER SHUFORD, COMMISSIONER, TEXAS DEPT. OF STATE HEALTH SERVICES: No, and I'm an infectious disease physician.
+GUPTA: Wow.
+SHUFORD: I've never diagnosed a case.
+GUPTA: That's incredible.
+SHUFORD: It's because, you know, measles was declared eliminated --
+GUPTA: Right.
+SHUFORD: -- from the United States back in the year 2000 because of the effectiveness of that vaccine. And it's only now with falling immunization rates, not just here in Texas, but across the country and around the world that we're starting to see more of these outbreaks.
+(END VIDEO CLIP)
+GUPTA: Jake, I mean, I hear that from so many doctors. They have never seen measles before, so many. Even the state health commissioner, who is an ID doc, an infectious disease doc herself. So they're sort of figuring a lot of this out. The good news, I will tell you, is that there does seem to be enough resources here. For example, we're at Covenant Children's. They've taken care of many of the patients that we're talking about here. This is a negative pressure room.
+You've probably heard that term, Jake. But -- but what that means basically is the air is constantly being removed from this room, actually put outside, but also because it's negative pressure, for example, if I open the door, air comes into the room, but air that's potentially infected air does not leave the room. So, you know, you -- you have to have resources like that when you're dealing with an infectious disease outbreak, Jake.
+TAPPER: I'll remind people watching that the QR code is on the right side of your screen if you want to ask Sanjay a question, he can answer it.
+GUPTA: Yes.
+TAPPER: Give us a sense of how contagious and serious this virus really is, Sanjay.
+GUPTA: Probably the most contagious virus really that we know of. If one person has it, they would infect 90 percent of their -- their close contacts who are unvaccinated. It's super, super contagious. And it's serious. I mean, you know, there's been some 17 or so people who have been treated here, hospitalized here, most of them children, two pregnant women.
+[17:50:09]
+On average, about 20 percent of people who get measles end up requiring hospitalization. So it's -- it's serious. And I think that's part of what's driving a lot of the concern here.
+TAPPER: All right. Sanjay, thanks so much. And Sanjay, we'll be back tomorrow to answer your questions about the measles.
+Now, to a Lead exclusive, a rare look at a weapon in use across the globe, an Iranian made Shahed 136 Drone notably used by Russia to repeatedly bomb Ukrainian cities used by Iran to attack Israel and ships in the Red Sea. That weapon is now for the first time in the United States. And CNN's Oren Liebermann got a close look.
+(BEGIN VIDEOTAPE)
+OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT (voice-over): One of Iran's most prolific weapons coming together on American soil, a complete Shahed 136.
+LIEBERMANN: This is the warhead. That's the warhead.
+LIEBERMANN (voice-over): Capable of carrying a 100-pound warhead more than 1,000 miles. The one-way attack drone came to the U.S. by Poland from the Ukrainian battlefield.
+MARK WALLACE, CEO, UNITED AGAINST NUCLEAR IRAN: There are an indiscriminate terror weapon, innocent women, children, infrastructure that's hit.
+LIEBERMANN (voice-over): The Shahed 136 and the smaller Shahed 131 are perhaps Iran's most ubiquitous weapon. They have proliferated in Ukraine, where Russia has terrorized the population with these drones, repeatedly striking civilian infrastructure.
+UNIDENTIFIED MALE: Yes, contact.
+LIEBERMANN (voice-over): Many are intercepted, but not all. Iran has used their Shahed drones to attack shipping in the Middle East, oil facilities in Saudi Arabia, and a direct attack on Israel back in April.
+LIEBERMANN: Do you have this here to advocate for a direct attack on Iran?
+WALLACE: No. I -- look, we -- we have always been the sanctions people. We have been really the architects really of maximum pressure before maximum pressure was even fashionable.
+LIEBERMANN: What's the red line where you go from advocating sanctions and maximum pressure to advocating strikes?
+WALLACE: I think you have to keep all options on the table. And when they attack and they harm or threaten to harm Americans and our allies, I think we have to be prepared to strike those IRGC targets.
+LIEBERMANN (voice-over): We've seen these before, but not in the United States. The organization United Against Nuclear Iran brought this one to CPAC, a right-wing political conference where a hawkish message on Tehran will find a friendly target. BENJAMIN NETANYAHU, ISRAELI PRIME MINISTER: Here's a piece of that Iranian drone.
+LIEBERMANN (voice-over): The spectacle reminiscent of the one from Prime Minister Benjamin Netanyahu in 2018.
+NETANYAHU: Mr. Zarif, do you recognize this? You should. It's yours.
+TRUMP: Announcing today --
+LIEBERMANN (voice-over): Months later, President Donald Trump withdrew from the Iran nuclear deal in his first term. Now, Netanyahu is openly pushing for more.
+NETANYAHU: Israel has dealt a mighty blow to Iran's terror axis. Under the strong leadership of President Trump, I have no doubt that we can and will finish the job.
+LIEBERMANN (voice-over): U.S. intelligence agencies warned the Trump administration that Israel will likely attempt to strike Iran's nuclear facilities this year, according to sources familiar with the assessments. But Trump has openly signaled a desire to end wars, not start them.
+TRUMP: You can't allow them to have a nuclear weapon, but there's two ways of stopping them, with bombs or with a written piece of paper. And I'd much rather do a deal that's a deal that's not going to hurt them.
+(END VIDEOTAPE)
+LIEBERMANN: Jake, it's not just a problem of a deadly weapon, it's also a cheap deadly weapon. About $100,000 to put together one of these, give or take. To shoot it down requires missiles that can cost a million or more, so it very quickly becomes an economic or financial problem as well to handle these drones that are mass-produced by Iran and Russia.
+TAPPER: Fascinating stuff. Oren Liebermann, thanks so much. Interesting report.
+I have a reporting project that I want to tell you about. In 2011, in the wake of the Arab Spring, the Italian government commandeered a cruise ship to move Libyan and Tunisian refugees from the southern Italian islands to the mainland on board. On that ship, a man approached an Italian Green Beret and asked him for some water. The Green Beret noticed that the man had a bullet wound.
+He asked him where it came from. From fighting the Americans in Afghanistan, he said. I'm with al-Qaeda. My name is Spin Ghul. The Italians took the man into custody and called the Americans. Have you ever heard of Spin Ghul, they asked. Well, the Americans had. American prosecutors and the FBI flew to Italy and heard his story about killing Americans in Afghanistan, plotting to kill mass more at a U.S. embassy in Nigeria. Take him, the Italians asked, wanting a potentially deadly terrorist out of their country. We can't take him, the Americans replied. This was during the Obama years. To bring Spin Ghoul in, the Americans had to build a case beyond a reasonable doubt, one that would withstand a skeptical judge and jury, one that would result in a conviction. We're not going to hold him forever, the Italians said, maybe a month or two. So the Americans, the prosecutors, the FBI agents, counterterrorism intelligence plunged into a fierce world of sleuthing and detective work to figure out how to prove that this al-Qaeda operative had killed Americans and was determined to kill more.
+They could not let him get out of custody. Lives were on the line. Spin Ghul was a murderer who aspired to be a mass murderer. This is just the beginning of the incredible true story in a brand new nonfiction book I've written. It's called "Race Against Terror: Chasing an Al-Qaeda Killer at the Dawn of the Forever War." It's going to be published this fall by Simon & Schuster. It is available for pre-order right now. You can go to jaketapper.com for more details, and I hope you enjoy it, "Race Against Terror."
+[17:55:30]
+A big programming note, starting March 3rd, The Lead is also on the move. Look for the show in our new time slot, 5:00 to 7:00 p.m. Eastern, every weekday here on CNN. The White House is on a firing spree. Sources tell CNN that some top Pentagon generals could be let go. The top Democrat on the Senate Foreign Relations Committee will be here to weigh in on this, coming up next with Wolf Blitzer in the Situation Room after this quick break.
+(COMMERCIAL BREAK)
+
+Load-Date: February 20, 2025
+
+
+End of Document

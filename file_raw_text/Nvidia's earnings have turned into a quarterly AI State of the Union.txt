@@ -1,0 +1,79 @@
+
+
+
+
+
+Business Insider
+February 26, 2025 Wednesday 12:05 PM EST
+
+
+Copyright 2025 Insider Inc. All Rights Reserved
+
+
+Length: 1429 words
+Byline: ddefrancesco@businessinsider.com (Dan DeFrancesco)
+Highlight: Nvidia reports earnings this afternoon, giving it another chance to ease investor concerns about the potential threat DeepSeek poses.
+Body
+
+
+This post originally appeared in the Business Insider Today newsletter.
+You can sign up for Business Insider's daily newsletter here.
+You've been heard. Yesterday, I asked how you would respond to DOGE's "What did you do last week?" email. Plenty shared their thoughts. (Thank you for replying! Meanwhile,  to DOGE's email.) The big takeaway from our respondents: DOGE's execution might have some issues, but .
+In today's big story, Nvidia reports earnings this afternoon, giving it another chance to ease investor concerns about .
+What's on deck
+Markets: Jamie Dimon's RTO plans have some of JPM's tech team .
+Tech: We tested Anthropic's newest AI model. .
+Business: Millennial brands like Billabong and Forever 21 are becoming casualties of .
+But first, the AI king is speaking.
+If this was forwarded to you, 
+The big story
+Nvidia responds
+Nvidia reports earnings today, which means more questions about AI being overhyped.
+The company's chips are so critical to AI development that its quarterly reports have become a State of the Union-type event for the tech. And in the three months since Nvidia last checked in, one company has shocked the AI industry: DeepSeek.
+Business Insider's Emma Cosgrove and Hasan Chowdhury  when Nvidia reports after the bell.
+DeepSeek burst onto the scene in late January with reports it could produce high-performance models with fewer and less powerful hardware than its US competitors. And when you're in the business of selling AI chips like Nvidia is, some might view that as not great news.
+At least, that was the market's initial reaction. Nvidia lost $600 billion in market capitalization in a single day.
+The stock eventually stabilized - and some cloud firms said DeepSeek's AI models ultimately  - but it's still been a tough start to 2025 for the tech giant. Nvidia shares are down more than 8% this year compared to the S&P 500, which is up 1.48%.
+Nvidia CEO Jensen Huang  (you'll never guess this; he thinks investors got it wrong). Wednesday's earnings will be another chance for Nvidia to calm market nerves and address the ongoing doubt some have about AI: Are we spending too much money on this stuff?
+If anyone's well suited to handle the critics, it's the world's second-largest company.
+Time and again, Nvidia has answered the bell. Heading into last earnings there were concerns over . Huang's response?  was "incredible."
+Come to think of it, the biggest threat to Nvidia might be the incredible expectations Wall Street analysts have heaped onto it. Nvidia beat Q2 estimates in August, but its revenue guidance for the third quarter fell just short of the most ambitious predictions, . Such is life .
+Wall Street isn't letting up on the pressure, though. Most analysts expect Nvidia to beat earnings estimates again, and some even , writes BI's Matthew Fox.
+News brief
+Meet Amy Gleason, the DOGE office's new acting administrator.
+Video shows Southwest plane narrowly avoiding collision with a private jet, triggering FAA investigation.
+Mira Murati's new AI startup is set to be valued at $9 billion, sources say.
+21 employees resign from the agency rebranded as DOGE, saying they refuse to 'dismantle critical public services.'
+Apple shareholders reject 'unnecessary' anti-DEI proposal.
+Microsoft brings data center hype back to earth but the boom lives on.
+Meta just scored a small win in its feud with Apple.
+3 things in markets
+1. Jamie Dimon's RTO insistence could come back to bite him. The JPMorgan CEO's expletive-laden response to remote work left some of the bank's tech talent feeling alienated and wondering whether they should leave. Recruiters and some employees told BI the mandate could  to retain tech workers and attract new ones, a dangerous position for a bank with a $17 billion IT budget.
+2. The bigger they are, the harder they fall. Bitcoin  on Tuesday, trading below $90,000 for the first time in months. The Trump-fueled excitement has burned off, and the coin is struggling amid general market pessimism, which has hit other stocks. There are also some bitcoin-specific woes, like a string of meme-coin scams and a recent crypto hack.
+3. Tesla shares drop 8%. The dip in share price was due to the EV maker's . That's despite EVs doing well in Europe, with total new sales increasing by 37.3% across the continent. Tesla's market cap now sits below the $1 trillion mark.
+3 things in tech
+1. AI agents could hold the keys to the internet in the future. Silicon Valley has high hopes this year for agentic AI, the personalized assistants that can conduct research, curate content, complete tasks, and more. If the technology's projected feats come to pass, , BI's Alistair Barr wrote. The AI could also disrupt some companies currently dominating the web.
+2. Anthropic's newest model showcases a new form of artificial thinking. Anthropic's Claude 3.7 Sonnet is capable of "extended thinking," a step-by-step process that presents a new approach to answering complex questions. BI's Effie Webb tested Claude's skills against Grok and ChatGPT by asking it to answer a riddle and compose a poem. The Anthropic bot  with its creativity in one of the tasks.
+3. Amazon's new pilot program could be a bright spot for media companies. The retail giant is testing NCA, or native commerce advertising. That means it'll  through its product recommendations, three people familiar with the program told BI. The program would be a welcome revenue source for digital media outlets, but it could also test their editorial integrity. Meanwhile, it's  ahead of its AI-enhanced Alexa upgrade.
+3 things in business
+1. They landed their dream jobs. Now, they're waking up - and they want real income. Ski patrollers, Disney princesses, and male strippers have something in common: Their jobs provide memorable experiences. But many are finding loving their job isn't enough when they make less than a living wage. They want to turn their passion into a truly sustainable career. The solution? .
+2. Can the kids read? Thanks to Trump's cuts, we might not know. Researchers told BI that Trump's decision to cut more than $900 million in funding to the Department of Education is seriously hurting the arm known as . The group has assessed student achievement for the past three decades. The cuts couldn't come at a worse time, one said - last year, eighth-grade reading levels hit a 30-year low.
+3. Americans <3 cheap stuff. There's no such thing as cheap enough for today's consumer, and beloved millennial clothing companies are learning that the hard way. Liberated Brands, which operated stores for Billabong and other retailers, recently filed for bankruptcy. Forever 21 is reportedly mulling over doing the same. Their death knell might be , who offer rock-bottom prices that satiate American consumers and are proving difficult for competitors to beat.
+In other news
+The CEO of Workday says DOGE offers 'tremendous opportunity' for the software company.
+Entry-level job openings are shrinking. That's not just a problem for Gen Z.
+YouTube is putting more ads in the middle of videos and says they could help creators earn more money.
+Mining the moon for minerals could be worth billions, but astronomers warn it's bad news for science.
+HuffPost's new editor on Trump, the Pentagon, and being owned by BuzzFeed.
+Four tips for job searching after being told you're an underperformer.
+What's happening today
+Paramount reports earnings.
+Amazon hosts event to preview Alexa generative AI voice service.
+The Insider Today team: Dan DeFrancesco, deputy editor and anchor, in New York. Grace Lett, editor, in Chicago. Ella Hopkins, associate editor, in London. Hallam Bullock, senior editor, in London. Amanda Yen, associate editor, in New York. Elizabeth Casolo, fellow, in Chicago.
+Read the original article on
+
+
+Load-Date: February 26, 2025
+
+
+End of Document

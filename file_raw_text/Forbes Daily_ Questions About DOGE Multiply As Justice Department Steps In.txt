@@ -1,0 +1,93 @@
+
+
+
+
+
+Forbes.com
+February 6, 2025 Thursday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 1852 words
+Byline: Danielle Chemtob, Forbes Staff
+Highlight: Today s Forbes Daily newsletter covers DOGE s access to Treasury and Medicare data, America s best banks, Google s DEI shift, USPS stance on Chinese packages and more.
+Body
+
+
+Google cofounder Sergey Brin has already donated more than $1 billion towards Parkinson s disease,and now he s taking on autism.
+Brin s new initiativewill fund research into what causes autism and its therapies. And while its long-term budget hasn t been finalized,Forbesreports it will greatly exceed the nearly $50 million Brin has spent on autism research so far. The goal of its first program is to create a group of autism care centers where researchers will collaborate on clinical trials.
+The bulk of Brin s philanthropic giving has gone to researching conditions that affect the central nervous system, both of which have impacted members of his family. Brin s mother died in December after being diagnosed with Parkinson s disease more than two decades ago.
+FIRST UP
+<figure>
+<figcaption>
+Senator Richard Blumenthal, D-Conn., accompanied by other members of Congress, speaks during a rally against Elon Musk outside the Treasury Department on Tuesday.
+AP Photo/Jose Luis Magana
+</figcaption></figure>
+DOGE reportedly receivedaccess to data at the Centers for Medicare and MedicaidServices, one day after Democrats expressed outrage over Elon Musk and DOGE getting access to sensitive Treasury data. The DOGE officials were reportedly looking for fraud or waste, and CMS has since issued a statement that two agency veterans are working with them, though there is no clear outline in the executive order establishing DOGE about what authority it has.
+MORE: Justice Department lawyers agreed to a proposed order late Wednesday night that would temporarily curb operatives of DOGEfrom accessing the Treasury Department s sensitive financial data. According to a court filing, the order would only allow two of Musk's affiliates to have "read-only" access to the sensitive financial data.
+Majortechnology stocks fell Wednesday, as the latest batch of fourth-quarter earnings and an increasingly complicated operating environment for multinational companies ate at Wall Street s risk appetite.Google parent Alphabet led the losses,which dropped 8% after the company s earnings report revealed weaker Q4 revenues than analysts expected.
+This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.
+BUSINESS + FINANCE
+<figure>
+<figcaption>
+Illustration by Cecilia Runxi Zhang for Forbes; Photos by Ju Yochi/Getty Images; Porcorex/Getty Images
+</figcaption></figure>
+The top 10 banks onForbes ranking of America s Best Banks 2025are relatively tiny institutions with less than $25 billionin assets. Major banks with expansive capital markets departments are often less profitable, while  regional banks tend to score better on efficiency,  says Stephen Biggar, director of financial institutions research at Argus.
+Elon Musk s campaign to get rid of 10% of a federal workforce that numbers 2.3 million isreminiscent of his 2022 takeover of Twitter, now known as X. Six months after closing his $44 billion acquisition of the social media platform, he told the BBC he slashed the headcount by about 80%, and even sent an all-hands email with the subject line  A Fork in the Road,  the same subject line all federal employees got last week in their email offering voluntary buyouts.
+In his first press conference, David Sacks, thenation s first AI and crypto czar,emphasized the need for clear rules around crypto, criticizing what he described as  four years of arbitrary prosecution and persecution of crypto companies.  Sacks also mentioned that his digital asset markets working group, established by an executive order from President Trump two weeks ago, is preparing to evaluate the feasibility of a  bitcoin reserve. 
+TECH + INNOVATION   
+<figure>
+<figcaption>
+Sam Altman announced the $500 billion Stargate initiative at the White House last month.
+Photo by JIM WATSON/AFP via Getty Images
+</figcaption></figure>
+President Donald Trump s $500 billion AI play known as Stargate willrequire a gargantuan amount of energy to power it, and fewstartups are better positioned to cash in on the effort than fusion energy company Helion. The company launched 12 years ago and has yet to generate revenue, but hopes to build a fusion reactor that can produce carbon-free and nearly limitless energy.
+Dbt Labs  data analytics tool is atthe core of a fast-growing businesswith over 5,000 paying customers andmore than $100 million in annual recurring revenue, CEO Tristan Handy toldForbes. The goal is to make the tedious task of cleaning and converting data from one format to another more like software engineering.
+Google told its employees Wednesday it willstop having  aspirational goals  around representationin its workforce, marking the latest major companypolicy change in a wave of backlash against DEI. The tech giant said in an email to employees that it will no longer have hiring targets around improving diverse representation among its staff, theWall Street Journalfirst reported, and it is evaluating whether to continue other DEI programs.
+MONEY + POLITICS
+<figure>
+<figcaption>
+Photo by Joe Raedle/Getty Images
+</figcaption></figure>
+The U.S.Postal Service said it would resume accepting shipmentsfrom China and Hong Kong following a temporary pause thatappeared to be in response to President Donald Trump s tariffson Chinese imports. The move could have disrupted shipments from popular e-commerce sites like Temu and Shein, both of which rely on the now-eliminated  de minimis  trade provision, which allowed packages valued at $800 or less to be sent to the U.S. without taxation.
+A federal judge in Marylandindefinitely blocked President Donald Trump s executive orderthat sought to end birthright citizenship for children of undocumented and temporary immigrants born in the U.S. meaning itlikely won t go into effect later this month as planned. U.S. District Judge Deborah L. Boardman s ruling states that Trump s order  conflicts with the plain language of the 14th Amendment,  and marks the second time this order has been stopped by a judge.
+WORLD
+In a post on X on Wednesday evening,the State Department announcedthe government of Panama had  agreed to no longer charge fees for U.S. government vessels to transit the Panama Canal," which would save the U.S.  millions of dollars a year. But just a few hours later, the canal authority responded, saying it is  empowered to set tolls for vessels transiting the canal  and has  not made any adjustments to these fees. 
+SCIENCE + HEALTHCARE
+Two California women aresuing Procter & Gamble over its urine-basedtest that claims to tell womenwhich  stage  of menopause they are in, alleging that it is  worthless  and  exploits mid-life women.  Medical professionals who spoke toForbessaid there s only one definitive way to determine whether someone is menopausal a full 12 months without experiencing a menstrual period.
+A strain of the H5N1 bird flu virus that has typically spread in poultry and wild birdsrecently jumped to dairy cattle in Nevada, the Department of Agriculture reported Wednesday, noting the transition isthe first time the strain has been detected in cows. The USDA did not clarify the number of cows infected with the strain, known as D1.1, which was first detected in milk collected from a silo by the USDA last year, theNew York Timesreported.
+DAILY COVER STORY
+<figure>
+<figcaption>
+Dana White in front of an Octagon canvas splattered with UFC fighters  blood at company headquarters in Las Vegas.
+Ethan Pines for Forbes
+</figcaption></figure>
+TOPLINEOver the past two decades, Dana White, CEO of the Ultimate Fighting Championship, has turned mixed martial arts, or MMA,into a global phenomenon. In turn, he s made his UFC into a behemoth, generating an estimated $1.3 billion in revenue last year with staggering margins (Ebitda) of almost 60%.
+Along the way he s become more famous than any of the fighters who step into his Octagon and amassed a net worth thatForbesestimates to be more than $600 million.
+White leveraged that fame, fortuitously concentrated among a large swath of young, politically apathetic males, tosupport Donald Trump s 2024 election triumph. 
+There s something even bigger at play here. Trump s genius marketing instincts his ability to dominate narratives and news cycles, to speak simply and consistently, pesky facts and nuances be damned translated even better to politics than business. White has also proven how that works in reverse that the Trump-era anti-establishment norms that reward pugnaciousness and tribalism, revel in taboos and ignore personal scandals, represent an ascendant business model. Call it populist capitalism. And no one embodies it better than White,a self-described moderate who professes to lean slightly left, whose clannishness proved ahead of this curve.
+This us-against-the-world business formula has proven potent before, particularly in outlaw industries from porn to gambling to weed. White, however, has taken it mainstream. UFC is now bigger in America than golf or hockey, whether measured by television money or cultural resonance.
+WHY IT MATTERS  Dana White s rise from college dropout who was teaching boxing classes to CEO of a multi-billion dollar organization is an impressive enough story, but it s the way he shelped define this current hyper-masculine moment in business, politics and culture that is particularly fascinating,  says Forbes reporter Matt Craig.  His circle of influence now includes billionaires like Mark Zuckerberg, pop culture tastemakers like Joe Rogan and the president of the United States. So I spent three days in his orbit in Las Vegas to figure out what the vision for the world he s helping shape might be. 
+MORE Inside Dana White s $20 Million Plan To Bring UFC 306 To The Sphere
+FACTS + COMMENTS
+Skin care and cosmetics giant Estée Lauder willlay off as much as 11% of its workforceas its new CEOreported a decline in second-quarter sales and operating income. The second quarter 2025 earnings call was the first for CEO Stéphane de La Faverie:
+Between 5,800 and 7,000: The number of employees who will be laid off
+$580 million: The company s reported loss in operating income, compared to a $574 million gain in the same period the previous year
+12%: The drop in Estée Lauder s skin care revenues, its top money maker
+STRATEGY + SUCCESS
+If you retrying to pivot your career but have a highly specializedbackground,identify the transferable skills between what employers need and what you can offer. Tailor your résumé, cover letter and LinkedIn profile to the job you want, highlighting abilities used across industries. And consider pursuing contract work or adjacent roles to get a foot in the door and gain experience you can discuss in a job interview.
+VIDEO
+https://www.forbes.com/video/22e1f5fa-6089-414e-b1c5-5fe80f0d3de9/
+QUIZ
+African billionaire Mohammed Dewji s X account was apparently hacked by crypto scammers, who promoted a fake crypto coin and took more than $1 million from users. The deepfake posts showed him hawking acrypto coin called what?
+A. $Dewji
+B. $MoMoney
+C. $Tanzania
+D. $METL
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Chris Dobstaff.
+
+Load-Date: February 7, 2025
+
+
+End of Document

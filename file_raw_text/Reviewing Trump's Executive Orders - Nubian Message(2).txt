@@ -1,0 +1,121 @@
+
+
+
+
+
+The Nubian Message: North Carolina State University
+January 31, 2025 Friday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 1588 words
+Body
+
+
+President Donald Trump reversed 78 Executive Orders issued by former President Joe Biden. He then issued 42 of his own Executive Orders encompassing a wide range of issues. Trump issued them during his first week in office under an executive order entitled, "Initial Rescissions of Harmful Executive Orders and Actions." Many of Biden's executive orders revoked by President Trump were those in furtherance of diversity and inclusion efforts as well as pay transparency and COVID-19 protections.
+An Executive Order is a directive issued by the president that creates requirements for federal government operations. EOs have the force of law and do not require action from Congress or state legislatures, but Congress can pass legislation that overrides an order.
+The reversed EOs include "Preventing and Combating Discrimination on the Basis of Gender Identity or Sexual Orientation," "Advancing Racial Equity and Support for Underserved Communities Through the Federal Government," "Lowering Prescription Drug Costs for Americans," and "Reforming Our Incarceration System To Eliminate the Use of Privately Operated Criminal Detention Facilities," among several others. Here is a list of the most recent executive orders passed by the Trump administration:
+TikTok
+Trump issued the order entitled, "Application of Protecting Americans From Foreign Adversary Controlled Applications to TikTok," that halted the ban of the viral video platform TikTok. This provided a 75-day extension for the app's China-based parent company ByteDance to sell the platform to an American company.
+Women's and LGBTQ+ rights
+The order entitled, "Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government," establishes that the U.S will only recognize two sexes (male and female) under the prerogative of protecting designated female spaces, rights and freedom. Under this order, Trump also establishes that woman, man, boy and girl shall be used based on biological sex respectively.
+Healthcare
+The order entitled, "Withdrawing the U.S. from the World Health Organization," withdraws the U.S. from the World Health Organization . In 2020, Trump withdrew from the WHO alleging the organization mishandled COVID-19. He charged that the organization failed to remain independent of negative political influence and unjust financial demands.
+Though Biden reversed this decision in 2021, Trump is now reinstating the order. The organization will no longer receive U.S. funding or support and new personnel will be assigned to take over the activities handled by the WHO.
+Immigration and Refugees
+The Executive Order entitled, "Securing Our Borders," requires the U.S. build a wall at the southern border and shut down the CBP One, an app that helped migrants enter the U.S. legally and detaining and deporting all undocumented immigrants.
+The order entitled, "Protecting the Meaning and Value of American Citizenship," intends to end birthright citizenship. The order argues the 14th Amendment "has never been interpreted to extend citizenship universally to everyone born within the United States." If enacted, the U.S. government will be prohibited from issuing documents recognizing citizenship to children whose parents are unlawfully present in the United States or whose presence is lawful but temporary at the time of said birth.
+Twenty-two states have already sued the federal government to prevent the order from taking effect on Feb. 20, 2025, on the basis that the order is unconstitutional.
+An EO entitled, "Realigning the United States Refugee Admissions Program," bans refugees from entering the U.S. for 90 days to halt the migration influx.
+Gulf of Mexico and Mount Denali
+Trump issued an Executive Order entitled, "Restoring Names that Honor American Greatness," which renamed the Gulf of Mexico and Denali. The Gulf of Mexico is now being referred to as the Gulf of America and Mount Denali is being referred to as Mount McKinley.
+Paris Agreement
+An EO entitled, "Putting America First in International Environmental Agreements," withdrew the U.S. from the Paris Agreement after Biden rejoined during his presidency. Trump's withdrawal is based on the claim that the U.S. has been progressing and that the "U.S. has joined international agreements and initiatives that do not reflect our country's values of economic and environmental objectives."
+The Death Penalty
+The Executive Order entitled, "Restoring the Death Penalty and Protecting Public Safety," ensures that all states have a "sufficient supply" of drugs for lethal injection and encourages the Attorney General to pursue the death penalty for federal capital crimes with special attention to crimes involving the murder of law enforcement and capital crimes committed by undocumented persons in the U.S. The Attorney General was also ordered to seek to reverse of the Supreme Court decision that limits federal and state authority to impose capital punishment. The order also calls for the evaluation of the prisons and confinement of the 37 murderers whose death sentences were commuted by Biden to determine if these offenders can be charged with state capital crimes.
+Diversity, Equity and Inclusion
+Trump issued an Executive Order entitled, "Ending Illegal Discrimination and Restoring Merit-Based Opportunity," which ordered the termination of diversity, equality, and inclusion programs. The order included mandates, policies, programs and activities relating to DEI under the action of restoring hiring based on skill during job selection.
+Some highlights of the revoked EOs include Executive Order 11246, Equal Employment Opportunity Act of 1965, Executive Order 13583, Establishing a Coordinated Government-wide Initiative to Promote Diversity and Inclusion in the Federal Workforce and Executive Order 12898, Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations.
+This executive order also prohibits the Office of Federal Contract Compliance Programs within the Department of Labor from promoting diversity. Under this order contractors and subcontractors will be held responsible for taking affirmative action or encouraging workforce balancing based on diversity.
+The order entitled, "Ending Radical and Wasteful Government DEI Programs and Preferencing," in which he issued all federal agencies and departments 60 days to terminate offices and positions related to DEI, accessibility and environmental justice. The Office of Management and Budget of will also conduct an assessment to conclude whether the positions have been misleadingly named to restore their previous functions.
+Department of Government Efficiency
+Trump issued an executive order entitled, "Establishing and Implementing the President's 'Department of Government Efficiency'," in which Trump established a new "Department of Government Efficiency" to be led by Elon Musk. DOGE is charged to reduce wasteful government spending and improve government efficiency.
+Federal Censorship
+Trump issued an EO entitled, "Restoring Freedom of Speech and Ending Federal Censorship," in which Trump charged the mission of preventing misinformation, disinformation and misinformation the Federal government infringes on the Constitution to protect the right of freedom of speech. This order states that "No Federal department, agency, entity, officer, employee, or agent may act or use any Federal resources in a manner contrary to the First Amendment."
+Additional Orders
+Trump has issued other orders that: halted foreign aid for 90 days, identified international cartels as foreign terrorist organizations, declared a national energy emergency, expanded fossil fuel production in Alaska, suspended offshore wind leasing and reformed the federal hiring process.
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 20px;
+line-height: 1.4em;
+margin-bottom: 24px;
+font-family: Source Serif Pro;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #009933;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 24px;
+font-family: Source Serif Pro;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #009933;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Source Serif Pro;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #009933;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Source Serif Pro;
+}
+.sno-story-body .simpleParallax {
+width: 100vw;
+margin-left: calc((100vw - 1000px)/-2);
+max-width: 100vw;
+max-height: 100vh;
+}
+@media only screen and (max-width: 1000px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 1, 2025
+
+
+End of Document

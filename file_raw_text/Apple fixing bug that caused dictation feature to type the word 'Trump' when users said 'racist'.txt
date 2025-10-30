@@ -1,0 +1,33 @@
+
+
+
+
+
+CNN Wire
+February 26, 2025 Wednesday 1:55 PM GMT
+
+
+Copyright 2025 Cable News Network All Rights Reserved
+Length: 395 words
+Byline: By Clare Duffy, CNN
+Dateline: (CNN) 
+Body
+
+
+             New York (CNN) - Apple says it's fixing a technical bug that caused its voice-to-text system to briefly replace the word "racist" with the word "Trump."
+Some iPhone users had reported on Tuesday that when they spoke the word "racist" using Apple's voice dictation feature, the system automatically typed in "Trump" before quickly correcting to the word "racist."
+The company on Tuesday acknowledged the glitch that it said was causing its system to incorrectly suggest the word "Trump" when users spoke words with "r" consonants, and said it was rolling out a fix.
+"We are aware of an issue with the speech recognition model that powers Dictation and we are rolling out a fix today," an Apple spokesperson said in a statement.
+Apple says the speech recognition models behind its dictation feature occasionally show an incorrect word with phonetic overlap, before quickly correcting to the user's intended word. The company did not comment further on why its system may have heard the name of President Donald Trump when users were saying "racist."
+The issue came after Apple on Monday announced a $500 billion investment in US facilities, projects and infrastructure, which Trump quickly claimed as a sign of success for his tariff policies. Earlier this month, Trump announced 10% tariff on all imports from China, where Apple makes many of its products.
+In an all-caps Truth Social  on Monday, Trump said the investment showed "faith in what we are doing, without which, they would'nt (sic) be investing ten cents. Thank you (CEO) Tim Cook and Apple."
+But Trump lashed out at Apple in a separate, all-caps Truth Social post on Tuesday, after the company's shareholders voted down a proposal to end its diversity, equity and inclusion initiatives at its annual meeting.
+Apple's board had urged shareholders to reject the proposal, saying the company complies with relevant laws and aims to "create a culture of belonging where everyone can do their best work." Still, Cook acknowledged during the meeting that Apple may need to make some changes to its policies as the "legal landscape around these issues evolves," Reuters .
+"Apple should get rid of DEI rules, not make adjustments to them," Trump said in his Tuesday .         
+             By Clare Duffy, CNN         
+TM & © 2025 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+
+Load-Date: February 26, 2025
+
+
+End of Document

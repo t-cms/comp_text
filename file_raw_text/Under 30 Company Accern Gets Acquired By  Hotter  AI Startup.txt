@@ -1,0 +1,49 @@
+
+
+
+
+
+Forbes.com
+February 7, 2025 Friday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 758 words
+Byline: Alexandra York, Forbes Staff
+Highlight: An Under 30-founded AI company has been acquired, Chappell Roan won Best New Artist, Kate Barton takes on New York Fashion Week and more in this week's 30 Under 30 Newsletter.
+Body
+
+
+Think this is nice? It s a version of the weekly Under 30 newsletter and would be even better in . 
+<figure>
+<figcaption>
+courtesy of Accern
+</figcaption></figure>
+30 Under 30 Enterprise Technology companyAccern which works with hedge funds, asset managers and equity firms to provide them with AI-powered insights on U.S. public companies today announced its acquisition by Wand AI, a Palo Alto-based startup.
+Since Accern was founded in 2014 by Kumesh Aroomoogan and Anshul Vikram Pandey, it s tapped customers like Mizuho Bank and consulting firm Capgemini and says its technology can monitor over 300 million websites in real-time to gather news on publicly traded companies.
+Accern had raised roughly $40 millionfrom investors including Fusion Fund and Mighty Capital. The last round closed was a $20 million Series B in 2022 leaving Aroomoogan, the CEO, with the decision to either raise again or sell the company.
+ We were randomly getting solicitations and offers, and the space was getting very competitive for us to raise another round of capital,  Aroomoogan said.  We thoughtit might be better to partner with a much hotter, growing companyand execute from there. 
+Wand AI, which was more recently founded in 2023 by Rotem Alaluf, is building what might be described as artificial employees. The startup sells  AI agents  to other enterprises a business could tap Wand to automate an entire department, for example. Alaluf said buying Accern will give the startup tried-and-true technology to train its AI agents on the financial sector.
+ Even if we have very sophisticated, huge amounts of data, but no capacity to analyze and create insight, it s not worth a lot,  Alaluf said.  Accern is bringing AI, data aggregations, data knowledge graphs, and building parts that can enhance the capabilities of AI agents. 
+Neither party would disclose the price of the acquisition, but Aroomoogan said it was in the eight-figure range. Ten of Accern s tech and data science team members will be joining Wand s workforce, which currently stands at roughly 70 employees. Aroomoogan will be taking a role at Wand, too, although he said a title hasn t been decided yet.
+For other entrepreneurs thinking of selling, Aroomoogan encourages them to consider taking the leap. He does advise, however, tokeep the cap table lean so you don t have to chase down an investor who put in $5,000 when it comes time to sell.
+ I ve been doing this for 12 years, so it s been a long time, but I m very happy with the outcome because it also feels like a fresh start,  Aroomoogan said.  I ve only been CEO in all my 20s so it s a change to work for someone, but it s fun. 
+See you next week,
+Alex and Zoya
+Amazon And Tesla Use This Company s AI To Prevent Warehouse Accidents
+<figure>
+<figcaption>
+Protex AI founders Dan Hobbs and Ciaran O'Mara.
+Protex AI
+</figcaption></figure>
+2023 Under 30 Europe Technologylisters Dan Hobbs and Ciarán O Mara launched Protex AI in 2021. Now backed by Salesforce Ventures, the startup which uses computer vision to detect when workers aren t wearing hard hats or are engaging in other types of unsafe behavior just raised a $36 million Series Bto help companies keep those workers safe.
+On Our Radar
+-Award shows season continues: This week, the 67th annual Grammy Awards took place in L.A.2025 Under 30 Music listerChappell Roan won Best New Artist, while 2014 Music honoree Kendrick Lamar took home Record of the Year and Song of the Year for  Not Like Us.  Lamar is also headed to the Super Bowl Halftime show this weekend, even though he won t be getting paid for it,which   covered here.
+-Speaking of the Super Bowl, companies are throwing down big bucks for a commercial spot. Fox has sold out its ad space, and more than 10commercials went for more than $8 million. And while we ll see the typical food and drink ads, AI and pharma companies are also expected to take the screen. ()
+-In the few weeks since President Donald Trump s inauguration, he s alreadysigned 45 executive orders ranging from instructions onCelebrating America s 250th Birthdayto new plans for defense against terror throughThe Iron Dome for America. But one of the most contested EOs has been his plans to axe DEI initiatives across the country. And at the tail end of last week, the Defense Intelligence Agency (among other governmental agencies) officially paused all  special observances  activities surrounding Martin Luther King Jr. Day, Black History Month, Juneteenth, LGBTQ Pride Month, Holocaust Remembrance Day and more, to comply with the EO. ()
+U30 On-Air: Kate Barton
+
+Load-Date: February 8, 2025
+
+
+End of Document

@@ -1,0 +1,92 @@
+
+
+
+
+
+Forbes.com
+January 27, 2025 Monday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 2656 words
+Byline: Megan Poinski, Forbes Staff
+Highlight: Also in the Forbes CEO newsletter: UnitedMasters CEO on pivoting to tech, how federal return-to-office policy impacts the private sector, OpenAI's smooth Operator.
+Body
+
+
+This is the published version of Forbes  CEO newsletter, which offers the latest news for today's and tomorrow's business leaders and decision makers. Click here to get it delivered to your inbox every week.
+What a difference a week can make. Last Monday, Donald Trump was sworn in for a second term as president. In seven days, executive orders and policy pronouncements have shaken the U.S. and countries globally as he is changing how the United States government does business in terms of employment, immigration policy, criminal justice and diplomacy. And while shifts in the federal government s internal operations don t necessarily impact how the private sector runs, it sets a tone, and could inspire businesses to make changes.
+One of the most prevalent policy shifts is in diversity, equity and inclusion efforts. Anexecutive ordersigned on the first day of Trump s presidencyends federal DEI programs, saying that  illegal and immoral  plans in every government department intended to ensure better representation of genders, races and backgrounds throughout government  demonstrated immense public waste and shameful discrimination.  DEI initiatives throughout the government wereformally shut downtwo days later, and employees who worked in DEI offices were immediately put on paid leave. According to a memo, each department is to plan for staff reductions for DEI employees by January 31.
+Another executive orderfrom Trumpbrings this crackdown . He rescinded a 1965 anti-discrimination order for federal contractors from President Lyndon B. Johnson, requiring agencies to identify contractors who use  coded or imprecise language  to  obscure  DEI initiatives, as well as identifying up to nine potential civil compliance investigations of private sector entities  to deter DEI programs or principles that constitute illegal discrimination or preferences.  The attorney general will take this information and issue a report of recommendations to take action within 120 days.
+Even before Trump took office,popularity of DEI initiatives among businesses . Last week,Target scaled backsome of its policies, phasing out its goals to increase hiring and promotions of people of color and women, pulling its participation from external diversity surveys, phasing out anti-racism training, and shifting its supplier diversity team to focus on supplier engagement.
+But some companies are digging in on diversity. Costco s shareholders almost unanimously bucked a challenge to its diversity policies,writes . The National Center for Public Policy Research had petitioned the retailer to audit the company s  litigation, reputational and financial risks  caused by its DEI policies. Costco s leadership rejected the proposal last month and urged shareholders to vote it down, saying that the retailer regularly evaluates its policies. JPMorgan CEO Jamie Dimon also stood firm in his commitment to DEI initiatives, saying,  Bring them on  in an interview with CNBC last week, senior contributor Jack Kelly writes.
+The fight over diversity will continue to play out everywhere, and how policies will ultimately be decided is unclear.Time as well as future measures of the broader economy, company offerings and demographic statistics will tell.
+One thing that has remained constant, regardless of who s in the White House, istechnology s disruption of more traditional industries. The music business has seen a lot of change over the last generation. I talked to Steve Stoute, a former record company executive who founded the tech-enabled and creator-empowering enterprise UnitedMasters. I talked to him about his path to reinventing an old industry. An excerpt from our conversation is later in this newsletter.
+ECONOMIC INDICATORS
+<figure>
+<figcaption>
+President Donald Trump gives a thumbs up to the crowd after speaking at a rally in Las Vegas on Saturday.
+Ian Maule/Getty Images
+</figcaption></figure>
+One thing thatdidn t see a ton of change the week Trump took office: the stock market. The Dow Jones Industrial Average, S&P 500 and Nasdaq all moved up less than three points last week, with a bump last Tuesday the first day of trading in Trump s second term and small ups and downs through Friday, largely from earnings reports and other more normal business indicators.
+A key reason for less volatility in trading is thatTrump has held back on putting tariffs in place. He s threatened tariffs on several nations Canada and Mexicostarting February 1, onRussiaif it doesn t end the war with Ukraine, higher onesfor Chinaif it doesn t cooperate with the sale of TikTok, and onColombiaover not accepting deportees. If and when tariffs actually are announced and prices are likely to change, markets may see bigger swings.
+The economy is on many peoples  minds, but consumers are still spending. The National Retail Federation reported that November and Decemberretail saleswere a record $994.1 billion, 4% higher than 2023, writesForbessenior contributor Pamela Danziger. Holiday spending exceeded predictions of 2.5% to 3.5% growth. But this growth wasn t just for the holiday season. Sales for 2024 as a whole grew a record 3.6% to a record $5.28 trillion, theNRF found. The growth is expected to continue, Deloitte reported in its 2025 retail industry outlook, senior contributor Joan Verdon wrote. The firm predicts that consumer spending will grow by 3.1% in 2025.
+While this level of spending might be good for business bottom lines,it might not be the best thing for the economy as a whole. In Q3, credit card balances nationwide hit $1.17 trillion an increase of $24 billion and 3.5% of all household debt was in some form of delinquency,according to statisticsfrom the Federal Reserve Bank of New York. Consumer confidence also is declining, with theConference Board seeinga drop of 8.1 points in December. The expectations index based on consumers  short-term outlook for income, business and the labor market fell 12.6 points to 81.1, just above 80, which usually is a benchmark for a coming recession.
+FROM THE HEADLINES
+<figure>
+<figcaption>
+getty
+</figcaption></figure>
+Another big change for federal workers that may bleed into the private sector:An end to most remote work. Trump signed an executive order mandating federal employeeswork in the officefive days a week.Forbescontributor Terina Allen writes that most of the government s 2.3 million civilian employees about 54% work entirely on-site already, and just 10% work entirely remotely. senior contributor Jack Kelly writesthat this new policy is likely to also make employees quit government jobs, bringing de facto cuts to the size of the federal workforce.
+This new policy could have a trickle-down effect on the private sector, with more employers who have wanted more employees spending more time in the office anyway making the same moves themselves. However,there could be some downsides to following the federal government s lead. It might ultimately damage workplace culture, making employees feel like they are not trusted, career expert Jasmine Escalera of MyPerfectResumetold HR Executive. Meanwhile, some remote-work-friendly executivestold MarketWatchthat they plan to capitalize on the federal government s move, attracting highly qualified candidates with a more flexible work environment. They said that the benefits of remote work are clear, and this plan is a step backward.
+ARTIFICIAL INTELLIGENCE
+<figure>
+<figcaption>
+Omar Marques/SOPA Images/LightRocket via Getty Images
+</figcaption></figure>
+Politics aside even though Trump tried to make some of it political some big advancements in AI were announced in the last week. On the apolitical front,OpenAI unveiled its . The company described this tool as an  an agent that can go to the web to perform tasks for you,  completing tasks including making online grocery orders and ticket purchases, downloading lectures, combining PDFs and calculating refunds. It isn t totally autonomous, and asks users for confirmation before tasks like sending emails or completing orders. It is first be available in a research preview to ChatGPT Pro users.
+On the potentially political end of the spectrum, Trump unveiled a $500 billion called  Stargate between Oracle, OpenAI and SoftBank. This partnership will build several state-of-the-art AI data centers across the U.S. to expand computing power for new developments in the tech space. It s the type of project Biden had prioritized, signing an executive order before he left office, the reported, and that OpenAI had beenlobbying for. The Stargate project could help the U.S. keep its lead in AI development, as long as it can figure out several key issuesdetailed by , including who s in charge of the sprawling initiative, how data centers will get the electricity they need, and where highly skilled workers who can operate these centers will come from. (Muskhas also questionedhow solid SoftBank s funding may be, though it s unclear if his trolling merely stems from his long-running feud with OpenAI CEO Sam Altman.)
+Not to be outdone, Meta CEO Mark Zuckerberg announced on Friday $60 billion to $65 billion in capital expenditures this year, with much of that going to AI efforts. Zuckerberg said the company will expand AI teams significantly, and predicted the company s Llama 4 large language model will become  the leading state-of-the-art  AI model this year.
+TOMORROW S TRENDS
+How Steve Stoute Pivoted His Recording Industry Career To The Digital Age With UnitedMasters
+<figure>
+<figcaption>
+UnitedMasters founder and CEO Steve Stoute, and the "UnitedMasters: A Celebration Of Independence" event at the 65th Grammy Awards.
+Presley Ann/Getty Images for UnitedMasters, UnitedMasters
+</figcaption></figure>
+With a career in the music business that started in the 1990s, Steve Stoute has long been a key leader in the space. He served as an executive at Sony Music and Interscope Geffen A&M, then started advertising agency Translation. In 2017, he started UnitedMasters, a technology-driven company that lets artists develop music, get licensing and promotion and reach brand partnerships without going through the traditional record label process. UnitedMasters is valued at $550 million, and its investors include , . 
+I talked to Stoute about reinventing a legacy business for today s tech landscape. This conversation has been edited for length, clarity and continuity. A longer version is .
+What kind of knowledge and background did you bring to founding UnitedMasters from your years in the traditional recording industry? How did you pivot your expertise?
+Stoute: I ve been in the business since  91. It had gone through such a bad time since MP3s hit, and then it started to migrate into iTunes. Artists had lost. They didn t know where the revenue was, what the business would be. It was a period of eight years of decline, decline of market share, and no one had a clue what the solution would be.
+When iTunes came, the good news was that people were paying for music again. The bad news was the price of it was so low, the delta between what it was and what it is going to be was so far off that people had to readjust to these new economics. That s why you started to see the rise of merch and other items being sold. It was like,  Okay, I can t monetize the music, so let me monetize the higher margin item like a T-shirt or a hoodie.  Everybody had gotten into that business because there was no more money left just selling records.
+To me, that was a very clear path, and I wanted to use my understanding of the business and my access to technology. I worked very closely with Ben Horowitz [of Andreessen Horowitz]. He s on the board of my company. I wanted to work very closely with technology to help build what would be the technical solve for the music business of the future.
+What advice would you give to an aspiring CEO or leader like you were: They have deep knowledge of a traditional business but they want to start something new that adapts to the times we re in now?
+When you re beginning, ideas don t come out fully formed and they only become clear as you work on them. You really just have to get started.
+This whole idea that there s this eureka moment and then all of a sudden it hits you is actually a dangerous lie. Because you feel like until you have that eureka moment, you re not prepared to do anything, so you are waiting for this lightning to strike, that never strikes. The key is to move forward with that commitment, so that beautiful journey becomes clear.
+How did it happen for you? How did you get from feeling that you wanted to do something in this space to building it into UnitedMasters?
+When I look back at it, in hindsight, I was actually going through a very tough time in my life. Jay-Z and [Interscope Records cofounder and longtime CEO] Jimmy Iovine were both leaving the [traditional] music industry. Jimmy was building a company called Beats Music, which ended up becoming Apple Music, and Jay-Z had bought this [music streaming] company called Tidal. I m like, if those guys are going into the streaming business, what that means to me is that distribution as we knew it is fully dead. That they ve accepted that Spotify had no competitors. I m like, if they re gone and they re going after Spotify because they have no competitors, what that means is that the barrier for artists to get to distribution was no longer going to be physical and capital intensive.
+Those are just two data points that I had. I took those two data points and began to put together an idea that became UnitedMasters. It was certainly not when I was on my front foot. I wasn t doing great. It wasn t the optimum time to have an idea, but I kept on thinking about the idea. As I got better, and I became more who I already am, I was like, this is not a good idea. This is a great idea. It s the future.
+What I didn t know was how early I was going to be, and I would reckon to you I was too early. But when you speak to the great VCs, they ll tell you the gift and the curse of being early is: When you re early, when you have vision, you see it early, and when you see it early, it just takes longer to happen.
+So don t feel bad for being early. If you see it early, that means your vision is really good. Get prepared for the long run, pack enough clothes AKA get the funding you need, get people who believe in your vision, because it s going to be a minute. Always stay sharpening your vision because it s going to happen in iterations over time. You ve got to always be able to modify as conditions change. The baseline truth won t change, but some things around it may change. Mergers and acquisitions, new technologies, all these things. You ve got to be able to be committed to your vision, but yet nimble enough to do what you ve got to do as things evolve.
+FACTS + COMMENTS
+DeepSeek, a Chinese firm thatreleased an AI modelthat runs on less powerful chips than those used by OpenAI but has been able to match its first model on certain benchmarks caused a  as markets opened Monday.
+3.5%: Drop in the tech-heavy Nasdaq at Monday s open
+12%: Opening decline for chip maker Nvidia
+ May be over-hyped and a more efficient future is possible : What JPMorgan analyst Sandeep Deshpande wrote investors could be thinking right now about the AI investment cycle
+STRATEGIES + ADVICE
+When a business goes through a crisis situation, it could be devastating. It could, however, be achance to come back better than ever. Here show four companiesmade their crisis recoveries.
+If you re new to an executive role,there s a lot to learn and grasp. Here are sometips for those onboardinginto top jobs.
+VIDEO
+https://www.forbes.com/video/5f507046-18e5-4e33-b723-e46196f28471/
+QUIZ
+One of Trump s executive orders withdraws the U.S. from the Paris Climate Agreement. Which billionaire saidthey would help fund the UN s climate change workin the U.S. s absence?
+A. Michael Bloomberg
+B. Warren Buffett
+C. Bill Gates
+D. MacKenzie Scott
+See if you got the answer righthere.
+
+Load-Date: January 28, 2025
+
+
+End of Document

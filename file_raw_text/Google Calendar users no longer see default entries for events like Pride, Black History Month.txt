@@ -1,0 +1,33 @@
+
+
+
+
+
+The Associated Press
+February 12, 2025 Wednesday 1:10 AM GMT
+
+
+Copyright 2025 Associated Press All Rights Reserved
+Section: BUSINESS NEWS
+Length: 620 words
+Dateline: NEW YORK 
+Body
+
+
+NEW YORK — Google's online calendar has removed default references for a handful of holidays and cultural events — with users noticing that mentions of Pride and Black History Month, as well as other observances, no longer appear in their desktop and mobile applications.
+The omissions gained  over the last week, particularly around upcoming events that are no longer automatically listed. But Google says it made the change midway through last year.
+The California-based tech giant said it manually added "a broader set of cultural moments in a wide number of countries” for several years, supplementing public holidays and national observances from timeanddate.com that have been used to populate Google Calendar for over a decade. Still, the company added, it received feedback about some other missing events and countries.
+“Maintaining hundreds of moments manually and consistently globally wasn’t scalable or sustainable,” Google said in a statement sent to The Associated Press. "So in mid-2024 we returned to showing only public holidays and national observances from timeanddate.com globally, while allowing users to manually add other important moments.”
+Google did not provide a full list of the cultural events it added prior to last year's change — and therefore no longer appear by default today.
+But social media users and product experts  to online community boards have pointed to several holidays and cultural observances that they're not seeing anymore. In addition to the first days of Pride Month and Black History Month, that includes the start of Indigenous Peoples Month and Hispanic Heritage Month, as well as Holocaust Remembrance Day. The Verge  on some of these omissions last week.
+Norway-based Time and Date AS, which operates timeanddate.com, did not immediately respond to requests for comment Tuesday. The website shows  of holidays and observances from around the world — some of which include cultural awareness events like Pride and Black History Month — but those specific to public holidays are more limited.
+Separate from this Calendar shift, Google has also gained attention over its more recent decision to  — following orders from President Donald Trump to rename the body of water bordering the U.S., Mexico and Cuba the Gulf of America, as well as revert the title of America’s highest mountain peak back to Mt. McKinley.
+“We have a longstanding practice of applying name changes when they have been updated in official government sources,” Google  last month. The company added that its maps will reflect any updates to the Geographic Names Information System, a database of more than 1 million geographic features in the U.S.
+Google confirmed Monday that the Gulf of America name had gone into effect. Google Maps users in the U.S. now only see the Gulf of America name, whereas those in other countries see both names. Denali, however, still appears on both Google Maps and the GNIS.
+And the new names on Google Maps aren't the only change the company has made following recent actions from the Trump administration. Last week, Google  — joining a growing list of U.S. companies that have abandoned or scaled back their diversity, equity and inclusion programs. Google's move notably came in the wake of an  aimed, in part, at pressuring government contractors to end DEI initiatives. As a federal contractor, Google said it was evaluating required changes.
+By Tuesday, both Apple and Microsoft’s Bing made the switch from Gulf of Mexico to Gulf of America on their maps.
+
+Load-Date: February 12, 2025
+
+
+End of Document

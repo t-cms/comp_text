@@ -1,0 +1,53 @@
+
+
+
+
+
+CNN Wire
+February 5, 2025 Wednesday 9:04 PM GMT
+
+
+Copyright 2025 Cable News Network All Rights Reserved
+Length: 1204 words
+Byline: By Ella Nilsen, CNN
+Dateline: (CNN) 
+Body
+
+
+             (CNN) - Even before federal employees at the National Weather Service received so-called buyout offers this week, America's public forecasting agency was suffering its lowest staffing in decades. Now, the NWS - whose mission is to protect lives and property, ensuring Americans have sufficient time to evacuate before a hurricane or tornado strikes - is staring down more cuts and the nomination of an agency leader they are deeply wary of.
+Most employees at the Department of Commerce, including the National Oceanic and Atmospheric Administration and the National Weather Service, received an email about the so-called federal employee buyout formally known as the "deferred resignation program" - essentially an exit package - on Monday afternoon, CNN previously reported.
+And at least one representative from Elon Musk's Department of Government Efficiency, or DOGE, gained access to NOAA's IT systems this week, according to three people familiar with the situation, with the goal of sniffing out activity and employees connected to diversity, equity and inclusion efforts.
+"They're searching high and low for DEI," a source familiar with the situation said.
+NOAA referred CNN to the Department of Commerce when asked for comment; Commerce has not yet responded.
+Inside the NWS, there are grave fears of what a potential 5-10% cut of staff could mean for their ability to operate weather radar and provide timely and free forecasts for this year's hurricane season, a person familiar with the situation told CNN.
+"The people of the Weather Service are as fine as you'll get in terms of getting the mission done, but it would be a pretty substantial cut," the person said. "People are scared. They've never had this type of uncertainty really hang over them."
+There are 12 people who work in the National Hurricane Center's specialist forecasting unit, where staffing levels have been steady over the past decade, according to James Franklin, who served as the hurricane unit's branch chief and worked there for many years.
+"By the end of a season, even with the (12) forecasters there, it's pretty exhausting," Franklin told CNN. "There are a lot more storms now than 20 to 30 years ago. Any strain on staff is going to have a negative impact on that product and maybe the forecast itself because you won't have as much time to think about it as you otherwise would."
+Hiring new people at NWS and its parent agency NOAA has been painstakingly slow for years, said Mary Glackin, the former president of the American Meteorological Society and a former high-ranking NOAA official.
+"Even if you have all the green lights, it's very, very slow," Glackin told CNN. "I think the staffing levels are of concern. And they're not just making the forecast; you have people keeping the observing equipment running."
+Any further staff reductions to NWS "means we have a higher - maybe much higher - probability of missing life-saving weather warnings and giving people the heads up they need," she added.
+Asked for comment on further impacts from federal buyouts, NOAA spokesperson Susan Buchanan told CNN the agency "can't speculate on the impacts to our operations at this time."
+Weather needs manpower
+Hurricane forecasting is a race against the clock, with specialists working to nail down exactly where and when a storm will make landfall, so emergency managers and other officials can evacuate coasts and keep people safe.
+Two hurricane forecasters are typically on shift at a time at NHC, Franklin told CNN. But depending on how busy the hurricane season is, a single forecaster could be charged with monitoring multiple storms.
+It's a multi-faceted job with a critical 3-hour window to get forecasts out - forecasts that consider data from satellite, buoys, NOAA's Hurricane Hunter aircraft and federal forecast models. The result is a prediction of hurricane intensity and size, and measuring how far winds or storm surge could spread away from its dangerous center.
+The other key part of the job is getting the forecast into the right hands. Federal hurricane forecasters make calls to impacted states as well as other island nations in the Caribbean and other parts of the Atlantic frequented by hurricanes.
+"People work rotating shifts, so the forecasters are spending a third of their time working midnight shifts," James said. "By the end of six months working midnight shifts, with storms going into November or December, it takes a lot out of you."
+Despite assumptions weather forecasters could be replaced by artificial intelligence, there is a critical human element to conveying forecasts to governors, mayors and emergency planners. National Weather Service forecasters have spent years building relationships not just with government officials, but also with pastors and faith leaders in the Southeast.
+It's about building trust and getting weather advisories for deadly storms into the hands of leaders who people trust, Glackin said, adding that is an element that could not be replaced by artificial intelligence.
+"We are using AI in the weather enterprise already, but it's in the background, it's not the last word in things," Glackin said. "Decisionmakers don't trust it unless they know what's in it. I think you still need the human element in all of this."
+A new NOAA head
+NOAA and the NWS will likely be led by an official who has a complicated history with both agencies. Neil Jacobs was tapped by President Donald Trump to head NOAA, which oversees the NWS.
+Jacobs - an atmospheric scientist with a background in computer forecasting - led the agency on an acting basis during Trump's first term. He was the chief in the chair during the so-called "Sharpiegate" weather scandal in 2019, when Trump drew with a Sharpie on a Hurricane Dorian track to suggest it would hit Alabama, contradicting the official federal forecast.
+At the time, Jacobs and other top NOAA officials were ordered by the White House to double down on Trump's false claim, which they ultimately did. A subsequent investigation into the incident found Jacobs had violated NOAA's code of ethics.
+Jacobs, however, is viewed by former NOAA officials as a respected and non-extreme choice to lead NOAA, which oversees US fisheries and other ocean, weather and climate agencies.
+"Of the entire spectrum of who might be named, at least we have a person who knows NOAA pretty well," said Craig McLean, who served as NOAA's chief scientist during Trump's first term. "He is passionate about the agency."
+But McLean also questioned whether Jacobs would be able to stand up to political pressure should he face it again. Jacobs could face attempts to disband or dismantle the agency - a recommendation put forward in Project 2025 - in favor of a privatized or more algorithmic federal forecasting solution.
+"The big question is what did Neil learn from his last experience when he compromised the scientists and the scientific integrity by trying to defend Trump?" McLean said. "When he was there last time, he got hit by the political bus and didn't stand up to it. I wish him well; he's going into a difficult circumstance."         
+             By Ella Nilsen, CNN         
+TM & © 2025 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+
+Load-Date: February 5, 2025
+
+
+End of Document

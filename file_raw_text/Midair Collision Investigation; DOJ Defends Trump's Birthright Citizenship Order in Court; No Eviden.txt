@@ -1,0 +1,153 @@
+
+
+
+
+CNN CNN NEWSROOM 11:30 AM EST
+January 31, 2025 Friday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 2896 words
+Byline: Paula Reid, Daniel Dale, Pamela Brown
+Guests: Aaron Murphy
+Highlight: President Trump's claim that the midair collision over D.C. was caused by DEI policy is examined. The Justice Department is set to present in court its fullest defense of President Trump's executive order to end birthright citizenship. What could have caused the D.C. midair collision?
+Body
+
+
+[11:30:00]
+PAMELA BROWN, CNN HOST: Now, it's worth noting that the FAA had multiple vacancies at the time of the crash.
+Mike Whitaker, the FAA administrator under President Biden, stepped down last week, ending his five-year term on the day of Trump's inauguration almost four years ago. He had notably clashed with Elon Musk over SpaceX and the oversight of rocket launches.
+Musk actually called on him to resign back in September. And President Trump announced another aviation executive who will serve as acting head of the agency. Deputy Administrator Katie Thomson also left the FAA earlier this month, a second big vacancy.
+Meanwhile, air traffic controllers were among the millions of federal workers allowed to resign and accept a buyout package from the White House, and that is despite already being understaffed.
+President Trump took aim at Democrats and DEI at his first news conference. After the tragedy, he repeatedly suggested without evidence that it was somehow connected to diversity hiring policies at the FAA.
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: I put safety first. Obama, Biden and the Democrats put policy first. The FAA's diversity push includes focus on hiring people with severe intellectual and psychiatric disabilities.
+That is amazing. A group within the FAA, another story, determined that the work force was too white, that they had concerted efforts to get the administration to change that and to change it immediately. This was in the Obama administration, but they actually came out with a directive, too white, and we want the people that are competent.
+(END VIDEO CLIP)
+BROWN: So when he was pressed at that press conference about, what are you basing this on, where's your evidence, he said it was common sense. Is that common sense backed up by any facts?
+DANIEL DALE, CNN SENIOR REPORTER: It is not. I think we have to say first and foremost that there is zero evidence whatsoever that anything to do with the FAA's efforts to hire people of diverse backgrounds, people with disabilities had anything to do with this tragedy. So I think this is one of these fact-checks where it's like, why are we even talking about this?
+But we're talking about it because the president started a national conversation about FAA hiring practices. So I think it's important for people to know a couple things. First of all, at that press conference, President Trump read out a sentence from the Biden era FAA Web site about the FAA's desire to hire people with so-called targeted disabilities.
+Those are significant disabilities like psychiatric, intellectual issues, paralysis, missing extremities and so on. What he did not mention, Pamela, was that that exact language was on the FAA Web site under President Trump, the entirety of his own administration.
+We grabbed a screenshot from December 2020, late in his first term. So this was not something Biden invented. In fact, it's been on that Web site at least since 2013. Number two, this was not just language on a Trump era Web site. In fact, in 2019, under President Trump, the FAA launched a pilot program specifically to hire people with these so- called targeted disabilities, intellectual, psychiatric, et cetera, in air traffic control roles.
+So they emphasized at the time these people would have to meet all criteria in terms of medical criteria, qualifications, security criteria. But, regardless, this was not something the Biden administration invented, as he suggested.
+BROWN: I also want to ask about timing, because the president said the articles he was reading from were from January 14, just a week before he came back to office.
+And so they showed that Biden made a last-minute diversity push at the FAA. That's what Trump is saying. What is the truth there?
+DALE: That's what he said. He was like, January 14, so right before I came back, they were trying to get all these people in.
+I looked at where these articles he was reading out were actually from. It's January 14, 2024, a year ago. So there was no evidence of some frantic last-minute Biden push to hire people with disabilities, hire people with diverse backgrounds at the FAA.
+BROWN: Daniel Dale, as always, thank you for bringing the facts.
+And still ahead this hour: Aviation experts are paying close attention to the lights surrounding the runway before the helicopter and plane collided. We will explain up next.
+(COMMERCIAL BREAK)
+[11:38:29] BROWN: Well, this morning, we are learning that the FAA has shut down helicopter routes near Reagan National Airport indefinitely after Wednesday's midair collision that left 67 people dead.
+And this includes the route in use at the time of the crash. Last hour, I spoke with commercial pilot and flight instructor Aaron Murphy to get a feel of just how difficult this airspace is for pilots to navigate. And he is back with us now.
+Aaron, thank you so much for joining us.
+So I want to note again to our viewers that your simulator is a 737, but this is essentially what all pilots see on approach to Reagan National. Walk us through kind of what we're seeing here. AARON MURPHY, COMMERCIAL PILOT AND FLIGHT INSTRUCTOR: So, in the flight deck right now, I have us at three miles final approach.
+And I will try to keep the terms as simplest possible, because I know there's a lot of young people watching this who are just interested in aviation and they would like to be pilots one day as well.
+So we're three nautical miles final approach. I can see the lights of Runway 1 out the front window. And in the case of, I think it was Blue Streak 5342, they took a clearance to go around for Runway 33.
+What I do want to point out in this simulation is that the lighting you're seeing of the ground lighting is not near what the actual city would create. So, if you're watching this and you're seeing this, these lights, you're thinking, how could we lose sight of another aircraft in this situation?
+Well, the lighting is much more intense and much more dense in real life. And a very small aircraft like a helicopter, even a larger aircraft like a jet can disappear in the camouflage and the carpet of lights beneath you.
+[11:40:10]
+BROWN: So can it be disoriented -- disorienting, I should say?
+MURPHY: The human factors of night flying are a whole different set of training that has to happen with procedures that go along with it.
+Disorientation in what's called IMC is a common feature, instrument meteorological conditions. This is not the case in this accident. We had good VFR conditions, visual flight rules, visual conditions. It's not so much disorienting, but it can be confusing with multiple aircraft in the area.
+And I will also point out that the speed of the activity, the speed of the procedures at this particular airport and many airports around the world is perhaps one of the things that's getting us into trouble. How quickly do we really need to go? Is it worth it? We see an accident like this, which speed of communications is going to play a role, I'm pretty sure. At what cost? Where do we draw the line and say, well, we're going fast enough. Let's just enjoy this before we push it too far.
+BROWN: You talk about speed of communications. What do you mean by that?
+MURPHY: It's the speed of the operations at the airport.
+Any average person listening to the air traffic control recordings will be shocked at how quickly the communications are going back and forth between multiple aircraft. The average person probably could not write down or remember even two calls between two aircraft in the given -- at a given set of calls.
+That's part of what's happening here as well, but the professionals that do this every day, they are used to that speed. They are used to that tempo, but it does allow for error of communication. And I think there are a couple of errors within the ATC tapes that I have heard.
+I don't want to really want to go into that, because I don't want to play the blame game. I'd like to keep this as a training and procedural focus, which is exactly what it is.
+BROWN: And I understand you don't want to play the blame game. And, certainly, it seems like a confluence of factors here, but to ask another way, what are the lessons learned from what you have heard with those communications?
+MURPHY: Everything is an evolution. Every single thing we do on this planet requires training.
+You have training from your parents from the time you're born and that training never stops until the day you die. You're always actively involved in something, if it's aviation, hockey, baseball, soccer. Whatever it is you do, your own job day to day requires training.
+And you know, as a professional, your goal is to increase your knowledge and become the best at what you do. And that is the goal of most professionals and especially -- not especially, but in cases of things like flying airplanes, controlling aircraft as an air traffic controller. These are some of the hardest jobs to do accurately.
+And then when we compound that with high speed of operations, the pressure increases, and at some point the cracks start to show.
+BROWN: And so, just to drill down a little bit, and, again, not blaming anyone, but what questions do you have? What lessons can be learned? Because we know from the audio we heard between the air traffic control and the Black Hawk helicopter, there was some communication, ATC asking if they saw the plane, and then 13 seconds later the collision happened.
+MURPHY: And this comes right back to human factors.
+Everything we do in life is also human factors-based. It is the root of everything we do. So my account of the situation is that it is very possible that the Black Hawk crew did not have the correct aircraft in their sights.
+And just to delve in just a little bit more, the one call the air traffic controller made, and this is all time-sensitive. This is all immediate. Get it done because there's 14 more airplanes coming in. The only thing that I would have seen there would be, could the air traffic controller have just said, the aircraft at your 12:00, straight ahead?
+Because that would confirm that then the helicopter pilots were looking in the correct direction. This is not a critique. This is not the blame game.
+BROWN: Right, of course.
+MURPHY: And the controller, if you're listening, you are a hero for what you do every day.
+BROWN: One hundred percent.
+MURPHY: I have no...
+BROWN: Yes.
+MURPHY: There is no critique. There is nothing. This is the difficulty of these jobs.
+And young people watching this broadcast today. You are coming up next. You are the next people to be doing these jobs. And it is up to you to also find the flaws in the procedures and the training, because that will never end. That's evolution, and evolution never stops.
+[11:45:01]
+BROWN: Yes, we should all scrutinize.
+I mean, every day, I do, certainly. What could I have done better? What can I have learned? That process never -- never ends.
+MURPHY: Yes.
+BROWN: And, again, no blame at all.
+MURPHY: That's right.
+BROWN: And let me just say -- and we talked about this last hour. I just talked about it with an air traffic controller. Like, the amount of professionalism we saw as well, though.
+I mean, to -- for that air traffic controller to have seen the collision happen on his or her watch, and then have to immediately pivot to directing the other planes in the area to the other airports, I can't imagine how much training it took and the amount of professionalism to be able to do that.
+MURPHY: And...
+BROWN: A lot of us would just break down in that moment, right?
+MURPHY: And this is exactly why training is so very important, and not just training, but effective training.
+And I think we can hear the difference in what I'm saying there. The effective training is what allows you to do your job when the adrenaline is flowing, when the fear is kicking in, when the situation is dire. I think of Sully and his adventure on the Hudson River.
+That comes from decades, decades of experience. That was a subconscious maneuver, as opposed to a more conscious maneuver. That was just something that occurred to him that made the most sense on a very deep level.
+BROWN: Let me just ask you this. And we have been playing the video, I believe we can show it now, of the new angles.
+How difficult would it have been for the airplane pilot to have seen the Black Hawk helicopter, especially at only 375 feet of altitude and ready to -- getting ready to land?
+MURPHY: Because we don't have any kind of a simulated visual of what the pilots would have seen from each aircraft at that altitude -- and the investigation will create that for us, so we can see exactly what each flight crew would have seen -- it's very hard to comment on that.
+And the fact that these two airplanes could come together in the sky, people think, how is that possible? It is a huge sky. There are all kinds of lights around. If this had been in an area where there was minimal ground lighting and minimal traffic in the sky, we wouldn't be having this discussion.
+This is the challenge of operating at a high-density airport, and almost every major airport -- every major airport in the world now is a high-density airport, for sure.
+BROWN: Just very quickly, the TCAS system is supposed to prevent collisions. Why didn't that work here?
+And from what I have read and my understanding is that, a certain altitude, if you're low enough, it's not doing the same thing, right? Or is that...
+(CROSSTALK)
+MURPHY: That's correct.
+BROWN: OK.
+MURPHY: The TCAS system, I will try to break it down into its -- as basically as I can.
+BROWN: As quickly as you can. Sorry. Go ahead.
+MURPHY: Resolution advisory, that traffic advisory, the resolution advisory will tell me to climb, climb now. It will tell the other craft to descend, descend now. This is independent of air traffic control.
+In this circumstance, the TCAS systems would be giving information, but air traffic control is taking priority at giving both aircraft permission to continue because they see each other and they are going safely around each other.
+BROWN: OK.
+Aaron Murphy, thank you so much. I learned so much from talking with you and I hope our viewers did as well. Thank you.
+We will be right back.
+MURPHY: I'm happy to share, and so sorry.
+BROWN: Thank you.
+(COMMERCIAL BREAK)
+[11:52:49]
+BROWN: We are following new developments in President Trump's effort to end birthright citizenship.
+In just a few minutes, the Justice Department is expected to present in court its fullest defense of his executive order to deny citizenship to the children of undocumented immigrants in the U.S., those who were born here.
+CNN's Paula Reid joins us now.
+So, Paula, how likely is Trump to succeed on this issue?
+PAULA REID, CNN CHIEF LEGAL AFFAIRS CORRESPONDENT: Look, it's unclear.
+Trump made ending birthright citizenship a key promise in his campaign, but legal experts say he faces an uphill battle if he wants to do this through executive order. Sources close to him tell me they acknowledge he may not be able to do this through executive action. This may be something that requires congressional help.
+Now, this is high-stakes, though, because he was supposed to come back into office with executive orders that were designed to withstand court challenges. And, here, they're focused on the principle that, if you were born in the United States or U.S. territory, that you are a U.S. citizen.
+This is something that has been recognized for over a century. And the core argument, legal argument, here is that this section of the Constitution, the 14th Amendment, has been misinterpreted, that it needs to be revisited.
+Now, this executive order set off a flurry of legal challenges last week. We saw a judge in Seattle put a temporary hold on this policy. Today, five of those legal challenges have briefs due. We actually just got one in the Maryland case.
+Next Thursday, there will be a hearing on that temporary pause in Seattle, but, notably, the judge has already really tipped his hand. This is a Reagan appointee who's already suggested Trump is going to fail in his effort to continue this policy at this early stage.
+The judge said -- quote -- "There is a strong likelihood that the plaintiffs will succeed on the merits of their claims that the executive order violates the 14th Amendment and Immigration and Nationality Act."
+So there is a race for all of these cases to eventually make it to the Supreme Court, which is where Trump would need this question to go to change the way we have interpreted the Constitution. Now, look, there are political arguments that Trump sources make to me about birthright citizenship.
+They say this is something that is abused by wealthy individuals who can afford to fly here, have their babies here, so they have that citizenship. They have also raised national security concerns. But, legally, it is unlikely that the courts are going to reinterpret the Constitution.
+[11:55:07]
+They would need to get to this to the Supreme Court. Pamela, it's unclear if they would win. It's also unclear, after speaking with a lot of sources, if the Supreme Court would even take this up.
+BROWN: We shall see how this plays out.
+Paula Reid, thank you very much.
+And thank you for joining us on this Friday. I'm Pamela Brown. You can follow me on Instagram, TikTok, and X @PamelaBrownCNN. We would love to hear from you.
+Be sure to stay with us. "INSIDE POLITICS" with Phil Mattingly starts after a short break.
+Classification
+
+
+Language: ENGLISH
+
+Document-Type: SHOW
+
+Publication-Type: Transcript
+
+Transcript: 013128CN.V11
+
+Subject: AIRCRAFT ACCIDENTS (94%); JUSTICE DEPARTMENTS (91%); AVIATION ADMINISTRATION (90%); BIRTHRIGHT CITIZENSHIP (90%); CITIZENSHIP (90%); DIVERSITY & INCLUSION (90%); DIVERSITY & INCLUSION REGULATION & POLICY (90%); GOVERNMENT BODIES & OFFICES (90%); INVESTIGATIONS (90%); LAW ENFORCEMENT (90%); NATIONAL SECURITY & FOREIGN RELATIONS (90%); RESIGNATIONS (90%); US DEMOCRATIC PARTY (90%); AVIATION TRANSPORTATION LAW (89%); EXECUTIVE ORDERS (89%); PRESS CONFERENCES (89%); RECRUITMENT & HIRING (89%); US PRESIDENTS (89%); WORKPLACE DIVERSITY & INCLUSION (89%); TRUMP'S FIRST 100 DAYS (79%); US FEDERAL GOVERNMENT (79%); ACCIDENT INVESTIGATIONS (78%); PRIVATE SPACEFLIGHT (76%); SPACE PROGRAMS (76%); FACT CHECKING (74%); ROCKETRY (71%); INTELLECTUAL DISABILITIES (70%); DISABLED PERSONS (65%); MENTAL ILLNESS (65%); Department of Justice (%); Immigration (%); DEI (%); Washington, D.C. (%); Military (%); Aviation (%); Accidents (%); Donald Trump (%); Government (%)
+
+Organization: US DEPARTMENT OF JUSTICE (90%)
+
+Industry: AIRCRAFT ACCIDENTS (94%); AVIATION ADMINISTRATION (90%); TELEVISION INDUSTRY (90%); AVIATION TRANSPORTATION LAW (89%); AIR TRAFFIC MANAGEMENT (78%); NEWSPACE INDUSTRY (76%); PRIVATE SPACEFLIGHT (76%); SPACE PROGRAMS (76%); CABLE TELEVISION (74%); AIR TRAFFIC CONTROL (73%); ROCKETRY (71%)
+
+Person: DONALD TRUMP (95%); BARACK OBAMA (89%); ELON MUSK (79%); JOE BIDEN (79%)
+
+Geographic: WASHINGTON DC, USA (93%); UNITED STATES (92%)
+
+Load-Date: January 31, 2025
+
+
+End of Document

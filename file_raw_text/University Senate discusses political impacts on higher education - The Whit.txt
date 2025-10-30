@@ -1,0 +1,102 @@
+
+
+
+
+
+The Whit: Rowan University
+February 11, 2025 Tuesday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 806 words
+Byline: Paige Britt Mattie Mac Kay
+Body
+
+
+The University Senate held its first meeting of the spring semester on Feb. 7 in King Auditorium. The audience of faculty, staff, and advisors shared concerns over how President Trump's initiatives will affect Rowan, the logistics of the growth of Rowan Global, and the ongoing construction of the Campbell Library and the Chamberlain Student Center. 
+University Senate president Bill Freind opened the meeting by discussing the temporary funding freeze, recent ICE raids, and diversity, equity, and inclusion initiatives. On Jan. 29, the Trump administration rescinded a call they had made tofreeze federal funds, which would have had an effect on financial aid for college students. 
+Freind called the $3 trillion funding freeze an "authoritarian move."
+"This is something we're gonna see for the next three years, authoritarian and incompetence," said Freind. 
+Since President Trump's inauguration, there have beenICE raids across the country, including a recent scare inWildwood. A professor in the audience spoke up and said that ICE officers can come into classrooms and arrest students.
+"What to do if ice comes on campus? It's unlikely, if they ask you, say, 'federal law prohibits me from talking about students,'" said Freind. 
+Freind explained that Rowan relies on international students in multiple facets for the success of the university. 
+"We don't get the R1 without graduate students and international students...It's going to be much harder to get student visas. If you're from France, no, but if you're going to be from Asia or Africa it's gonna be very racial," said Freind. 
+A professor said that concerns do not just swirl around the status of DEI, but also with issues surrounding the environment and public health. The professor was referencing anexecutive order Trump signed on Jan. 22 that would terminate DEI preferencing. 
+In Rowan-related business, the senate discussed the university's continued efforts to build up its online programs and courses, which was met with concern and confusion. 
+"I don't know how this online initiative is supposed to work," said Freind. 
+Other professors and attendees shared concerns about psychology students in the PhD program and how that would operate online, how long it will take to create quality online courses, and the lack of involvement professors seem to have in the process. 
+In talks of Rowan's ongoing construction, Freind said the library renovation is "a mess."
+Freind said that because it is a construction zone there should not be people there who do not need to be there, which excludes certain majors, those using the newly openedDreamscape space, and employees. 
+"This comes down to one phrase: project managers," said Freind. 
+As for the Student Center, Freind said that the last inspection done had small discrepancies, but they still do not have an official opening date. 
+The Shreiber School of Veterinary Medicine and Nursing School will be open soon, with groundbreaking for the nursing school happening on Feb. 13. They also announced that the Edelman Fossil Park and Museum will open in March. 
+For questions, comments, & concerns, DM us on Instagram @thewhitatrowan, or email us at 
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 17px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: Frank Ruhl Libre;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 17px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #EBCE2C;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: Frank Ruhl Libre;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 17px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #EBCE2C;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Frank Ruhl Libre;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #EBCE2C;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Frank Ruhl Libre;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 11, 2025
+
+
+End of Document

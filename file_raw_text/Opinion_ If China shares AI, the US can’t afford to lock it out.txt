@@ -1,0 +1,42 @@
+
+
+
+
+
+TheHill.com
+February 6, 2025 Thursday
+
+
+Copyright 2025 NEXSTAR MEDIA INC.  All Rights Reserved
+
+
+Section: TECH LATEST, Asia-Pacific latest, US news & CHINA NEWS
+Length: 1169 words
+Byline: Ben Brooks, opinion contributor
+Body
+
+
+When the Chinese firm DeepSeek launched its latest AI model,  policymakers and  the stock market, it exposed a paradox: freely available software that parrots the Chinese Communist Party was made freely modifiable.  
+DeepSeek’s open-source models  those from closed-source U.S. labs, and power a chatbot that is currently the  app globally. But they promote the One China policy, flatter Xi Jinping, and avoid talk of Uyghur genocide. The chairman of the House Select Committee on the Chinese Communist Party,  the new model is “controlled” by Beijing and “openly erases the [party’s] history of atrocities,” called for stronger export controls.  
+His colleagues quickly obliged.  
+Within 48 hours, Sen. Josh Hawley (R-Mo.) had introduced a  to prohibit the import and export of any AI “technology” to or from China, with penalties of 20 years’ imprisonment. The bill would ban research projects — activities “directed toward fuller scientific knowledge” — with Chinese colleges or universities. And the broad definition of AI technology would capture not just chips but also data, research, software and the distinctive settings or “parameters” that determine a model’s performance.
+These proposals are the most aggressive AI reforms contemplated by any policymaker, of either party, anywhere in the U.S. President Trump has  the Biden administration for imposing “onerous and unnecessary government control” over AI. Yet a ban on the import and export of intangible technology like models — digital files that can be shared on the Internet — would eclipse anything proposed by his predecessor, the European Union or .  
+Bizarrely, the bill appears to prohibit simply downloading Chinese technology or intellectual property, barring U.S. developers from even studying models like DeepSeek’s, let alone learning from them. And since no one can reasonably prevent widely available software, data or research findings winding up in China, it would put the brakes on open science and open technology from the U.S. too. If they survive Congress and a robust First Amendment challenge, these ideas would smother open innovation — and foster a global reliance on Chinese technology in the process.  
+While Chinese developers are  by law to ensure their models “adhere to [the CCP’s] core socialist values,” it’s precisely because DeepSeek open-sourced their R1 model that researchers and developers can do something about it. Anyone can download and run the model independently of DeepSeek, probe it for undesirable behaviors, and modify it to improve performance — or unwind censorship.  
+Within a few days, developers  over 500 variations of the model online, earning five times as many downloads as the original. The AI search engine Perplexity has tweaked and deployed its own version of R1, which can summarize the Tiananmen Square Massacre and explain Taiwanese independence without the Orwellian admonitions of the original model.  
+By comparison, the largest models released by Open AI, Anthropic or Google are closed. Their distinctive parameters are withheld, accessible only through a paywalled interface like ChatGPT. In general, users and developers must take what they’re given, accepting the limitations imposed by a handful of Big Tech firms — including, to the chagrin of Republican policymakers, their political and cultural .  
+Asked about DeepSeek, artificial intelligence and crypto czar David Sacks  that predominantly closed-source U.S. firms dropped the ball by focusing on content moderation instead of competition. “They wasted a lot of time on things like DEI and woke AI,” he said. “The models were basically producing things like black George Washington.” 
+All models embed the values and design choices of the labs that develop them, as well as biases in their training data and vulnerabilities in their architecture. But it’s difficult to reconcile these contradictions: policymakers fret about Beijing freeriding on U.S. industry and exporting ideology in open-source models, while blaming U.S. firms for censoring their black-box models. These comments reflect a wider tension in Washington over whether open technology is a boon for transparency and competition in AI, or a windfall for America’s adversaries. As Hawley  to Meta following the release of its open Llama model, “centralized AI models can be more effectively updated and controlled to prevent and respond to abuse.” 
+Yet because DeepSeek released its model openly, developers can look under the hood, modify its behaviors and substitute alternative values. That’s a good thing, since their R1 model appears to be equally capable, more efficient,  and free to use compared to leading U.S. models. With these advantages, DeepSeek’s models could become the default “engines” that power the next generation of AI applications. That means there’s a real possibility that China-regulated and censored models might determine the search results or social media feeds of billions of people around the globe. 
+But open technology isn’t guaranteed. Like OpenAI  it, DeepSeek could choose to keep its future models behind a paywall — succumbing, perhaps, to commercial pressure or a  in Beijing. If the world develops a reliance on closed-source Chinese models accessed through a paywall, we will inherit their warped behaviors too.  
+That is why the world needs a steady supply of competitive open-source alternatives that can be inspected, modified and localized.  
+The U.S. is an indispensable part of that supply chain: both directly, through our own open models (like Meta’s Llama), and indirectly, through chips, research, data and capital. There are risks. Open technology can be , and upstream firms may have  over downstream development. But if the U.S. government turns off the tap, it will promote a global reliance on Chinese technology from labs regulated by the Chinese Communist Party. It will erode the influence of U.S. firms abroad, and displace U.S.-trained, U.S.-aligned and U.S.-regulated models from the world’s AI systems.  
+Instead of pulling up the drawbridge, the U.S. should commit to ensuring that powerful models remain openly available. Ubiquity is a matter of national security: retreating behind paywalls will leave a vacuum filled by strategic adversaries. Washington should treat open technology not as a vector for Chinese Communist Party propaganda but as a vessel to transmit U.S. influence abroad, molding the global ecosystem around U.S. industry.  
+If DeepSeek is China’s open-source “Sputnik moment,” we need a legislative environment that supports — not criminalizes — an American open-source Moon landing. 
+Ben Brooks is a fellow at Harvard’s Berkman Klein Center, and previously led public policy for Stability AI, developer of Stable Diffusion.
+
+
+Load-Date: February 6, 2025
+
+
+End of Document

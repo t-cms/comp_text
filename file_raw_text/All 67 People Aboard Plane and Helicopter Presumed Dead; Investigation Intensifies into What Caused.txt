@@ -1,0 +1,160 @@
+
+
+
+
+
+CNN CNN NEWSROOM 4:00 AM EST
+January 31, 2025 Friday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 4032 words
+Byline: Christina Macfarlane, Pete Muntean, Kayla Tausche
+Guests: Tony Stanton, Jasmine El-Gamal
+Highlight: Loved ones mourn plane crash victims of American Airline flight 5342. Donald Trump blames the crash on diversity. Outrage over the Israeli hostage release chaos.
+Body
+
+
+[04:00:00]
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED MALE: The National Transportation Safety Board is now investigating what caused the deadliest aviation disaster in more than 23 years.
+UNIDENTIFIED MALE: And that's why I think it hurts so much.
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: They put a big push to put diversity into the FAA's program.
+UNIDENTIFIED MALE: In the first moment of national tragedy since President Trump returned to office, he asked for a moment of silence and then he instantly pointed blame.
+UNIDENTIFIED MALE: Two of the hostages were forced to walk through a mob of Palestinians.
+BENJAMIN NETANYAHU, ISRAELI PRIME MINISTER (through translator): We are not willing to accept any risk to our hostages.
+(END VIDEO CLIP)
+ANNOUNCER: Live from London, this is CNN NEWSROOM with Christina Macfarlane.
+CHRISTINA MACFARLANE, CNN ANCHOR: Hello and a very warm welcome to our viewers joining us from the United States and all around the world. I'm Christina Macfarlane. It's Friday January 31st.
+It's 9 a.m. here in London, 4 a.m. in Washington, the site of the deadly midair collision between a passenger plane and an army helicopter. All 67 people on board the aircraft are presumed dead. Those who knew and loved the victims have been sharing their grief.
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED MALE: We lost parents. They were like parents to the rink. Their students were like their kids.
+TIFFANY GIBSON, SISTER OF SAM LILLEY: He loved, loved, loved what he did.
+UNIDENTIFIED MALE: I came to my rink and I said, no music today.
+LILY WU, MAYOR WICHITA, KANSAS: We grieve this loss together and we grieve deeply.
+(END VIDEO CLIP)
+MACFARLANE: Meanwhile, questions are mounting over what caused the deadliest plane crash in the U.S. in almost a quarter century in one of the world's most heavily controlled airspaces. More than 40 bodies have been pulled from the Potomac River. 14 people are believed to be missing and others are thought to be trapped inside the wreckage.
+A crane has been deployed to cut and lift pieces of the plane to allow drivers to safely recover additional victims. The flight data and cockpit voice recorders were retrieved from the Potomac River on Thursday and are already being examined. But the investigation is still in the early stages.
+Members of the National Transportation Safety Board say nothing's being ruled out just yet.
+(BEGIN VIDEO CLIP)
+TODD INMAN, NATIONAL TRANSPORTATION SAFETY BOARD MEMBER: We don't know what we know just yet. We do not know enough facts to be able to rule in or out human factor, mechanical factors. That is part of the NTSB investigative process.
+JENNIFER HOMENDY, CHAIR, NATIONAL TRANSPORTATION SAFETY BOARD: We will look at all the humans that were involved in this accident. Again, we will look at the aircraft, we will look at the helicopter, we will look at the environment in which they were operating in.
+(END VIDEO CLIP)
+MACFARLANE: And we're getting a new view of the explosion from a nearby military base. It was captured by a vehicle's dashboard camera. You can see the fireball to the left of the airplane here.
+And prior to the tragedy, U.S. Airlines has gone 16 years without a fatal crash. But recently there have been warning signs about the growing risk of a collision. More now from CNN's Pete Muntean.
+(BEGIN VIDEOTAPE)
+PETE MUNTEAN, CNN AVIATION CORRESPONDENT (voice-over): The National Transportation Safety Board is now investigating what caused the deadliest aviation disaster in the United States in more than 23 years.
+HOMENDY: We are all here because this is an all hands on deck event. And we're here to assure the American people that we are going to leave no stone unturned. MUNTEAN (voice-over): American Eagle flight 53 42, a candidate regional jet operated by PSA Airlines, callsign Blue Streak, directed to land at Reagan National Airport's Runway 33, one of the most complicated approaches in the country and running very close to a special corridor used for helicopters flying close to the ground.
+PILOT: Yeah, we can do for Blue Streak 5342.
+MUNTEAN (voice-over): The flight's captain had nearly six years of experience with the airline and the first officer nearly two years, according to American Airlines CEO.
+TOWER: Runway 33, cleared to land.
+MUNTEAN (voice-over): Four minutes later, the control tower tells a U.S. Army Black Hawk helicopter callsign Priority Air Transport or PAT 25 on a training mission to look out for the passenger plane and go behind it.
+TOWER: PAT 25, do you have the CRJ in sight?
+TOWER: PAT 25, pass behind the CRJ.
+HELICOPTER PILOT: PAT 25 has aircraft in sight, request visual separation.
+[04:05:00]
+MUNTEAN (voice-over): Despite the helicopter pilot saying he saw the jet about 13 seconds later disaster as they slam into each other.
+DISPATCHER: Crash, crash, crash! This is an alert 3.
+MUNTEAN (voice-over): The plane shattered into three pieces plunging into the dark Potomac River where both aircraft landed upside down.
+GROUND CONTROLLER: It was probably out in the middle of the river. I just saw a fireball and then it was just gone. So I haven't seen anything since they hit the river, but it was a CRJ and a helicopter that hit.
+MUNTEAN (voice-over): More than 300 first responders descended on the scene for a desperate search in near freezing cold water. But not one of the 64 people on the plane and the three people on the helicopter survived.
+UNIDENTIFIED MALE: A loss of life in an aviation accident is very unusual in the United States and our heartfelt sorrow goes out to everyone that's affected. It affects us, affects everyone around us.
+MUNTEAN (voice-over): Pete Muntean, CNN Washington.
+(END VIDEOTAPE)
+MACFARLANE: Well, for more analysis, we're joined by Dr. Tony Stanton, the consultant director of Strategic Air. He's also a pilot and flight examiner. He's speaking with us from Brisbane, Australia. Thank you so much for your time this morning.
+Now we know that several potential failures, Doctor, emerging in the aftermath of this crash, and I want to kind of walk through and discuss each one with you. But first, I know that you have listened to the air traffic conversations with both the aircraft and the helicopter.
+Knowing what you know, what is your best assessment then of why this crash has happened?
+TONY STANTON, PILOT AND FLIGHT EXAMINER: Yes, but by reviewing the traffic transmissions, it's reasonably clear that the Blackhawk aircraft was given an instruction to maintain a visual separation from flight 5342 and to follow behind that aircraft or track behind that aircraft. And we can see from the radar trace and various traces that that didn't take place.
+We need to be careful to simply say that it was therefore the Blackhawks fault or the Blackhawks problem for not following the air traffic control clearance. There will be multiple failures of the system that have caused this traffic tragic event.
+MACFARLANE: But it is being reported that the Blackhawk itself had deviated from its normal path and that it was actually flying at a higher altitude than was expected. I mean, why would that have been the case? Would that have been an instruction?
+STANTON: Certainly, it wasn't an instruction from air traffic control having reviewed those audio recordings. What I have seen is a variation of about 100 ft. We see the Blackwater at about 200 ft and then climbed to 300 ft.
+when you're operating an aircraft that's not a lot of change in altitude, I must say. Licensing tolerances are usually within plus or minus 100 ft to gain some sort of pilot license. But the altitude for me isn't such a concern. It is the track -- the track of the two aircraft intersect at, of course, the most inappropriate time.
+MACFARLANE: I mean, it's believed that both aircraft were equipped with a TCAS air switch. Which you'll know is a traffic collision and avoidance system. I mean, in your view, were these working properly? Should that have alerted both of these aircraft to the -- to each other's proximity?
+STANTON: Yep. So, of course, we need to wait and see what the thorough investigation unfolds. But what I can say about TCAS or traffic collision avoidance systems is that within the system design itself, once the system identified aircraft is at a certain height above the ground, it starts to inhibit a number of the warnings that it would ordinarily give to the pilot about other traffic.
+And that progressively takes place from about 1,000 ft. So I need to see what the investigation unfolds. But I would anticipate the systems inhibiting warnings at the altitude that we see these aircraft at that 300, 400 ft high. MACFARLANE: Understood. And as we look to the situation on the ground, it's being reported that control tower staffing was, quote, not normal at the time of this collision. The flight controller handling both the helicopters and instructing aircraft at the same time working two jobs, essentially.
+I mean, is that normal for flight control centers at that time of day?
+STANTON: Yes, look, I can't obviously comment about this particular tower, but it is normal across the world for as traffic density reduces at various times to reduce staffing in the tower to send people home, if you will. It's not uncommon for that to take place. I would expect the tower to have procedures about when that takes place and under what conditions that can take place.
+[04:10:04]
+And I would like to think that they would have followed those procedures in this case. But again, the investigation will unfold.
+MACFARLANE: And as you say, the investigation is unfolding. What are expectations for how long this investigation is going to take? And as a safety expert yourself, if you can just conclude by talking to us a bit about what needs to be done here in the aftermath of this.
+STANTON: Yes, so I think we've heard the NTSB say that within the next 30 days or so, they'll have a preliminary report, which is again common across accident investigation authorities around the world. The actual report, I haven't heard NTSB actually specify a time of which the final report will be released other than to say once they have all the information. It's not uncommon for these final reports to take quite some time indeed, beyond 12 months, and sometimes even longer.
+These investigations are incredibly complex. They are multifaceted. And I'm sure the NTSB will want to make sure they uncover everything they need to in their final report and really put together some good recommendations.
+MACFARLANE: Yes, so it could be some time before we truly learn the extent of the possible multiple failures, as you've pointed out, that could have taken place here. Dr. Tony Stanton, thank you so much for your analysis this morning.
+STANTON: My pleasure, Christina.
+MACFARLANE: Well, we're learning more about some of the lives lost in Wednesday's collision. Two youth ice skaters, Angela Yang and Sean Kay, and their coach, Alexandr "Sasha" Kirsanov, all from Delaware, were on board the passenger flight. Kirsanov's wife said Kay and Yang were an amazing team with a big future.
+More now from CNN's Kayla Tausche in Washington.
+(BEGIN VIDEOTAPE)
+KAYLA TAUSCHE, CNN CORRESPONDENT (voice-over): Families descending on Reagan National Airport to remember the children, coaches, crew members and soldiers, all killed in the deadliest air crash on U.S. soil since 2001. The crew aboard flight 5342 included Captain Jonathan Campos and First Officer Sam Lilley, the 28-year-old recently engaged to be married.
+His dad, Timothy, saying, I was so proud of Sam when he became a pilot. Now it hurts so bad I can't even cry myself to sleep.
+53-year-old Ian Epstein, one of the two flight attendants on board, remembered by his sister as someone who loved life, traveling, family and his job.
+SARA NELSON, ASSOCIATION OF FLIGHT ATTENDANTS: Today is heartbreaking. And there are flight attendants all around the world who are identifying with those two flight attendants, whether they knew them or not.
+TAUSCHE (voice-over): Boston junior skater Spencer Lane returning from training camp in Wichita, posting this photo at takeoff. Lane among nearly a dozen young skaters on board, according to Golden Skate, rocking leaders across the sport.
+DOUG ZEGHIBE, CEO, BOSTON SKATE CLUB: It's a close, tight bond, and I think for all of us, we have lost family.
+NANCY KERRIGAN, FORMER U.S. OLYMPIC FIGURE SKATER: I've never seen anyone love skating as much as these two, and that's why I think it hurts so much.
+TAUSCHE (voice-over): In the D.C. Area, school districts are in mourning and offering resources with students and alumni among the dead.
+A Virginia congressman says his district is shattered.
+REP. SUHAS SUBRAMANYAM (D-VA): There are several people in our community who are on the plane and passed away, and it's just devastating to our community.
+TAUSCHE (voice-over): 26-year-old Asra Hussain Raza graduated with honors, married her college sweetheart, a consultant. She was commuting for a project at a Wichita hospital. Her father in law describes her as someone who went out of her way to help people.
+A local steamfitters union lost five members on board the flight, the trade said in a statement. 15 miles from the crash site home base for three army pilots whose Blackhawk collided with the jet. The Pentagon has not released the identities of the three soldiers from the 12th Aviation Battalion, with a combined 1,500 hours of flight training as the remains of one were pulled from the Potomac. Seen here from Fox five D.C. First responders salute this service members final mission.
+Kayla Tausche, CNN Washington.
+(END VIDEOTAPE) MACFARLANE: Well, U.S. President Donald Trump wasted no time in politicizing the tragedy. He basically -- baselessly blamed his Democratic predecessors, suggesting their diversity, equity and inclusion initiatives led to lax aviation standards.
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: I do want to point out that various articles that appeared prior to my entering office and here's one. The FAA's diversity push includes focus on hiring people with severe intellectual and psychiatric disabilities. That is amazing. They put a big push to put diversity into the FAA's program. Then it's a group within the FAA.
+[04:15:32]
+Another story determined that the workforce was too white that they had concerted efforts to get the administration to change that and to change it immediately.
+(END VIDEO CLIP)
+MACFARLANE: On Thursday, President Trump signed executive orders banning DEI programs throughout the federal government, including at the Transportation Department.
+And addressing reporters, Mr. Trump said he has no plans to reconsider the February 6th deadline for federal employees to decide whether to accept a buyout offer that includes air traffic controllers, according to a labor union for those positions. The Federal Aviation Administration regularly faces staffing issues with air traffic controllers in short supply, though not necessarily at Reagan International Airport.
+Meanwhile, President Trump says he has no intention of visiting the disaster site.
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED FEMALE: Do you have a plan to go visit the site?
+TRUMP: I have no plan to visit, not the site, because what did you tell me? What's the site to order?
+UNIDENTIFIED FEMALE: Well, to meet with the first responders down there?
+TRUMP: I don't have a plan to do that.
+(END VIDEO CLIP)
+MACFARLANE: Now Israel's prime minister has a warning for militant groups holding hostages as chaotic scenes play out in Gaza. We'll find out who's been set free.
+Meanwhile, Palestinians in the West Bank celebrate the release of dozens of prisoners, some serving life sentences in Israel.
+Plus, growing questions over how two aircraft could collide in midair in a highly controlled airspace. More on our top story ahead.
+[04:20:00]
+(COMMERCIAL BREAK)
+MACFARLANE: Welcome back. Israel is condemning the chaotic release of several hostages by Hamas and its allies. Palestinian militants paraded 20-year-old soldier Agam Berger in front of cameras before setting her free in Jabalia.
+A clearly frightened 29-year-old Arbel Yehoud was jostled by huge crowds in Khan Younis ahead of her release. Meanwhile, 80-year-old Gadi Moses was reunited with his family in Israel. He and Yehoud were kidnapped from the same kibbutz.
+Israel's foreign minister says an initial medical exam shows five Thai nationals set free by Hamas are in good condition. Prime Minister Benjamin Netanyahu says no hostage should be put at risk.
+(BEGIN VIDEO CLIP)
+BENJAMIN NETANYAHU, ISRAELI PRIME MINISTER (through translator): This liberation was achieved first and foremost thanks to our heroic soldiers and it was also achieved thanks to the firm and determined stance that we led during the negotiations. We will not accept the violation of the agreement. During the release of our hostages today, we all saw shocking sights.
+We made it clear to the mediators that we are not willing to accept any risk to our hostages. And I add to that, whoever dares to harm our hostages, his blood will be on his head.
+(END VIDEO CLIP)
+MACFARLANE: Well, the hostage chaos prompted Mr. Netanyahu to delay the release of 110 Palestinian prisoners. Hundreds of people turned out to welcome them in the Ramallah Recreational Complex in the West Bank. 32 of the prisoners had been serving life sentences and 30 children were among those set free.
+Well joining me now from London. Jasmine El-Gamal is a former Pentagon Middle East advisor. Thanks for your time, Jasmine, this morning.
+Look, we were just seeing some of the chaotic scenes there of the hostage release and how that played out. This being, of course, only the third hostage exchange since the start of the ceasefire deal. But the process of exchange seems to be becoming increasingly fraught.
+What did you make of those scenes and how concerning is it for the fragile process moving forward, given that we are set to have, you know, another hostage release just in two days -- tomorrow, on Saturday? JASMINE EL-GAMAL, FORMER PENTAGON MIDDLE EAST ADVISOR: That's right. Good morning, Christina, and thanks for having me. You know, it's funny, I was going to use that same exact word, fraught.
+What we saw yesterday, previous delays in the release of prisoners has made the whole process a bit fraught, although I will say that everything has ended up going to plan. And I think that's largely a testament to the role that the U.S. is playing, as well as the regional actors, Qatar, Egypt, and Saudi Arabia, in terms of the pressure that they're putting on the parties to stick to the deal.
+Now, as you implied, this will only get more difficult as we go forward. The early stages of the deal were the most -- the easiest, relatively speaking, to be enacted. But negotiations, as negotiations start for phase two of the deal, which will be more difficult to convince the parties to really operate in good faith, because they are big steps.
+Israel is to withdraw from the Gaza Strip. A permanent ceasefire is to be put in place. And Hamas is to release all male hostages, Israeli hostages, that they hold, both military and civilian. And so we're going to see, I think, continued, consistent pressure from those outside mediators that I mentioned.
+The U.S., as you saw, we can talk about this special envoy for the Middle East, Steve Witkoff, was in the region. As he stated at the top, when he came into his position, he said that he will be extremely involved in making sure the ceasefire goes according to plan. So I think we'll see more of that U.S. and outside involvement moving forward to make sure that we try to get the ceasefire implemented all the way through.
+[04:25:00]
+MACFARLANE: And added to that, I guess, Jasmine, also Benjamin Netanyahu, due to be in Washington next week, I guess, as phase two of this ceasefire is set to move forward.
+I just want to ask you, though, about the provocation here from Hamas with these releases that we're seeing, because, you know, we saw yesterday Hamas fighters conducting these elaborate handover ceremonies and the exchanges carried out in front of the home of former Hamas leader Yahya Sinwar.
+I mean, Hamas clearly sending a message here. How much or how problematic do you see that, you know, when it comes to Israel's resolve to move through to stage two at this point?
+EL-GAMAL: This is a good question that you're raising. I mean, because I think a lot of what we're talking about here is we're talking about optics, we're talking about pressure tactics, and we're talking about the importance of Israeli resolve and not to be taken in by Hamas's tactics to project power and intimidation.
+On Hamas's end, the organization, from a leadership perspective, from an intelligence perspective, from an infrastructure perspective, has really been decimated.
+In terms of taking out every Hamas member and fighter, we always knew from the beginning that that was a futile effort, that was never going to happen, but that you could affect basically a critical weakness of the organization so that they're never able to pose such a threat to Israel as they posed before.
+And so what you're seeing on Hamas's part right now is this attempt to project power and to say, we can still, you know, we are still in control, we can still do this. But actually, the chaos of the scene points to a weakened organization, a disorganized organization, one that actually doesn't have that much control.
+And I think on the Israeli part, they need to be cognizant of that. And despite the public pressure put on them by these chaotic scenes, they need to really remain steadfast and keep their eye on the goal.
+MACFARLANE: And added to this, Jasmine, as you were just saying, as we move through to phase two, a lot of pressure coming from the Americans, from international actors on Israel, on Hamas to get this done. But there has been skepticism, as you know, that Benjamin Netanyahu would want this deal to move to stage two, given the political internal pressure that he's under, given the political ramifications for him of, you know, this war being ceased altogether.
+But are you saying that you believe phase two will happen because the Americans have, in essence, the upper hand here in pressuring Netanyahu to proceed?
+EL-GAMAL: You know, I never predict anything when it comes to the Middle East. But I will say, just looking at the signs, looking at the players involved, I don't think it is a coincidence that Prime Minister Netanyahu is the first leader invited to the White House and is invited around the same time that ceasefire negotiations for phase two are ongoing. And the ceasefire talks, along with broader issues in the region, like the Saudi Arabia potential normalization deal down the line, the Iran file, all of those are going to be discussed next week.
+And I think the goal here is to make -- paint a holistic picture for Prime Minister Netanyahu to say this isn't just about the ceasefire, this is about Iran, this is about Saudi Arabia, this is about making a place for a safe, secure Israel in the region. And are you willing to do what needs to be done in order to get there?
+And I think it's also really notable that Steve Witkoff went to Saudi Arabia before he went to Israel and Gaza on his trip to brief the Crown Prince MBS on the ceasefire negotiations and to meet with a representative of President Mahmoud Abbas of the Palestinian Authority.
+So you can really see the Trump administration trying to make sure that all of those issues are being discussed together as one holistic vision for what peace could look like in the region moving forward.
+MACFARLANE: All right. Well, things move fast in the Middle East, as you say, and there's still several days before phase two is due to get underway. But for now, Jasmine, really, really appreciate your thoughts. Thank you.
+EL-GAMAL: Thank you so much.
+MACFARLANE: And when we return, the latest details on the deadly midair collision in Washington, D.C. and the significant challenges first responders are facing as they search for the remaining victims.
+Plus, the airspace above Reagan National is among the most challenging and high pressure routes for pilots. CNN goes inside a flight simulator to get an idea of what pilots experience. That's next.
+(COMMERCIAL BREAK)
+
+Load-Date: January 31, 2025
+
+
+End of Document

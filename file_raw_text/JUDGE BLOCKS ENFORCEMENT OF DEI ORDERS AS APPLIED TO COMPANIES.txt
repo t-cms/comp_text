@@ -1,0 +1,61 @@
+
+
+
+
+States News Service
+February 24, 2025 Monday
+
+
+Copyright 2025 States News Service
+Length: 855 words
+Byline: States News Service
+Dateline: ALEXANDRIA, VA 
+Body
+
+
+The following information was released by the Society for Human Resource Management (SHRM):
+Allen Smith, J.D.
+A federal district judge in Maryland preliminarily blocked several challenged provisions of President Donald Trump's executive orders (EOs) on diversity, equity, and inclusion (DEI), including enforcement of provisions applying to private companies. Certification and termination provisions for federal contractors also were paused in the Feb. 21 decision (National Association of Diversity Officers in Higher Education v. Trump, No. 1:25-cv-00333). The ruling is a nationwide injunction.
+Plaintiffs are likely to succeed on their claim that the enforcement threat provision in the Jan. 21 EO, titled "Ending Illegal Discrimination and Restoring Merit-Based Opportunity," violates the First Amendment. The provision "threatens to initiate enforcement actions against the plaintiffs (in the form of civil compliance investigations) for engaging in protected speech," U.S. District Judge Adam Abelson said.
+The enforcement threat provision applies broadly to the private sector. Therefore, unlike with the other provisions, the analysis is based on pure private speech regulated by the First Amendment, as opposed to the speech of federal contractors or grantees, according to Abelson.
+"Plaintiffs have shown a likelihood of success on the merits of their claim that the enforcement threat provision, which threatens to bring enforcement against perceived violators of undefined standards, is, on its face, an unlawful viewpoint-based restriction on protected speech," he said. "That is textbook viewpoint-based discrimination."
+However, the district court did not reach this same conclusion with respect to the investigative portion of the EO. Rather, Abelson said it is a directive from the president to the U.S. attorney general to identify "[a] plan of specific steps or measures to deter DEI programs or principles ... that constitute illegal discrimination or preferences." The court denied plaintiffs' request to block that aspect of the enforcement threat provision.
+The defendants contended that all they were intending was to target noncompliance with existing federal anti-discrimination law, and that the enforcement threat provision "does not target a First Amendment right" because "plaintiffs have no First Amendment right to engage in 'illegal discrimination.'
+However, the EO "offers no guidance or notice of what the government now considers 'illegal' DEI," Abelson said.
+The judge also found that the order's certification provision for federal contractors and grantees "unconstitutionally restricts, and retaliates against, contractors' and grantees' free speech rights even within the scope of the pertinent programs."
+The following articles from SHRM and other outlets provide additional information and context.
+Chilling of 'Protected Speech'
+The district court blocked Trump and several federal agencies from implementing the challenged provisions in the orders, pending the outcome of a lawsuit by the City of Baltimore and three other groups.
+"As plaintiffs put it, 'Efforts to foster inclusion have been widespread and uncontroversially legal for decades,' Abelson wrote. "Plaintiffs' irreparable harms include widespread chilling of unquestionably protected speech."
+Vagueness of Challenged Provisions Criticized
+The Trump administration announced in a Jan. 20 executive order titled "Ending Radical and Wasteful Government DEI Programs and Preferencing" that it will be terminating "all 'equity-related' grants or contracts whatever the administration might decide that means," Abelson said.
+The DEI orders don't define terms such as "DEI" or "equity-related," he noted. They also don't identify which programs or policies would be considered "illegal."
+Contractors and their employees who make up about 20% of the U.S. workforce are left with "no idea whether the administration will deem their contracts or grants, or work they are doing, or speech they are engaged in, to be 'equity-related,' Abelson said.
+Thus, the plaintiffs are likely to prove the termination provisions are unconstitutionally vague, he ruled.
+Trump Administration's Response to Decision
+It is not immediately clear how the decision may apply to actions already taken by the Trump administration, including the closing of offices at many agencies and the firing of staff involved in inclusion and diversity programs.
+"DEI is illegal race-based discrimination prohibited by Title VII of the Civil Rights Act of 1964," said Stephen Miller, deputy White House chief of staff, in a Feb. 21 post on X. "A judge cannot nullify the Civil Rights Act and order the government to award federal taxpayer dollars to organizations that discriminate based on race."
+Related Article on BEAM Framework: Make Inclusion an Operational Strategy, Not a Standalone Program
+Rescission of EO 11246 Remains Effective
+Other portions of the EOs, such as the revocation of Executive Order 11246, remain unaffected by the court's decision. Trump had rescinded the 60-year-old EO, which required federal contractors to practice affirmative action based on race and gender.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newswire
+
+Subject: JUDGES (92%); DIVERSITY & INCLUSION (90%); HUMAN RESOURCES (90%); NEGATIVE PERSONAL NEWS (90%); CONTRACTS & BIDS (89%); DISCRIMINATION (89%); GOVERNMENT BODIES & OFFICES (89%); LAW COURTS & TRIBUNALS (89%); NEGATIVE SOCIETAL NEWS (89%); PUBLIC CONTRACTING (89%); ENFORCEMENT ACTIONS (78%); EXECUTIVE ORDERS (78%); FINES & PENALTIES (78%); HUMAN RESOURCES & PERSONNEL MANAGEMENT (78%); LITIGATION (78%); SUITS & CLAIMS (78%); US FEDERAL GOVERNMENT (78%); NEGATIVE BUSINESS NEWS (77%); DISCRIMINATION LAW (74%); GOVERNMENT DEPARTMENTS & AUTHORITIES (74%); ATTORNEYS GENERAL (73%); ASSOCIATIONS & ORGANIZATIONS (71%); COLLEGES & UNIVERSITIES (56%)
+
+Organization: SOCIETY FOR HUMAN RESOURCE MANAGEMENT (84%)
+
+Industry: ATTORNEYS GENERAL (73%); COLLEGES & UNIVERSITIES (56%)
+
+Person: DONALD TRUMP (77%)
+
+Geographic: BALTIMORE, MD, USA (58%); MARYLAND, USA (79%); VIRGINIA, USA (79%); UNITED STATES (92%)
+
+Load-Date: February 25, 2025
+
+
+End of Document

@@ -1,0 +1,61 @@
+
+
+
+
+The Guardian (London)
+February 11, 2025 Tuesday 3:32 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: BUSINESS; Version:4
+Length: 749 words
+Byline: Kalyeena Makortoff Banking correspondent and Lauren Aratani in New York
+Highlight: Consultancy becomes latest firm to change practices amid Donald Trump’s anti-diversity drive
+Body
+
+
+Goldman Sachs and Deloitte have become the latest corporate giants to redraw policies in the face of . 
+The banking giant has scrapped a policy meant to encourage diversity on the boards of companies that it takes public. Under the  , Goldman had stated that it would only take on a company’s initial public offering if the company had at least one board member from a diverse background.
+Deloitte US has instructed staff working on contracts for the American government to remove pronouns from their emails, becoming the latest company to redraw policies in wake of . 
+The consultancy and accounting giant reportedly gave contracted staff until 7 February to scrub pronouns from email signatures, while also announcing it would end its diversity, equity and inclusion (DEI) programme.
+The instructions were sent in an email to 15,000 staff in Deloitte’s government and public services practice, which explained the move was meant to “align with emerging government client practices and requirements”.
+Staff were also told on Monday that the company was planning to “sunset” its annual diversity report and wider DEI programming, according to a report by the Financial Times.
+Goldman said it was reacting to a court decision that removed a requirement by Nasdaq, the tech-led stock market, for companies to disclose board-level diversity information. “As a result of legal developments related to board diversity requirements, we ended our formal board diversity policy,” Goldman said in a statement. “We continue to believe that successful boards benefit from diverse backgrounds and perspectives, and we will encourage them to take this approach.”
+It is the latest sign that private companies are bowing to pressure from the White House to ditch DEI policies that conservatives claim result in “reverse discrimination”.
+Trump used   to reverse DEI policies in the federal government. Government staff are now required to report any colleagues they believe are furthering DEI efforts “in disguise”, and have received emails warning of “adverse consequences” if they fail to report any colleagues who are still carrying out DEI measures.
+While the orders do not apply to private companies, Trump has asked the US attorney general’s office to look into ways that it can get them to apply to the private sector.
+Shareholder advisory service ISS is also bowing to anti-diversity pressures ahead of the annual general meeting season.
+The company – which helps shareholders including large pension funds and asset managers decide how to vote at AGMs – said that from 25 February, it would no longer recommend voting against any US company’s board members for failing to hit gender/ethnicity leadership targets.
+ISS said it reflected the fact that companies and investors would be considering how and whether “they should adapt their specific policies and practices to the evolving market and governmental activity”, after Trump’s executive order.
+“In light of these developments, ISS will indefinitely halt consideration of certain diversity factors in making vote recommendations … [and] will no longer consider the gender and racial and/or ethnic diversity of a company’s board when making vote recommendations with respect to the election or re-election of directors at US companies.”
+That is likely to be welcome news for publicly listed companies that have been dropping their own diversity policies over the past month. 
+Alphabet’s Google announced last week   to hire more employees from historically underrepresented groups and was reviewing some of its own DEI initiatives.
+Facebook parent Meta Platforms said, also in an internal memo, it was  , including those for hiring, training and picking suppliers. Meanwhile, Amazon announced it was “winding down outdated programs and materials” related to representation and inclusion, in a memo to its employees, seen by Reuters.
+DEI has been under attack by rightwing activists after the Black Lives Matter protests that erupted after the murder of George Floyd.
+However, members of the Trump administration have ramped up the backlash, with Elon Musk and other allies of Trump claiming without evidence that DEI programmes were to blame   and for . 
+Deloitte was contacted for comment.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Journal Code: WEBGNS
+
+Subject: CONTRACTS & BIDS (90%); DIVERSITY & INCLUSION (90%); FORTUNE 500 COMPANIES (90%); PUBLIC CONTRACTING (90%); WORKPLACE DIVERSITY & INCLUSION (90%); BOARDS OF DIRECTORS (89%); DIVERSITY & INCLUSION REGULATION & POLICY (89%); PERSONAL PRONOUNS (89%); PRIVATELY HELD COMPANIES (89%); SHAREHOLDER MEETINGS (89%); SHAREHOLDERS (89%); US FEDERAL GOVERNMENT (89%); DISCRIMINATION (78%); GOVERNMENT & PUBLIC ADMINISTRATION (78%); RACE & ETHNICITY (78%); GOVERNMENT BODIES & OFFICES (77%); STOCK OFFERINGS (76%); INITIAL PUBLIC OFFERINGS (74%); CONSERVATISM (73%); DECISIONS & RULINGS (72%); TALKS & MEETINGS (71%); EXECUTIVE ORDERS (68%); LAW COURTS & TRIBUNALS (51%)
+
+Company:  DELOITTE LLP (93%);  GOLDMAN SACHS GROUP INC (92%);  FINANCIAL TIMES GROUP (67%)
+
+Ticker: GS (NYSE) (92%)
+
+Industry: NAICS541211 OFFICES OF CERTIFIED PUBLIC ACCOUNTANTS (93%); SIC8721 ACCOUNTING, AUDITING, & BOOKKEEPING SERVICES (93%); NAICS523150 INVESTMENT BANKING AND SECURITIES INTERMEDIATION (92%); NAICS523940 PORTFOLIO MANAGEMENT AND INVESTMENT ADVICE (92%); SIC6211 SECURITY BROKERS, DEALERS, & FLOTATION COMPANIES (92%); SIC6282 INVESTMENT ADVICE (92%); SIC6289 SERVICES ALLIED WITH THE EXCHANGE OF SECURITIES OR COMMODITIES, NEC (92%); SIC6798 REAL ESTATE INVESTMENT TRUSTS (92%); NAICS513110 NEWSPAPER PUBLISHERS (67%); SIC2711 NEWSPAPERS: PUBLISHING, OR PUBLISHING & PRINTING (67%); BANKING & FINANCE (90%); CONSULTING SERVICES (90%); ASSET MANAGEMENT (79%); STOCK OFFERINGS (76%); ACCOUNTING & AUDITING FIRMS (74%); INITIAL PUBLIC OFFERINGS (74%); MEDIA & TELECOMMUNICATIONS (74%)
+
+Geographic: UNITED STATES (92%)
+
+Load-Date: February 11, 2025
+
+
+End of Document

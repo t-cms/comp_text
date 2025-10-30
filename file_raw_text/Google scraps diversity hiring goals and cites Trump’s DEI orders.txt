@@ -1,0 +1,55 @@
+
+
+
+
+The Guardian (London)
+February 5, 2025 Wednesday 11:08 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: TECHNOLOGY; Version:1
+Length: 420 words
+Byline: Guardian staff and agencies
+Highlight: Firm rolls back plan to hire more from underrepresented groups and said it was reviewing some of its DEI initiatives
+Body
+
+
+Alphabet’s   is scrapping its goal to hire more employees from historically underrepresented groups and is reviewing some of its diversity, equity and inclusion (DEI) initiatives.
+With this, Google  , particularly in Silicon Valley, that have been scaling back their diversity initiatives, years after pushing for more inclusive policies after protests against the police killings of George Floyd and other Black Americans in 2020. The company did not immediately respond to a request for comment. The Wall Street Journal first reported the news.
+The company issued a statement after the news broke: “We’re committed to creating a workplace where all our employees can succeed and have equal opportunities, and over the last year we’ve been reviewing our programs designed to help us get there. We’ve updated our 10-k language to reflect this, and as a federal contractor, our teams are also evaluating changes required following recent court decisions and executive orders on this topic.”
+Alphabet’s annual filing with the US Securities and Exchange Commission on Wednesday showed it omitted a line saying it was “committed to making diversity, equity and inclusion part of everything we do and to growing a workforce that is representative of the users we serve”. That statement had appeared in annual reports from 2021 to 2023.
+Google told employees it was reviewing recent court decisions and executive orders by   aimed at   in the government and federal contractors.
+Google’s head of HR, Fiona Cicconi, said in a memo published by   : “For example, in 2020, we set aspirational hiring goals and focused on growing our offices outside California and New York to improve representation … In the future we will no longer have aspirational goals.”
+Earlier this month, Facebook parent   Platforms said in an internal memo it was  , including those for hiring, training and picking suppliers.
+Amazon also said it was “winding down outdated programs and materials” related to representation and inclusion, in a memo to its employees, seen by Reuters.
+Conservative groups, fortified by a 2023 US supreme court ruling that invalidated affirmative action in university admissions, have condemned DEI programs and have threatened litigation against companies implementing them.
+Earlier this month,   and other allies of Trump   as an impediment to the response efforts for the severe wildfires in Los Angeles.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Journal Code: WEBGNS
+
+Subject: DIVERSITY & INCLUSION (92%); RECRUITMENT & HIRING (91%); REPORTS, REVIEWS & SECTIONS (90%); WORKPLACE DIVERSITY & INCLUSION (90%); DECISIONS & RULINGS (89%); AFFIRMATIVE ACTION (78%); AFFIRMATIVE ACTION IN EMPLOYMENT (78%); ANNUAL REPORTS (78%); HUMAN RESOURCES & PERSONNEL MANAGEMENT (78%); LABOR FORCE (78%); CRIME, LAW ENFORCEMENT & CORRECTIONS (76%); NEGATIVE MISC NEWS (76%); EXECUTIVE ORDERS (75%); AFFIRMATIVE ACTION IN EDUCATION (73%); EMPLOYEE TRAINING (73%); GOVERNMENT BODIES & OFFICES (73%); LAW COURTS & TRIBUNALS (73%); LITIGATION (73%); PUBLIC CONTRACTING (73%); SECURITIES & OTHER INVESTMENTS (73%); US FEDERAL GOVERNMENT (73%); AFRICAN AMERICANS (72%); GEORGE FLOYD KILLING (71%); PROTESTS & DEMONSTRATIONS (71%); SUPREME COURTS (68%); ACADEMIC ADMISSIONS (60%); COLLEGES & UNIVERSITIES (50%)
+
+Company:  GOOGLE LLC (91%);  WALL STREET JOURNAL (57%);  META PLATFORMS INC (52%)
+
+Organization: SECURITIES & EXCHANGE COMMISSION (55%)
+
+Ticker: META (NASDAQ) (52%)
+
+Industry: NAICS519290 WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES (91%); NAICS516210 MEDIA STREAMING DIST SVCS, SOCIAL NETWORKS, AND OTHER MEDIA NETWORKS AND CONTENT PROVIDERS (52%); SIC7374 COMPUTER PROCESSING & DATA PREPARATION & PROCESSING SERVICES (52%); MEDIA & TELECOMMUNICATIONS (78%); SECURITIES & OTHER INVESTMENTS (73%); COLLEGES & UNIVERSITIES (50%)
+
+Person: GEORGE FLOYD (78%); ELON MUSK (51%); DONALD TRUMP (50%)
+
+Geographic: LOS ANGELES, CA, USA (79%); SILICON VALLEY, CA, USA (74%); CALIFORNIA, USA (92%); NEW YORK, USA (79%); UNITED STATES (94%)
+
+Load-Date: February 6, 2025
+
+
+End of Document

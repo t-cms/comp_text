@@ -1,0 +1,78 @@
+
+
+
+
+
+States News Service
+February 6, 2025 Thursday
+
+
+Copyright 2025 States News Service
+Length: 1856 words
+Byline: States News Service
+Dateline: WASHINGTON, DC 
+Body
+
+
+The following information was released by the U.S. House of Representatives Committee on Transportation and Infrastructure, Democrats:
+The following are opening remarks, as prepared for delivery, from Ranking Member of the House Committee on Transportation and Infrastructure Rick Larsen (D-WA) and Ranking Member of the Subcommittee on Aviation Steve Cohen (D-TN), during today's hearing titled, "Counter-Unmanned Aircraft Systems."
+Video of Ranking Members Larsen's and Cohen's opening statements can be found here and here.
+More information on the hearing can be found here.
+Ranking Member Larsen:
+Thank you, Chairman Nehls, for calling today's hearing on counter-unmanned aircraft systems (C-UAS).
+First off, I want to say the last week or so has been really heartbreaking and really trying for our country and for the U.S. aviation system and the people who work in it.
+Both of last week's tragediesthe Potomac mid-air collision and the aeromedical Learjet crash in Philadelphiaare stark reminders of the complexities of the national airspace system (NAS) and why ensuring aviation safety has to remain our top priority.
+Before we get into today's hearing topic, I want to say a few words on the National Transportation Safety Board's (NTSB) investigation of the Potomac mid-air collision.
+First off, as of Tuesday, all the victims have been recovered. It's an incredible testament to the first respondersthe divers on the scene. We are grateful to the NTSB personnel, who are actively supporting the victims' families through the agency's Family Assistance program.
+We can also confirm that the recording devices from both aircraft are recovered and in the capable hands of the NTSB experts for analysis.
+We appreciate every agency involved in this whole-of-government effort. All of the governmental parties involved, including the FAA and the Army, are cooperating and lending the appropriate resources and expertise.
+Hundreds of government employees are supporting this mission. I just want to thank them first and foremost. It is challenging work, and I want to thank them very much for that work.
+As a Member of Congress and as a citizen who cares deeply for U.S. aviation, I am proud of those public servants and grateful for their sense of duty and sacrifice.
+As the investigation continues, it is counterproductive to speculate on the causes of aviation accidents, including these two, and we have to allow the NTSB to complete its work before Congress considers any potential legislative responsethat's generally what we've done in the past and hopefully we can do that in the future.
+This Committee will continue to look to the NTSB for any facts on this devastating accident and are prepared to support investigators whenever necessary.
+As we await more information, our deepest condolences and thoughts remain with the passengers, crew, their loved ones and the first responders.
+Now to the hearing at hand, the growing number of drone uses presents various new opportunities and challenges for the airspace.
+With these evolving demands on our airspace, we must rely on fact-based policies and reject speculation to ensure the safety of and restore the public's confidence in U.S. aviation.
+Last December, alleged drone sightings across the country, particularly in the Northeast corridor, captured the nation's attention. According to the FAA and federal security partners, more than 5,000 sightings were reported in just a few weeks.
+Although these sightings were confirmed to be a combination of authorized commercial drone operations, crewed aircraft and other traditional airspace users, I recognize the confusion and concern these sightings caused across local communities.
+Even if not nefarious in intent, uninformed or misguided drone operations can bring U.S. airports to a standstill, threaten critical infrastructure and potentially endanger national security.
+As the Chairman noted, an estimated 1.12 million small UAS are forecasted to be registered in the U.S. by 2028, so Congress must ensure that the appropriate federal agencies and other eligible entities have the necessary authorities and resources to address any safety and security risks posed by these systems.
+The FAA's mission is to ensure the safest aerospace system in the world, a task that is exceedingly more complex due to new airspace entrants.
+Under the 2018 FAA Reauthorization, Congress directed the FAA to ensure that technologies to detect and mitigate potential risks by errant or hostile drones do not adversely impact the safe and efficient operation of the NAS.
+While the industry has made significant improvements in developing their counter-UAS technologies, it is my understanding that preliminary results from the FAA's Airport Safety and Airspace Hazard Mitigation and Enforcement programalso known as the Section 383 testing programhas shown that some counter-UAS systems do not always operate as described by the manufacturer, may interfere with FAA and airport radar and even disrupt local telecommunications.
+Given those risks, it is critical for the FAA to play a significant role in the testing, approval and deployment of UAS detection and mitigation systems, and that's why this Committee, itself, has such an important role.
+Dr. Cahill, welcome back, and thank you for your continued insights as an expert in this field.
+I look forward to your testimony on how counter-UAS systems operate in the NAS, the importance of testing and evaluating these systems and what Congress can do to ensure their safe use when addressing a drone threat.
+Over the years, unlawful and unauthorized drone incursions have suspended airport operations and significantly disrupted flights for thousands of passengers.
+Many of us remember the 2023 groundstop at Washington National Airport and the 2018 disruption at Gatwick Airport near Londonboth caused by errant drone incursions.
+Mr. McLaughlin, I am interested in learning more about any challenges that airports, like Dallas Fort Worth International, have when dealing with these incursions.
+Ms. Ellman, I look forward to hearing the commercial drone industry's insights on improving counter-UAS detection and mitigation activities.
+Last Congress, this Committee approved a bipartisan tri-committee bill, the Counter-UAS Authority Security, Safety, and Reauthorization Act, to pave the way for the scalable integration of counter-UAS technologies and ensure the safety of the flying public and people on the ground.
+I'm going to say this again: bipartisan and three Committees agreeda shocking eventbut we are working together on this in a bipartisan way to ensure that law enforcement and other entities have reasonable expansion of their authorities and to ensure that counter-UAS technologies can be deployed safely.
+This Congress, I look forward to working my TandI colleagues, along with the House Homeland Security and Judiciary Committees, to reintroduce and pass this critical legislation.
+Thanks again to today's witnesses for joining us.
+Ranking Member Cohen:
+Good morning, and thank you, Chairman Nehls for convening this important hearing. I also want to thank the witnesses for testifying today.
+Before we begin, I want to acknowledge the tragic aviation accidents that occurred last week. The crashes at DCA and in Philadelphia took the lives of 74 individuals, injured 22 others and have left families, communities, and the entire aviation industry grieving. These heartbreaking events underscore the urgency of our work to improve aviation safety.
+Last year, Congress took significant steps in enhancing air safety through the FAA Reauthorization Act of 2024. This law expands air traffic control workforce training, improves runway safety through new detection systems and mandates 25-hour cockpit voice recorders to help investigators better understand incidents.
+Additionally, the bill directs the FAA to address near misses and runway incursions, invests in resilient airport infrastructure, and enhances helicopter safety. These measures are critical and are still in the process of being implemented, but as last week's tragedies remind us our work is never finished. Safety must always be our top priority.
+Unfortunately, some have attempted to politicize this tragedy. President Trump immediately speculated that the tragic crash at DCA was somehow caused by diversity, equity and inclusion (DEI) initiatives.
+Let me be clearthere is absolutely no evidence that DEI played any role in this accident. Any claims otherwise are baseless distractions from the real issues we must address.
+Similarly, I want to debunk another recent aviation-related conspiracy theory: the so-called "New Jersey drone crisis." Late last year, social media was flooded with claims of mass drone swarms shutting down airports and threatening public safety.
+In fact, a full review by the FAA, FBI and DHS found no credible security threat. Many of these sightings were misidentified commercial drones, law enforcement operations, and even fixed-wing aircraft mistaken for drones. We must separate fact from fiction so that we can focus on real threats, not viral internet hoaxes.
+That brings us to today's hearing on counter-unmanned aircraft systems, or drones. Drones are becoming an increasingly common presence in our airspace, offering opportunities for innovation but also presenting real risks.
+Unauthorized, reckless, or malicious drone activity can disrupt airport operations, threaten critical infrastructure and even pose national security concerns.
+A great example of responsible drone integration is happening at Memphis International Airport in my district. Under the FAA's BEYOND program, the Memphis-Shelby County Airport Authority and FedEx are pioneering the safe use of drones for airport perimeter security, runway inspections and aircraft parts delivery.
+This initiative includes Beyond Visual Line of Sight (BVLOS) operations, enabling drones to operate without a direct line of sight while maintaining strict safety standards.
+Memphis is proving that drones, when properly managed, can enhance safety and efficiency rather than create new risks.
+However, challenges still remain. Over the past decade, we've seen drones interfere with commercial flights, obstruct airport operations and even be used for criminal activities.
+Just last year, a man was arrested for attempting to use a drone in an attack on the Nashville power grid. These incidents highlight why we must ensure that our laws and regulations keep pace with this rapidly evolving technology.
+Last Congress, the bipartisan Counter-UAS Authority Security, Safety and Reauthorization Act sought to renew and reform current legal authorities that provide the DHS and DOJ with critical tools to detect and mitigate credible threats posed by drones.
+I commend the work done by the three committees of jurisdiction to produce this bipartisan, multi-jurisdictional bill and am hopeful for its passage during this Congress.
+I look forward to today's discussion and hearing from our esteemed panel of witnesses who will help us better understand how we can strengthen defenses against drone threats while maintaining the highest standards of aviation safety.
+--30--
+
+Load-Date: February 6, 2025
+
+
+End of Document

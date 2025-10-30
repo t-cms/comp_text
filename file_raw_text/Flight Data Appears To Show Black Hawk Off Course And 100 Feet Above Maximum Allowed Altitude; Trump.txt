@@ -1,0 +1,255 @@
+
+
+
+
+
+CNN The Lead with Jake Tapper 4:00 PM EST
+January 31, 2025 Friday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 7756 words
+Byline: Jake Tapper, Danny Freeman, Mary Schiavo, Jeff Zeleny, Adam Kinzinger, Daniel Dale
+Guests: Michael McCormick, Randy Babbitt, Rick Larsen, Mondaire Jones, Lance Trover, Karen Pierce
+Highlight: There is new reporting today on the flight paths before the deadly collision that killed 67 people. How much does new surveillance video explain what went so tragically wrong? President Trump's new tariffs against Canada, Mexico and China are coming tomorrow. Will they have the desired effect?
+Body
+
+
+[16:00:07]
+BORIS SANCHEZ, CNN HOST: And this Sunday night at 7:00 p.m. Eastern, CNN's Anderson Cooper will examine the circumstances around this crash and other recent incidents in a new episode of the whole story with Anderson Cooper. So make sure to will examine the circumstances around this crash and other recent incidents in a new episode of "THE WHOLE STORY WITH ANDERSON COOPER". So make sure to tune in to CNN for that.
+We are also awaiting word from President Trump. That should come shortly. So a lot to stay tuned for.
+Don't go anywhere. "THE LEAD WITH JAKE TAPPER" starts right now.
+JAKE TAPPER, CNN HOST: More clues and more clarity on what went wrong at Reagan National Airport.
+THE LEAD starts right now.
+New reporting today on the flight paths before the deadly collision that killed 67 people. How much does new surveillance video explain what went so tragically wrong?
+The National Transportation Safety Board, or NTSB, has a briefing in just minutes.
+Plus, breaking news this afternoon, President Trump's new tariffs against Canada, Mexico and China are coming tomorrow. Will they have the desired effect? Might they have a cascading effect on the prices you pay here in the U.S., on food, furniture, gasoline and more?
+And relieving the pain. The first prescription level pain medication approved in 25 years. Might it be the new alternative to addictive opioids? Dr. Sanjay Gupta is taking a look for us.
+(MUSIC)
+TAPPER: Welcome to THE LEAD. I'm Jake Tapper.
+And our breaking news right now on the investigation into Wednesday night's tragic in-flight crash between American Airlines Flight 5342 and an Army Black Hawk helicopter.
+Flight tracking data from moments before the in-flight collision appears to show the Black Hawk flying at 300 feet. That's 100 feet above the maximum allowed altitude. The video also shows that the tracking also shows the Black Hawk seems to be veering off its course. The Black Hawks turns would have put it closer to Reagan National Airport than its normal route.
+This, as CNN has also obtained exclusive video showing the collision from new angles. And please know that the video were about to show you the moment of impact might be difficult to watch, given the fact that there were no survivors among the planes 64 passengers or the Black Hawks three crew members.
+In the first video, the helicopter can be seen flying from the left side of the screen. It then collides with the airliner, which can then be spinning downward into the water. The second video appears to be filmed from the airport grounds. It shows the plane descending toward the runway. It eventually collides with the Black Hawk.
+As the investigation continues, the Federal Aviation Administration has indefinitely shut down parts of route one and route two. Those are two of the key helicopter routes near Ronald Reagan National Airport. We have an update from yesterday. The flight data recorder and the cockpit voice recorder, known as black boxes from the American Airlines plane, were recovered last night. That happened at around 8:30 p.m. Eastern.
+Search and recovery operations are still underway in the icy Potomac River. D.C. officials today saying they're work -- working to recover more than 20 victims. Today, we're learning more names of those who were killed.
+For instance, Lindsey Fields, a biology teacher at a community college in Kansas. She loves spending time outdoors and with her family and her Great Danes. The U.S. Army has officially released the names of two of the three soldiers on board the Black Hawk, 28-year-old Staff Sergeant Ryan Austin O'Hara from Lilburn, Georgia, and 39-year-old chief warrant officer two, Andrew Lloyd Eaves from Great Mills, Maryland.
+The rainy, dreary weather on the Potomac River right now matches the somber tone here in Washington, D.C., and complicates an already difficult recovery effort for the divers.
+CNN's Danny Freeman has more on the search for victims and for answers.
+(BEGIN VIDEOTAPE)
+DANNY FREEMAN, CNN CORRESPONDENT (voice-over): Surveillance video obtained by CNN showing the final moments before the two aircraft collide, the type of evidence investigators are sure to examine carefully as they work to determine what happened.
+TODD INMAN, MEMBER, NTSB: We take everything serious. Every potential scenario, so it's helpful as we see all these different new pieces of evidence, whether it be eyewitness or video in this case, those things help give us a lot more details. FREEMAN: In the video, you can see the Black Hawk helicopter flying seemingly as normal straight into the descending passenger jet. Neither aircraft appeared to try to avoid the other. A sign they may not have seen each other until it was too late. This, despite the helicopter pilots confirming to air traffic controllers it saw the plane seconds before the crash.
+INMAN: Right now, it's too early to speculate on what exactly occurred, but you've got a lot of different moving parts, so were in the early stages.
+FREEMAN: Now, the altitude of the Black Hawk helicopter is coming under increased scrutiny. Flight tracking data from the company Flightradar24 appeared to show the helicopter was flying 100ft above the maximum allowed altitude and veering off the prescribed route along the east side of the Potomac River.
+[16:05:04]
+On Friday, CNN learned the Federal Aviation Administration will indefinitely shut down the low altitude helicopter corridor used by the Black Hawk on Wednesday night. Lawmakers are looking to see if permanent changes are needed around one of the busiest runways in the country Wednesday night.
+Lawmakers are looking to see if permanent changes are needed around one of the busiest runways in the country.
+SEN. MARIA CANTWELL (D-WA): What the video shows is that they were flying at the same altitude at a moment when that shouldn't have happened that somewhere in the process of what is now established as these two routes, which I think will raise a lot of questions for lawmakers to discuss.
+How is -- how are those two routes and even the level of separation that is expected? How could -- how are we even doing that?
+FREEMAN: Investigators now have their hands on the airliners. Two black boxes, the devices crucial to understanding what may have happened in the final moments of that flight. Meanwhile, recovery efforts continued on the cold and rainy Potomac River Friday.
+D.C. officials determined to recover every victim under the water whatever it takes.
+CHIEF JOHN DONNELLY, SR., DC FIRE AND EMS: Yes, we expect to recover all of the bodies. That's why our teams are still working. We're going to have to work with the salvage company to do some of that work.
+(END VIDEOTAPE)
+FREEMAN (on camera): Now, Jake, obviously still, we have a lot of questions for the NTSB. We are expecting a press conference at 4:00. That's been pushed to 5:30. So, of course, we'll bring that to you when we have that press conference here behind me in just a little while. Meanwhile, Jake, that recovery effort, as I noted, still is ongoing. We heard from D.C. officials a little earlier this afternoon. They say at this point, they still have only recovered 41 bodies out of the river. They say that to recover the rest of the bodies that are out there, they will have to actually move fuselage in order to access them -- Jake.
+TAPPER: All right. Danny Freeman, thanks so much.
+Let's discuss this all with Randy Babbitt. He's a pilot who served as the FAA administrator from 2009 to 2011.
+We have with us, Mary Schiavo, former inspector general of the U.S. Department of Transportation.
+Also joining us, Michael McCormick, former FAA control tower operator.
+Mike, let me start with you. CNN is now reporting that the helicopter was flying 100 feet higher than the maximum allowable height, 300 feet, when the max is 200. We're also told that it veered off its prescribed route. How does that happen? Is that unusual?
+MICHAEL MCCORMICK, FORMER FAA CONTROL TOWER OPERATOR: No, that's not that unusual. There are all variances that happens such as wind that will direct an aircraft, perhaps go a little bit further right, a little bit further, left a little bit higher or a little bit lower.
+TAPPER: Mary --
+MCCORMICK: That's not unusual.
+TAPPER: Not unusual. Okay. Good to see.
+MCCORMICK: No.
+TAPPER: Mary, I want to roll some of the exclusive video showing the collision from new angles. Yesterday, you told "The Kansas City Star" that you believe the army helicopter likely caused this crash. You're seeing the video now. Is that still your assessment after -- after stealing this, seeing this new video and why?
+MARY SCHIAVO, CNN AVIATION ANALYST: Well, yes, because and as the NTSB will do, there will be many causes. This will be the one of the many causes, but because of this video and other video and yesterday, we were watching video where there was a bright moving light off to the right of the photograph of the videos that we were seeing. And then there was the accident aircraft off to the left.
+This brighter plane was moving. And when you're flying at night, you often focus on the brighter light that is moving because there's so many city lights and other lights out there that that movement causes you to look at that. If the plane is headed to you or your head on a collision course, that may not be the light that appears to be moving. And that to me was very significant. Also, the difference in the altitude should have been below 200 feet. Night goggles -- night goggles can be very difficult and restrict your scope of vision. And they ask the tower. And this is where the NTSB will also have a lot to say about the FAA. They asked air traffic control for visual separation. That isn't the tower doing it. That means they're allowed to see and avoid.
+But there was already a lot of traffic in the area, and that will come under tremendous, probably criticism by the NTSB.
+TAPPER: Randy, President Trump, without any evidence that we know of, blamed diversity, equity and inclusivity hiring practices, DEI hiring, hiring practices for the crash. His press secretary, the White House press secretary, was pressed on this earlier today. Take a listen.
+(BEGIN VIDEO CLIP)
+REPORTER: If President Trump is telling us that air traffic control towers are staffed with unqualified controllers, these DEI hires who never should have been brought on. Then it's not safe to fly commercially, is it?
+KAROLINE LEAVITT, WHITE HOUSE PRESS SECRETARY: The president was asked to answer this yesterday, and he believes that it is still indeed safe, and Americans should feel safe traveling our skies. With that said, two things can be true at the same time, and we certainly have seen the deterioration of federal hiring standards at the Federal Aviation Administration. And the president wants to increase those standards.
+(END VIDEO CLIP)
+TAPPER: So you were once in charge of the FAA. Is there evidence that hiring standards for air traffic controllers and people in these vital positions were lowered, were deteriorated at any point?
+RANDY BABBITT, FORMER FAA ADMINISTRATOR: Absolutely not, to my knowledge, and I can tell you to be an air traffic controller is a very rigorous process. It takes two years from start to finish, and it's a tough job. They wash out about 25 or more percent of those applying.
+And, of course, we you know, we did have the setback after I left COVID affected the FAA just like it affected a lot of companies. Traffic dropped dramatically and we had way too many controllers. And so they offered early outs. COVID came back faster and they've been short of controllers and scrambling to get back to their normal staffing.
+But all of my experience and all of my knowledge suggests that there's nothing but the best qualified people. It's a tough job, and they do a good job, and to suggest that there's something other than that is just factless.
+TAPPER: Mike, you personally made the decision to shut down New York City airspace after the 9/11 attacks on the World Trade Center. Was it the right call today for the FAA to indefinitely shut down two of those helicopter routes near Reagan National Airport? And does that move go far enough to keep the airspace safe?
+MCCORMICK: Jake, I think it was a great decision on the part of the Federal Aviation Administration. It's a common sense decision that until the investigation is complete and you're able to get all the facts lined up and then have the causal factors and contributing factors so that you can make recommendations for permanent resolution to take swift action to mitigate any risk is a good call by the Federal Aviation Administration.
+TAPPER: Mary, do you agree?
+SCHIAVO: Yes, I absolutely agree. And there's one thing I'd like to add. You know, the air traffic controllers, it is a tough job. I agree with the Administrator Babbitt completely. And the decisions and the things that they're receiving criticism for, like one controller working to posts, they were on different frequencies for the military versus the civilian.
+There were several things. They got a separation warning, but they allowed the flight to continue. A lot of these are policy decisions. It's not the controllers who are there trying to do the job. These are policy decisions that the FAA has had for years.
+And remember, it was the FAA that has allowed this operation to continue despite warnings, despite many near misses. And it took a tragedy for them to finally change.
+TAPPER: All right. Thanks to all. Appreciate your expertise.
+Do flight plans need to change around Reagan National Airport? Is the airspace too crowded? A key member of the House Transportation Committee standing by to talk to us about that.
+Plus, the tariffs from President Trump going into effect tomorrow. Will they impact you? Will they impact your wallet? What were learning about the specifics, that's ahead.
+(COMMERCIAL BREAK)
+[16:16:53]
+TAPPER: We're back with breaking news in our national lead. New details about concerns over near misses and heavy air traffic around Reagan National Airport before Wednesday night's deadly in-flight crash between American Airlines Flight 5342 and that Army Black Hawk helicopter just one day before the crash, helicopter traffic forced a plane to abort a landing, according to air traffic control audio and pilots who fly in and out of Reagan national airport know how challenging it is to land on its narrow runways.
+Joining us now, Democratic Congressman Rick Larsen of Washington. He's on the House and Transportation and Infrastructure Committee.
+So, Congressman, a source familiar with the crash investigation tells CNN that authorities are now discussing changes to the helicopter routes around Reagan national airport. This is the FAA has indefinitely closed two of the helicopter routes near the airport.
+Are you on board with any potential helicopter route changes? And where do you think the possible new routes should be?
+REP. RICK LARSEN (D-WA): Well, I can't define where the new routes would be. I've heard from several members on the committee who have been pushing for this very action that the FAA took. I support the action to have this temporary restriction, while the FAA looks at a long term solution, and it may in fact be that they have to have further restrictions around noncommercial operations, noncommercial airplane operations at the -- at DCA.
+TAPPER: You supported an FAA reauthorization bill last year that worked to improve aviation safety. It also allowed for more flights at Reagan National Airport. Is -- does that part of the law allowing for more flights at Reagan need to be revisited, do you think, in light of this terrible tragedy?
+LARSEN: It's not a provision I personally supported. There was a lot of support in the House of Representatives and the Senate for that, included adding five more flights, to DCA, none of which have been implemented yet. And so, I think it's an open -- open case still about whether were going to revisit that, that law also had several other important aviation safety provisions, including hiring the maximum number of air traffic controllers, including having the FAA invest in their facilities and equipment to have better detection of taxiway and runway incursions, as well as -- as well as a stand up that the last DOT did with airports and air traffic control to kind of review those procedures around runway and taxiway incursions.
+There's broader safety things that need to get done. Hopefully, those are reflected in the president's budget as it comes before Congress. But you're right to -- you're implying certainly at DCA is a unique airport and may need some unique solutions.
+TAPPER: Air travel, we should note, is still overwhelmingly safe. But critics do point to repeated complaints from pilots who said that the air traffic was risky. There are also concerns about staffing control towers.
+This is all at Reagan I'm talking about, and the U.S. has seen a lot of near-misses across the country. What needs to change to ensure a collision like this one never happens again do you think?
+[16:20:01]
+LARSEN: Well, I want to assure people about the safety of the airspace and the safety of flying. I'll be on an airplane on Tuesday, flying back to Washington, D.C. myself. I do think that the number one thing we can do is to continue the hiring of air traffic controllers. We have control tower staffing issues all over the country, including at DCA.
+I do want to commend Secretary Duffy recently for continuing the hiring process, bringing air traffic controllers into the system. We need to expand that pipeline, ensuring that minimum standards and qualifications are always met. Every traffic -- air traffic controller in a tower, is there only because they have passed strict standards and we need to ensure that we continue that hiring pipeline to bring those folks on board.
+TAPPER: Congressman Rick Larsen of Washington, thanks so much. Appreciate it.
+The White House says the U.S. will put tariffs on Canada, Mexico and China within hours. We're standing by to hear directly from President Trump.
+Plus, how soon might you feel the impact of those tariffs, if at all?
+(COMMERCIAL BREAK)
+[16:25:32]
+TAPPER: In our politics lead, moments ago, the White House said it will indeed put massive tariffs on Canada and Mexico, starting tomorrow, President Trump making good on a threat that has a really uncertain outcome. There's a pretty big debate over whether these tariffs could backfire. They could end up raising prices on stuff Americans buy every day, though the Trump administration insists that will not happen.
+Joining us now, CNN's Jeff Zeleny.
+Jeff, what details do we know about these tariffs and the goods that might be impacted?
+JEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: Well, Jake, we do know that the White House is insistent that these tariffs will take effect tomorrow on Canada, on Mexico, 25 percent on each and 10 percent on China.
+This is something, of course, the president has long talked about. He delayed it a bit after taking office, but they insist they will take effect tomorrow. I mean, you saw the stock market, what it did the moment the White House press secretary confirmed this just shortly after 1:00. It immediately markets across the board in the Dow certainly fell.
+The president just a short time ago, a few minutes ago was talking to reporters in the oval office. And he said, this is not a negotiating tool. He is serious about these tariffs. The question is, what's the fallout from this? What's the aftermath?
+Inflation already is, you know, certainly not going down. It has ticked up a slight bit. So what will the -- the fallout of these costs on consumers be? But the president is insistent on -- on doing this. He says fentanyl is an underlying reason for this.
+But the reality here is the price and cost of tariffs, of course, passed on to consumers through lumber, through maple syrup, through a variety of things from Canada and obviously avocados. Many other even more important things for Mexico. So we will see what the fallout from this is if he goes through with it. Of course, we have seen him sort of back off before. We will see if he does it now.
+TAPPER: One of the other major threads today at the White House was President Trump's continued references to DEI. When asked about this plane crash. We've been interviewing experts. We just had one from the FAA. Nobody knows anything about standards being lowered that would affect air traffic controllers.
+Any -- any insight into that?
+ZELENY: No more insight into it. We pressed the White House press secretary on this again. What is the -- what is the evidence, if any, that the president has to make these claims that hiring and directives have anything to do with this? And there is simply no evidence, just simply restating the president's position to eliminate DEI throughout the workforce, talking about competence over quotas.
+But no, there is zero evidence the White House has again has given. We saw the president send a message out early this morning, talking specifically about the height of the Black Hawk that it was flying. We asked him what evidence there was that he has on that. If he's been briefed, and the press secretary just told us he is speaking the truth.
+So we will see if there was any correlation. But as of now, at least they've offered zero evidence to back up his claims.
+TAPPER: All right. Jeff Zeleny at the White House for us, thanks so much.
+Let's bring in our panel. We have with us former Republican Congressman Adam Kinzinger, former Democratic Congressman Mondaire Jones, and former press secretary for Doug Burgum's 2024 presidential campaign, Lance Trover.
+We should note lances old boss is now the interior secretary as of this week, we didn't really cover it. It wasn't particularly controversial. We tend to cover more controversial items I suppose.
+Adam, you're a former air National Guard pilot. The president again blamed the DEI before we still really even know what this -- clearly and specifically led to this crash. We know that a military chopper, a Black Hawk, was involved in the crash. How do you think this comes across to active duty military members?
+ADAM KINZINGER, CNN SENIOR POLITICAL COMMENTATOR: I mean, it's just ridiculous like, look, whenever you have a crash like this and we're always told, you know, if there's an accident, we don't say a word to the press. We need to wait to go through this certain chain, and then there may be accident investigation boards that you may be assigned to, to study this.
+But the bottom line has always been do not speculate until you know the answer, until the investigation is done. Doesn't do anybody any good. It doesn't do the families any good. For Donald Trump to have tweeted basically the night of the crash, his literally sounded like a five year old tweet. And then to turn around and say, well, why didn't the air traffic controller turn him?
+And then later, well, the helicopter was flying too high. He doesn't know what's going on. And instead of just waiting and being a leader and being a president, he instead is just trying to insert himself into everything.
+So as a military member, look, I -- we would like to think particularly the commander in chief would wait to get all the facts, especially something like this, that has such an effect on, you know, civilian travel and otherwise.
+TAPPER: Congressman Jones, the White House press secretary, took a ton of questions on this today at the press briefing. Here's what she essentially says this controversy boils down to. Take a listen.
+(BEGIN VIDEO CLIP)
+KAROLINE LEAVITT, WHITE HOUSE PRESS SECRETARY: When you are flying on an airplane with your loved ones, which every one of us in this room has, do you pray that your plane lands safely and gets you to your destination, or do you pray that the pilot has a certain skin color? I think we all know the answer to that question. And as president Trump said yesterday, it's common sense.
+(END VIDEO CLIP)
+TAPPER: As a general matter, air traffic controllers spend years training at academies and working before being fully certified. We just heard in the last segment, about 20, 25 percent of them wash out. They can't -- they can't make it. It is rigorous standards.
+What do you make of these comments?
+MONDAIRE JONES (D), FORMER U.S. REPRESENTATIVE: Well, as an initial matter, these people are a disgrace. Obviously, they're trying to distract from the president's already abysmal record when it comes to aviation safety. He, you know, got rid of the Transportation Security Administration leader. He instituted a hiring freeze at a time when it was well known that there was a lack of -- of air traffic controllers and so on and so forth.
+This is meant to distract the racism. And that's what this is when you don't have any evidence whatsoever that this had anything to do with DEI. I don't think anyone actually believes it does have to do with DEI. This is what you say to distract from your own failings. And that's not even to say that anything he did necessarily directly resulted in what happened. But he knew that people would talk about the fact that he had failed from an aviation security standpoint with a number of his policies.
+I got to tell you, you know, you want to talk about DEI, Jake, the white people who Donald Trump has nominated to lead various departments and agencies are some of the least qualified people to ever be considered by the Senate. So, clearly, when they talk about DEI, they're not really talking about the policies themselves. They're doing something more sinister. TAPPER: Everyone stay right there. Because President Trump just made some new comments at the White House while signing executive orders. So, let's listen in.
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: A lot of people coming into the border, and now we've largely stopped that, but we've stopped that ourselves and at -- I think they've done a fantastic job. You've seen the numbers. They've dropped to almost zero.
+But we've suffered under the past administration for years and years. We've suffered with millions of criminals coming into our country, criminals, people from jails, from all over the world. They come through Mexico. And they come through Canada, too. A lot of them come through Canada, and a lot of fentanyl comes through Canada and China makes the fentanyl.
+You know, China makes the fentanyl, gives it to Mexico, puts it through Canada, puts it through different -- different places, mostly Mexico, but also a lot through Canada and so, all three haven't treated us very well.
+REPORTER: Sir, can I ask you about your meeting with Nvidia? What did you talk about? And do you think you need to ban more of the chips that they're selling to China?
+TRUMP: Well, he's a great gentleman and I hadn't met him. He's the biggest in the world in terms of chips. And I can't say what's going to happen with it. We had a meeting. It was a good meeting.
+But eventually, we're going to put tariffs on chips. We're going to put tariffs on oil and gas. That will happen fairly soon. I think around the 18th of February. And we're going to put a lot of tariffs on steel.
+We already have tariffs on steel. And we've saved our steel industry. But that was relatively small compared to what it will be. But we're going to be putting tariffs on steel and aluminum and ultimately copper. Copper will take a little bit longer and that'll happen pretty quickly.
+It'll mean -- it'll be a great boost for our steel industry. It'll make our steel industry very strong. If I didn't put the tariffs on years ago on steel, which actually Biden left because there was so much money that they couldn't do anything about it, we would have lost. We wouldn't have one steel mill in this country if I didn't do that. We saved the steel industry.
+So it was an honor to do it. And I think the people that love me most in the whole world are people that make steel. But we're going to be putting sometime this month. Next month, were going to be putting a tariffs on steel and aluminum, and we'll give you an announcement as to what the exact date is, but it will be a tremendous amount of money for our country, a tremendous amount. These are big numbers. And in addition to that, and you see the power of the tariff, I mean, the tariff is good and nobody can compete with us because we have by far the biggest piggy bank. And so, that'll take place very quickly.
+But also we'll be doing pharmaceuticals and to bring our industry back, we want to bring pharmaceuticals back to the country.
+[16:35:01]
+And the way you bring it back to the country is by putting up a wall. And the wall is a tariff wall. We were the richest country in the world.
+We were at our richest from 1870 to 1913. That's when we had we were a tariff country. And then they went to an income tax concept. And, you know, how did that work out? It's fine. I mean, its okay, but, it would have been very much better.
+So we'll be doing pharmaceuticals importantly and drugs, medicines, et cetera. All forms of medicine, medicine and pharmaceuticals. And we'll be doing very importantly steel. And we'll also be doing chips and things associated with chips.
+REPORTER: Sir, what do you plan on talking with the Japanese prime minister about next Friday when you all meet?
+TRUMP: Well, he's coming in next week. I don't know, he asked for a meeting and I have great respect for Japan. I like Japan, Prime Minister Abe was a very close friend of mine. What happened to him was so sad, one of the saddest days. But they're coming in to speak to me and I look forward to it.
+REPORTER: Mr. President, on the crash, do you have any concerns that your commentary about things you have described as common sense, or your observations could in any way interfere with the thorough investigation of the crash?
+TRUMP: No, I think they'll do an investigation. It'll probably come out the way I said it. I like to put it up front.
+I'm so tired of listening to things happen to our country. And then people say, well do an investigation. And three years later they come out with a report that nobody looks at, especially not in all cases. Can you do that? But in this case, you know, you had a -- you had a helicopter that was the Black Hawk was too high. It was above the 200 limit by double. It shouldn't have been there.
+And there were some other mistakes made, too. And I pointed them out also. And I was right on all of it. But they'll still do an investigation just to check it out. But I think that's what the --
+REPORTER: As commander in chief, are you at all concerned about opining about the Army and the conduct of that aircraft when you are commander in chief, and these are the people who report to you?
+TRUMP: No, no.
+REPORTER: And there's an investigation on this.
+TRUMP: This was all caused by bad rules, regulations and other things by Biden, the Biden administration.
+REPORTER: What tells you --
+TRUMP: And when you look at the way they ran things, in fact, if you look, we hired one of the first things I told them to do. I said, get talented people in those -- in those beautiful towers overlooking runways. You better get them in there fast, because we don't have people there that are qualified. And you knew that because planes were landing very, very late. They were circling all over the place.
+We had people that didn't know what the hell they were doing. And if you look, excuse me --
+(CROSSTALK)
+TRUMP: Excuse me, excuse me. They -- we have to have the best people, the smartest people, the sharpest people as control tower experts. And that's what they have to be. They have to be experts, and they have to be very smart. And we didn't have our best.
+And if you read the quote that I read yesterday at the news conference, it talked about people that were psychologically injured, were okay, and people that had lots of problems were okay. I'd read it again if you'd like me to, but I don't think I have to waste your time.
+REPORTER: Should there be a concern, though, sir, with planes in the air all around the country, people relying on that safely. Are you suggesting there's an ongoing risk?
+TRUMP: No, I think there's very little risk. But I think that we have to make sure that this never happens again. Very, very little risk. And we're taking actions that this can't happen again.
+The helicopter, as you know, was out of its zone. It shouldn't have been out of its zone. It was at the same height as the airplane.
+Now the airplane was coming down on its track. It was perfect. It was in perfect shape coming down, and something was in its way. You cant let that happen. And it won't be happening again.
+And this was all because of weak rules in the Biden administration. And we're just not going to let that kind of thing happen again. And again, I could wait and I could, you know, give a report in two years, like they always do.
+And sometimes it's obvious. In this case, to me, it was very obvious. And I think I've been proven, proven to be very correct.
+Yeah.
+REPORTER: Sir, what you expect from your --
+(END VIDEO CLIP)
+TAPPER: All right. So that was President Trump just moments ago in the Oval Office, started off talking about the tariffs going into effect tomorrow. He said that they will be on pharmaceuticals and medicine, steel and chips and items associated with that. Those tariffs going into effect I think, against China, Canada and Mexico.
+He did talk at length also about the plane crash two nights ago. Let's fact check a little bit of what the president has said.
+CNN's Daniel Dale is standing by.
+Daniel, first of all, I just have to say he's kind of contradicting himself, at least in what I'm hearing. He's blaming the accident on lower standards he says when it comes to diversity hiring for air traffic controllers, although I don't know any evidence that the standards were lowered, there certainly is an effort for diversity in hiring and the standards he's talking about were implemented in 2013 and were there throughout his first term and then the Biden term.
+But beyond that, he's also blaming the pilot of the Black Hawk. So if he's blaming the pilot of the Black Hawk, I'm not really sure why it's the fault of the air traffic controller hiring system.
+DANIEL DALE, CNN SENIOR REPORTER: I'm entirely with you, Jake. I think those are very good points. Three other quick things from those remarks we heard.
+Number one, again, there is precisely no available evidence right now that anything related to Biden rules and regulations caused this crash. We'll wait and see what the investigation uncovers. Number two, he said, as he has before, that the U.S. was at its richest of all time in the late 1800s, early 1900s, when we had high tariffs, not even close to true per capita income, for example, is about 10 times today what it was back then.
+And then he referred to fentanyl seizures and migration at the northern border with Canada. Worth pointing out, those are a tiny fraction both fentanyl seizures and migrant encounters at the northern border compared to what they are at the southern border. Just no comparison between Canada and Mexico on those two things.
+TAPPER: Canada's pride and joy, Daniel Dale, thank you so much. Appreciate it.
+I want to bring back Lance Trover, who didn't get a chance to say anything in our political panel.
+Lance, I do want to ask you, do you have any concerns about the president politicizing this airplane crash, this tragedy?
+LANCE TROVER, FORMER SPOKESMAN, DOUG BURGUM 2024 PRESIDENTIAL CANDIDATE: No, look, I think when you're the president of the United States and, you know, it's totally appropriate to discuss issues that may or may not have contributed to this event. And let's -- let's remember, do you -- you just noted it. This is discussion about DEI in the FAA has been going on a long time.
+Patty Murray, a Democrat from Washington herself was raising issues with the FAA more than ten years ago. J.D. Vance was talking about it yesterday. Hundreds of people who have sued the FAA, people who were credible and should have been hired because they didn't get it because of the color of their skin.
+So, no, I mean, he's the president of the United States. And I think when I was watching that, that, you know, Q&A with him earlier, it just reminded me, Donald Trump, he doesn't speak to the media inside the Beltway. He doesn't speak to people with Trump derangement syndrome. He goes directly to the people. That's what he does.
+And look, I get it. A lot of people don't like him because he doesn't act like other presidents, or he doesn't always talk like other presidents. But I would argue that's why 77 million people voted for him last time is because he's not like he's unconventional and not like those other presidents.
+TAPPER: Yeah, but I guess the point is policy discussions are one thing. And absolutely they should be held, whether it's J.D. Vance or Patty Murray or Donald Trump. It's fine with me.
+I think the question is, is there evidence that these policies had any impact on this tragedy? And has this been the right way to air these discussions before this investigation has even really begun?
+TROVER: Well, that's what we're going to figure out. And I would say, look, he's the president of the United States. And somebody said earlier, he doesn't know what he's talking about. Well, my guess is he may know a little bit more than folks right here on this show. So I think we need to give him a little leeway on that front.
+Again, I think he's the president of the United States. He's unconventional, and I think its totally appropriate for him to raise these things in any forum that he wants.
+Again, he talks directly to the people. He's not worried about the inside the beltway nonsense. And that's -- that's what he does. That's how -- he's always conducted himself. And it seems to me the American public is largely okay with it.
+TAPPER: Former Congressman Mondaire Jones, I want to give you the last word.
+JONES: Yeah. You know, I continue to pray for the future of this country. Obviously, we've seen a lot of activity even over the past week and a half. Some would say it's even more overwhelming than -- than Democrats were talking about when they were on the campaign trail last cycle.
+But I just -- my heart goes out to the loved ones, of which there must be many thousands of the dozens of people who perished through no fault of their own. And I wish that we had a president who had the kind of empathy to meet this moment, because there are going to be a number of other tragedies, sadly, over the next four or more years, and we're going to need someone with the character and the leadership and the empathy to -- to relate to people and also to speak the truth, to speak the truth.
+TAPPER: Congressman Kinzinger, Congressman Jones, and everyone else, thank you so much.
+We're going to -- we're going to be right back. We have the ambassador from a key ally of the United Kingdom standing by with her reaction to what we just heard from the president. Stay with us.
+(COMMERCIAL BREAK)
+[16:48:50]
+TAPPER: In our money lead, President Trump is keeping up his pledge to punish Mexico, Canada and China with tariffs. Here he was just moments ago.
+(BEGIN VIDEO CLIP)
+REPORTER: Mr. President, is there anything China, Canada and Mexico can do tonight to forestall your implementation of tariffs tomorrow?
+TRUMP: No, no, not right now. No.
+(END VIDEO CLIP)
+TAPPER: That's in the face of some warnings that such a move could drive up prices here in the U.S. on all sorts of products, with the companies abroad raising prices commensurate with the tariffs. That could potentially force our neighbors into a recession. It also has other countries, particularly American allies in Europe, on notice that perhaps they'll be next with American tariffs.
+Joining us now is the British ambassador to the U.S., Dame Karen Pierce, who's heading back across the pond. This is her very last American TV interview, sadly, sadly.
+KAREN PIERCE, BRITISH AMBASSADOR TO THE U.S.: Sadly.
+TAPPER: We're going to miss you.
+PIERCE: But all good things come to an end.
+TAPPER: I suppose that's true. What is your reaction to the White House announcing these tariffs and saying they go into effect tomorrow?
+PIERCE: Well, first of all, it's really a matter for the countries concerned to -- to talk to the Americans about, you know, they're close allies, close friends of the UK.
+[16:50:03]
+We have a different philosophical approach to tariffs than the American approach.
+We don't have a trade surplus with America in goods. We make a very small amount of steel that is not a threat to the American market. But we'll -- we'll look with interest at what happens next.
+TAPPER: In the face of these threats. I want you to listen to what Canada's outgoing Prime Minister Justin Trudeau, said today. Take a listen.
+(BEGIN VIDEO CLIP)
+JUSTIN TRUDEAU, CANADIAN PRIME MINISTER: The president does choose to implement any tariffs against Canada. We're ready with a response, a purposeful, forceful, forceful, but reasonable immediate response.
+(END VIDEO CLIP)
+TAPPER: Now, I know Canada is not the UK, but you are united under the commonwealth. And I'm wondering, do you think that the U.S. and these are two close allies of the -- of the UK, Canada, probably a little closer.
+Do you think the U.S. and Canada are now going to be in a trade war?
+PIERCE: I wouldn't favor one over the other. You know, for all sorts of reasons. Were very close to both the U.S. and to Canada. I think trade wars are fundamentally a bad thing for ordinary citizens, as well as for countries. As I say, we have a different approach, a different philosophical approach to tariffs. But we obviously hope two great partners like Canada and the U.S. can sort this out.
+TAPPER: So your country, the UK is Canada's third largest trading partner with more than $45 billion between the UK and Canada. How is the UK preparing for the ripples that may run across the global economy?
+PIERCE: Well, we've been doing some studying on some of the pronouncements the president made before he took office. And obviously, since today's announcement, will want to study that very carefully in London. As I say, the direct effect on the UK, we hope there won't be one.
+We don't have a trade surplus. We do produce a very small amount of steel that does not compete with the United States, but we'll be watching carefully.
+TAPPER: So let's look at some other topics. NATO obviously is a frequent target of Trump's criticism. The fate of future U.S. support for Ukraine is not really quite clear under the Trump administration. We don't know exactly what's going to happen.
+He talked about a peace deal on day one. That obviously didn't happen on day one, but there obviously is a lot less support for -- from President Trump for Ukraine than there was under President Biden. Are you concerned? PIERCE: I wouldn't characterize it yet, to be honest, Jake, I think President Trump is still working out exactly how he wants to approach the Ukraine issue. He has talked about peace through strength. That's something we very much share that that philosophy, that approach.
+We've been in touch with General Kellogg, who's the president's envoy on Ukraine. He's got a very good understanding of the situation on the ground. And obviously, we want to find a way to bring the war to an end to help Ukraine. But we don't want to see Russia have a victory. That would be very dangerous. It would be very dangerous, obviously, for Ukraine in Europe, but it would be dangerous in terms of emboldening China.
+All these are aspects that we want to talk through with President Trump's administration.
+TAPPER: So you -- this is your last day in your post as ambassador to the United States. I'm wondering, you may know President Trump better than any other current ambassador from another country. I'm wondering what advice you might have for the man taking your place who has in the past, I might note, called Trump reckless and a bully, although he has since tried to walk those statements back.
+What advice might you have for him?
+PIERCE: Well, first of all, I think there are a couple of ambassadors who've been here longer than me and know president Trump very well over several years. But I'd like to think I do know him well.
+TAPPER: Take the compliments.
+PIERCE: I'd like to think I do know him well. I've always found him very gracious to me. I've always enjoyed our interactions, you know, in small groups, presidents, very thoughtful, asked a lot of questions about Britain, about other issues. We had a very good dinner with the prime minister in September, in Trump Tower with him. They talked about growth in the economies.
+So I think the key thing with President Trump is to work out how we can accentuate the positive on any issue were talking about and how we can get to a win-win. What is win-win for the American economy and national security? What's win-win for the UK? How can we work together to achieve that?
+TAPPER: All right, British ambassador to the U.S., Dame Karen Pierce, thank you and happy trails to you. It's been a pleasure getting to know you.
+PIERCE: It's been wonderful to be here. Thank you. Jake.
+TAPPER: The other big story today, the recovery mission happening near Reagan national airport after that deadly crash two nights ago. Crews have brought in a large crane as their search continues. We're standing by to hear from the authorities with the National Transportation Safety Board. We're going to bring you that news conference when it begins. Stay with us.
+(COMMERCIAL BREAK)
+[16:59:15]
+TAPPER: Welcome to THE LEAD. I'm Jake Tapper in this hour.
+Thousands of Costco workers are set to go on strike in just hours. If a deal is not made between the company and their union, what are they asking for? What is Costco saying in response? How could it all impact you?
+Plus, the White House confirming this afternoon that the U.S. is set to impose tariffs on Canada and Mexico tomorrow. Both countries say they are prepared to quickly respond. Is this going to turn into an all out trade war?
+And if so, how will that affect you?
+And leading this hour, we're expecting an update from investigators in just minutes on the horrific, deadly collision between a passenger plane and a helicopter over the Potomac River, right near Reagan National Airport. Recovery crews are continuing to search for victims in the dark, murky, icy waters of the Potomac today.
+But the weather is complicating those efforts. Officials this afternoon said efforts to remove the pieces of the plane from the water should start no later than tomorrow.
+CNN's Pete Muntean has all of the latest details.
+
+Load-Date: January 31, 2025
+
+
+End of Document

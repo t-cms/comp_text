@@ -1,0 +1,52 @@
+
+
+
+
+
+The Guardian (London)
+February 24, 2025 Monday 1:00 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: US NEWS; Version:3
+Length: 1344 words
+Byline: Delaney Nolan
+Highlight: Environment justice advocates say tools to study pollution in vulnerable communities by companies, including xAI and SpaceX, have disappeared
+Body
+
+
+As   continues its purge of federal agencies, environmental justice campaigners are alarmed by the disappearance of federal environmental and climate data tools – some of which have been used to identify pollution concerns about Elon Musk’s companies.
+Several federal agencies, including the EPA and CDC, previously published data regarding pollution levels across the country, as well as data about the vulnerability of each census tract, such as poverty rates and life expectancy. Several of the websites containing that data have gone dark in the weeks following Trump’s inauguration.
+Some, such as the CDC’s Social Vulnerability Index, came back online on 11 February following a  , though they now include a note that the administration and department “   ” the pages.
+Climate experts are concerned about the loss of two tools in particular: EJScreen, which mapped pollution burdens alongside socioeconomic indicators and was run by the EPA, and the climate and economic justice screening tool (CEJST), which identified disadvantaged communities that would benefit from climate-related funding.
+“The elimination of environmental justice data and environmental justice tools is monumental,” said Naomi Yoder, a GIS data manager in the Bullard Center for Environmental and Climate Justice. Yoder is worried about not only the loss of data, but the loss of accessibility. The tools are how “we show the rest of the world and policymakers that the issues people are talking about on the ground are backed up by data”.
+The data purge threatens to stymie efforts to protect some of the nation’s most polluted communities – including ones where Musk’s companies are located.
+                                        Musk’s xAI and pollution in                     Memphis                                      
+Musk’s artificial intelligence company, xAI, began building the world’s largest supercomputer, dubbed “Colossus”, in South Memphis, Tennessee, over the summer. The facility began operating in December to train Musk’s chatbot, Grok.
+To power the   xAI has been operating 15 gas turbines. The gas turbines pump pollutants such as formaldehyde and nitrous oxide into the surrounding primarily Black neighborhood, campaigners say. A   to operate the turbines filed last month indicates the turbines’ annual hazardous air pollutants of up to 11.51 tons over 12 months could exceed the EPA’s allowed maximum of 10 tons, according to the figures listed in the application.
+Attorneys from the non-profit Southern Environmental Law Center (SELC) used EJScreen to establish that South Memphis, where the xAI facility was built, already suffers from a disproportionately high pollution burden. The census tract is in the 90th percentile in the US for “toxic releases to air”, and neighboring tracts are within the 95th percentile for ozone, according to EJScreen   that has now been preserved by archivists. The   says that the gas turbines used by xAI will further worsen ground level ozone, better known as smog.
+South Memphis has long suffered from high asthma rates and poor air quality. People with asthma are particularly susceptible to ozone, which can aggravate the condition and increase hospital admissions.
+Libbie Weimer, a geospatial analyst at SELC, has used EJScreen in her day-to-day work for years. “There are pollution concerns at that facility,” explained Weimer, and the surrounding neighborhood “is a historically African-American community” that already experiences an outsized pollution burden.
+The SELC also used the National Emissions Inventory (NEI) to show that xAI’s gas turbines, when used at full capacity, constitute the ninth-largest emitter of nitrous oxide in Shelby county, Tennessee. The NEI was taken down, but later restored after the 11 February court order.
+SELC referred to the NEI data in August, when asking the Shelby county health department to order xAI to   until it had obtained a permit for the turbines, which it says are illegal.
+Tools like EJScreen “help us quickly and efficiently get some baseline information about who’s impacted”, explained Weimer. “The thing that’s really important about it is that EJScreen, especially … democratizes access to this information.” The tools allowed anyone to “easily look up and access information that’s super relevant to the work they’re doing, without necessarily going through the bottleneck of consulting technical experts”.
+An EPA spokesperson said in response to queries that the agency “is working to diligently implement President Trump’s executive orders, including the ‘Ending Radical and Wasteful Government DEI Programs and Preferencing’”. They continued: “President Trump was elected with a mandate from the American people to do just this. President Trump advanced conservation and environmental stewardship in his first term and the EPA will continue to uphold its mission to protect human health and the environment in his second term.”
+xAI did not respond to requests to comment.
+                                        SpaceX and highly vulnerable communities                                      
+Campaigners say the missing datasets from various federal environmental data tools could have been used to examine the impact of Musk’s business efforts elsewhere.
+Musk’s SpaceX is seeking permission to launch starships from the Kennedy Space Center. The company’s application for a commercial launch vehicle operator license to launch their Starship Super Heavy is still   with the FAA. Its application is opposed by various environmental groups and advocates, including the Southeastern Fisheries Association, who have urged the FAA to consider environmental justice and the project’s “substantial impacts to disadvantaged communities”.
+That application must pass several steps first – including an environmental permit review. In EPA   to the FAA, the agency “strongly” urged the FAA to use the now-deleted EJScreen tool during their environmental review, in order to account for environmental justice.
+If the FAA were still able to use the tool, it would find the area where SpaceX intends to launch Starships is among the 88th percentile for cancer rates for adults. Some of Musk’s Starships have exploded during flight, creating vast clouds of metal  , which have been linked to lung cancer.
+In response to queries from the Guardian, an FAA public affairs specialist, Steve Kulm, said “the FAA is committed to conducting environmental reviews in compliance with all applicable executive orders and environmental laws and regulations”.
+SpaceX has previously been found to have reportedly   : the company’s headquarters in Cameron county, Texas, discharged thousands of gallons of industrial wastewater into the environment, for which it was fined over $150,000 for violating the Clean Water Act. SpaceX was facing    from environmental groups. One of those lawsuits was   on Monday after campaigners said they no longer felt optimistic about the suit’s outcome.
+The EJScreen tool indicated that the headquarters in Cameron county were in an area in the 98th percentile of drinking water non-compliance, according to its environmental justice index, which takes into account the percentage of low-income homes and people of color alongside compliance with the Safe Drinking Water Act.
+The new administration has also ordered the elimination of any directives associated with Biden’s Justice40 initiative – affiliates of which have campaigned against his Tesla Gigafactory. The EPA’s office of environmental justice and external civil rights has also been . 
+“There’s been a huge effort from the Trump administration to wipe out access. Those datasets might even still be there, but the public can’t readily use them,” said Yoder. “Now it’s going to require a team of specialists for many hours to get anything close to the same thing.”
+SpaceX did not respond to requests to comment.
+
+Load-Date: February 24, 2025
+
+
+End of Document

@@ -1,0 +1,95 @@
+
+
+
+
+
+The Reveille: Louisiana State University
+February 3, 2025 Monday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 1069 words
+Byline: Brooke McCoy
+Body
+
+
+Dear White Women,
+Does your outrage only extend to where your comfort ends?
+Recently, I've noticed an increase in social media posts made specifically by cis-het white women on Facebook, Instagram, and TikTok asking how can you protect your peace of mind during these hard times. You've stated not wanting to allow negativity and anger to rule your lives and wanting to protect your mental health and personal peace. Well, my question for you is this: Does your outrage only extend to where your comfort ends?
+You see the thing is - our Black, Native American, Latina, Asian, Immigrant, Trans, Queer, Differently-Abled, Pregnant, Nonbinary, and Impoverished sisters don't have the option to simply disconnect from the political, social, medical, and economic disasters that we're facing. In the first week of Trump's populist oligarchical dictatorship he's already moved to removed us from WHO, begun the withdrawal from the Paris Climate Agreement, mandated an end to birthright citizenship (which includes the intention to end birthright citizenship protections for Immigrants, Native American Tribes, Black Americans, etc.), federally denied and barred the existence and service of trans and nonbinary people, ended DEI initiatives and federal protections, pardoned 1500 January 6th terrorists, pardoned 23 radical Anti-Choice extremists, and ended Executive Order 14087 which lowered prescription drug prices. Dictator Trump also revoked over 70 of Biden's executive orders from 2020 that protected the rights, dignity, and safety of millions of Americans. These include the revocation of sex discrimination that would include sexual orientation and gender identity, ended the order that requires executive branch appointees to sign an ethics pledge, and ended the order that banned the renewal of private prison contracts. He also declared a national border crisis, effectively enabling ICE agents and racist bounty hunters to unlawfully steal children and families from private businesses, their homes, schools, and churches! This list doesn't even begin to fully reflect the extent of his tyranny. So again I ask you: Does your outrage only extend to where your comfort ends?
+The absolute PRIVILEGE that it is to simply turn off the news, stay off of social media, and disengage from the fight is not something our sisters have! That is uniquely white women's privilege. Our proximity to white male supremacy and our historical submission to the patriarchy gives us the privilege of turning away for the sake of our own peace of mind. Our marginalized sisters and nonbinary folks do not have the same privilege to do so! I'm not going to hold your hand when I tell you this - If your idea of fighting injustice is blue bracelets, safety pins, and coded speech in social media posts, then your outrage is undeniably performative. We, as cis-het white women, benefit the most from our white privilege and we are cowards to neglect the fight for sake of our own peace! Does your outrage only extend to where your comfort ends?!
+Marginalized women, specifically Black Women, have carried the torch of feminist activism and liberation forever. Black Women have been fighting for the rights, safety, and progress of ALL women, even when they've been betrayed, neglected, and subjugated by white women. Black Women are the leaders! Black Women are the movement! As a white woman, I can't speak for all Black Women, but I have a strong feeling that they are sick and tired of our entitled, privileged performative anger. They are TIRED of carrying the weight of this fight. So how dare we as white women ask how WE can feel better!! Our sisters DO NOT have that option - so neither do we! Now is not the time for your submission, disengagement, or selfishness. It's time to use your privilege and proximity to white men to FIGHT! I'll ask you again: Does your outrage only extend to where your comfort ends?!
+White women, I challenge you to move beyond the performative and selective outrage and step into the fight. Get uncomfortable and stay uncomfortable! Get angry! Let it burn so damn hot in you that you cannot stomach to turn away from the injustice and suffering others are facing! Be loud! Be aggressive! Be in the fight with every part of yourself. Don't you dare hide away from the reality that we're all facing and the suffering that occurs because of your complacency. And lastly, don't you dare excuse your submission and cowardice as protecting your peace when our marginalized sisters suffer the most because of it! If you're going to be about it, BE ABOUT IT! I'll ask you one final time: DOES YOUR OUTAGE ONLY EXTEND TO WHERE YOUR COMFORT ENDS?
+Find your courage and your anger.
+Signed,
+An Angry White Woman
+Brooke McCoy is an interdisciplinary studies senior from Geismar, La.
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 17px;
+line-height: 1.6em;
+margin-bottom: 25px;
+font-family: Open Sans;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 17px;
+line-height: 1.6em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #1e73be;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 25px;
+font-family: Open Sans;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 17px;
+line-height: 1.6em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #4f2170;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Open Sans;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #4f2170;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Open Sans;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 3, 2025
+
+
+End of Document

@@ -1,0 +1,45 @@
+
+
+
+
+
+Forbes.com
+February 11, 2025 Tuesday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 620 words
+Byline: Conor Murray, Forbes Staff
+Highlight: The company also told employees last week it would abandon diversity targets in hiring, complying with the Trump administration s anti-DEI orders.
+Body
+
+
+Topline
+Google has tweaked some of its flagship products in an apparent response to President Donald Trump s executive orders and the political environment, renaming the Gulf of Mexico to  Gulf of America  for U.S. users and no longer marking the start of cultural observances including Pride Month and Black History Month on Google Calendar.
+<figure>
+<figcaption>
+Google Maps now lists "Gulf of America" for U.S. users.(Photo illustration by Chesnot/Getty Images)
+Getty Images
+</figcaption></figure>
+Key Facts
+Google began displaying the  Gulf of America  name for U.S. users Monday after the U.S. Board on Geographic Names formally updated the nomenclature, following Trump s day-oneexecutive orderdirecting the Gulf of Mexico to be renamed.
+Outside of the United States, users will see  Gulf of Mexico (Gulf of America),  while Mexican users will see  Gulf of Mexico. 
+Google saidafter Trump s executive order it would follow its  longstanding practice of applying name changes when they have been updated in official government sources, notingit uses the official local name for users when territories are disputed.
+A Google spokespersontold CNBCMonday its Google Calendar product no longer automatically marks the start of cultural observances including Pride Month and Black History Month because  maintaining hundreds of moments manually and consistently globally wasn t scalable or sustainable. 
+Google told CNBC it began making these calendar changes in mid-2024 and now only displays holidays marked bytimeanddate.com, a Norwegian website that lets users compare time zones and keep calendars.
+Google also saidit would revert Alaska s Mount Denali to Mount McKinley once the name change is reflected in the U.S. Geographic Names Information System, but the database still refers to the mountain asDenalias of Tuesday morning.
+Forbes has reached out to Google for comment.
+Did Google Roll Back Diversity, Equity And Inclusion Goals?
+Yes, the companytold employeeslast week it would no longer use diversity targets in hiring, and that it would evaluate its other DEI programs and whether it would continue releasing annual diversity reports. The company said it is  evaluating changes to our programs required to comply  with Trump s executive orders on diversity. It said it would continue to operate resource groups for underrepresented employees. Google joined agrowing list of companiesthat have walked back diversity goals in recent months, particularly since Trump s election victory and anti-DEI executive orders, which also includes Amazon, Meta, Walmart, Target and McDonald s.
+Chief Critics
+Some Google users have slammed the company through posts on its online help community forums, where Google users help one another with technical issues. Onepostercalled it  disgraceful  for the company to remove cultural observances from Google Calendar, to which 258 users noted they  have the same question. 
+Tangent
+Google Maps displaysdisputed territoriesdifferently depending on where a user is accessing the Maps feature from, which has sometimes drawn controversy. In the Kashmir region, disputed between India and Pakistan, the territory appears fully under Indian control for Indian users, but elsewhere, the territorial dispute is acknowledged by a dotted line. Most Google Maps users see the  Sea of Japan,  but for South Korean users, the body of water is listed as the  East Sea.  A dotted line indicating the disputed Western Sahara territory, which Morocco claims, does not appear for Moroccan users.
+Further Reading
+Google Calendar Cuts Pride Month, Black History Month And More Observances Here Are All The Companies Rolling Back DEI(Forbes)
+Google Maps Will Show  Gulf Of America  And  Mt. McKinley  To US Users(Forbes)
+
+Load-Date: February 12, 2025
+
+
+End of Document

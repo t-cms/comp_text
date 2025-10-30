@@ -1,0 +1,94 @@
+
+
+
+
+
+The New York Times 
+February 10, 2025 Monday 08:12 EST
+
+
+Copyright 2025 The New York Times Company All Rights Reserved
+Section: BUSINESS; dealbook
+Length: 2172 words
+Byline: Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee and Vivienne Walt, Andrew Ross Sorkin is a columnist and the founder of DealBook, the flagship business and policy newsletter at The Times and an annual conference.
+Highlight: Global markets are in a wait-and-see mode as President Trump vows to slap steel and aluminum tariffs, among other levies, on trading partners.
+Body
+
+
+Global markets are in a wait-and-see mode as President Trump vows to slap steel and aluminum tariffs, among other levies, on trading partners.
+Hope you enjoyed the Super Bowl on Sunday night, and congrats to the Philadelphia Eagles. The ads were better than the game. We’ve got a rundown below.
+I got into a substantive debate on Sunday with Joe Lonsdale, the venture capitalist and co-founder of Palantir, and other investors, about how carried interest is taxed. President Trump has vowed to , which I’ve been writing about since 2007. You can read excerpts from the debate below.
+The new phase of the tariff fight 
+Get ready for the latest round of President Trump’s trade wars.
+On Air Force One on Sunday, en route to the Super Bowl, the president said he would impose a 25 percent levy on  and that reciprocal tariffs on trading partners were coming.
+China has already retaliated against new Trump tariffs that took effect on Monday, leaving the global economy to grapple with the reality of worldwide trade battles.
+The latest: Beyond the metals levy — which is  — Trump is also eyeing broad tariffs on Europe, Taiwan and others, as well as on industries and key commodities like copper, pharmaceuticals and semiconductors.
+Beijing has retaliated with  against select American exports, including, coal, liquid natural gas and farm equipment, a sign that the trade war could expand quickly. “Trade and tariff wars have no winners,” Guo Jiakun, a spokesman for China’s foreign ministry, said on Monday.
+Gold, a metal not in the tariff crossfires, hit a new high as investors sought a haven.
+Otherwise, the market reaction on Monday has been muted. The prices of iron ore and aluminum are up only slightly — but the stock prices of U.S. Steel and Alcoa jumped in premarket trading. (Speaking of U.S. Steel, Trump said on Sunday that Nippon Steel could invest in its American rival, but that he was “” the domestic steel producer.)
+Investors are waiting to see if Trump makes good on his tariff threats this time. Remember that big tariffs on Canada and Mexico are on hold and that the administration  its repeal of the so-called de minimis exemption on cheap imports because of the chaos it introduced.
+Canada stands to lose big. The country is a major supplier of both steel and aluminum to the U.S.; the Canadian dollar fell this morning versus the greenback.
+In Trump’s first term, he also imposed tariffs on foreign steel and aluminum imports. But some of those imposed on Canada and Mexico were rolled back when a new North American trading agreement was struck. What will happen this time?
+Some business leaders are fretting tariffs. The policy uncertainty has dominated companies’ calls with analysts in recent weeks. , the C.E.O. of the toolmaker Snap-on, compared the turmoil to “being on Space Mountain at Disney World.”
+The president has also instructed Treasury Secretary Scott Bessent to , saying it’s too costly.
+HERE’S WHAT’S HAPPENING 
+Elon Musk says he has no plans to buy TikTok. “I’ve not put in a bid for TikTok and I don’t have any plans for what would I do if I had TikTok,”  at the WELT Economic Summit. Several companies, including Oracle, Amazon and Microsoft, have  in a potential deal for TikTok or its American operations, The Wall Street Journal reports, but as a ban looms executives of the video app are said to be seeking an outcome that doesn’t involve a sale.
+BP’s stock jumps as Elliott Investment Management reportedly builds up its stake. The activist investor wants the energy giant  to lift its slumping share price, Bloomberg reports. BP reports quarterly results on Tuesday and is expected to deliver a strategy update later this month that emphasizes the production of oil and gas.
+Inflation and Jay Powell will be in focus this week. The Fed chair is scheduled to begin two days of testimony on Tuesday, during which he’s expected to face questions including his outlook on interest rates and the central bank’s independence. On Wednesday, the Consumer Price Index report for January is set for release, with  to see a modest cooling of inflation — despite egg prices .
+Trump stays in Musk’s corner, for now
+Many observers may have wondered if President Trump’s alliance with Elon Musk was facing strain, especially as Democrats  have questioned whether the tech mogul was the one actually in charge.
+But for now, it appears, Trump and his team are solidly backing Musk’s cost-cutting ambitions.
+Trump called suggestions to limit Musk’s access to government agencies “crazy,”  temporarily blocking the so-called Department of Government Efficiency from accessing the Treasury Department’s payment system.  said on Sunday that “judges aren’t allowed to control the executive’s legitimate power.”
+That’s despite growing concerns about the consequences of Musk’s work.  that his actions could make crucial government systems vulnerable to attack by China, Russia and others. And opponents said that the billionaire’s team could hurt important programs including Medicaid, Medicare and Social Security as it . (Two Democratic senators  to fight back.)
+Mysteriously, Trump also suggested that the Musk panel had uncovered a potential problem with “Treasuries” — he didn’t elaborate — and that could mean the United States could disregard some payouts.
+In other Musk news: Here’s how one of his chief rivals, Sam Altman of OpenAI,  and got close to Trump.
+Europe pushes for a third front on A.I.
+DeepSeek spooked tech investors last month when the Chinese chatbot revealed it was powered by a stunningly low-cost A.I. model. But in Europe, it was welcome news, Vivienne Walt reports for DealBook.
+“There has been a feeling in Europe that the A.I. race is over,” André Loesekrug-Pietri, president of the Joint European Disruptive Initiative, or JEDI, a funder of advanced tech research, told DealBook. “DeepSeek brought a big sense of hope that reshuffling the cards is always possible.”
+Executives and political leaders across the European Union are gathering in Paris on Monday and Tuesday to try to coordinate an A.I. strategy. Vice President JD Vance and China’s vice premier, Ding Xuexiang, are among the invitees, as are OpenAI’s Sam Altman, Anthropic’s Dario Amodei and Google’s Sundar Pichai. All are expected for dinner on Monday night with President Emmanuel Macron of France at the Élysée Palace.
+Europe’s A.I. start-ups have faced steep hurdles, leaving them too small to compete with U.S. and Chinese companies. One problem: The E.U.’s 27 countries have no uniform policy on investment or regulations. Their unease deepened when President Trump unveiled the  last month in partnership with OpenAI, SoftBank and Oracle, which is expected to raise at least $100 billion.
+France on Monday will announce a 109 billion euro ($112 billion) A.I. investment “during the coming years,” Macron said on television last night, calling it “exactly equivalent to what the U.S. announced with Stargate.” (Note: France has roughly one-fifth the United States’ population.)
+Still, Silicon Valley’s deep pockets are needed. DeepSeek’s emergence may pose a threat to American tech giants, and legislators want to ban the service on government phones. Some E.U. start-ups see that as an opportunity to draw more backers.
+Some of those investments have included:
+Mistral AI, Paris: The prominent unicorn was founded in 2023 by French engineers who had departed Meta and Google’s DeepMind. Valued at about €5.8 billion, it raised  last year from investors such as General Catalyst, Lightspeed Venture Partners and Andreessen Horowitz. The company has opened an , and has said it is considering an I.P.O.
+Poolside, Paris: The code-writing start-up relocated from the U.S. to France in 2023, but still relies heavily on American investors: Last year it , at a $3 billion valuation, led by Bain Capital Ventures.
+Helsing, Munich: The German military-tech start-up is , after raising €450 million last year from companies including Accel and Lightspeed. Amid wars in Gaza and Ukraine, investors have .
+DeepSeek’s low-cost model could shake up Europe, too. “This is both a reassuring moment, and a wake-up call,” Nicolas Miailhe, the founder of A.I. startup PRISM Eval, told DealBook.
+Debating some investors’ favorite tax break
+President Trump reopened a yearslong debate about taxes when he told Republican lawmakers last week that he would prioritize 
+Several investors quickly took to defending the current tax treatment, which taxes a large portion of their funds’ profits at the lower capital gains rate, not as ordinary income. I got into an in-depth debate with the financier Joe Lonsdale and others about the wisdom of changing the tax code.
+It started when :
+Even if I had no exposure to funds, I’d oppose taxing carry at a higher rate than cap gains. I love the current vibe: 100% remove taxes on tips or overtime, and lower taxes of everyday Americans! But, don’t distort incentives in ways that slow growth. It’s not a “loophole”!
+After a bit of back and forth,  :
+If a real estate agent earns 20% on a deal, it’s taxed as ordinary income. If a lawyer takes a contingency fee on a case, it’s taxed as ordinary income. But if a private equity manager earns 20% on a deal, it’s magically capital gains. Why?
+, a partner at the investment firm Contrary, replied:
+Real estate agents take no risk. Investors can work for years and make nothing because of outside market forces. Also, inflation eats away at capital locked up over time. “Labor” is an immediate payout. We need to incentivize risk taking and long time horizons.
+:
+The issue is that it isn’t your capital at risk. The reason we have a different rate for capital vs labor is to incentivize people to put up their own capital. To invest in America. For whatever reason, we have decided to tax people’s labor at a different, higher rate. Your labor is your labor. Investing other people’s money isn’t a special form of labor. And getting rid of carried interest doesn’t change the incentives for *investors* to put up their money.The only shift would be in the incentive for you to decide to choose a profession managing other people’s money. And if you’re doing it for the tax break, well, that means the system is rewarding tax arbitrage, not actual investment risk.
+Others, including Mark Suster of Upfront Ventures, . Please  what you think.
+The first A.I. Super Bowl
+The Super Bowl may have been . But commercials — including a flurry centered on artificial intelligence — ended up providing a lot of the entertainment for the night.
+OpenAI made its Super Bowl debut, splashing out on a one-minute spot — a black-and-white pixelated production — that reportedly . (The Times’s Mike Hale .)
+Other A.I.-themed ads included:
+Meta’s promotion for its .
+Google highlighting the  of its Pixel phones.
+The water-bottle brand Cirkul showing the comedian Adam Devine blundering an interaction with his phone’s A.I. assistant on his smartphone and .
+What was absent: crypto, which dominated ads during . That was before the fall of Sam Bankman-Fried, of course — but the industry’s fortunes have surged since then.
+Other ads we liked included the  and .
+THE SPEED READ 
+Deals
+Can President Trump’s pick to run the S.E.C. ? (WSJ)
+“ Amid Standoff With FCC” (The Hollywood Reporter)
+Politics, policy and regulation
+An influential U.S. business group will ask the European Union to  new environmental, social and governance mandates for companies, calling them a drag on trade. (Bloomberg)
+“ in bid to ‘mend fences.’” (Politico)
+Best of the rest
+Some investors who got in early on Trump’s memecoin , while others saw big losses. (NYT)
+“. A Look at 13 Million Jobs” (WSJ)
+We’d like your feedback! Please email thoughts and suggestions to .
+PHOTO: President Trump has ramped up the tariff war. This time, the markets reaction has been muted. (PHOTOGRAPH BY Pete Marovich for The New York Times FOR THE NEW YORK TIMES)
+
+Load-Date: February 10, 2025
+
+
+End of Document

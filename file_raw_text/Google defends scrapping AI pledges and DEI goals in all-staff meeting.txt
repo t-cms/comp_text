@@ -1,0 +1,42 @@
+
+
+
+
+
+The Guardian (London)
+February 12, 2025 Wednesday 6:49 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: US NEWS; Version:3
+Length: 1119 words
+Byline: Johana Bhuiyan
+Highlight: Exclusive: Google executives gave employees details on dropping the company’s promise against weaponized AI and nixing diversity goals
+Body
+
+
+  ’s executives gave details on Wednesday on how the tech giant will sunset its diversity initiatives and defended dropping its pledge against building   for weaponry and surveillance in an all-staff meeting.
+Melonie Parker, Google’s former head of diversity, said the company was doing away with its diversity and inclusion employee training programs and “updating” broader training programs that have “DEI content”. It was the first time company executives have addressed the whole staff since Google announced it would no longer follow hiring goals for diversity and took down its pledge not to build militarized AI. The chief legal officer, Kent Walker, said a lot had changed since Google first introduced its AI principles in 2018, which explicitly stated Google would not build AI for harmful purposes. He said it would be “good for society” for the company to be part of evolving geopolitical discussions in response to a question about why the company removed prohibitions against building AI for weapons and surveillance.
+Parker said that, as a federal contractor, the company has been reviewing all of its programs and initiatives in response to   ’s executive orders that direct federal agencies and contractors to dismantle DEI work. Parker’s role has also been changed from chief diversity officer to the vice-president of Googler Engagement.
+“What’s not changing is we’ve always hired the best person for the job,” she said, according to a recording of the meeting the Guardian reviewed.
+Google’s chief executive, Sundar Pichai, said the company had always “deeply cared” about hiring a workforce that represents the diversity of its global users but that the firm had to comply with the rules and regulations of where it operates.
+“Our values are enduring, but we have to comply with legal directions depending on how they evolve,” Pichai said.
+Pichai, who was speaking from Paris while attending an international AI summit, and other executives were responding to questions employees posted in an internal forum. Some of these questions were part of a coordinated effort among worker activist groups such as No Tech for Apartheid to force company executives to answer for the tech giant’s drastic move away from its previous core values.
+Employees had submitted 93 questions about the company’s decision to remove its pledge not to build AI weapons and more than 100 about Google’s announcement that it was rolling back DEI pledges, according to screenshots the Guardian reviewed. The company recently shifted to using AI to summarize similar questions employees had ahead of regularly scheduled staff meetings, which are known as TGIF.
+Last week, Google joined Meta and Amazon in shifting away from an emphasis on a culture of inclusivity in favor of policies molded in the image of the Trump administration. In addition to removing mentions of its commitment to diversity, equity and inclusion (DEI) from filings with the US Securities and Exchange Commission, the company said it would no longer set hiring targets for people from underrepresented backgrounds. The company also removed language from its publicly posted AI principles that stated it wouldn’t build AI for harmful purposes including weaponry and surveillance.
+“We are increasingly being asked to have a seat at the table in some important conversations, and I think it’s good for society that Google has a role in those conversations in areas where we do specialize – cybersecurity, or some of the work around biology, and many more,” Walker, the chief legal officer, said. “While it may be that some of the strict prohibitions that were in [the first version] of the AI principles don’t jive well with those more nuanced conversations we’re having now, it remains the case that our north star through all of this is that the benefits substantially outweigh the risks.”
+Google has long attempted to give the impression that it was toeing the line between its stated corporate and cultural values and chasing government and defense contracts. After employee protests in 2018, the company withdrew from the US Defense Department’s Project Maven – which used AI to analyze drone footage – and released its AI principles and values, which promised not to build AI for weapons or surveillance.
+In the years since, however, the company has started working with the   after securing a $9bn Joint Warfighting Cloud Capability   along with Microsoft, Amazon and Oracle. Google has also had active contracts to   AI to the Israel Defense Forces. The tech giant had   to distance the contract, called Project Nimbus, from the military arm of the Israeli government, but the Washington Post revealed documents that showed the company not only worked with the IDF but rushed to fulfill new requests for more AI access after the 7 October attacks. It is unclear how the IDF is using Google’s AI capabilities but, as the Guardian reported, the Israeli military . 
+In a statement a Google spokesperson, Anna Kowalczyk, said the company’s work with the Israeli government was not “directed at highly sensitive, classified, or military workloads relevant to weapons or intelligence services”.
+  at No Tech for Apartheid said the DEI and AI announcements were deeply related. The “SVP of People Operations Fiona Cicconi communicated internally that the move to dismantle DEI programs was made to insulate government contracts from ‘risk’,” the group   in a worker call to action published on Tuesday. “It is important to note that the bulk of government spending on technology services is spent through the military.”
+For each category of question from employees, Google’s internal AI summarizes all the queries into a single query. The AI distilled the questions about the development of AI weapons to: “We recently removed a section from our AI principles page that pledged to avoid using the technology in potentially harmful applications, such as weapons and surveillance. Why did we remove this section?”
+While the company does not make all of the questions that were posted visible, the list gives a snapshot of some of them. Questions that employees asked included how the updated AI principles would ensure the company’s tools “are not misused for harmful purposes” and asked executives to “please talk frankly and without corp speak and legalese”.
+The third-most-popular question employees asked was why the AI summaries were so bad. 
+“The AI summaries of questions on Ask are terrible. Can we go back to answering the questions people actually asked?” it read.
+
+Load-Date: February 12, 2025
+
+
+End of Document

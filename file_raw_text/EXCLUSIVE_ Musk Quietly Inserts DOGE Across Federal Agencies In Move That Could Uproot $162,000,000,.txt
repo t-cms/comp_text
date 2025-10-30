@@ -1,0 +1,64 @@
+
+
+
+
+
+The Daily Caller
+February 10, 2025 Monday 11:01 PM EST
+
+
+Copyright 2025 The Daily Caller, Inc. All Rights Reserved
+Section: DAILY-CALLER-NEWS-FOUNDATION; us
+Length: 1379 words
+Byline: Emily Kopp, Contributor, 
+Body
+
+
+
+As federal employees launched protests of entrepreneur Elon Musk's disruption of federal agencies last week, the Office of Personnel Management quietly released a memo shoring up the formal structure of the Department of Government Efficiency (DOGE).
+An  seeks the redesignation of chief information officers across the government from career positions to political appointees. OPM has recommended that every agency send a request to OPM to reclassify its CIO role from career reserved to “general” by Feb. 14.
+The new CIO positions will be working with DOGE, a source familiar confirmed to The Daily Caller News Foundation.
+The new memo gives the greatest detail about how DOGE will operate within the federal government since a . Yet it has been entirely overlooked by the legacy press, which has relied largely on career officials within the government who characterize DOGE's actions as extra-governmental. Democrats like New York Rep. Alexandria Ocasio-Cortez have sought to portray the effort as a 
+However, the memo shows that DOGE is attempting to regularize its operations within the federal government.
+“It is a focus of President Trump's administration to improve the government's digital policy to make government more responsive, transparent, efficient, and accessible to the public, and to make using and understanding government programs easier,” the memo reads.
+Unlike most major institutions, the federal government has no central IT department. Instead, IT responsibilities are dispersed across federal agencies which in turn spend billions on contractors and disparate artificial intelligence technologies. Musk's housecleaning could reshape this . 
+DOGE is the renamed U.S. Digital Service. The U.S. Digital Service is a small office within the White House created to build the health care exchanges under the Affordable Care Act and advises on technical strategy. How the DOGE office in the Eisenhower Executive Office Building will liaison with CIOs throughout the government is not yet clear.
+A  revealed Monday that Edward Coristine, the 19-year-old DOGE team member known online as “Big Balls,” has been stationed at the State Department's Bureau of Diplomatic Technology. The Bureau of Diplomatic Technology provides .
+The memo states that the new DOGE-aligned CIOs will take on a major role in public policy on technology.
+The memo gives some insight into what they will prioritize, like improving government procurement policies and privacy, and deprioritize, namely diversity, equity and inclusion (DEI) initiatives.
+“Poor technology-procurement policies can endanger property and privacy rights. Inadequate security policies can lead to vulnerabilities and hacks,” it states. “Emphasis on policies like [Diversity, Equity, Inclusion, and Accessibility] siphons labor and resources from other core government objectives.”
+The Biden administration helped lay the groundwork for the change. Two earlier OPM memos cited in the Feb. 4 memo broadened the authority of government appointees to look outside of government for highly technical roles, including one released in the final months of the last administration.
+A  under the first Trump administration noted “severe shortages of candidates and/or critical hiring needs” for STEM and cybersecurity. A  released under the Biden administration noted that “severe shortage of talent” in cybersecurity and other high-tech sectors persisted.
+The new memo states that moving certain CIO positions away from career positions could help to alleviate it by dramatically increasing the number of candidates available to fill these important roles.
+The move is in keeping with public statements about DOGE made by Musk and former DOGE co-lead and potential Ohio gubernatorial hopeful Vivek Ramaswamy about improving the federal government's tech infrastructure, including examining the vendors the U.S. government works with and the fact that these systems don't communicate across agencies.
+Musk's biography on his website X reads “White House Tech support.”
+“My preferred title in the new administration is Volunteer IT Consultant,” Musk wrote on X on . “We can't make government efficient & fix the deficit if the computers don't work.”
+ Yeah, it's crazy.
+ My rough guess is that there are tens of millions of media & software subscriptions that are unnecessary in the government. 
+ - Elon Musk (@elonmusk) 
+ “The federal government is the world's largest IT customer... In theory, this *should* give us great buying power to negotiate good deals for taxpayers, but of course that's not what happens,” Ramaswamy said on Dec. 5. “If the federal government were serious about reducing costs, it would procure government-wide licenses.”
+ The federal government is the world's largest IT customer, spending ~$2TN since 1994. In theory, this *should* give us great buying power to negotiate good deals for taxpayers, but of course that's not what happens: in 2021, the US Department of Agriculture agreed to pay $170...
+ - Vivek Ramaswamy (@VivekGRamaswamy) 
+ Despite the intense focus on DOGE, there has been little discussion of the federal government's existing methods for managing data and records.
+The top five contractors on IT together took in $45 billion in 2024, according to , a trade publication that uses federal procurement data, USASpending.gov and company Security and Exchange Commission filings.
+ The government is actually massively overpaying for software that doesn't work
+ - Elon Musk (@elonmusk) 
+Musk's SpaceX was the  in government technology at approximately $1 billion. That represents about one third of Musk's  in contracts with the U.S. government. Musk's contracts in IT  the delivery of Starlink satellite internet units and services to national and state parks and the State Department, and the  of a satellite network called Starshield to the U.S. Space Force.
+While Musk's potential conflicts have been in the spotlight, all of the top five current contractors on government IT have either a former government official or member of Congress on their boards of directors, and sometimes multiple government officials. They include a , a former , , a former , and a former chair of the .
+In addition, all of these companies use various artificial intelligence technologies across all of their federal contracts, many of them non-open source.
+Musk and DOGE were dealt a setback on Saturday when District Judge Paul Engelmayer ordered a temporary , citing cybersecurity concerns. The suit was filed by New York Attorney General Letitia James and 18 other state attorneys general.
+A Washington Post story  that Booz Allen Hamilton had described the DOGE team's access to Treasury data - reportedly “read only” access that doesn't allow for data manipulation - as “the  the Bureau of Fiscal Services has ever faced.”
+The company put out a statement hours after the assessment became public.
+“Booz Allen did not conduct a threat assessment or make recommendations regarding DOGE,” . “Commentary provided in a draft document by a subcontractor contained unsubstantiated personal opinions. ... Booz Allen has terminated the subcontractor.”
+Booz Allen Hamilton is the government's fourth largest contractor on IT issues, .
+All content created by the Daily Caller News Foundation, an independent and nonpartisan newswire service, is available without charge to any legitimate news publisher that can provide a large audience. All republished articles must include our logo, our reporter's byline and their DCNF affiliation. For any questions about our guidelines or partnering with us, please contact .
+
+Graphic
+
+ 
+Tesla and SpaceX CEO Elon Musk attends the inauguration ceremony where Donald Trump will sworn in as the 47th US President in the US Capitol Rotunda in Washington, DC, on January 20, 2025. (Photo by KENNY HOLSTON via Getty Images)
+
+Load-Date: February 27, 2025
+
+
+End of Document

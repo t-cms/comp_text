@@ -1,0 +1,65 @@
+
+
+
+
+
+CNN Wire
+February 15, 2025 Saturday 00:45Invalid date found for VDI: L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtNzVlZjNhdDAwN2kyNm5yaGI1bDdlbHo XCEDOCID: 2 LNI: 6F4D-N2N3-RW2X-W0XR-00000-00. Date output 'as-is'.GMT
+
+
+Copyright 2025 Cable News Network All Rights Reserved
+Length: 1468 words
+Byline: By Priscilla Alvarez and Gabe Cohen, CNN
+Dateline: (CNN) 
+Body
+
+
+             (CNN) - One week into the Trump administration, Homeland Security Secretary Kristi Noem issued a directive that the Federal Emergency Management Agency should stop sending money to non-governmental organizations that she characterized as helping "illegal aliens."
+But the memo didn't address money that flowed to state and local governments, fueling confusion at the agency charged with administering federal payments related to migrant housing. FEMA personnel were directed to continue sending those payments.
+This week, four FEMA employees, including its chief financial officer, were fired and accused by the Department of Homeland Security of circumventing leadership. And more than $80 million in federal grant money to New York City to help shelter migrants was clawed back.
+The internal back and forth that led to the firings, details of which have not been previously reported, reflects the turmoil at FEMA, as well as a level of tension that has developed between career officials at the agency and top political appointees at DHS.
+A Homeland Security spokesperson maintained that while payments to state and local government funding were permitted, the money shouldn't be going to non-governmental organizations providing services to migrants and argued the fired officials deceived higher ups. The program in question is  to assist those providing shelter and aid to migrants.
+FEMA officials who spoke with CNN said that guidance wasn't clear and that the lump sum went directly to the New York City government.
+The firings of the four FEMA staff members - in particular, Chief Financial Officer Mary Comans - have shaken agency personnel, from senior officials to rank-and-file workers. FEMA sources describe Comans, a longtime civil servant who worked for administrations of both parties, as a "trusted" and "well-respected" public servant. One FEMA official described Comans as a "scapegoat."
+The Trump administration and Elon Musk's Department of Government Efficiency have been fixated on reforming or eliminating FEMA, arguing that it's ineffective and inefficient. DOGE personnel have been inside FEMA offices, meeting with agency staff and reviewing FEMA files, according to multiple sources.
+"It's nerve-wracking. They're not looking for context. They're not interested in anyone explaining to them how this works," another FEMA official told CNN.
+Confusion over sending money to New York
+The payments in question stemmed from the Shelter and Services Program, an existing program administered by FEMA, in partnership with US Customs and Border Protection, to aid cities sheltering migrants. It was the target of Republican attacks during the 2024 presidential campaign and drew the ire of Musk.
+On January 28, Noem directed agencies to halt grants that go to NGOs and are related "in any way on immigration." In the , Noem specified that any component that makes an exception must obtain written consent of the general counsel or his delegee.
+The hold applied to the Shelter and Services Program. In fiscal year 2024, Congress appropriated $650 million for the program, .
+Two days later, acting DHS General Counsel Joseph Mazzara told DHS officials that money for state and local governments "should keep flowing" in response to queries about whether that kind of grant funding could proceed, according to an email obtained by CNN.
+A description of the program provided in the email to Mazzara notes that it awards grant funding to state and local governments, as well as NGOs, to provide shelter and aid to migrants.
+"Everyone at FEMA thought it was put to rest," one source familiar with the matter said.
+But some questions remained.
+In a February 4 email reviewed by CNN, Ryan Corle, a Homeland Security official, asked Mazzara whether the funding pause applied "only to NGOs, and then only to programs related in some way to immigration," acknowledging that the question had continued to come up.
+"Should this be the general answer-that the pause does not apply to financial assistance to States and local governments-or would you like to look at the programs individually?" Corle wrote.
+"That is correct. No state and locals. Just NGOs. If the programs go to both, the NGO funds will be paused/repaired when further guidance goes out this morning," Mazzara responded.
+Confusion had already run rampant within the agency, according to multiple sources, prompting additional attempts to clarify what parts of the program were frozen. Multiple sources told CNN that FEMA officials asked for confirmation from DHS numerous times prior to sending funds to New York City.
+In response to questions from CNN, DHS spokeswoman Tricia McLaughlin accused the FEMA officials of deceit, arguing that they did not disclose that the funds would ultimately trickle down to an organization assisting migrants.
+"The February 4 email by the Acting General Counsel explicitly notes that funding must be paused if the funds were to go to NGOs. And even the first email did not raise the issue of funding that went through state and local governments to NGOs," McLaughlin said in a statement.
+New York City has used funds to pay for the Roosevelt Hotel in Manhattan, which became the city's intake center for migrants, and sought reimbursements from the federal government. It has paid NYC Health + Hospitals as a contractor to provide services to migrants.
+DHS officials argue the hotel has connections to the notorious Tren de Aragua gang.
+"The FEMA employees had far more knowledge on this matter than the Acting General Counsel, and they should have provided all the information if they wanted to seek his advice," McLaughlin added.
+DOGE comes to FEMA
+On February 6, DOGE officials met with FEMA officials to discuss federal funds, including the Shelter and Services Program. One source familiar with that meeting told CNN that DOGE personnel similarly confirmed in that meeting that funds to state and local governments should proceed.
+DOGE, at that point, had read-only access to FEMA systems. Over the weekend, though, DOGE officials at the Treasury Department spotted the FEMA payments, according to two sources.
+Along with trillions of dollars in other federal payments, FEMA money is distributed through Treasury's ultra-sensitive payment processing system, which itself has been the subject of  during the first few weeks of the Trump administration
+The DOGE personnel at Treasury flagged the payments as problematic, prompting a flurry of activity within the administration.
+Musk  early Monday of violating the law by sending federal funds to New York and said his DOGE team would demand the money back.
+The funds, totaling $80 million, were recouped by Monday evening.
+"Legal counsel and DOGE worked closely with the US Treasury and the DHS procurement office to ensure these funds were clawed back in full," McLaughlin said in a statement.
+Less than 24 hours later, Comans, FEMA's CFO, along with two program analysts and a grant specialist were fired.
+FEMA in paralysis
+The events that unfolded this week have paralyzed the agency, which is bracing for more changes and grappling with mixed guidance as courts weigh in on the funding freezes, sources tell CNN.
+"It doesn't take a genius to figure out that [Trump] wants us to not process grant payments, and the way to do it is to terrify us all into thinking that we will get fired if we do our basic job functions," one FEMA employee told CNN. "We're all just kind of frozen."
+In a recent court filing, acting FEMA Administrator Cameron Hamilton said the agency paused funding for the Shelter and Services Program over concerns about where the money was going.
+"In addition, FEMA is in the process of requesting information from New York City to further investigate this matter to ensure that federal funds are not being used for illegal activities. The Department paused funding quickly in this matter to protect that funding from the potential for its misuse for the illegal activity described above," he .
+While most FEMA grant payments are still going out the door, agency personnel are increasingly concerned that the Trump administration could come after them for funding programs peripherally connected to initiatives Trump has spoken out against, like DEI.
+"We have not been given a lot of guidance in terms of what is acceptable and what is not," a senior FEMA official told CNN. "What if they go after something that's climate change related, or what if it's equity related? Am I going to be fired tomorrow for issuing a grant to a disadvantaged community?"         
+             By Priscilla Alvarez and Gabe Cohen, CNN         
+TM & © 2025 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+
+Load-Date: February 14, 2025
+
+
+End of Document

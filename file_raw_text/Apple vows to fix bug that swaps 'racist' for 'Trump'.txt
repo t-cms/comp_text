@@ -1,0 +1,34 @@
+
+
+
+
+
+Financial Times (London, England)
+February 27, 2025 Thursday
+Edition 1, European Edition
+
+
+Copyright 2025 The Financial Times Limited All Rights Reserved
+
+
+Section: BUSINESS; Pg. 5
+Length: 366 words
+Byline: MICHAEL ACTON
+Body
+
+
+Apple has promised to fix quickly a bug in its voice-to-text function that briefly swapped words with an "r" consonant - including "racist" - for "Trump". The phenomenon, which went viral in a video on TikTok and was quickly seized on by rightwing commentators, comes as the $3.7tn company seeks to shore up its relationship with Donald Trump's administration.
+"We are aware of an issue with the speech recognition model that powers dictation and we are rolling out a fix today," Apple said.
+The company said the bug was caused by its speech recognition models displaying words that have some level of "phonetic overlap": in this case, suggesting the word "Trump" when users dictate words with an "r" consonant.
+Social media users posted videos replicating the glitch, with far-right commentator Alex Jones accusing the company of "subliminal programming".
+A video showing the bug had amassed hundreds of thousands of likes on Tik- Tok. Tests by the Financial Times showed the "Trump" suggestion appearing on words other than "racist". The glitch came a day after Apple committed to spending $500bn in the US over the next four years, a move widely seen as an overture to the Trump administration. Apple is particularly exposed to trade tensions with China, and sees an opportunity in Trump's hostility towards EU tech regulators seeking to levy fines against Big Tech over alleged abuses of market power.
+Chief executive Tim Cook has spent years courting Trump and featured prominently with other Silicon Valley leaders at his inauguration.
+The controversy over the voice-totext feature came as shareholders voted on Tuesday to reject a proposal from a conservative non-profit organisation seeking to roll back its diversity, equity and inclusion policies.
+Apple has been a rare holdout among Big Tech companies in refusing to cede to conservative pressure over the policies. Cook said while the company "may need to make some changes" to comply with the shifting legalities around DEI, Apple was committed to its policies.
+Trump responded with a post on his Truth Social site yesterday saying: "Apple should get rid of DEI rules, not just make adjustments to them."
+Silicon Valley staff stay quiet page 7
+
+Load-Date: February 26, 2025
+
+
+End of Document

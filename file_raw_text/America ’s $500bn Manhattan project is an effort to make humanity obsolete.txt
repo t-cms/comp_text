@@ -1,0 +1,53 @@
+
+
+
+
+
+telegraph.co.uk
+January 23, 2025 Thursday 7:00 AM GMT
+
+
+Copyright 2025 Telegraph Media Group Holdings Limited All Rights Reserved
+
+
+Section: BUSINESS; Version:3
+Length: 1235 words
+Byline: By Sam Ashworth-Hayes
+Highlight: Tech giants are pouring capital into creating artificial minds on a staggering scale
+Body
+
+
+The most consequential action of Donald Trump’s second term so far has not been gutting DEI initiatives, ending birthright citizenship or withdrawing from the Paris Climate Agreement (again). It has been announcing the countdown to human obsolescence.
+ChatGPT creator OpenAI, cloud computing company Oracle, UAE state investment vehicle MGX and Japanese investment firm SoftBank are embarking on  : a $500bn (£400bn) investment in artificial intelligence (AI) infrastructure across the United States over the next four years, beginning with initial work in Texas and a $100bn imminent budget.
+Elon Musk has queried whether the funds actually exist, and others have pointed out that this may be less a new announcement than a rebranding of previous projects. But the direction of travel is overwhelmingly clear: whether or not Stargate is everything its stakeholders sell it as, the Manhattan Project of AI is beginning.
+Tech giants around the world are pouring capital into projects to build and run artificial minds on a staggering scale; even the $500bn headline figure for Stargate would be just   invested in the US over the next five years. And these firms expect spectacular results to match these spectacular figures.
+OpenAI’s Sam Altman has already said that he expects autonomous AI systems known as   and materially change the output of companies” this year, with research attention now shifting to the creation of artificial “superintelligence”; machines that can out-think and out-reason their human creators.
+Dario Amodei, of Anthropic, meanwhile, is “more confident than I have ever been at any previous time that we are very close to powerful capabilities”.
+While it’s hard to sift fundraising hype and sober commentary from the outside, it’s worth at least thinking about what the world might be like if they turn out to be right.
+Early progress in AI was dictated by scaling up the size of models, with larger models trained on larger datasets producing better results. As the scope to grow in this dimension diminished – in the words of Ilya Sutskever, the OpenAI co-founder, “there’s only one internet” to scrape for data – attention has shifted to other axes.
+Jensen Huang, the Nvidia founder, has pointed to scaling post-training – providing feedback to systems in order to improve their performance – and “test-time” compute, where models “think” for longer before producing a result, as providing new avenues for scale to increase performance.
+If we turn out to be at the lower end of new scaling paradigms today, then we could have some big improvements in front of us.
+As the researcher Leopold Aschenbrenner has put it, when scaling laws hold, believing in continued development of capabilities doesn’t require believing in science fiction, but “straight lines on a graph”. Where might these lines take us?
+We can draw out three potential endings for Stargate, if it happens, or its domestic rivals, or whatever the Chinese alternative calls itself.
+In the first, we only get a short period of improvement. After a time, performance plateaus, and we don’t find a new way to scale. We end up with better-than-current models, below human capability, available on demand, cheap and at scale. This scenario resembles the world we already live in: the present is already a strange future.
+Over the last decade, AI capabilities have developed in leaps and bounds. Adoption and adaptation have lagged behind.
+Some of the reasons for lag are institutional, such as .  Others are simply the result of needing time and experience with systems to adapt them to the tasks of an organisation, and in turn to adapt an organisation to the tools now available to it.
+The “no scaling” scenario in 2030 looks similar. AI capabilities are “spiky”, with systems that are extremely strong in some domains being practically idiotic in others. The early indications are that some substitution will occur with the systems we have now: we can already give certain tasks to machines to handle, with a human in the loop correcting errors and directing systems, while leaving more advanced tasks to more capable people.
+This process resembles the 19th and 20th-century substitution of capital for physical tasks, and the later offshoring of service industry jobs. Workers are displaced and flow to different fields – in this case, likely physical tasks where robotics has yet to catch up to progress in artificial thought – while wages rise for workers with skills that AI systems struggle to replicate.
+Installing air conditioning or planting gardens may prove more lucrative than designing websites. The price of housing and land is more ambiguous; it may fall in cities as tasks are dispersed, or rise as human contact and tacit knowledge become more important.
+The scale of investment in power infrastructure required to power the new artificial workforce is colossal. Even today, Georgia Power alone is expecting   by 2029, a sum equivalent to roughly 29pc of all installed UK electricity capacity.
+While on the high side by design, this forecast has risen by about 10pc of the UK’s current grid over the last year alone. We will spend huge sums building out power systems in the transition to the new economy.
+As people get used to working with AI systems, corporate and government structures change.
+We’ve built our organisations around the assumptions that humans of a given level of capability will perform tasks, following rules, applying a limited degree of discretion and working set hours. Structures optimised for AI systems that can work in parallel around the clock with minimal supervision and flexibly adapt to new flows of tasks are likely to look different.
+Depending on who controls the infrastructure and the ability of open-source models to compete, power may become more centralised in large companies and state bodies. New forms of surveillance, more extensive and more intrusive than previously possible, will be opened up.
+If AI continues to make rapid progress, the world continues to get weirder. Previous episodes of technological displacement have left a role for human intellectual effort. Systems that outperform humans across the board will be limited in their ability to replace us by cost, by resource constraints and comparative advantage, and by human preferences for interacting with other people.
+What matters in this timeline is less “what are AI systems relatively good at”, and more “are they aligned to our interests”. If it all works out, we’ll be rich. If it doesn’t, we could end up anywhere on the scale between “dystopian science fiction” and “dead”.
+This question remains totally open: even within the United States, Republicans and Democrats have highly contested notions on what a well-behaved system should do, say and believe.
+Between the US and China, there is less agreement still. And hoping that projects fail – Stargate and its competitors – seems like a less than ideal path.
+We need a plan for coping with wildly swinging factor prices, job destruction and social change in the best-case scenarios, and ways to make sure we don’t accidentally end up building systems with the capacity to cause massive harm in the worst.
+The best time to think about this was a few years ago. The second best time is now.
+
+Load-Date: January 23, 2025
+
+
+End of Document

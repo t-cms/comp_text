@@ -1,0 +1,126 @@
+
+
+
+
+
+CNN News Central
+February 26, 2025 Wednesday 02:30 PM EST
+
+
+Copyright 2025 Cable News Network, Inc. All Rights Reserved 
+Section: NEWS; International
+Length: 2529 words
+Byline: Boris Sanchez, Jessica Dean, Joan Biskupic, Zachary Cohen
+Guests: Kevin Baron, Jonathan Kamens
+Highlight: Earlier today, crowds gather in Israel as the bodies of Kfir, Airel and Shiri Bibas were laid to rest, and the winding funeral procession went from central Israel to their final resting place near Kibbutz Nir Oz from where they were taken. Kevin Baron, a fired cybersecurity official for the Department of Veterans Affairs, is sounding the alarm and talking about why he believes DOGE has put the sensitive information of millions of veterans at risk. An Ohio woman who lost a reverse discrimination case against her boss after arguing her gay boss declined to promote her because she is straight, may find the U.S. Supreme Court on her side after it heard her appeal today. Over 100 intelligence officers will be fired at the National Security Agency, and the new director, Tulsi Gabbard, demanded the terminations, saying the officers took part in sexually explicit chats on a work platform.
+Body
+
+
+[14:30:00]
+BORIS SANCHEZ, CNN HOST: -- by these developments? Does it sway people toward Netanyahu or more towards some sort of deal?
+KEVIN BARON, NATIONAL SECURITY ANALYST: I mean, I would imagine people are pretty entrenched. And we saw even the families wanting to keep government officials away from the funeral.
+You know, a lot of these protests, they have -- from day one, have been aimed at Netanyahu for failing to secure them in the first place.
+You know, forget about what's happened since in Israels, you know, unbelievable response to into Gaza. So again, I think you're seeing lots of entrenchment.
+But you also hear from people out there that people are exhausted. It's been a long conflict. There have been young people that have grown up in it now. And so any glimmer of hope for the future, you know, should be welcome. It will depend on what side you ask for.
+And I would again assume the Palestinians are not looking for a giant statue of a gold Trump on their beachfront property in a land that they want to rebuild for themselves.
+SANCHEZ: Kevin Baron, appreciate the perspective. Thanks for joining us.
+BARON: Thanks.
+SANCHEZ: Still plenty more news to come on NEWS CENTRAL. Coming up, a fired cybersecurity official is sounding the alarm. Hear why he believes DOGE has put the sensitive information of millions of veterans at risk. We'll speak to him in just moments.
+(COMMERCIAL BREAK)
+[14:35:34]
+JESSICA DEAN, CNN HOST: A warning from a fired cybersecurity official for the Department of Veterans Affairs. He sounded the alarm, saying sensitive information on millions of veterans is now at risk.
+Joining us now is Jonathan Kamens. He was the cybersecurity lead for V.A.com. That's the online portal for the Department of Veterans Affairs.
+Thanks so much for being here with us.
+I know you oversaw the cybersecurity efforts for the V.A.'s benefit portal. You say you're now worried that this information is at risk. Why are you worried and what are you concerned is going to happen?
+JONATHAN KAMENS, CYBERSECURITY ANALYST FIRED FROM THE DEPARTMENT OF VETERAN AFFAIRS: Well, Jessica, thanks very much for having me on. I appreciate the opportunity.
+The reason I'm worried is because in the time that I was at V.A., what I saw was a bunch of dedicated employees trying to do their best to maintain va.gov and keep it online and secure. But they were overworked. There just weren't enough people to do all the work.
+And now with me being gone and other people being gone because DOGE has fired them or fired them by proxy through V.A., there's even fewer people to do the work.
+And it's inevitable, when you don't have enough people to maintain the cybersecurity of va.gov or any other Web site, it's going to deteriorate and eventually there's going to be an incident.
+DEAN: And what -- just to give people an example, what kind of information are we talking about and what -- what is like a an incident that you would be concerned could happen.
+KAMENS: Well, we're talking about peoples private medical records. We're talking about their therapy notes. We're talking about the conditions that they're being treated for. We're talking about the prescriptions they're taking. We're talking about diagnoses like addiction or PSTD.
+We're also talking about financial records, their bank account information, their Social Security numbers, their names, addresses, phone numbers, relatives.
+The most private information you can imagine about a person is collected by V.A. for the purpose of providing veterans with the benefits that they're entitled to.
+And if that information is not kept secure, then the veterans who belong -- that that information belongs to are put at risk.
+DEAN: And you were hired over a year ago by the U.S. Digital Service, where duties have now been integrated into DOGE. What was -- what is that experience like now as opposed to when -- when you started?
+KAMENS: Well, so let me say that I actually don't think that the U.S. Digital Service folks have successfully been integrated into DOGE. It's my impression that there are still two groups of people in that organization.
+There's the -- the USDS classic people that were there before the inauguration. And then there are the DOGE people that were kind of grafted onto the side of the organization.
+It wasn't really a good working relationship between the two. They didn't really integrate at all. They didn't really collaborate at all. And that's frankly, because I think the DOGE people and the USDS people are working at cross-purposes.
+The USDS people are trying to make services better for the American people and trying to make them more secure and more successful and more scalable. And the DOGE people, it seems to me, are trying to tear stuff down, fire people, eliminate services, get rid of things.
+And those are not the same. And there really isn't a lot of overlap or room for common ground there.
+DEAN: And listen, there are Americans out there who voted for Donald Trump to shrink the government. He was very clear about what he and Elon Musk wanted to do. And they -- they think the government is too bloated. What would you say to them.
+KAMENS: I would say that if the government has some waste that needs to be trimmed, which I don't dispute, this is definitely not the way to go about doing it.
+I mean, I can tell you that there is no way, in a matter of days or even weeks, that Elon Musk can go waltzing into V.A. or any other government agency and know with any degree of certainty or confidence where the waste and the fraud and the inefficiency and the bloat is. That's just simply impossible.
+I'm not saying there isn't room for improvement. I'm saying that the way DOGE is going about improving is not actually improving. It's actually making things less inefficient. It's actually taking away services that the American people rely on.
+I know that a lot of people voted for Trump, and a lot of those people are going to be hurt by what DOGE is doing.
+DEAN: And you're concerned that even if the V.A. wanted to replace you, that maybe they wouldn't be able to.
+KAMENS: Yes. I mean, I have a couple of thoughts behind that. First of all, Trump signed an executive order saying whenever any agency wants to hire one new person, they have to fire four people first.
+And as I said, that people that I work with were very dedicated, competent people, but they were overworked there. There was too much work to go around.
+So I don't think they can afford to fire four people just to hire someone to replace me. That's just not feasible.
+[14:40:00] And furthermore, I came into government from the private sector in order to be a public servant. Because that's how U.S. Digital Service does things. They hire people from the private sector.
+They ask them to give some number of years of their life to helping make government better. They ask them, frankly, to take a pay cut to do that. And people do that because they want to serve the public.
+But, I mean, I don't know about you but looking at what's going on in government right now, it seems very unlikely to me that anyone in the private sector is going to jump at the opportunity to go try to work for the U.S. Digital Service or any other public agency.
+It's too chaotic right now. It's too unstable right now. They don't know whether their job will last a week after they take it.
+So I just don't see there being the capacity for anyone to come on board to replace me.
+DEAN: All right. Jonathan Kamens, thank you for your perspective, for sharing your thoughts with us. We appreciate it.
+KAMENS: Thank you.
+DEAN: The Supreme Court appears poised to side with a straight woman who argues she was the victim of reverse discrimination. Her case and the precedent it could set, that's next.
+(COMMERCIAL BREAK)
+[14:45:18]
+SANCHEZ: An Ohio woman who lost a reverse discrimination case against her boss may find the U.S. Supreme Court on her side. The court has signaled it may agree with her after hearing her appeal today.
+She argues that her gay boss declined to promote her because she is straight. Such a decision could make it easier for some white and straight employees, or members of a majority group to win similar claims.
+CNN chief Supreme Court analyst, Joan Biskupic, joins us now.
+Joan, this case had to deal with a requirement on how plaintiffs prove discrimination. What exactly is up for debate?
+JOAN BISKUPIC, CNN CHIEF SUPREME COURT ANALYST: Sure. Now, this is at the initial stage of a lawsuit. But the important context here, which is what made this case so closely watched, is the fact that you have Donald Trump talking about anti-diversity anti-DEI measures.
+The Supreme Court itself, just two years ago, ruled against affirmative action in higher education. So, you know, there's a very racially charged atmosphere out there and questions about just what happens with anti-discrimination measures. I think the Supreme Court, mindful of all that context, really brought down the temperature. This was a very straightforward case in the end, as suggested by justices across the spectrum.
+They were deciding just a single question. And it's under, as you said, Title VII of the 1964 Civil Rights Act that prohibits job discrimination based on race, sex, sexual orientation.
+And the question was for the initial stage, the prima facie stage, you know, just what does a victim of discrimination have to show?
+And when Marlene Ames brought her case to court, the judges said, because you're the member -- a member of a majority group, you're heterosexual, you're not a gay person claiming discrimination here -- she was saying she was discriminated against, in fact, because she was straight -- you have to show some background circumstances.
+And the way the Sixth Circuit, which heard her case, said she could only win, she can only establish a prima facie case by showing background circumstances to support the suspicion that the defendant, her employer, is that unusual employer who discriminates against the majority.
+Now that's again just at this threshold stage. That's not even what the EEOC says. That's not what other circuit courts of appeals say. But there was a division out there, and the justices obviously took the case to clear up that initial threshold. But it comes against all this backdrop.
+And it was interesting, Boris, because not only did her lawyer and the governments lawyer representing kind of the EEOC position and even the state lawyer from Ohio that she originally sued, they all agreed that, no, there shouldn't be this kind of heightened more difficult additional factor coming in at this initial stage.
+And that prompted Justice Gorsuch at one point to say, "We're in radical agreement today."
+But let me just read you an exchange from Amy Coney Barrett with the state solicitor general from Ohio.
+She said, "So if we said it doesn't matter if someone was straight, she would have the exact same burden and be treated the exact same way under Title VII if she sued as someone who is gay and Arthur Tsui argued that they were discriminated against?"
+And the Ohio solicitor general agreed and said, "I think she would have the same burden."
+So, you know, again, this is about the initial stage. And I think what the justices are going to do is just iron out that confusion. Later on, in any kind of discrimination case, other context can come in about these kinds of issues.
+But at this stage, someone like Marlene Ames should be able to go forward with at least bringing the complaint. SANCHEZ: We'll see how it might impact other cases.
+BISKUPIC: Yes.
+SANCHEZ: Joan Biskupic, thank you so much.
+BISKUPIC: Thank you.
+[14:49:00]
+SANCHEZ: The nation's newly confirmed spy chief says that more than 100 U.S. intelligence officers have been caught exchanging sexually explicit messages at work. We have details right after this.
+(COMMERCIAL BREAK)
+DEAN: More than 100 intelligence officers will be fired at the National Security Agency. But it has nothing to do with DOGE or cutting costs.
+Newly confirmed director of National Intelligence, Tulsi Gabbard, demanded the terminations, saying the officers took part in sexually explicit chats on a work platform.
+Here's what she told FOX News.
+(BEGIN VIDEO CLIP)
+TULSI GABBARD, DIRECTOR OF NATIONAL INTELLIGENCE: They were brazen in using an NSA platform intended for professional use to -- to conduct this kind of really, really horrific behavior.
+(END VIDEO CLIP)
+DEAN: CNN's Zachary Cohen is joining us now.
+What on earth is going on here, Zach?
+ZACHARY COHEN, CNN NATIONAL SECURITY REPORTER: Yes, Jessica, it's important to note CNN has not independently verified or obtained these messages.
+But they apparently show that intelligence community employees were discussing and sending sexually explicit messages via this National Security Agency messaging board.
+And it was something that was first revealed by a conservative activist on X and quickly got the attention, obviously, of top members of the intelligence community.
+A spokesperson for the DNI, Tulsi Gabbard, said that these employees would be identified and fired.
+But we're also told by a senior administration official that rank-and- file employees in the intelligence community were going to Tulsi Gabbard directly and raising concerns about these messages. Now, Gabbard herself spoke a little bit about this during an interview last night.
+Take a listen to what she said when asked about these messages.
+(BEGIN VIDEO CLIP)
+GABBARD: There are over 100 people from across the intelligence community that contributed to and participated in this, what -- what is really just an egregious violation of trust, what to speak of, like basic rules and standards around professionalism.
+I have people within the intelligence community reaching out to me personally and directly saying, hey, you need to know about this. You need to look over here. People are stepping forward because they are all on board with the mission to clean house.
+(END VIDEO CLIP)
+[14:55:12]
+COHEN: So Gabbards comments came hours after the NSA said that it was aware of the post, and that they appeared to show inappropriate discussions by intelligence personnel and that investigations are underway.
+The agency said in a statement on X that "potential misuse of these platforms by a small group of individuals does not represent the community. Investigations to address this misuse of government systems are ongoing."
+So we're going to see how this plays out. But broadly speaking, this is more evidence of the role that conservative activists on X play in shaping policy within the Trump administration.
+Obviously, we've seen cabinet secretaries responding directly to posts on X. Pete Hegseth, the secretary of defense, has done that on repeated occasions. And of course, Elon Musk has tried to implement U.S. policy via the X platform as well.
+So we'll see what happens in this specific case. But obviously, more of the same as far as X in the Trump administration.
+DEAN: Yes, we're seeing more and more of that.
+All right, Zachary Cohen, thank you so much.
+And still to come, safety officials are now investigating after an American Airlines flight attempted to land at Reagan, suddenly pulled up and away from the runway to avoid a collision.
+Stay with us.
+(COMMERCIAL BREAK)
+
+Load-Date: February 27, 2025
+
+
+End of Document

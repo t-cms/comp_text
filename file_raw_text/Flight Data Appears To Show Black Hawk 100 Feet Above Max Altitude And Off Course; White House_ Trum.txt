@@ -1,0 +1,238 @@
+
+
+
+
+
+CNN CNN NEWSROOM 3:00 PM EST
+January 31, 2025 Friday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 6707 words
+Byline: Jim Sciutto, Richard Quest, Peter Goelz, Jeremy Diamond, Paula Newton, Oren Liebermann, Kayla Tausche, Nick Paton Walsh, Elizabeth Wagmeister
+Guests: Don Bacon
+Highlight: New analysis of the Black Hawk helicopter's flight tracking appears to show it was 100 feet above the maximum allowed altitude and deviated from the standard route, according to FlightRadar24. President Trump has said that he will go ahead and impose tariffs beginning tomorrow, 25 percent on Mexico and Canada; 10 percent on China beginning tomorrow. Israel says it has now received the names of three hostages Hamas is expected to release from Gaza on Saturday. The Pentagon is one of several government organizations investigating just how an Army Black Hawk helicopter collided with an American airlines passenger jet on approach to land.
+Body
+
+
+[15:00:36]
+JIM SCIUTTO, CNN HOST: I'm Jim Sciutto in Washington. Thanks so much for joining me today on CNN NEWSROOM. And let's get right to the news.
+New analysis of the Black Hawk helicopter's flight tracking appears to show it was 100 feet above the maximum allowed altitude and deviated from the standard route, according to FlightRadar24. It made two sharp turns instead of flying straight down the east side of the Potomac, as that route instructs it to.
+We should note the black box of the Black Hawk has not yet been recovered. It's expected to give more precise information about the chopper's flight path. The independent investigation by the national transportation safety board is in its early stages. We should note that throughout the Federal Aviation Administration has indefinitely closed helicopter routes near Reagan national airport, which are used by law enforcement, medevac, military and government helicopters.
+CNN has obtained new video. And it's sad to watch this for the moment, to see the helicopter from the left, the impact there with a bright flash with the American Airlines jet, and then the wreckage falling into the river below. Quite a moment to witness.
+Two Coast Guard cutters are at the site. They continue to be to recover the final 14 victims who have not yet been recovered yet. They are, we are told, stuck in a part of the wreckage still, inaccessible to divers.
+CNN's Richard Quest joins me now.
+And, Richard, it strikes me that the two new details we've learned in the last 24 to 48 hours is one, you had one air traffic controller tracking both the commercial aircraft in and out of Reagan and helicopter traffic. And now we're learning again, preliminary data that that helicopter appeared to be both at the wrong altitude, too high and out of the path that it was designated to fly along.
+What does that tell you?
+RICHARD QUEST, CNN BUSINESS EDITOR-AT-LARGE: It tells me that the first part, the air traffic controller, I mean, these things happen. It's not unusual if it's not a particularly busy day, that might be the norm at that time of the day, if they're short staffed. But of course, it all depends on everything going according to plan, which comes to your second point, the moment somebody deviates, the moment somebody does something unusual or there is a problem, then the workload for that first person becomes immeasurably greater.
+So, for instance, in this case, lets assume for the purposes, since the track does show the helicopter off beam and too high, then you know the air traffic controller who might have been doing more jobs than one, would not have seen it. He might not have seen it. He obviously didn't see it in time.
+The spaces we are talking about, Jim, and this is crucial to understand. It's not like everybody's 15 miles apart and you see this. You've got time to warn them about that. They are seconds apart.
+So an air traffic controller who is already stressed and arguably doing two jobs, might not have seen or heard an audible warning on the plane itself, the various avoidance equipment, the automatic avoidance equipment. They might not have heard it because of the various protocols. And one can I may I just update you with one thing we heard in the press conference, the news conference that's just taken place by the various emergency officials.
+They do say that they are more than likely going to have to wait until they can remove the fuselage from the water before they will be able to recover the remaining dozen or so bodies. Because of the reason you say they're in a part of the plane, it's extremely cold, dangerous, and difficult to do it. And the last thing anybody wants is more casualties as this continues.
+SCIUTTO: No question, they said there's some 500 people have been working that site, including dozens of divers, and in difficult conditions.
+Richard Quest, always good to have you.
+QUEST: Thank you, sir.
+SCIUTTO: So for more analysis on the investigation, I'm joined now by CNN aviation analyst Peter Goelz. He is a former National Transportation Safety Board director.
+Peter, good to have you.
+I'll ask you a similar question to that I asked of Richard. Those two data points there, one air traffic controller.
+[15:05:02]
+And our understanding is that at this airport, after 9:30 at night when traffic comes down, this was not unusual to have one air traffic controller monitoring both the chopper and the passenger aircraft traffic. This happened. This -- this change was made earlier. But we're also seeing now that the chopper was apparently out of its path. I have a basic question. Whose -- would it have been the air traffic controller's responsibility to keep that chopper on path, or the crews responsibility, or both?
+PETERR GOELZ, CNN AVIATION ANALYST: It is the primary responsibility of the flight crew to make sure their aircraft is in its proper position, at its proper speed, that they are monitoring it continuously, that is backed up by the air traffic controller.
+In this case, isn't the question how can you have a system that is predicated on a 100-foot difference, where hundreds of people could conceivably be killed? That's the issue. How did this system ever get put in place and allowed to remain there? As planes got bigger, as traffic increased, you're still sitting there with a with a helicopter corridor where a slight mistake of missing your altitude by 100 feet, could cause this kind of catastrophe. And that, I think, will be the second biggest issue that the NTSB will have to examine in the coming months.
+SCIUTTO: Yeah, the margins are thin. And I was thinking, and I listen, I've never been a helicopter pilot. I did, you know, work on my pilots license years ago, but -- but 100 feet of altitude, is not a lot, right? I mean, that's ten stories at those speeds.
+It strikes me. I wonder, in your experience, is that the kind of error a pilot can make? And maybe not notice? I mean, the thing is, it wasn't just altitude. It was also physical position. It was it was horizontally, if that's the correct word, right out of position as well out of its channel.
+But -- but are those as you investigate crashes, do you experience pilots mistakenly end up off course by those margins often, or is this a lot off course based on what we know?
+GOELZ: No, this is not a lot off course. I mean, this is a precision corridor in which I'm sure you're instructed and trained to pay attention to what you're doing. But this is this is not a significant error.
+Pilots make mistakes. Humans make mistakes.
+SCIUTTO: Yeah.
+GOELZ: But on this case, you have this conversion of the approach pattern with the conversion of the corridor and 100 feet of -- of miscalculation can cause this tragedy. It really has to be rethought.
+And one question I would also raise in addition to this is, is the purpose that was originally generated to create this corridor. Is it still legitimate?
+SCIUTTO: Yeah. Well --
+GOELZ: Does the military still need this corridor to ferry its people around or in today's technological, you know, marvelous world, aren't there other ways to do it? SCIUTTO: Yeah. I mean, they've suspended it for now that that corridor, as we understand it. Can they potentially eliminate it?
+You know, it's interesting. I remember in the wake of 9/11, there was talk for a time of closing Reagan national entirely. I'm sure you remember it because they were just concerned about the margins, right. If you were to say, have a hijacking. I mean, you know, it's a split second right from there to the White House or the Capitol. They didn't they put in other restrictions, safety measures, et cetera.
+I mean, can you envision a situation where you can put in sufficient safety measures here, maybe maintain that corridor in such a way that you -- you reduce the risk or and again, this is early, but from where you're sitting, are you thinking, hey, you just cant have that many helicopters flying back and forth within the flight path of a major and busy airport.
+GOELZ: It's a disaster waiting to happen. And it happened.
+I mean, I'd like to see the flight logs from the air wing for the last 60 days to see exactly what kind of flights utilize this corridor. And are they essential to national security? Are they essential to the smooth operations of -- of the -- of the military?
+[15:10:03]
+I'm not sure that we'll see all that criticality, criticality to the -- to these flights, I think I think you're going to see that that we can cut back on them in a -- in a good percentage.
+SCIUTTO: Yeah. As we reported, they've recovered both black boxes from the passenger plane. So both the flight voice recorder and flight data recorder, they haven't recovered the equivalent from the helicopter, but they are saying they're comfortable with knowing where it's at. Is -- how essential is that to -- I mean, is there going to be a lot more data in those boxes than we already know?
+GOELZ: No, I don't think there's going to be much data from the American Eagle plane. I think you will not have any kind of revealing data from the voice recorder. These guys were focused on their landing laser like. And were going to have a, you know, a shutdown, and it's going to be very tough.
+But on the -- in terms of the Black Hawk, we're not sure yet whether there's any voice recorder. I don't think there is. But if there was, that would be important because you'd be able to hear whether the whether the crew were focused on their work, why they were making the decisions that they're making.
+But I don't think you're going to get that. I don't think its going to be there. This is going to be an investigation into human factors. That's going to have some speculation.
+SCIUTTO: Yeah, yeah. Well, and we should grant that there's still a lot of unanswered questions here. It's quite early in understanding this. Peter Goelz, thanks so much, as always. GOELZ: Thank you.
+SCIUTTO: All right. Let's speak more about the crash. What we know. Also, the president's response with Congressman Don Bacon, Republican from Nebraska. We should note a former Air Force Pilot with thousands of hours in the cockpit. And he joins me now.
+Congressman, thanks so much for taking the time.
+REP. DON BACON (R-NE): Thank you. Jim. I was also an accident investigation board president for two fatal crashes and had to participate in two different investigations.
+So I know what folks are going through right now.
+SCIUTTO: Fair enough. Didn't mean to shorten your resume there, but I appreciate that that experience. So let's start with again. And you know, I'll always inject the proviso its early. We haven't seen all the data, but based on your experience both as a pilot and a crash investigator, those two data points that we have now, just one air traffic controller monitoring both the passenger traffic and the military and the helicopter traffic.
+And now, this idea that the helicopter was -- was out of position, right, flying too high and out of the -- out of the prescribed path. What does that tell you now in terms of how this came about?
+BACON: Most accidents that I've had to study, two of them as the president, but I've also had to look at a lot of other accidents. There's normally multiple factors involved. And, you know, I think you're right on two of these are big. One person in the tower, a hard, very hard for that person to control, fixed wing aircraft and helicopter aircraft by themselves.
+And then if the helicopter was too high or out of position, that's -- that's clearly another factor. I think a third one was the tower repeatedly asked the helicopter, do you see the traffic? The problem was there was three aircraft, you know, in the in the pattern, if you will, that was coming into Reagan National.
+And I think it's very believable that the helicopter crew probably identified the wrong. Aircraft, which means they didn't see the one they actually hit. So I think that that's going to be a likelihood when were done, because when the tower keeps saying, do you see the -- do you see the aircraft? And the helicopter pilot says, yes, but there's three of them and doesn't mean they saw the right one. So I think there could have been some confusion by the helicopter crew to.
+SCIUTTO: Wow, that would be that would be such a tragedy. As you know, they have now suspended that helicopter path. Do you think that there's just too much going on around the airport, and that this puts too much on both air traffic controllers and pilots to kind of keep track of all?
+I mean, you picture the pilot in the cockpit helicopter and thinks its seeing one passenger jet here. You know, if that's true. And actually there was another one.
+Is it too dangerous? Is this mix of flight paths too dangerous?
+BACON: Well, it is very congested airspace. And I got to tell you, as a congressman, I fly in and out of there typically twice a week. It's very convenient. So it's a -- it's a great airport for Washington, but, you know, there is a lot of military requirements to with the Pentagon there.
+We have Bolling Air Force Base, Andrews Air Force Base, Fort Myer, Fort McNair, and you got tons of three and four star generals. And these helicopters fly around senior officials. That's there -- that's the mission of that helicopter unit, but I do think that it should always do risk management. Is there a way that we could lower the risk around Reagan national?
+And that should be part of the review as an accident board president, I would review all of that. I mean, they're going to find one -- one person in the tower is a problem. The helicopter not being in the right spot, maybe the helicopter identified the wrong passenger jet to avoid. So there's confusion there.
+But if it's too congested, can they de-risk it to some degree? I think that should be part of the accident board review as well. And if they can find ways to lower the threat, lower the risk, that'd be a good thing.
+SCIUTTO: As you know, President Trump has more than once claimed, without presenting evidence that somehow DEI diversity initiatives were to blame for this. I wonder what your response is to that.
+BACON: We should wait until we get the facts. Now, when I do these investigations, I would look at the experience levels of the pilots, maybe look at the experience level of the air traffic controller. If you see an issue, you write it up. It's part of the part of the findings.
+But we should let the facts speak for themselves. And you got to build. You got to build all that. Right now were speculating. We have to look at this. Boards going to have to look at everything from scratch and build a case and let the facts dictate what they what they may. If they find out that maybe a helicopter crew was inexperienced or a pilot was the air traffic controller was. They'll put that in the report and we'll go from there.
+SCIUTTO: The thing is, the -- the president has posited that race or gender may he was asked race or gender. Are you saying race or gender is responsible? He said maybe. Is that something a president should be saying?
+BACON: Well, he's made a big focus on DEI. It wouldn't be something I would say I would -- I would as a guy that's been through this and also the families involved, you know, I can cant imagine what the 67 families are feeling right now. I just think of the terror of all those victims being a mile away from touchdown at Reagan national.
+I think it's best to stick with the facts and not and be very slow to point fingers right now. Let's get the facts first.
+SCIUTTO: I want to switch now to another topic. And that is trade. The president has said that he will go ahead and impose tariffs beginning tomorrow, 25 percent on Mexico and Canada. Of course, two of Americas largest trading partners, neighbors, allies, 10 percent on China beginning tomorrow. I should note I spoke to the Canadian foreign minister earlier this month.
+I asked how Canada would respond if Trump were to go ahead and impose these tariffs. I want to play her response and get your thoughts on the other side.
+(BEGIN VIDEO CLIP)
+MELANIE JOLY, CANADIAN MINISTER OF FOREIGN AFFAIRS: If Trump is going ahead with tariffs, he's starting a trade war. And, of course, we will retaliate. And you know what will happen for all those watching us right now, this will be a Trump tariff tax on Americans.
+(END VIDEO CLIP)
+SCIOUTTO: That the Canadian Foreign Minister Melanie Joly. Is she right?
+BACON: I think there's a lot of truth to that comment. First of all, we have a trade deal with Canada and Mexico, the USMCA. I think it's one of the crowning achievements of the Trump administration five years ago. And we should live by the trade deal. That's why -- that's why we made an agreement.
+I would point out Mexico has been violating USMCA. They've been blocking our corn exports into Mexico. I think there should be a penalty there, but we should be living by our trade agreements. We worked hard to find to get a better trade deal with Canada and Mexico, and I think that should be our focus.
+If we're going to do tariffs -- China, they do -- do illegal trade practices. They you know, they help subsidize many industries to help that undercut our -- our manufacturers. So I think that there should there should be a look at China at how to balance out the trade there, maybe Russia. Russia has been acting as an adversary and as a threat to us for, you know, since they invaded Ukraine and before.
+But Canada is our ally. Mexico has already mentioned they've been blocking our corn, so there should be some retribution there. But I think we should follow the trade agreements that we made under President Trump, which was a great success of his first administration.
+SCIUTTO: But as you often know, inside the Trump administration, there are often two camps on issues like this. Do you believe there's any way in your dealings with the White House or your Republican colleagues in the House and the Senate to get Trump to walk this back?
+BACON: One thing I found President Trump likes to use tariffs as a tool for negotiating better trade deals. So I my hope is it's more of a tool to open up more doors to our trade. But like I said with Canada, we already have a trade agreement. And it was a good trade agreement.
+And so it's hard for me to square that circle because we we've already negotiated a deal with them on this. And so there may be a chance I don't know. We'll see what the impacts are of over the next couple of weeks. And maybe it's a chance to maybe rethink where were at -- at that point.
+But again, Jim, I would suggest focusing on China and Russia. They are our adversaries and China does do illegal trade practices. And that's where I would put my emphasis.
+SCIUTTO: Long history of it, including stealing us trade secrets, right, and IP and so on.
+Congressman Don Bacon, always a pleasure to hear your views.
+BACON: Thank you.
+SCIUTTO: We will have much more on the crash investigation through the rest of the hour.
+But up next, the details of Hamas next hostage release happening tomorrow, which includes one Israeli-American.
+(COMMERCIAL BREAK)
+SCIUTTO: Israel says it has now received the names of three hostages Hamas is expected to release from Gaza on Saturday. All of them men. One of them an Israeli American.
+The family of Keith Siegel shared this emotional moment when they heard that he was on the list.
+So far, 10 Israeli and five Thai hostages have been released since the truce took effect on January 19th. Palestinians in Gaza are eagerly awaiting the reopening of the Rafah border crossing with Egypt for the first time in months. That is expected to happen tomorrow, allowing critical medical evacuations. You see the line of ambulances there from Gaza to resume.
+CNN's Jeremy Diamond has more from Jerusalem.
+(BEGIN VIDEOTAPE)
+JEREMY DIAMOND, CNN JERUSALEM CORRESPONDENT: Well, one of seven Americans still held hostage in Gaza is set to be released tomorrow.
+Keith Siegel, a 65-year-old who was taken hostage from his home in kibbutz Kfar Aza, will be released alongside two other Israeli hostages. His wife, Aviva Siegel, who was also taken captive on October 7th. She has relentlessly advocated for his release in both the United States and Israel since she was released in that November 2023 ceasefire deal. Ofer Kalderon is the second hostages set to be released. His two children had been held hostage in Gaza and were also released during that November 2023 hostage deal.
+And we are also expecting Yarden Bibas to be released. He is, of course, the father of the two youngest Israeli hostages being held captive in Gaza.
+[15:25:07]
+Kfir and Ariel were just nine months old and four years old when they were taken captive from kibbutz Nir Oz on October 7th, and truly became a symbol of the brutality of that day.
+Hamas claimed that they had been killed in an Israeli airstrike alongside their mother, Shiri Bibas, but the Israeli government has never actually confirmed their fate. The fact that Yarden Bibas is now expected to be released before them, raising serious concerns about their fate. This is a statement from the Bibas family saying our Yarden is supposed to return tomorrow and we are so excited, but Shiri and the children still haven't returned. We have such mixed emotions and we are facing extremely complex days.
+Important to note that last week admiral Daniel Hagari, the spokesman of the Israeli military, said that they were, quote, gravely concerned for the fate of Shiri, Kfir and Ariel. All eyes will also be on how this hostage release actually unfolds tomorrow. Following those chaotic scenes from that release of hostages on Thursday in the southern Gaza City of Khan Yunis. And now the fate of the Rafah crossing depends on that.
+An Israeli official telling us that the Rafah Crossing will only become fully operational as long as that chaotic hostage release we saw on Thursday does not unfold once again. If it does become fully operational, the World Health Organization says that 50 wounded patients from the Gaza Strip are set to be medically evacuated through that crossing. The first time that will happen since May of 2024 -- Jim.
+SCIUTTO: Jeremy Diamond reporting there. Well, tariffs on imports to the U.S. could be coming as soon as tomorrow. President Trump set to place a 25 percent tariff on Canadian and Mexican imports, 10 percent on Chinese goods. That is starting tomorrow, February 1st. Trump has tied the moves to concerns over fentanyl trafficking and trade deficits. He claims, while floating the possibility of additional tariffs on oil against Canada and Mexico.
+CNN's Paula Newton has been tracking exactly how all this has been playing out in Canada. She joins us now from Ottawa with the latest. As I noted earlier in the program, I've been told, as I'm sure you have, by Canadian officials for some time, that if Trump imposes these tariffs, Canada will retaliate. Do we know how and how are folks responding to Trumps threat?
+PAULA NEWTON, CNN CORRESPONDENT: Absolutely. And Americans should expect it. And they should expect that costs for their goods will go up.
+But I do want to make something clear, Jim, when we're talking about Mexico, Canada, the United States, there is already a free trade agreement negotiated by President Trump in his first term that is still intact. He is blowing that up. And what does that mean? It means he's basically wants to reset trading relationships all over the world when it comes to how the United States does business.
+So this is fair warning. So when I'm spelling out the American, Canada or Mexico model, everyone should take note. In terms of hitting back -- I mean, look, Jim, you were speaking to Canada's foreign minister the other week and she told you quite clearly, look, we might hit things like bourbon, okay? That's whatever. Jack Daniels, whatever brand.
+Canadian politicians have been very firm in saying we will do whatever we can. We have the premier of Ontario saying we'll clear the shelves of all U.S. alcohol.
+SCIUTTO: Wow.
+NEWTON: Having said that, though, this is still the beginning of a trade war and no one says this is going to be easy for Canada. Justin Trudeau himself saying, look, I don't want to say that this will not affect Canadians. Listen to him, though, about retaliation.
+(BEGIN VIDEO CLIP)
+JUSTIN TRUDEAU, CANADIAN PRIME MINISTER: If the president does choose to implement any tariffs against Canada, we're ready with a response -- a purposeful, forceful, forceful, but reasonable immediate response.
+(END VIDEO CLIP)
+NEWTON: Reasonable and immediate. You can take that as a direct translation, Jim, to go to Republican counties, places where are Trumps base. And Canada will try and hurt that first and foremost.
+Again, having a reasonable approach, because right now this is about negotiation. The United States has asked for action on the border. Canada says it has delivered how helicopters, drones of chemical sniffing dogs, more enforcement, more cooperation. Canada is calling for a North American strike force, they're calling it on the northern border.
+There is no indication, though, that this will be enough, and we await to hear the president's word in the next hour.
+SCIUTTO: Canada could hit the U.S. really hard on energy. Is that in the arsenal?
+NEWTON: Yeah, it is 100 percent. And I think there are very loud voices in Canada saying that this becomes more and more a possibility again, ratcheting up the pressure here.
+Jim, I travel a lot in the United States. As you know, I watch the price of gas very carefully.
+[15:30:02]
+And if you -- in some states try and push gas over, lets say three, three and a half, four, everybody's used to a different price because of the taxes in their state. If Canada decides that it is also going to include energy, even if Donald Trump says he's not, that will bring up prices at the pump. That will bring up inflation for all Americans across a wide range of goods. And believe me, that will be on the table, even if it's not the first piece of retaliation that's trotted out.
+SCIUTTO: They call it a trade war for a reason. Paula Newton, thanks so much.
+Just after the break, what were hearing from the Department of Defense as to its investigation into what led to the military helicopter colliding with a commercial jet, killing 67 people.
+(COMMERCIAL BREAK)
+[15:34:08]
+SCIUTTO: The Pentagon is one of several government organizations investigating just how an Army Black Hawk helicopter collided with an American airlines passenger jet on approach to land.
+CNN's Oren Liebermann is at the Pentagon. He's been reviewing flight data there gathered by the U.S. military.
+Oren. So tell us what that flight data is telling you and others there.
+OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT: I'll point out, Jim, this is publicly available flight data that we pulled from flight tracking websites. So the military certainly has access to this as well, but they'll have much more information from cockpit voice and data recorders. And that will fill in the partial picture that were able to see from the flight tracking websites. And that's ADS-B exchange and flightradar24.
+And that indicates that the helicopter, the Black Hawk helicopter. And you can see the end of the flight there in the yellow was higher than it should have been. It had been flying at 200 feet before it climbed to 300 feet above sea level, and that is above the maximum altitude for that helicopter route, known as route four.
+And then the flight data indicates that it may also have veered off course there, right at the tippy top of your screen, you can see that basically that right angle turn, and that when you compare the flight tracking data to the helicopter routes that show where it should have been, that is a turn that it appears the helicopter should not have made. Putting it closer to Reagan national airport than it should have been. It should have effectively continued nearly due south. Putting it along the eastern bank there of the Potomac River. So, all of this is something that investigators will look at. Now, of course, it is an incomplete picture. This is imperfect data. The key here, according to a spokesman for flightradar24, is getting the data and the voice recorders to get a better picture of exactly where the helicopter was. Was it too high? Was it out of position? And why did it intersect with the flight path of that American airlines flight as it came in on final approach?
+SCIUTTO: Is there any reason why a military helicopter flying that path, that channel down the Potomac, need to be up above the maximum altitude and make such a turn to be off course?
+LIEBERMANN: This is more of a of a speculation question, but there are reasons. For example, something as simple as a as perhaps a flock of birds. But given the restrictions on flying in this area, the maximum altitude is 200 feet. So you would have to request from air traffic control to grant you the authority to fly higher than that 200 foot maximum, and that, according to the air traffic control recordings we have listened to, was not done, meaning there was no clearance for the helicopter to be above the 200 foot ceiling for helicopters along route four.
+SCIUTTO: Yeah, goodness, what a tragedy.
+Oren Liebermann at the Pentagon, thanks so much.
+Well, a beloved biology professor, a pilot counting down to his fall wedding, a dedicated civil rights attorney. Those are some of the 67 people on board the flight from Wichita. And that Black Hawk helicopter all presumed dead after a horrific crash.
+CNN's Kayla Tausche, she's been gathering their stories. She joins us now.
+And, Kayla, you know, and you had kids on board, too, right? I mean, these young skaters such a collection of families and everyone -- everyone a tragedy.
+KAYLA TAUSCHE, CNN SENIOR CORRESPONDENT: So many lives lost, Jim. And we are now starting to learn about these individuals, their stories, their backgrounds, which are now becoming their legacies as we remember them. So many children, many of them figure skaters critical to that sport and their communities, and in some cases, their entire families perishing in this crash.
+The Livingston family, mother Donna, father Mark, as well as their two girls, Olivia and Everly, who were 11 and 14, dying in the crash after having been in Wichita for that figure skating training camp and competition, their deaths having to be confirmed by a family friend because that entire family of four, uh, being killed in that crash.
+And then there is Elizabeth Ann Keyes, an attorney who is originally from Cincinnati. Her partner says that it was her birthday the day that she died in the crash. She had just turned 33. Her principal from her high school remembered her as someone who was had an incredibly warm heart and was touching to everyone around her. And then there are several members of a pipefitters union in Maryland who were on a boys trip to go hunting in Kansas, something they do every year. That group of seven men traveling back to the D.C. area and their union in a statement, deeply mourning the loss of those individuals and of course, their families mourning them as well.
+We're also learning, Jim, of the global impact of this crash. We heard President Trump say yesterday that there are other nations mourning as well. We know that the state department has been engaged with the foreign diplomatic community as they share information and communications regarding this crash. And we now know that there were three Russian nationals, two Chinese citizens, and at least two from Latin America that were among those who died -- Jim.
+SCIUTTO: So many intersecting lives affected by this. Kayla Tausche, thanks so much for joining.
+TAUSCHE: Sure.
+SCIUTTO: Coming up, with President Trump now a week and a half past his goal that he said many times of ending the war in Ukraine in 24 hours, American fighters are dying there in growing numbers, bringing their bodies home is a complex task.
+(COMMERCIAL BREAK)
+[15:43:54]
+SCIUTTO: It's been almost three years now since Russia began its full scale invasion of Ukraine. Among the growing number of casualties are U.S. volunteers who've been putting their lives on the line to help defend Ukraine. Some dying in combat, some have gone missing.
+It's taking a devastating emotional toll on their families back home, as CNN's Nick Paton Walsh reports.
+(BEGIN VIDEOTAPE)
+NICK PATON WALSH, CNN CHIEF INTERNATIONAL SECURITY CORRESPONDENT (voice-over): America isn't sure it wants this war anymore, but some are still fighting it.
+UNIDENTIFIED MALE: Got to move, move, move!
+WALSH: This rare footage --
+UNIDENTIFIED MALE: Move!
+WALSH: -- of American volunteers in combat, who are increasingly dying and missing in action. At least 20 now MIA. Five cases in just the last six months, as they're used to urgently plug holes in Ukraine's defenses.
+Fierce fighting has raged around Pokrovsk in the East for months. In the horrific web of bunker defenses there, a three-man American team were pinned down after their mission to blow up a bridge fell apart in September. Only one American survived, call sign Redneck.
+"REDNECK," U.S. VOLUNTEER WHO FOUGHT IN UKRAINE: Artillery kicks in bright and early before the sun is even up. Then followed by two helicopters coming in, attacking us with rockets and then a boatload of drones.
+And the radio is screaming at us: prepare to fight, prepare to fight, prepare to fight!
+WALSH: Russian footage shows the intense fight back then. A drone strike hit two of the three Americans. One died of his injuries quickly. But the third, Zachary Ford, seen here, seemed to have been stabilized. Yet another attack was coming.
+"REDNECK": We weren't going to make it through another attack. So, he started asking me to kill him so he wouldn't be captured.
+I refused, and then he called me over a couple of minutes later, told me he loosened his tourniquet.
+WALSH: Ford was quickly dying from the blood loss.
+"REDNECK": He wanted to see the sun, so I laid him down with his head towards the door, so he could look out and see the sun. And I just held his hand. Was he looked at me and he said, never let it be said that the bastards killed me.
+UNIDENTIFIED MALE: In order to pay the tribute to the warriors, defenders of the people of Ukraine.
+WALSH: The bodies of other fallen Americans have endured a public distressing fate.
+UNIDENTIFIED MALE: He was respected and loved by everyone.
+WALSH: On a tier in Kyiv, former U.S. Marine Corey Nawrocki, who was killed in Bryansk, Russia, in October alongside another American. Their bodies were posted on social media, and even Corey's mother trolled online, before lengthened negotiations returned their remains to Ukraine Friday.
+NAWROCKI: Oh, gosh. A whirlwind of emotions. Like relief but sadness. It's almost like a weight has been lifted off my shoulder.
+Because -- sorry. Because now I don't have to worry about what I think they might be doing to him over there.
+WALSH: But pro-Russian trolls didn't just post images of Corey's body.
+NAWROCKI: They had posted a picture of my house, my full address. They would post all these nasty comments and, you know, smiley faces and stuff like that.
+WALSH: Texan Lauren Guillaume helps identify dead foreigners, often through a gruesome trawl of morgues. She said foreigners are increasingly used in the toughest spots to fill urgent gaps in Ukrainian manpower.
+LAUREN GUILLAUME, R.T. WEATHERMAN FOUNDATION: It's increased dramatically in the past six months, and most of that is missing in action cases.
+We find that foreign operators do fill the gaps of very difficult, high-risk, high-reward operations.
+We think it is a reflection of how the battlefield looks right now.
+WALSH: Drones, artillery. Impossible to get the bodies back.
+GUILLAUME: Correct.
+WALSH: One of her first missions was getting Cedric Hamm, a veteran from Texas, home. He died in Sumy region, was sent home with honors in Kyiv. And found through his tattoos.
+His mother reads his old text messages.
+RAQUEL HAMM, MOTHER OF DECEASED U.S. VOLUNTEER: "I met people whose homes were blown up. I met people whose women were raped in front of them. I think God understands I'm doing a good thing."
+And that was my greatest fear, that my son was going to be used as a symbol of hate, because here he was as a foreign fighter, helping Ukraine. And I'm just -- was so overwhelmed with joy that my son was located, that we were not going to have to wonder.
+WALSH: What do you remember as being the darkest moment for you?
+HAMM: Knowing he's not going to be around. Pretty much that.
+WALSH: I'm so sorry.
+HAMM: It's OK. It's just he was super funny and, like, could do anything and everything that I asked him to do. Very good son.
+WALSH: A war so much of America feels distant to, here so very close to home.
+(END VIDEOTAPE)
+SCIUTTO: Some of the American victims of the war are thanks to Nick Paton Walsh. And we'll be right back.
+(COMMERCIAL BREAK)
+[15:52:24]
+SCIUTTO: The music industry is gearing up for its biggest night, with the Grammy Awards taking place this Sunday. This year's ceremony will raise funds for those affected by the devastating California wildfires.
+Elizabeth Wagmeister spoke to the recording academy's top two executives about exactly how the show is being reshaped in the wake of that tragedy.
+(BEGIN VIDEOTAPE)
+ELIZABETH WAGMEISTER, CNN ENTERTAINMENT CORRESPONDENT (voice-over): Amid a backdrop of tragedy, the nation's deadliest air disaster since 2001 and the most destructive wildfires in southern California history.
+HARVEY MASON, JR., CEO, THE RECORDING ACADEMY: Grammys and this platform is cool, but it's not the most important thing in the world.
+WAGMEISTER: Recording Academy CEO Harvey Mason Jr. and Grammys executive producer Ben Winston are tasked with putting on a show that some thought should be called off.
+There have been some people who say award season should be canceled. This is not what we need right now.
+BEN WINSTON, EXECUTIVE PRODUCER, 2025 GRAMMY AWARDS: If you could actually take the Grammys where we know we've got an audience who are going to watch it, we know we've got the biggest stars in the whole world that are sitting there, and we bring real awareness to what's happened. We do some really serious fundraising for the causes that need it so much. Right now, we pay tribute to our first responders. We showcase L.A. businesses. Surely, that is worth doing rather than not doing.
+WAGMEISTER: Winston and Mason Jr. sat down with CNN during a break in construction of the Grammys set. For them, this show feels personal.
+MASON: I know one guy that lost his entire studio, burned all his collections, all his instruments, and this is how they make a living. So if we were to postpone the show, we wouldn't be able to raise the money that we need to support those people.
+WINSTON: Before this happened, I probably knew the name of four of my neighbors. I reckon I now know about like 23 of them. Like there is a sense of community right now in Los Angeles that I personally haven't seen before, where people are helping each other, and I think we can reflect that on the show.
+WAGMEISTER: They point out the majority of working musicians in L.A. aren't wealthy superstars.
+Plus, the Grammy's telecast brings income to 6,500 workers who depend on award season paychecks.
+WINSTON: The drivers, the florists, the builders, the P.A.s, people, some of whom have lost their homes.
+WAGMEISTER: That said, the Grammy's will still be the Grammys, with performances from pop stars like Chappell Roan, Charli XCX and Sabrina Carpenter, country star Brad Paisley and legends like Stevie Wonder.
+MASON: It'd be incredible performances, but there's also going to be a layer of -- of emotion and heart and storytelling about the heroes. WAGMEISTER: And if you're in it for, well, the awards, there's that, too.
+[15:55:01]
+The Beyonce question you brought up the race for best album.
+WINSTON: Yeah.
+WAGMEISTER: Is this the year for Beyonce?
+MASON: I'm going to give you a hot take. I feel like she's got a 1 in 8 chance of winning that thing. I'm serious.
+WAGMEISTER: Statistically, that is absolutely accurate. Factual. No fact checking needed.
+WINSTON: So you're going to get out of us.
+(END VIDEOTAPE)
+SCIUTTO: Elizabeth Wagmeister there, thanks so much.
+And thanks so much to all of you for joining me today.
+I'm Jim Sciutto in Washington. "QUEST MEANS BUSINESS" is up next. And we wish you the best for the weekend.
+
+Load-Date: January 31, 2025
+
+
+End of Document

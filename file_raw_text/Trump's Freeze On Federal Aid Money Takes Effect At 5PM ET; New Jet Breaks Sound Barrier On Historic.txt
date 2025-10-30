@@ -1,0 +1,352 @@
+
+
+
+
+
+CNN The Lead with Jake Tapper 4:00 PM EST
+January 28, 2025 Tuesday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 8744 words
+Byline: Jake Tapper, Jeff Zeleny, Phil Mattingly, Rene Marsh, Priscilla Alvarez
+Guests: Donald Kettl, Don Bacon, Stephen Miller, Tristan "Geppetto" Brandenburg
+Highlight: At 5:00 p.m. Eastern today, the Trump administration will pause all activities related to obligations or disbursement of all federal financial assistance. The XB-1 demonstrator is a major milestone for the company Boom Supersonic, which hopes to launch a 55-seat supersonic airliner, something that could reshape both commercial aviation and the military.
+Body
+
+
+[16:00:01]
+BORIS SANCHEZ, CNN HOST: In a post on X, Google explained that it has a long standing practice of applying name changes when they've been updated in official government sources. The name will be tweaked when the geographic names information system is updated.
+Google apparently also is going to change the name of Mount McKinley, the nation's highest peak from Denali. Remember, former President Barack Obama renamed the Alaska landmark to Denali in 2015 as a nod to the region's native population, who had been calling it that for way longer than anybody had called it Mount McKinley.
+BRIANNA KEILAR, CNN HOST: That's right.
+And THE LEAD WITH JAKE TAPPER starts now.
+(MUSIC)
+JAKE TAPPER, CNN HOST: Nonprofit organizations across the country thrown into chaos today.
+THE LEAD starts right now.
+(BEGIN VIDEO CLIP)
+KAROLINE LEAVITT, WHITE HOUSE PRESS SECRETARY: Again, it does not affect individual assistance that's going to Americans.
+(END VIDEO CLIP)
+TAPPER: The new White House press secretary using this term "individual assistance" to mean direct payments, I suppose, although seniors who rely on Meals on Wheels for food might take issue individual assistance.
+As the Trump administration pauses federal funds and grants a shock to the system, nonprofits are lining up to sue the Trump administration.
+Now, the White House says Medicare, Medicaid and Social Security won't be touched. But what about everything else? We're pushing for answers.
+Plus, Stephen Miller will be here on the lead to hopefully provide some of those answers. He's President Trump's longtime top policy adviser from the president's crackdown on undocumented immigration to the overhaul of the U.S. government. We'll ask him about it all.
+Plus, breaking the sound barrier. Hear from the pilot hoping to bring back supersonic airline travel for passengers in quite the hurry.
+(MUSIC)
+TAPPER: Welcome to THE LEAD. I'm Jake Tapper.
+It can be easy to feel confused by the flurry of executive actions President Trump has taken since returning to office last week. On Monday, there is one taking effect in less than an hour, and we want to highlight today how this executive action might impact your life, your family, your community, your future.
+At 5:00 p.m. Eastern today, the Trump administration will, quote, pause all activities related to obligations or disbursement of all federal financial assistance, unquote.
+So what does that mean? Well, it is a freeze or a pause on hundreds of billions of dollars appropriated by Congress and spent by the federal government on things such as, well, school breakfast and lunch programs that feed more than 10 million children, and Section Eight housing assistance that helps pay the rent for more than 9 million people.
+The majority of them, we should note, are seniors, children or those with a disability, or grants from the EPA to states and localities to ensure that they have clean drinking water or Head Start programs that serve nearly 800,000 low income children from birth to age five. And of course, Meals on Wheels, which feeds more than 2 million seniors who have no other means of purchasing or preparing meals.
+Now, we will not know the scope of the freeze, or if all of these will be impacted until this freeze begins at the top of the next hour. The broad language in this memo from the Office of Management and Budget has created quite a bit of confusion and chaos, as essential programs around the country are scrambling to try to even understand their fate.
+Let's go right to the White House and CNN's Jeff Zeleny.
+Jeff, how is the White House explaining this move? And are they being more specific?
+JEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: Well, Jake, the specifics are still in a bit of short supply other than the fact that the president is simply exercising his vast authority, and this is going to be something we have already seen and will seen, certainly much more in the coming weeks and months ahead. He is starting and setting up a fight with Congress over the money that they have allocated.
+But in terms of the specifics of the program at the White House, a press briefing, the first one of this administration, the White House press secretary, was clear. She said that the Medicare, Social Security and funds directly impacting people would not be included. However, left in the gray area is a lot of that federal money that is sent through the states on to people. So there is much confusion over the Medicaid program.
+For example, the states' portals were offline. It is unclear if those will come back online, but Karoline Leavitt, the new press secretary, explained the president's actions like this.
+(BEGIN VIDEO CLIP)
+KAROLINE LEAVITT, WHITE HOUSE PRESS SECRETARY: This is not a blanket pause on federal assistance and grant programs from the Trump administration. Individual assistance that includes, I'm not naming everything that's included, but just to give you a few examples, Social Security benefits, Medicare benefits, food stamps, welfare benefits, assistance that is going directly to individuals will not be impacted by this pause.
+(END VIDEO CLIP)
+ZELENY: So at that briefing a little earlier this afternoon, she was asked specifically about Medicaid funding, and she said she would have to get back to reporters on that. Jake, she did. She sent out a message just a short time ago, and she said, the White House is aware of the Medicaid website portal outage.
+[16:05:04]
+They hope it will be back online shortly.
+So the reality is this sowed so much confusion simply because of the speed in which it came. There was, of course, that memo released last evening, and there was a lot of confusion that still exists. But the bigger point, the bigger takeaway from this is the programs going forward is the president going to fund things that are already in the pipeline, like the bipartisan infrastructure law, like the Investment Reduction Act? They clearly are gearing up for a fight and watch for lawsuits to start this hour -- Jake.
+TAPPER: And, Jeff, members of Congress are saying they're not even sure that President Trump has the legal standing to just pause programs that they have already appropriated, funds that have been signed into law for.
+ZELENY: They don't. Certainly, Democrats are saying that, and some Republicans are saying it quietly as well.
+And, Jake, this is going to be a legal test. Perhaps this is the whole point of this. At issue here is the Impoundment Control Act of 1974 in the Richard Nixon era, when Congress wanted to take away some spending authority from the president, from the White House, to put it back in the hands of Congress, it has remained in the hands of Congress since then.
+This president wants to test that as well. He's been talking about it as he campaigned for president. This should be no surprise, but certainly the swiftness and the speed in which it came last night caught a lot of people off guard -- Jake.
+TAPPER: All right. Jeff Zeleny, thanks so much.
+To explore what this might mean for you, your life, how our government operates, we turn now to CNN's Phil Mattingly and Rene Marsh. We also have with us Donald Kettl, former dean of the University of Maryland School of Public Policy, who has consulted for multiple government agencies.
+Phil, let me start with you. How is this move reshaping how the federal government just even functions?
+PHIL MATTINGLY, CNN CHIEF DOMESTIC CORRESPONDENT: I think don't take it just in isolation. Take it over what we've seen across the last eight days. This acceleration of the willingness to challenge, not just norms and traditions, but in this case, legality to pursue what Donald Trump made clear he wants to do.
+Now, it is very true. And Jeff makes a great point. This was quite literally a cornerstone of Donald Trump's campaign policy agenda, challenging the constitutionality of the Impoundment Act, the ability to withhold or freeze funds.
+The difficulty right now, when you talk to government officials, including some federal aid program administrators are speaking to last night who had no idea what they were actually supposed to do, based on the memo that they received, is one, the lack of kind of a heads up that this was coming, how it was actually going to work, what would then happen with the technical systems has been difficult to get their heads around.
+The other piece of this is a recognition which probably should have been clear during the campaign, but is certainly clear over the course of the last several days that what Trump said he was going to do, not only are they going to do, but they're going to do it very quickly and they're going to do it without going through the normal checks and balances or processes that perhaps past administrations, even the first Trump administration would have. That's the new normal for government officials.
+TAPPER: And whether voters out there or viewers out there realize it or not, most of the money that goes to the federal government, the federal government, like the Department of Health and Human Services, the Department of Transportation, or the Department of Education, then gives that money to states and localities. Maybe not enough, but they do that. Most of that money goes that way.
+How is this upending those agencies?
+RENE MARSH, CNN CORRESPONDENT: Okay. So I mean, Jeff hit it on the head. From the people I'm speaking to, there is a lot of just uncertainty and chaos. But I've been tracking specifically the impact in areas like health care and education and veterans, so it's on the education front.
+We talked a little bit about Head Start. We do have reporting from the. National deputy director of Head Start that already some of these programs have run into a problem where they cannot draw down their funds, which goes to paying staff. Again, we should note that head start provides services like health services, family services for low income families, young children, again already experiencing problems accessing those federal funds, even though in that memo, congressional memo head start was listed as a program that would not be touched.
+Another issue that we're seeing here are just concerns over meals for children at schools, because that funding goes to the Department of Agriculture and then gets dispersed to the school districts. So again, if you're listening exactly to what they're saying, that funds that go directly to the individual wont be touched, but other funds may not be safe. Then you start to get concerned if there is a middleman here.
+So there's concerns over school meals, work study programs, also things like Title I, funding for these low income school districts that don't have the tax base to essentially keep their schools open so they rely heavily on funds.
+Again, with this education front, we're not seeing things as immediate as we are seeing in the health care front. But I did speak with some community health centers who also tell me they are having trouble drawing down their funds. And a lot of those centers are grant funded.
+[16:10:01]
+TAPPER: And, Donald, here's how the White House press secretary described the scope of the changes. Take a listen.
+(BEGIN VIDEO CLIP)
+LEAVITT: If there was notice, it was the executive order that the president signed. There's also a freeze on hiring, as you know, a regulatory freeze. And there's also a freeze on foreign aid.
+(END VIDEO CLIP)
+TAPPER: So what's your reaction to the size and scope of this freeze? Do you think that President Trump has crossed a line of legality?
+DONALD KETTL, FORMER DEAN, UNIVERSITY OF MARYLAND SCHOOL OF PUBLIC POLICY: I think there are two things here. One is that it is a direct challenge against Congress and its ability to be able to appropriate and authorize expenditure of money, and especially if it goes on for more than even an hour or two in some of these programs, it's going to enrage even some of the presidents supporters on Capitol Hill.
+And the other thing is that I suspect that the administration has bitten off more here than it intended to chew. I don't think it really intended to shut down Medicaid. I don't think it intended to shut down aid to local schools. But the meaning of the -- of the language that came through last night is absolutely crystal clear.
+And Medicaid is especially tricky one, because it involves money that goes to support individuals who are lower income, but it doesn't go directly to those individuals. It goes and grants to state governments who then are in charge of administering the program. So the vagueness of the -- of the programs, but also the uncertainty surrounding some of that language last night has caused an enormous amount of uncertainty.
+TAPPER: And, Donald, how will agencies try to preserve their work under these conditions?
+KETTL: Well, part of it is a lot of the individuals who are working on these issues and programs are not even sure themselves about what the future of their job is going to be, so that trying to motivate people to come to work and do the enormous amount of overtime that's going to be required, I've seen some forms that are hundreds of pages long that would be required to get the exemptions in some cases.
+And then in addition to that, the administration seems to be backing off a little bit on programs like Medicaid and some of the programs that, for example, provide school lunches and other kinds of programs. But even that's uncertain at this point. The administration is relying heavily on the very people that its been threatening, and that's going to make it all the harder to work out the details and to try to put the genie back in the -- in the can, if you will, because I think that they are really, at this point, stunned by the amount of reactions they've gotten, and not at all, I suspect what they intended.
+TAPPER: All right. Thanks so much. Appreciate it. Thanks to all of you.
+This footnote, just in the first challenge to this federal funding freeze is happening right now in a federal court. Coming up next, I'm going to talk to a Republican lawmaker who's also questioning this freeze in funding and the widespread impact it could have on constituents in his state.
+Plus, White House deputy chief of staff for policy Stephen Miller will join the lead. We'll ask him about this funding hold, and also President Trump's crackdown on undocumented immigration, including priorities for deportation.
+Stay with us.
+(COMMERCIAL BREAK)
+[16:16:50]
+TAPPER: And we're back with the breaking news in our political lead. Right now, a federal judge in Washington, D.C. is hearing the first challenge to the federal funding freeze by the Trump administration that goes into effect at the top of the next hour, about 45 minutes away. The details so far are limited. We don't know exactly what this order will mean, but the impact could be far reaching. School lunches, temporary assistance for needy families, rental assistance could all be halted.
+My next guest is a Republican congressman who says he hopes this freeze is short lived. Republican Congressman Don Bacon of Nebraska joins us from the House Republican retreat in Doral, Florida, right outside Miami.
+Congressman, you're already hearing from people in your district back in Nebraska. What are they saying to you?
+Oh, you can't hear me?
+REP. DON BACON (R-NE): Okay. I'm sorry. Jake, you were you were silent for about 10 seconds.
+TAPPER: Okay.
+BACON: This is what I could -- I think I got enough now to respond to you.
+First of all, this morning, I woke up with a lot of constituents very scared that their programs that they've already been awarded contracts on or grant money was being terminated. So I would just say reading the original executive order, it was very vague, and I think there was a lot of confusion, and I had a chance to talk to the Trump team.
+And they put out a clarification in the last hour that really narrows down what this executive order means. And so, the things that you were mentioning, whether its school aid, Medicare, Medicaid, Head Start, they assured me that these programs will still be funded. The things that they were concerned about was the Inflation Reduction Act Money, as well as things like some of the foreign aid programs will be put on frozen.
+So it's going to be very narrow what this executive order was going after and what drove it was the day leading up to the inauguration, the President Biden's team was putting out billions of dollars of money towards various programs, trying to shovel it out as fast as they could, and they were trying to put a halt on that to review it.
+I'll give you an example. Like millions of dollars were being sent to Gaza for like condom programs that they found. So they wanted to put a freeze on some of this stuff and review it.
+So I think this executive order was interpreted too broadly initially, and I think it's being narrowed down. And they also assured me that it's very temporary so it can live within the Impoundment Act law.
+TAPPER: So --
+BACON: That's what I'm hearing.
+TAPPER: Okay. Well, you have said before, I guess you talked to the Trump team about how one example of the cuts could theoretically, possibly affect your district in the expansion of your airport, Eppley Airfield in Omaha.
+BACON: Yes.
+TAPPER: You also said its possible that before and after school programs are going to be impacted. Are you now reassured that neither the construction on Eppley Airport in Omaha or the before and after school programs, they will not be impacted? The Trump team told you that?
+BACON: That's -- that's what I'm understanding.
+The initial executive order was broad. It was hard to really interpret. And some folks from my district were very fearful that it was affect the programs that that have already been announced and reengaging with the Trump administration. They put out a clarification of our two, maybe two hours ago. Now they're very -- it narrowed the scope of this executive order significantly.
+[16:20:02]
+And also if they if the program is impacted negatively, they have the ability to appeal that that ruling. So I think we're in a much better spot than we were this morning.
+TAPPER: What about the funding that goes to the University of Nebraska for cancer research? Are you confident that that is not going to be impacted?
+BACON: Yeah. My understanding is that will be funded. We're talking about Inflation Reduction Act money that was just shoveled out the door a couple of days before the inauguration, even leading up to the hour before the inauguration. And some of the foreign aid money decisions that President Biden made right at the end, that's what they're looking at.
+TAPPER: Right. But the administration did order a freeze on all federal foreign aid, not just the stuff that that Biden did in the end, all of it. And while -- while they review the what spending aligns with Trump's agenda, you sit on the House Armed Services committee, you're a decorated veteran. Are you concerned about that, freezing all foreign aid?
+BACON: It needs to be temporary because we have, like Russia invading Ukraine, and we need to respond to that. We can't just freeze that that spending that's been promised to Ukraine.
+So I just hope it's all this is temporary. Now, the goal is to really focus on what was promised or committed in the last week before the inauguration, but they want to review it all. So, there's things that we know that we -- that we prioritize.
+And I'm grateful that the administration did not freeze the Israeli aid. I would like to see them do the same thing with Ukrainian aid and other things like Taiwan. Taiwan is in desperate need of us continuing the aid so we can deter China from ever invading Taiwan, as another example.
+TAPPER: I'm sure you read the executive order. I mean, it is written fairly broadly. I mean, I can certainly understand why your constituents are confused. It -- it doesn't -- it's not clear. I mean, it -- the way you're explaining it seems very clear.
+Oh, it's just this money that the Biden team designated in the last few minutes or the last few days of their administration, but that's not what they wrote.
+BACON: Well, the original executive order was confusing, and I was concerned myself. That's why I spoke up today, saying I expressed the concern of my constituents that I was hearing. And for many of them, I was hearing about it all morning.
+That's why the administration put out a clarification. I hope you got it. I can send it to you if you haven't got it yet. But I got it about two hours, maybe an hour or two hours ago. And it really sort of narrows down the scope of what was intended here. Or maybe they revised -- revised it after getting some feedback.
+TAPPER: Well, the only thing I'll say is, I mean, we've all we all lived through the first Trump administration, and one of the hallmarks of that was sometimes there were very confusing, chaotic orders, and people didn't know what was going on. And it took a few days, if not weeks for everyone to figure it out.
+BACON: Yeah, I think that's a little bit of what happened here. It was broadly written, and obviously there's some unintended consequences. And as I mentioned today, and I got some feedback from the administration a little bit on this, but I had to remind people, we're talking about real people here that have real jobs, real missions.
+And I know it's sometimes you tend for an executive order to affect things over here, but if you're not careful, it affects much more broadly. And I just that's what I wanted to point out today, because that's what I was hearing from our constituents.
+And I think the administration now has narrowed it down, this executive order, much more carefully, and I appreciate it. I mean, I think it was needed.
+TAPPER: Congressman Don Bacon of the great state of Nebraska, thank you so much, sir. Good to see you.
+BACON: Thank you.
+TAPPER: We're back in a moment with one of the president's top policy adviser, Stephen Miller. We will see if he agrees with what others in the Trump team are telling Congressman Don Bacon.
+Keep it here.
+(COMMERCIAL BREAK)
+[16:27:38]
+TAPPER: And we're back with our politics, and leading growing questions and confusion about President Trump's move to pause federal grants and loans.
+Today, the White House is trying to reassure Americans that this order, which goes into effect at 5:00 p.m. about 33 minutes from now, is not as sweeping as it first appeared. But a group of nonprofits are already suing the Trump administration over the move. Joining us now to hopefully provide some clarity is Stephen Miller, the White House deputy chief of staff for policy and a homeland security adviser for President Trump.
+Stephen, good to see you again. Thanks for joining us. So --
+STEPHEN MILLER, WHITE HOUSE DEPUTY CHIEF OF STAFF FOR POLICY AND A HOMELAND SECURITY ADVISER FOR PRESIDENT TRUMP: Hey, my friend. Good to see you.
+TAPPER: A White House memo just issued this afternoon says that the pause does not affect Medicaid. It already had clarified that it didn't affect Social Security or Medicare, but the Medicaid website portal is experiencing an outage. And the White House press secretary this afternoon was not able to say whether Medicaid would be affected or not. So let's just walk through this because obviously there's confusion.
+Is this pause going to affect Medicaid?
+MILLER: It does not affect any service that the government is required to provide, does not affect any entitlement, does not affect any service to citizens, does not affect any individual benefit, any public assistance program or anything of that nature.
+TAPPER: Okay. So --
+MILLER: Very glad for the chance to explain what's going on here.
+TAPPER: Yeah.
+MILLER: In fact, I could actually give you some -- some backstory I think you'd find very useful, Jake. So we found after the president had issued a pause on funding to NGOs that were settling illegal immigrants, we found that bureaucrats at HHS were trying to funnel billions of more dollars to those resettlement agencies and try to get around the executive order. It became clear that bureaucrats were still trying to funnel unapproved discretionary grants of funds to their pet projects.
+So OMB, led by Russ Vought felt it was necessary to protect taxpayer resources to issue clearer guidance establishing for these discretionary grants of funding that are not directed by Congress --
+TAPPER: Right.
+MILLER: -- that they go through a political approval process at the agency.
+TAPPER: So -- so let's get into that, because a number of government funded organizations. So these are organizations like Meals on Wheels, right? Their job, their mission, it's a private organization. They get grants from the federal government. They feed seniors.
+Meals on Wheels is currently in the dark. They don't know. Does this order affect us? Does this mean we're not going to have any more funding coming in? They feed like 2 million seniors.
+[16:30:01]
+So I'm just wondering, first of all, why a pause? An investigation -- sure, I get that. Auditing, sure. Why a pause? And what about --
+MILLER: Well, Jake, once you spend money, you can't get it back. So in other words, you don't -- it's -- if you don't put federal programs under review that are wasteful or harmful to taxpayers, and then people hit send, you wouldn't believe the payments we've had to pause over the last few days with bureaucrats trying to funnel money out of the door, to funnel money to the World Health Organization, funnel money to resettlement organizations, funnel money to foreign countries.
+And so, of course, you have to put a pause on these discretionary grants of funding and have a political review process. In other words, the people that are accountable to the taxpayer to review, it does not include -- it's not -- the review process does not include any public benefit programs. So you mentioned Meals on Wheels. That is a public benefit program.
+OMB has been clear about this. Jake, we have to get control over this government. You know, I'll just say on this point about -- about NGOs, nongovernmental organizations, Joe Biden gave just one NGO responsible for resettling illegal aliens, $3 billion with a B, $3 billion.
+President Trump, when he said drain the swamp, he meant it. And yes. So those kinds of spending programs are going to be put under review.
+TAPPER: Okay. I don't think anybody's taking issue with if you find money that is being disbursed in an inappropriate way, halting it. I think what the confusion is, is this seemed to a lot of groups and a lot of states, Republicans, Democrats, independents, like a very sweeping order. And there is confusion.
+I just want to make sure I understand. So anybody out there that provides school lunches, anybody out there --
+MILLER: Yeah, there's no -- there's zero impact on public benefit programs. Full stop. As OMB has made clear.
+And I just want to but I want to really drill down on this, Jake, because it's so important. There's 2 million employees in the federal government, overwhelmingly the career federal service in this country is far left, left wing. The American people --
+TAPPER: I don't know that to be a fact.
+MILLER: Well, I'll give you a great example. We looked at USAID as an example.
+TAPPER: That's --
+MILLER: Ninety-eight percent, 98 percent of the workforce either donated to Kamala Harris or another left wing candidate, just as an example.
+TAPPER: Okay.
+MILER: But let me just -- let me just --
+TAPPER: You're demonizing an entire workforce as having a --
+MILLER: Wait, wait. Whoa, whoa, whoa. Did you just say that, saying someone voted for Kamala Harris is demonizing them?
+TAPPER: No. So your suggestion is that there's a bias?
+MILLER: No.
+TAPPER: Your suggestion --
+MILLER: But you use the word demonizing. You just said that I'm demonizing somebody by saying they voted for Kamala Harris.
+TAPPER: Let's get back on track.
+MILLER: But I just -- I am on track.
+TAPPER: Okay.
+MILLER: Let me stay on track. What I'm saying to you is this, there are 2 million employees in the federal government.
+TAPPER: Right.
+MILLER: They're overwhelmingly left of center, the American people. I've got to finish the sentence.
+TAPPER: Okay.
+MILLER: I got to finish the sentence.
+The American people voted for dramatic change implemented by Donald Trump. So it is essential for him to get control of government, to establish a whole of government process for Donald Trump's political appointees, to review discretionary grants of spending for pet projects that are not directed by Congress.
+In other words, these are pots of money where Congress hasn't said how to spend it or where to spend it. This might be something like saying, I want to build a $500 million fountain in the courtyard of the Department of Commerce. This might be something like saying, I want to fund gender studies in Afghanistan.
+There has to be political control and review. I can't help it if left wing media outlets published a fake news story that caused confusion. If you read the OMB guidance memo, it is --
+TAPPER: I don't know what you're talking about.
+MILLER: Well, if you read the OMB guidance. TAPPER: Well, I don't know what left wing --
+MILLER: It's clear as day.
+TAPPER: We just talked to Congressman Don Bacon, a Republican, a Trump supporter. We just interviewed him. He said that there was a lot of confusion.
+MILLER: Yes.
+TAPPER: He said that the executive order --
+MILLER: Created by the -- created by the media, Jake. The OMB guidance memo, if you read it, is as clear as day.
+TAPPER: It's pretty broad.
+MILLER: My point is --
+TAPPER: -- and confusingly written.
+MILLER: I can't --
+TAPPER: Parts of it are about DEI. Parts of it are all disbursement. It is --
+MILLER: Yeah. DEI -- DEI suspended. That is correct.
+TAPPER: Right? No, I'm just saying like its kind of all over the map and there is confusion and its not just liberal media.
+MILLER: Jake -- Jake, tell me --
+TAPPER: Republican Senator Lisa Murkowski said today --
+MILLER: You're not understanding what I'm saying.
+TAPPER: But I'm --
+MILLER: I'm saying that the --
+TAPPER: I want you to address this.
+MILLER: I will. But I'm saying that a false story was put out, that people responded to. It's unfortunate that people put out a false story. That's all I'm saying, Jake. That's all.
+TAPPER: OK. Republican Senator Lisa Murkowski said, quote, nobody really knows how long, unquote, this review of these federal funds is going to last. And she said its, quote, been a big challenge, unquote, to get answers from the Trump administration.
+So here's an opportunity. How long is this review going to take? And when does the federal funding for these programs resume?
+MILLER: Well, in the original executive order that addressed NGOs, foreign aid and other grants, there was a 90-day review process, as you know, Jake.
+[16:35:01]
+But again, more, more fundamentally, I think we're missing the big point here.
+Do you believe -- does anyone believe that an unaccountable career tenured bureaucrat should be able to approve vast sums of money for the projects that they personally agree with, that no accountable employee in the federal government has reviewed?
+TAPPER: I'm literally asking about Meals on Wheels. I mean, I don't know what you're talking about.
+MILLER: We are -- but, Jake, yes, you -- Jake, you do know what I'm talking about. I'm telling you, as the memo says, in black and white letters, no financial benefit programs to Americans are affected. No individual assistance programs are affected. It's there in black and white.
+TAPPER: Yeah.
+MILLER: We always -- look, we always knew that the media was going to spin up fake stories, to try to create controversy, to try to create scandal. I'm not saying you, Jake. I would never say you. I'm not saying you.
+TAPPER: We invited you on to clarify, Stephen. And we just heard --
+MILLER: And I'm here.
+TAPPER: Right. I know, and I appreciate it.
+And I want to turn to immigration in one second, but I'm just saying Republican Congressman Don Bacon was hearing from constituents. We have no idea where the constituents were getting their information was from. But I will say last night when people started noticing this order, people were upset based on the executive order, I was hearing from them directly.
+MILLER: The executive order, Jake, the executive order was issued seven days ago.
+TAPPER: I understand that, but it was going -- when it -- when the word got out --
+MILLER: This is a -- this is an -- this is an OMB guidance document.
+(CROSSTALK)
+TAPPER: Right, exactly. And when -- when that went out, when that went out people got it. And you heard Congressman Don Bacon saying he was worried. Now he's not, but he was worried that before -- before school programs and after school programs in Nebraska were going to be affected.
+MILLER: Yes, I am sorry --
+TAPPER: But you've clarified it.
+MILLER: -- the media -- I am sorry that the media has falsely reported on this story.
+TAPPER: I don't know what you're talking about in terms of false reports. It was a broadly written executive order, and --
+MILLER: There's -- no, you're conflating two different things.
+TAPPER: Stephen --
+MILLER: An executive order, an executive order was issued a week ago. There were some.
+TAPPER: Then there was the OMB memo.
+MILLER: There were some bureaucrats in the federal government who tried to push out money, billions of dollars for wicked and pernicious purposes that had to be frozen. A guidance memo was written. OMB guidance memos are, by their nature, complicated to read because this involves the federal budget.
+The choice here is simple. It is very simple, and I want to state it clearly.
+TAPPER: OK.
+MILLER: Either Donald Trump gets political control over this government and ends the waste, abuse and fraud on the American people, or we let bureaucrats autopilot federal spending.
+If we hadn't stepped in, then billions more dollars as an example would have gone to left wing NGOs that fund and resettle illegal aliens and are complicit in many cases in facilitating child trafficking.
+TAPPER: Okay, so obviously.
+MILLER: This administration will never, ever apologize --
+TAPPER: Obviously.
+MILLER: -- defending the American taxpayer.
+TAPPER: Obviously, nobody's in favor of child trafficking.
+Let's move on to immigration because obviously there's been a lot of action when it comes to going after undocumented migrants, undocumented immigrants in this country. Sources say that ICE has been directed to ramp up arrests to at least 75 per field office per day.
+If every field office hits that quota or that number, that goal, that would be 1,875 undocumented immigrants arrested every day. Now, "The Washington Post" reports that President Trump has been disappointed with the numbers so far. I don't know if that's true. You will tell me if it is.
+What is the priority, though, when it comes to these deportations? Is the initial goal, as we had been told by Trump allies after the election, to go after those first as a priority, to go after those who have committed violent crimes and are part of violent gangs, or is it we're just going to go after anybody who is in this country illegally, we're not going to prioritize?
+MILLER: Well, yes, we are going to prioritize.
+So first of all, the numbers you cited are a floor, not a ceiling. Very importantly, they're a floor. The goal is to arrest at least that many but hopefully many more.
+And the Department of Justice is going to be closely involved in providing the manpower to help achieve those objectives, as laid out in the president's executive order.
+Yes, ICE is absolutely prioritizing terrorists, public safety threats and national security threats. It is also true that Joe Biden admitted some unknowably large number of millions of illegal immigrants into this country, all of whom are ineligible for asylum, ineligible for any form of immigration relief, are ineligible to remain in the country.
+So if you look at public polling on this issue, about 70 percent of Americans think that everybody that Joe Biden let in should be removed. About 80 percent of Americans agree that all criminal aliens should be removed. That's the baseline of public opinion support.
+TAPPER: So you are going to prioritize the violent criminals, though. That's -- that's the thing --
+MILLER: Yes, but we're not going to -- yes, but we're not going to immunize everybody that Joe Biden let in.
+[16:40:00]
+I mean, let me just let me ask you a hypothetical, and you can treat it as a rhetorical question, not answer it if you don't want to. Jake.
+TAPPER: I appreciate it.
+MILLER: Let's say that -- let's say that an illegal alien arrived in the last three months of the Biden administration from, say, Peru. He was released. He failed to appear in immigration court. He was issued a final removal order.
+So showed up, got released, didn't appear, ordered deported. Been here for six months.
+Is it your position, Jake, that that guy should get to stay until the end of his life? I mean, what kind of country can run that way? TAPPER: Okay.
+MILLER: I mean, no country in the world runs that way.
+TAPPER: So let me ask you. President Trump has left the door open to invoking the Insurrection Act, which would allow him to use military forces, U.S. military forces inside the United States, for law enforcement. What would that look like? Are we going to see U.S. troops in American cities arresting undocumented immigrants?
+Tell us what this is about.
+MILLER: So the insurrection act in this context mostly applies to considerations related to the border and the cartel threat. So we've already seen two shooting incidents in the last two days of suspected cartel violence against border patrol agents. President Trump's clamp down and closure of the southern border has disrupted the flow of funds to the most ruthless and dangerous organizations on planet Earth, like the Sinaloa cartel, like the Mexican mafia.
+These are organizations that are being designated as foreign terrorist organizations. And the president has set the national objective of eradicating their physical presence on U.S. soil. So you should understand considerations about the Insurrection Act in that context.
+TAPPER: So --
+MILLER: With respect to interior enforcement --
+TAPPER: Yes.
+MILLER: -- that's where a program known as 287G comes into play that you're probably familiar with. And that's where were going to be enrolling state police, local police, local sheriffs and law enforcement across the nation into federal immigration programs. And that's how we're going to significantly increase the arrest number.
+TAPPER: But is the Insurrection Act going to possibly be used to use the U.S. military to go after undocumented immigrants in American cities and American towns? Are you -- is the door open for that?
+MILLER: Right now, the Insurrection Act, which is still being considered based on operational needs on the southern border. So no decision has been made, is specifically in the context --
+TAPPER: OK.
+MILLER: -- of countering that cartel threat. In the interior, it's going to be about enrolling state and local law enforcement to massively increase the supply of guns and badges to conduct these immigration raids.
+TAPPER: All right. So you're not ruling it out, but that's not the plan right now.
+Let me ask you a question about, because one of the reasons that President Trump got elected, according to President Trump in an interview, I think it was with Kristen Welker of NBC, was because of grocery prices. Not the only reason, but a reason -- high prices, inflation, especially at the grocery.
+The Department of Agriculture says that between 2020 and 2022, 42 percent of crop workers were undocumented immigrants. And in many cases, as you know, these migrants do jobs many Americans do not want to do.
+So how do you -- how does President Trump make sure that the effort to deport people who are not in this country legally doesn't end up hurting Americans who want safe borders? Absolutely. But also don't want to see even more higher prices in groceries?
+MILLER: Well, I'm sure its not your position, Jake. You're just asking the question that we should supply America's food with exploitative, illegal alien labor. I obviously don't think that's what you're implying.
+Only 1 percent of alien workers in the entire country work in agriculture. The top destination for illegal aliens are large cities like New York, like Los Angeles, and small industrial towns, of course, all across the heartland, as we've seen with the Biden floods.
+TAPPER: Uh-huh.
+MILLER: None of those illegal aliens are doing farm work. Those 30,000 illegal aliens that Joe Biden dumped into Springfield.
+TAPPER: I'm talking about the ones that aren't --
+MILLER: No, no, no, but -- but no, no, but I'm explaining this. It's important to understand.
+TAPPER: Now, you're kind of changing the subject. I mean, I'm talking about the ones --
+MILLER: I will -- I will go -- I will give me 30 minutes. I'll go as deep as you want. I'm explaining to you and to your audience --
+TAPPER: I don't -- we don't have 30 minutes. I don't -- I'm talking about the ones that could that work in the agriculture industry.
+MILLER: What -- I'm explaining to you and your audience --
+TAPPER: We can go back and we can talk about the ones in the cities. I swear.
+MILLER: I'll do the -- I'll do the whole answer. The illegal aliens that Joe Biden brought into our country are not full stop doing farm work. They are not the illegal aliens he brought in from Venezuela, from Haiti, from Nicaragua. They are not doing farm work. They are in our cities collecting welfare.
+As for the farmers, there is a guest worker program that President Trump supports. Over time as well, we will transition into automation, so we'll never have to have this conversation ever again.
+But there's no universe in which this nation is going to allow the previous president to flood our nation with millions and millions of illegal aliens who just get to stay here. And we are especially not going to allow a subset of those illegal aliens to rape and murder our citizens.
+So we are going to unapologetically enforce our immigration laws. And as I'm sure you will celebrate, we are going to unleash the power and might of the U.S. government to eradicate the presence of transnational threats on our soil.
+[16:45:07]
+TAPPER: So last question, Stephen, and this has to do with the move by President Trump on Friday to fire a number of inspectors general in various departments. This afternoon, Senators Chuck Grassley, a Republican from Iowa, and Dick Durbin, Democrat of Illinois, the chair and ranking member of the judiciary committee, sent a letter to President Trump. And they're asking for an explanation why he fired these inspectors general from 18 offices without giving Congress the required -- legally required 30-day notice.
+These two senators, one of whom is a big ally of yours, says, quote, while IGs aren't immune from committing acts requiring their removal, and they can be removed by the president, the law must be followed, unquote.
+So why didn't President Trump, according to these senators, follow the law and give Congress the required notice?
+MILLER: Well, I mean, simply first of all, we love Chuck Grassley. The president loves Chuck Grassley. I love Chuck Grassley as far as I know, everyone in America loves Chuck Grassley. So we fully embrace that relationship and are a close partner of his.
+But the president's authority to fire any federal worker is plenary. There's no lawful constraints that can be placed on the president to terminate a worker in the federal government who exercises discretionary policy. That's the basis of Article Two and the Constitution and the idea of a single executive.
+When you have anyone in the federal government who exercises decision making authority who cant be fired, then that person is a king, and then we don't have a democracy.
+TAPPER: The law says 30 days, Stephen. The law says you have to give Congress 30 days notice.
+MILLER: I'm -- right, and I'm telling you what the Constitution says with respect to the president's authority.
+TAPPER: So do you think the law is unconstitutional?
+MILLER: Absolutely it is. I don't even think it is. I know it is.
+TAPPER: All right. Stephen miller, thanks so much for your time. Appreciate it.
+MILLER: Thank you.
+TAPPER: Let's get reaction to what we just heard from Stephen Miller, the White House deputy chief of staff for policy. We're going to bring in CNN's Priscilla Alvarez with Phil Mattingly and Jeff Zeleny.
+Priscilla, for years, Miller has been the president's top adviser on immigration. What did you make of what you just heard?
+PRISCILLA ALVAREZ, CNN CORRESPONDENT: I hear there's a lot of pressure coming from the White House for immigration officers to execute on the president's plan, and that was abundantly clear when he said that the floor is 75 arrests per day for each of these field offices, not the ceiling.
+So that means that they really do want to ramp up arrests in a big way, because so far, under the Biden administration was about 300 arrests per day. If you're doing 75 arrests per day for all of these field offices, you're looking at well into the 1,000 to 2,000 --
+TAPPER: Yeah, it's almost, almost 2,000 a day. And they said, that's a floor.
+ALVAREZ: -- across the country, which is to say, Jake, that yes, there are public safety and national security threats, but I have been covering this for a long time. And the more pressure that you put on these offices, the more likely that others are going to be caught up in these sweeps as well as they try to reach these numbers.
+TAPPER: And, Phil, something interesting that he said there at the end where, you know, why didn't he abide by the 30 day law about notifying Congress before you fire inspectors general? They don't think the law is constitutional, so they just ignored it. That kind of is of a piece of what they did with the federal freezing. Also, we're going to do what we do, come and stop us if you want.
+MATTINGLY: You can even tie in birthright citizenship to that as well, where there is a clear belief and plenty of legal documentation and writing saying that this is the law. You have to follow this law and this White House, this presidency and his advisers very much in line with kind of the unitary theory of executive crowd and the conservative side of the movement, have made very clear, we are going to push this. We want this fight, we will take this fight on.
+And we think we can win because Republicans on Capitol Hill aren't as aggressive pushing back as they were certainly in the first term. The courts have been reshaped by President Trump in his first term, and a 6 to 3 Supreme Court majority changes the game for what they wanted to do in the first term. Now they think they can do.
+TAPPER: Yeah. It's interesting also because Jake Sherman from "Punchbowl" wrote something today about how Democrats on Capitol Hill are today. I think Senate Democrats today doing a press conference about the pardons that Trump gave to the January 6th protesters. What was that eight years ago? I guess it was a week ago, but still. And it's just like -- I think Jake's point was two completely different timelines going on here. I mean, like, where are the Democrats? They're covering -- they're doing last weeks story.
+ALVAREZ: You could say the same about immigration, by the way. The outrage has been quite tepid. There haven't been a lot of it. In fact, mostly its focused on birthright citizenship and not what were seeing across the country.
+TAPPER: Jeff Zeleny at the White House, Stephen Miller had a lot to say there. What do you make of it all?
+ZELENY: Look, I mean, I think at the very end, despite Stephen Miller's praise for Senator Grassley, and he said that he has met with him recently, and he told me that right before your interview, Jake, its clear that Senator Grassley has been in Washington longer than Stephen Miller has been alive.
+And Senator Grassley is not going to likely take their answer for face value. They want to know why these IGs were fired.
+[16:50:01]
+It's clearly in the law here. So we will see how many Republicans on Capitol Hill actually stick with this and fight this.
+But there is a disagreement there. But the big takeaway, of course, is that, you know, they glossed over the very contradictory guidance from the Office of Management and Budget last evening. I mean, it was a memo that was it seemed like thrown together, but perhaps not. But certainly, it created this confusion.
+So let there be no mistake. The reporting of it didn't create the confusion. The memo created the confusion. But that said, the big picture is the presidential power is expanding day by day. That's what he wants to do. And Stephen Miller is one of the driving forces behind it.
+TAPPER: Yeah. No, I mean, the argument is we didn't do anything wrong. We did everything right. It's all the fault of the media. Second verse, same as the first.
+Jeff Zeleny, thanks so much. Priscilla, Phil, good to see you.
+More reaction to what we just heard with CNN chief White House correspondent Kaitlan Collins, who was in the room as the new White House press secretary held her very first briefing.
+Stay with us.
+(COMMERCIAL BREAK)
+[16:55:12]
+TAPPER: In our out of this world lead, imagine flying so fast you break the sound barrier. Well, it happened today.
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED MALE: And she's airborne.
+(END VIDEO CLIP)
+TAPPER: That is the XB-1 demonstrator. It's a major milestone for the company Boom Supersonic, which hopes to launch a 55-seat supersonic airliner, something that could reshape both commercial aviation and the military.
+And joining us now is the man who flew the plane, Tristan Geppetto Brandenburg, a former U.S. Navy aviator and Boom test pilot.
+Tristan, or do you want me to call you Geppetto? Whatever I'm supposed to call you, I will call you.
+Put us in the seat. If you're a passenger on this jet and it breaks the sound barrier, what does that feel like?
+TRISTAN "GEPPETTO" BRANDENBURG, PILOTED TODAY'S SUPERSONIC FLIGHT: I think as a passenger on a supersonic jet, I think maybe it'd be (INAUDIBLE) --
+TAPPER: Just froze up.
+BRANDENBURG: Other than mach that going faster than the speed of sound.
+Do you -- do you have me back?
+TAPPER: Yeah, we have you. For some reason, we can fly faster than the speed of sound, but we can't have a good connection with you. But in any case, please try again. What does it feel like?
+BRANDENBURG: Okay, well, I think as a passenger on a supersonic airplane, unfortunately, it will probably be a little bit disappointing. There's really no -- unfortunately, you don't get to hear the sonic boom from the airplane. There's only -- only real indication that you're going faster than the speed of sound is the -- is the mach meter. And in this particular airplane, it flies pretty smooth supersonic.
+TAPPER: So a trip from New York to London right now is about a seven hour flight. With the new jet that you tested today, theoretically, how long would it take to fly from New York to London?
+BRANDENBURG: Our goal is to cut travel time in half. Unfortunately, right now, the current laws will prevent supersonic overflight over land. So our first iteration of our airliner is going to be over water only.
+But that seven hour trip, eventually when we -- as we continue to improve technology and as we work with the potentially get some laws changed to allow supersonic flight from New York to Los Angeles, we could cut that seven-hour flight down to potentially down to 3-1/2 hours.
+TAPPER: When do you expect the commercial version of this carrier to become available for consumer use?
+BRANDENBURG: That's a -- that's a good question. We're -- as we finish up XB-1 and we shift our attention to overture, that's where the -- that's where the bulk of our attention is going to go. Airplanes take some time to develop, and we're going to develop a safe airplane, and so that -- that takes a little bit of time. We're hoping by the end of the decade. But, we'll see what we can do.
+TAPPER: All right. Tristan "Geppetto" Brandenburg, thanks so much. Come back after your next one. I have more questions.
+We want to get back to the major freeze on federal funding, which goes into effect in two minutes and 22 seconds. There is a federal court hearing on the issue happening right now. More reaction to all this, including with the CEO of Meals on Wheels.
+Stay with me.
+(COMMERCIAL BREAK)
+TAPPER: Welcome to THE LEAD. I'm Jake Tapper.
+This hour, a new show of force from the Trump administration as they crack down on illegal immigration. The new head of the Department of Homeland Security is on scene as agents carried out operations in New York.
+
+Load-Date: January 29, 2025
+
+
+End of Document

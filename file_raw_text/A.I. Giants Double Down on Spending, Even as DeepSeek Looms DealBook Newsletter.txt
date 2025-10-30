@@ -1,0 +1,79 @@
+
+
+
+
+
+The New York Times 
+January 30, 2025 Thursday 08:12 EST
+
+
+Copyright 2025 The New York Times Company All Rights Reserved
+Section: BUSINESS; dealbook
+Length: 2046 words
+Byline: Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee and Vivienne Walt, Andrew Ross Sorkin is a columnist and the founder of DealBook, the flagship business and policy newsletter at The Times and an annual conference.
+Highlight: Both Meta and Microsoft committed to huge investments in artificial intelligence, despite new Chinese software outperforming American rivals at a lower cost.
+Body
+
+
+Both Meta and Microsoft committed to huge investments in artificial intelligence, despite new Chinese software outperforming American rivals at a lower cost.
+We have sad news: We are following the latest on the midair collision near Ronald Reagan National Airport outside Washington between an American Airlines flight carrying 64 people and a U.S. Army helicopter with three crew members aboard. No one was believed to have survived the crash, officials said.
+The C.E.O. of American Airlines has arrived in Washington to help coordinate with the F.A.A. and the National Transportation Safety Board. Results of the investigation will probably take months. But the crash raises important questions — some of which were being asked before — about the increasing traffic in the skies above major metropolitan areas, especially in helicopters and drones.
+That’s expected to rise, given the immense  and drone deliveries. And airlines have  in recent years for more slots at Reagan and other major airports around the country. All that, plus the already dense traffic at busy airports, means radar systems and human pilots have very little room for error.
+The A.I. spigot stays on
+Wall Street has been on tenterhooks about how Silicon Valley would respond to DeepSeek, the Chinese start-up whose low-cost artificial intelligence software threatens to undercut the pricey American approach to the technology.
+So far, the answer appears to be: full steam ahead.
+ and , two of the so-called Magnificent Seven group of tech stocks, said they each planned to  on A.I. And news reports about SoftBank’s talks to inject billions more into OpenAI suggest that deep-pocketed investors are still bullish on the ChatGPT creator.
+Continuing to spend heavily on A.I. will be a “strategic advantage over time,” Mark Zuckerberg, Meta’s C.E.O., told analysts on Wednesday, defending plans to invest up to $65 billion, largely in A.I.-related resources, this year.
+And Amy Hood, Microsoft’s C.F.O., told analysts that her company — which plans to invest about $80 billion in A.I. this fiscal year — will grow such spending next year, though at a slower rate. It’s worth noting that Microsoft’s sales growth slowed in the most recent quarter partly, according to the company, because it lacked the cloud computing capacity to meet A.I. demand.
+The comments were a strong defense of the status quo, where the prevailing wisdom is that winning the A.I. race requires lots of money to buy expensive Nvidia chips and build data centers to train and power such software.
+That’s despite DeepSeek seemingly showing that it was possible to achieve industry-leading performance with a fraction of those resources (even as  about its rival’s achievements.)
+And then there’s SoftBank, which is in talks to invest $15 billion to $25 billion in OpenAI, according to  and . That would come after the ChatGPT creator raised $6.6 billion from SoftBank and others, and after OpenAI and SoftBank agreed to collaborate on the $100 billion-plus Stargate data center initiative.
+Masa Son, SoftBank’s wildly ambitious C.E.O., wants to become a central figure in A.I. A deal would make OpenAI SoftBank’s biggest bet to date on A.I., underscoring a belief by Son — who tends to bet big on companies he thinks will be clear winners — that OpenAI fits that bill.
+But there are signs that Microsoft is willing to hedge on OpenAI. Microsoft is the start-up’s largest investor, at least for now, and Satya Nadella, the tech giant’s C.E.O., said that he remained committed to their partnership.
+He added, however, that the data centers that Microsoft is building to support A.I. applications were “fungible” and could be tasked to different models, including DeepSeek’s.
+Investors appear to have mixed feelings. Shares in Meta were up 2 percent in premarket, a seeming ratification of Zuckerberg’s plans. But shares in Microsoft were down nearly 4 percent, in part because of uncertainty over sales growth and spending.
+HERE’S WHAT’S HAPPENING 
+Tesla shares rise despite missing Wall Street estimates. Investors seemed to shake off the car maker’s , and instead focused on its plans to begin producing self-driving robotaxis next year. While Elon Musk, a close ally of President Trump, stayed largely apolitical in his call with analysts on Wednesday, Vaibhav Taneja, Tesla’s C.F.O., said that the president’s tariff plans would “have an .”
+Trump seeks to further limit Nvidia’s exports to China. The president is considering  on sales of Nvidia’s products to the country, according to Bloomberg. This would include limiting the supply of Nvidia’s H20 platform, which is a throttled version of A.I. chips specifically designed for the Chinese market to comply with U.S. restrictions. Nvidia shares fell 4 percent on Wednesday.
+A star tech banker is set to join the Commerce Department. , who helps lead Morgan Stanley’s global technology banking practice, is expected to take a senior position overseeing international trade and other cross-border matters, The Times reports. Grimes, a longtime adviser to Musk, would be one of several Silicon Valley heavyweights to join the Trump administration.
+The Trump-Powell divide grows 
+President Trump has promised that interest rates would fall on his watch, even announcing to World Economic Forum attendees last week that rates should “.”
+That made it all but inevitable that he would lash out at the Fed after the central bank voted on Wednesday to , as expected. Trump’s dogged insistence on lower rates has aggravated a rift between the president and Jay Powell, the Fed chair, as concerns grow that central bank independence, a pillar of market stability, is in jeopardy.
+“Jay Powell and the Fed failed to stop the problem they created with Inflation,” Trump , before accusing the central bank of being distracted by a string of causes that conservatives have assailed.
+“If the Fed had spent less time on DEI, gender ideology, ‘green’ energy, and fake climate change, Inflation would never have been a problem. Instead, we suffered from the worst Inflation in the History of our Country!” the president wrote.
+The Fed sees it differently. Powell, who mostly dodged questions about Trump and his policies at a news conference on Wednesday, said the rate-setting committee was in a wait-and-see mode.
+“We don’t need to be in a hurry to adjust the policy stance,” Powell said, calling economic growth “solid,” and the labor market strong. While above the Fed’s 2 percent target, inflation is trending lower he added. Add it up, and the central bank seems content to hold off on rate cuts.
+That outlook appears to have soothed the markets. The yield on the 10-year Treasury, which tends to underpin mortgage and credit-card lending rates, fell while Powell spoke. S&amp;P 500 futures were rebounding on Thursday.
+The gulf between Trump and Powell could spill over into the markets. The bond market has stabilized in recent weeks, but the yield on Treasury bonds and notes have soared since the Fed started cutting its benchmark rate in September. That signals that bond holders are concerned that Trump’s promise to cut taxes, impose tariffs on trading partners and crack down on immigration could accelerate inflation.
+, Trump’s pick for commerce secretary, said at his Senate confirmation hearing that he had  to pursue across-the-board tariffs, seeing it as a way to reduce the U.S. trade deficit.  when the Fed cuts rates, as it keeps its eye on consumer prices.
+Meddling with the Fed could backfire on Trump, Paul Donovan, the chief economist at UBS Global Wealth Management, wrote in an investor note on Thursday: “Overt criticism of the Fed by Trump risks tilting the Fed toward hawkishness in any close call decision, to prove their independence.”
+What next? Economists at Goldman Sachs and Wells Fargo see two cuts this year, the earliest possibly coming in June, while Deutsche Bank sees no cuts as its base case.
+“Vaccines play a critical role in health care. All of my kids are vaccinated.”
+— . In a Senate confirmation hearing on Wednesday, President Trump’s pick for health secretary sought to distance himself from his activism against certain vaccines. He said that he backed measles and polio vaccines,  suggesting they were unsafe. Kennedy is set to testify again on Thursday.
+Big Oil’s dilemma 
+Investors are bracing for President Trump’s “drill, baby, drill” cry to hit financial reality when Exxon Mobil and Chevron deliver full-year results tomorrow.
+Despite Trump pulling out of the Paris climate accord and vowing to open new drilling sites, forces beyond his control are scrambling the oil market.  and  are each expected to report annual earnings declines, and shares in both companies have fallen since Election Day, Vivienne Walt reports for DealBook. (On Thursday, Shell reported a , too.)
+“I don’t think rhetoric can change market forces,” Mark van Baal, the founder of Follow This, an activist shareholder group based in Amsterdam that lobbies Big Oil to reduce carbon emissions, told DealBook. “And the market forces are quite strong.”
+The oil majors and Trump are at odds. Trump believes that tapping more “” will bolster economic growth and lower inflation. But Darren Woods, Exxon’s C.E.O., says the American giants are already producing enough. Bryan Sheffield, a Texas-based oil investor and Trump donor, agrees. “Our stocks will be absolutely crushed if we start growing our production the way Trump is talking about it,” he .
+West Texas Intermediate, the U.S. benchmark, traded around $72.65 a barrel on Thursday, below the $84 price threshold that most drillers need to turn a profit, .
+Tariffs could help oil majors in the short term. Trump’s threats to impose tariffs on Mexico and Canada could cause , analysts say. Such a move, however, could upend the president’s inflation-fighting plans.
+Watch Saudi Arabia. Trump last week said he would , the kingdom’s de facto ruler and a close ally, and OPEC to “bring down the cost of oil.” But the Saudis need prices to rise to $98 per barrel to balance their budget, according to the International Monetary Fund.
+That price level would help finance the kingdom’s mega infrastructure projects like construction for the 2034 World Cup. The country has also said it would  over the next four years.
+But some analysts think the Saudis could “” if oil prices remain below their target.
+THE SPEED READ 
+Deals
+Frontier Airlines offered to , for $2.1 billion; its bankrupt rival rejected the offer, however, saying it was too low. (NYT)
+Another group of bidders, including the founder of Employer.com and the C.E.O. of Roblox, said it could offer . (Bloomberg)
+Politics and policy
+President Trump has , the white-shoe law firm, as he seeks to overturn his criminal conviction in Manhattan, a sign that top legal players are willing to work with the president after spurning him four years ago. (NYT)
+A federal judge on Wednesday  that had accused the streaming platform of shortchanging artists on royalty payments. (Bloomberg)
+Best of the rest
+The M.T.A. said that New York’s congestion charge had led to , less gridlock and more use of the subway, less than a month after the levy went into effect. (NBC News)
+“This year’s Super Bowl ” (The Verge)
+We’d like your feedback! Please email thoughts and suggestions to .
+PHOTO: Satya Nadella, the C.E.O. of Microsoft, said the Windows maker will keep up its heavy investing in A.I. even as investors wonder about the costs. (PHOTOGRAPH BY Chalinee Thirasupa/Reuters FOR THE NEW YORK TIMES)
+
+Load-Date: January 30, 2025
+
+
+End of Document

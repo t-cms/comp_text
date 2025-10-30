@@ -17,9 +17,6 @@ The dataset includes articles published in the first month of Trump's 2025 presi
 
 ## Content Analysis Plan
 
-  
-  
-
 I plan to conduct a content analysis to compare how DEI-related issues were framed across domestic and international newspapers. I’ve created a **preliminary codebook** in my topic_modeling assignment to identify topic themes such as:
 
 - **Trump Executive Orders**
@@ -100,57 +97,258 @@ The unit of analysis is an individual news article. The content analysis will fo
 # Analysis Work 
 
 
-
 ## Load Libraries
 
-```{r message=FALSE, warning=FALSE}
+
+```{r}
 library(tidyverse)
+library(janitor)
 library(tidytext)
 library(lubridate)
 library(stringr)
 library(ggplot2)
-library(dplyr)
-library(googledrive)
-library(quanteda)
-library(tm)
-library(topicmodels)
-library(lda)
-library(ldatuning)
-library(DT)
-library(knitr)
-library(kableExtra)
-library(reshape2)
-library(wordcloud)
-library(pals)
-library(SnowballC)
-library(flextable)
-library(rio)
-
 ```
+
+
+
+
+
 
 ## Loading Trump DEI data 
 
 ```{r}
-googledrive::drive_deauth()
-temp_file <- tempfile()
-drive_download(as_id("1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"), path = temp_file)
 
-#the file id is in the URL for your trump_dei_final_index.csv. which you get from clicking "Share on the Google Drive version and copying the link: https://drive.google.com/file/d/1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB/view?usp=sharing
-#https://drive.google.com/file/d/1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB/view?usp=sharing
-#your file id: "1fexSMTg_wJOpyh_XCuc_3_2CP_FGS_tB"'
+## do not reload this block unless adding more articles to analysis, becuase it will add more articles to the already set folder rin my lapto  ### 
+# Reformat .RTF files
+# Load required packages
+# Set the paths for your folders
+input_folder <- "./DEI_updated_files/master_folder_dei/"  # Replace with your input folder path
+output_folder <- "./file_raw_text/" # Replace with your output folder path
+# Create output folder if it doesn't exist
+if (!dir.exists(output_folder)) {
+  dir.create(output_folder)
+}
+# Get a list of all .rtf files in the input folder
+rtf_files <- list.files(path = input_folder, pattern = "\\.RTF$", full.names = TRUE)
+# Convert each .rtf file to .txt
+for (file in rtf_files) {
+  # Extract the file name without extension
+  file_name <- tools::file_path_sans_ext(basename(file))
+  
+  # Read the RTF content
+  rtf_content <- read_rtf(file)
+  
+  # Create output file path
+  output_file <- file.path(output_folder, paste0(file_name, ".txt"))
+  
+  # Write the content to a .txt file
+  writeLines(rtf_content, output_file)
+  
+  # Print progress
+  cat("Converted:", file, "to", output_file, "\n")
+}
+cat("Conversion complete!\n")
 
-# Then import the downloaded file from your hard drive
-dei_articles <- rio::import(temp_file, format = "csv") # If you know the file format, specify it explicitly..."csv" or "xlsx", "txt", etc.
+## reload this after deleting the file raw text stuff, try to locate 200 missing files 
+```
+
+### Compiled Index 
+
+```{r}
+index_1 <- rio::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/Results list for_trump_and_dei_1-999.XLSX")
+index_2 <- rio::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/Results list for_trump and dei_1000-1999.XLSX")
+index_3 <- rio::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/Results list for_trump and dei_2000-2999.XLSX")
+index_4 <- rio::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/Results list for_trump_and_dei_3000-3999.XLSX")
+index_5 <- rio ::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/Results list for_trump_and_dei_4000-4023.XLSX")
+final_index <- rbind(index_1, index_2, index_3, index_4, index_5) |> clean_names()
+
+rio::export(final_index, "/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/final_index.xlsx")
+
+
+## donwload last 23 articles make index_5 and join it in rbind 
+```
+
+
+[copy text compiler comp text code, rewrite code for my stuff in there ]
+
+# Raw text compiler
+```{r include=FALSE}
+#This creates an index with the file path to the stories. And then it compiles the stories into a dataframe
+#####################
+# Begin SM Code #####
+#####################
+###
+# List out text files that match pattern .txt, create DF
+###
+#Adjust thisline for your file name
+files <- list.files("./file_raw_text", pattern="*.txt") %>% 
+  as.data.frame() |> 
+  rename(filename = 1) |> 
+  #create an matching file name
+  mutate(index = str_replace_all(filename, ".txt", "")) %>%
+  mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", index))) |> 
+  mutate(index = tolower(index)) |> 
+  mutate(index = str_sub(index, 1, 25)) |> 
+  distinct(index, .keep_all = TRUE)
+#Join the file list to the index
+final_data <- rio::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/final_index.xlsx") |> 
+  clean_names() |> 
+   #create an matching file name
+  mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", title))) |> 
+  mutate(index = tolower(index)) |> 
+  mutate(index = str_sub(index, 1, 25)) |> 
+  distinct(index, .keep_all = TRUE)
+```
+
+
+
+
+### Check for duplicate entries
+```{r}
+final_data |> 
+  count(title) |> 
+  arrange(desc(n))
+
+## no duplicates in the final_data right now, but only have 3519 records so I'm missing 438 records compared to final index and 504 from the inital 4023 records downloaded from Nexis uni 
+```
+
+
+```{r}
+dupe_data <- rio::import("/Users/tiasiasaunders/Desktop/code/comp_text/DEI_updated_files/final_index.xlsx") |> 
+  clean_names() |> 
+   #create an matching file name
+  mutate(index = tolower(gsub("[[:punct:][:space:]|]", "", title))) |> 
+  mutate(index = tolower(index)) |> 
+  mutate(index = str_sub(index, 1, 25))
+```
+
+```{r}
+report <- dupe_data |> 
+  count(title) |> 
+  arrange(desc(n)) |> 
+  filter(n > 1) |> 
+  select(n, everything())
+```
+
+```{r}
+final_index <- final_data |> 
+  inner_join(files, c("index")) |> 
+#you need the actual hard-coded path on this line below to the text
+  mutate(filepath = paste0("./file_raw_text/", filename))
+head(final_index)
+```
+
+#Fact Check
+```{r}
+anti_final_index <- final_data |> 
+  anti_join(files, c("index"))
+```
+
+#Checking for duplicates
+```{r}
+final_index |> 
+  count(title) |> 
+  arrange(desc(n))
+```
+
+
+#Text compiler
+```{r}
+###
+# Define function to loop through each text file 
+###
+create_article_text <- function(row_value) {
+  
+  #row_value is the single argument that is passed to the function
+  # Take each row of the dataframe
+  temp <- final_index %>%
+    slice(row_value)
+  
+  # Store the filename for  use in constructing articles dataframe
+  temp_filename <- temp$filename
+  
+  # Create a dataframe by reading in lines of a given textfile
+  # Add a filename column 
+  articles_df_temp <- read_lines(temp$filepath) %>%
+    as_tibble() %>%
+    mutate(filename = temp_filename)
+  
+  # Bind results to master articles_df
+  # <<- returns to global environment
+  articles_df <<- articles_df %>%
+    bind_rows(articles_df_temp)
+}
+###
+# Create elements needed to run function
+###
+# Create empty tibble to store results
+articles_df <- tibble()
+#running once to test
+#create_article_text(2) 
+# Create an array of numbers to loop through, from 1 to the number of rows in our index dataframe 
+row_values <- 1:nrow(final_index)
+###
+# Execute function using lapply
+# This loops through each row of the dataframe and append results to master file
+###
+lapply(row_values, create_article_text)
+###
+# Clean up articles_df and join to index dataframe
+###
+articles_df <- articles_df %>%
+  select(filename, sentence=value) %>%
+  inner_join(final_index)
+# write.csv(articles_df, "../exercises/assets/extracted_text/kemi_df2.csv")
+```
+
+
+```{r}
+ articles_df <- read_csv("/Users/tiasiasaunders/Desktop/code/comp_text/articles_df.csv")
+```
+
+```{r}
+articles_df |> 
+  distinct(title)
+
+## use this for textual analysis (bigrams, tokenization, sentiment analysis) 
+```
+
+```{r}
+articles_df <- articles_df |> 
+mutate(dom_vs_intl = case_when (
+  publication_location == "International" ~ "INTL",
+  publication_location != "International" ~ "US",
+  TRUE ~ NA
+)) 
 
 ```
+
+
+```{r}
+final_index |> 
+  count(publication_4)
+
+final_data |> 
+  count(publication_4)
+
+```
+
+
+
+
+
+<RESTART, RERUN AFTER SECURING ARTICLES AND INDEX> 
+
 ## Publication Count 
 
 ```{r}
 #filtered for 10mor more articles, 30 publications and 1479	 articles
-dei_articles |> 
+pub_count <- final_index |> 
   count(publication_4) |> 
   filter( n> 10) %>% 
   arrange(desc(n)) 
+
+print(pub_count)
 
 ### filter out publication to those who have 10 or more (already did ), mutate new column categorizing the 30 publicaations with centrist, left or right based on the media bias charts resources, add case_when 
 
@@ -158,32 +356,53 @@ dei_articles |>
 
 ```
 
+
+
+## Political Leaning Publication Assignment 
+-add source for left, right, centrist, neutral 
+```{r}
+
+## redo this code block with the new data final_index 
+final_index <- final_index |> 
+  mutate(political_leaning = case_when(
+    publication_4 %in% c("CNN Transcripts", "The Independent (United Kingdom)", "The Guardian (London)", "USA Today Online", "Axios", "The Associated Press", "CNN Wire", "The New York Times","USA Today") ~ "Left",
+    publication_4 %in% c("MailOnline", "Fox News", "The Daily Caller", "telegraph.co.uk", "The Daily Telegraph (London)","The Times (London)" ) ~ "Right",
+    publication_4 %in% c("Newsweek.com", "TheHill.com","CNN International", "Forbes.com (Forbes, Incorporated)", "Financial Times Online", "thetimes.co.uk", "Financial Times (London, England)") ~ "Centrist",
+    publication_4 %in% c("University Wire","States News Service", "Targeted News Service", "Business Insider" ) ~ "Neutral", 
+    TRUE ~ "Other"
+  ))
+
+```
+
+```{r}
+## getting a breakdown of the political leaning of the publications
+political_leaning_count <- final_index |>
+  count(political_leaning) |>
+  mutate(
+    total = sum(n),
+    percent = n / total * 100
+  )
+## so how could i do a content analysis of right versus left versus centrist verus neutral 
+```
+
+
 ## Number of columns and rows 
 
 ```{r}
 
-print(paste0("This dataset has ", nrow(dei_articles), " rows and ", ncol(dei_articles), " columns."))
+print(paste0("This dataset has ", nrow(final_index), " rows and ", ncol(final_index), " columns."))
 
 ```
 
 ## Descriptive Statistics 
 
 ```{r}
-summary(dei_articles)
+summary(final_index)
 ```
-
-## Frequency count for each category and their location 
-
-```{r}
-table(dei_articles$dom_vs_intl)
-table(dei_articles$publication_location)
-
-```
-
 
 ### Adding categorizing columns such as dom_vs_intl to indicate whether the article is from an international or domestic outlet 
 ```{r}
-dei_articles <- dei_articles |> 
+final_index <- final_index |> 
  #mutating a new column to indicate whether the pub location is international or domestic 
 
 mutate(dom_vs_intl = case_when (
@@ -195,9 +414,17 @@ mutate(dom_vs_intl = case_when (
 
 ```
 
+## Frequency count for each category and their location 
+
+```{r}
+table(final_index$dom_vs_intl)
+table(final_index$publication_location)
+
+```
+
 ## Top 5 Domestic Articles 
 ```{r}
-top_five_domestic <- dei_articles |>
+top_five_domestic <- final_index|>
   filter(dom_vs_intl == "US") |>
   count(publication_4, sort = TRUE) |>
   slice_max(n, n = 5) 
@@ -209,7 +436,7 @@ print(top_five_domestic)
 
 ## Top 5 International Articles 
 ```{r}
-top_five_intl <- dei_articles |>
+top_five_intl <- final_index |>
   filter(dom_vs_intl == "INTL") |>
   count(publication_4, sort = TRUE) |>
   slice_max(n, n = 5) 
@@ -222,7 +449,7 @@ print(top_five_intl)
 ### GGplot of the articles over time: From the 01/20-02-20-- one month of Trump's 2025 presidency 
 
 ```{r}
-df_time <- dei_articles |> 
+df_time <- final_index |> 
   count(published_date, dom_vs_intl)
 
 ggplot(df_time, aes(x = published_date, y = n, color = dom_vs_intl)) +
@@ -241,7 +468,7 @@ ggplot(df_time, aes(x = published_date, y = n, color = dom_vs_intl)) +
 
 ### Graphic of Domestic versus International Outlet Distribution 
 ```{r}
-ggplot(dei_articles, aes(x = dom_vs_intl)) +
+ggplot(final_index, aes(x = dom_vs_intl)) +
   geom_bar(fill = "violet") +
   labs(
     title = "Distribution of Domestic vs International Coverage",
@@ -254,15 +481,15 @@ ggplot(dei_articles, aes(x = dom_vs_intl)) +
 
 ```
 
-## Tokenizing Data 
+## Tokenizing Data (start here tomorrow)
 
 ```{r}
-stories <- str_replace_all(dei_articles$hlead, "- ", "")
+stories <- str_replace_all(articles_df$hlead, "- ", "")
 stories_df <- tibble(stories)
 
 # unnest includes lower, punct removal
 
-stories_tokenized <- stories_df %>%
+stories_tokenized <- stories_df |> 
   unnest_tokens(word,stories)
 
 stories_tokenized
@@ -270,6 +497,7 @@ stories_tokenized
 ```
 
 #### Remove stopwords and count the words
+
 ```{r}
 
 stories_tokenized <- stories_tokenized |>
@@ -290,31 +518,42 @@ story_word_ct <- stories_tokenized %>%
 bigrams <- stories_df %>%
   unnest_tokens(bigram, stories, token="ngrams", n=2)
 
-bigrams
+```
 
+
+```{r}
+##filtering bigrams to reduce the processing lug to 5 or more instances of bigrams 
+bigram_counts <- bigrams %>%
+  count(bigram) %>%
+  filter(n >= 5) %>%
+  arrange(desc(n))
+```
+
+```{r}
 #Filter out stop words.
 
-bigrams1 <- bigrams %>%
-  separate(bigram, c("word1", "word2"), sep = " ")
+## having issues with this chunk its not running tried multiple times 
 
-filtered_bigrams <- bigrams1 %>%
-  filter(!word1 %in% stop_words$word) %>%
+bigram_counts_1 <- bigram_counts |> 
+  separate(bigram, c("word1", "word2"), sep = " ")
+```
+
+
+```{r}
+filtered_bigram_count <- bigram_counts_1 |> 
+  filter(!word1 %in% stop_words$word) |> 
   filter(!word2 %in% stop_words$word) |> 
     filter(!is.na(word1)) |> 
      filter(!is.na(word2))
 
-counted_bigrams <- filtered_bigrams %>%
-  count(word1, word2, sort = TRUE)
-
-
-
 
 ```
+
 
 ## Top twenty bigrams 
 ```{r}
 
-top_bigrams <- counted_bigrams |>
+top_bigrams <- filtered_bigram_count |>
   arrange(desc(n), word1, word2) |>
   head(20)
 
@@ -324,7 +563,7 @@ top_bigrams <- counted_bigrams |>
 ### Graphic of the Top 20 Most Frequent Biagrams 
 ```{r}
 # Combine the bigram into one string for labeling
-top_bigrams <- counted_bigrams |>
+top_bigrams <- filtered_bigram_count |>
   arrange(desc(n), word1, word2) |>
   head(20) |>
   mutate(bigram = paste(word1, word2))
@@ -340,12 +579,14 @@ ggplot(top_bigrams, aes(x = reorder(bigram, n), y = n)) +
       caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) +
   theme_minimal()
+
+## filter out news channel, 00:00 (after looking at context), cnn host, cnn anchor, channel host, 
 ```
 
 
 ## Creating Domestic articles tokenization
 ```{r}
-dom_dei_articles <- dei_articles  |> 
+dom_dei_articles <- articles_df  |> 
   filter(dom_vs_intl == "US")
 
 
@@ -370,7 +611,7 @@ story_word_ct <- dom_stories_tokenized %>%
 ### Creating International articles tokenization 
 
 ```{r}
-intl_dei_articles <- dei_articles  |> 
+intl_dei_articles <- articles_df |> 
   filter(dom_vs_intl == "INTL")
 
 
@@ -476,6 +717,8 @@ ggplot(overall_sentiment_count, aes(x = reorder(sentiment, n), y = n, fill = sen
     caption = "01/20–02/20.\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) +
   theme_minimal()
+
+## lok into trust, fear and surprise 
 ```
 
 ### Leading postive sentiment 
@@ -530,7 +773,7 @@ sentiments_dom_all %>%
     caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) 
 
-
+## war, defense and military in fear sentiment 
 ```
 
 ## Graphic of Sentiment Breakdown for International Articles 
@@ -550,14 +793,15 @@ sentiments_intl_all %>%
     y = NULL,
     caption = ".\nGraphic by Tiasia Saunders (redacted - peer review)  05/11/2025"
   ) 
+## look into the terms then look at the keyord 
 
 ```
 
-
+{start here and finish then rewrite the new insights into the rmd file knit it to html and add to paper}
 ## Topic Modeling
 
 ```{r}
-textdata <- dei_articles |>  
+textdata <- articles_df |>  
   
   select(filename, hlead, published_date, publication_location, dom_vs_intl) |> 
   as.data.frame() |> 
@@ -860,6 +1104,10 @@ ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) +
   )
 
 ```
+
+
+
+control + left click + option = file path 
 
 ## My Findings: 
 

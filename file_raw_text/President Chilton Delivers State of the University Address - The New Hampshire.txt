@@ -1,0 +1,103 @@
+
+
+
+
+
+The New Hampshire: University of New Hampshire
+February 18, 2025 Tuesday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 1353 words
+Byline: Chandler Blaisdell
+Body
+
+
+The faculty, staff, and students of the University of New Hampshire filled the Memorial Union Building's Strafford Room, last Tuesday at 1 p.m., to hear President Elizabeth Chilton's State of the University address, which touched on a variety of topics pertaining to the university including student enrollment, budget cuts, and a new strategic plan.
+The event lasted an hour, with the time split fairly evenly between the address itself and the Question & Answer session which followed, containing questions submitted online. While many of the questions were answered by Chilton herself, she also brought up other staff members to answer some of the questions.
+The beginning of Chilton's address focused on UNH student enrollment, which since 2022, has increased by a thousand primarily because of a merger with Granite State College (now the UNH College of Professional Studies). Since the merger, enrollment has remained at around 16,000 students. Chilton further discussed ways through which UNH was aiming to keep enrollment steady, such as a partnership with the Community College System of New Hampshire that will create new transfer pathways.
+Moving beyond enrollment, Chilton took time to highlight many of the university's other achievements over the past year including the renovations of Spaulding Hall and Hetzel Hall, the approval to build the NOAA Ocean Mapping Center of Excellence and the renewal of its STARS platinum rating for sustainability. Additionally, Chilton shed light on research achievements and the individual achievements of some UNH students and alumni.
+As her speech continued on, Chilton shifted focus to a series of challenges that the university will continue to face. The first of which had to do with UNH's budget projects for the upcoming year, which indicate that there will likely be between $15 and $20 million worth of budget cuts. The 2026 budget has to be submitted by April 1, according to Chilton.
+"Our priority, and my priority, is to make strategic, thoughtful decisions that uphold the university's core academic mission. And rather than implementing across the board budget reductions, we're taking a collaborative and holistic approach to explore a range of potential budget scenarios," said Chilton.
+While there is still uncertainty regarding what areas these cuts will come from, Chilton used the Q&A to briefly outline the procedures that she is utilizing to help determine this.
+"What we've asked the deans, vice presidents, and other members of the Cabinet [to do] is present their budgets in a kind of informal budget hearing," Chilton said. She added that her administration will be talking to the faculty, student and staff senate councils, to get input on larger ideas.
+"I really want to try to preserve academic programs as much as possible, because that is the core of our mission as a university," Chilton said.
+Chilton also expressed a desire to create a new budget process for the 2027 academic year that would be more transparent and strategic than the previous one; Part of which would be to resurrect the faculty senate's Budget Advisory Committee.
+Moving beyond the budget, Chilton took time to mention "the uncertainty coming from Washington D.C.," a reference to the recent executive orders that have been introduced by the Trump administration that would potentially end DEI programs. In response to these concerns, Chilton stated that UNH is paying close attention to the federal guidelines and their potential effects on the institution. Chilton later brought up Chad Pimental, the University System of New Hampshire 's General Counsel, to answer further questions. Pimental stated that UNH is proceeding carefully due to the dynamic nature of the situation.
+The final topic Chilton touched on was the final report from her Working Group on Freedom of Speech and Expressive Activities. The goals of the group, as stated on the University of New Hampshire website, are to explore and review expressive responsibilities, actions, protocols, policies, and procedures, and evaluate whether UNH campus protocols, policies, and procedures are in alignment with stated values and national best practices. The group was formed in response to the May 1 pro-Palestine demonstration on Thompson Hall lawn, which ended in 12 arrests.
+"It is clear that what transpired that day [May 1, 2024] has rocked our community," said Chilton. "The recommendations of the working group are going to prove critically important as we work towards greater clarity and consistency in supporting freedom of speech, regardless of the content," she said.
+The week prior, Chilton had released a statement detailing the actions UNH would take in response to the report's recommendations; The statement was met with criticism due to Chilton's dismissal of many of the report's recommendations surrounding the UNH P.D., most significantly the recommendation that an independent investigation be launched into the department's response to the protest.
+When further questioned about her statement on the legality of UNH P.D.'s handling of May 1, Chilton said "My perspective is informed by many, many conversations, by watching videos, both body cam and other videos, the report on the working group and all of the report's I could get my hands on ... None of the evidence to me showed that there was reason to believe that there was something illegal that happened or that there had been false statement given."
+Chilton further discussed the actions UNH was taking as a result of the report, including a review of the UNH P.D. 's training, and tasking the Vice President for Student Life, Kenneth Holmes, with reviewing the university's policies and procedures for dealing with forms of protest, in order to make it so that UNH faculty would be the "the first point of communication" instead of the UNH P.D.
+Ending her address with an emphasis on the future, Chilton announced the Strategic Planning Committee that will help create UNH's next 5-year strategic plan.
+"We're at a pivotal moment in our university's history, and I don't want to minimize the challenges ahead," said Chilton.
+"Our future will be shaped by our collective strengths, our resilience, and our unwavering commitment to our students, to each other, and state ... The vision we're crafting for 2030 is one of possibility where our students continue to thrive, our research makes an even stronger impact, and our community stands stronger than ever before," she said.
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 17px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: Source Serif Pro;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 17px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #01358f;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: Source Serif Pro;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 17px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #01358f;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Source Serif Pro;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #01358f;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Source Serif Pro;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 18, 2025
+
+
+End of Document

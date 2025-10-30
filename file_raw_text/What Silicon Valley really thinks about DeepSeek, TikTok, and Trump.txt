@@ -1,0 +1,48 @@
+
+
+
+
+
+Business Insider
+January 30, 2025 Thursday 07:16 PM EST
+
+
+Copyright 2025 Insider Inc. All Rights Reserved
+
+
+Length: 1025 words
+Byline: pkafka@insider.com (Peter Kafka)
+Highlight: The tech industry is used to change. But it's wild to see this much all at once. Let's put it into perspective.
+Body
+
+
+There's an astonishing amount of news coming out of the tech world right now.
+This week, it's DeepSeek. But before that, it was the TikTok ban-then-maybe-sale, huge infrastructure deals, and, of course- Donald Trump.
+I wanted to get an insider view on the hopes and fears in Silicon Valley, so I talked to The Information founder Jessica Lessin.
+This week's news about  - the Chinese-built AI engine that's supposedly just as powerful as top-of-the-line stuff out of the US, but built at a fraction of the cost - shook Silicon Valley and beyond.
+But that's just one of a series of issues roiling tech right now. The big difference: At the moment, DeepSeek isn't intertwined with .
+Just about everything else in the tech world right now seems deeply enmeshed with Trump 2.0. - from a  to the parade of the most powerful CEOs in the world aligning themselves with the new president.
+I wanted to get a view of all of this from the Bay Area, so I turned to Jessica Lessin, the deeply-sourced journalist who has been covering tech for decades - first at The Wall Street Journal, and now at The Information, the publication she founded in 2013.
+We had what podcasters like to call a "wide-ranging conversation" that went in all sorts of directions, and you can listen to the whole thing on my  show. Here's an edited excerpt, focusing on DeepSeek's reverberations and the swirl around TikTok.
+Business Insider: The DeepSeek news is still shaking Silicon Valley and Wall Street, and people are still sorting out what it means. What is your takeaway?
+Jessica Lessin: I think what's happening here is that DeepSeek is striking at a question that is so important: What is the comparative advantage that businesses can have around AI, and where is the money going to be made over the very long term?
+We've seen extraordinary growth, extraordinary products coming out of AI. Everyone says we're in early innings, and we are. And so, how is this technology going to advance? How easy is it going to be for others to build great models and what great businesses are going to be built? I've been feeling like that's an open question for many, many months. And I feel like what happened with DeepSeek is - everyone kind of realized, "Wow, this is still a very open question."
+Over the last year, there was a conventional wisdom jelling that said the AI winners are going to be the biggest technology companies - the ones that can afford all the chips, all the engineers, all the enormous power these things use. This has upended everything. It's been fascinating to watch the Wall Street reaction.
+I think what Wall Street is doing is in some way actually like a meme moment. Not to get too meta here, but DeepSeek kind of had that feeling: The model's been out for a while. They released another model. All of a sudden, Marc Andreessen and Bill Gurley are tweeting about it. It captures Silicon Valley's imagination-slash paranoia. And so I think Wall Street did what Wall Street does, which is sort of have blunt reactions on all fronts.
+You guys had a , which I assume contributed to the panic, reporting that  had spun up war rooms to figure out what they were going to do about DeepSeek. You can imagine Wall Street seeing a story like that coming from your publication and thinking: "Mark Zuckerberg is worried about this. We should be worried about this."
+I just think Wall Street is still trying to figure out what to make of AI in general. We are just days after   that investors of all stripes are trying to digest. Now, we have this evidence that, you know, it may be easier to catch up. So, I think so much remains to be seen. But to your earlier point, I still think the largest companies have a lot to gain with AI because they have the distribution, they have the existing business lines that can be turbo-charged with it. I don't think that's changed with this announcement.
+ says he's going to find a non-Chinese buyer for some or all of TikTok. What's your best bet on who that will be?
+I go back to the last time this came around [in 2020] and the conversations were furthest along with the consortium that included . TikTok is strategically valuable to these Big Tech companies because it's one of the largest customers in the world of cloud computing, AI chips, data centers, and so forth. So, I sort of believe - and know, to some degree - all of those entities are back at the table. And, you know, you can't count out .
+It's surprising how quiet he is about all of that.
+It's surprising.
+He and, in many ways, it hasn't worked out. You could argue that it has worked for him in other ways. But TikTok is way more influential than Twitter ever was or could be.
+Out of his many challenges, selling  capabilities in China is near the top of the list. He is not allowed to do it. It's hurting his position in the China market, which is essential. And so he's looking for every bargaining chip possible. I think his relationship with Trump has been driven in part by this need to negotiate with China. So I think that's important context here. And I'm sure that like any good businessman, he'd be trying to use this to his advantage. I think we're going to have to just play this out a little bit and see what happens. And all options are still on the table. I mean, you could also have the Chinese government just saying, no way.
+Tech leaders are embracing Trump very publicly. How much of that is because they want to get something from him, and how much of it is because they're afraid of angering him?
+I think the story is a little more complicated than just wanting to be in his good graces. I think Silicon Valley senses there is a moment to unwind many policies - ranging from tax law to DEI - of the last several years. So tech leaders are really taking this moment. They are aligned with Trump on many issues. They're taking this moment to try and seize that, to get their companies back to where they want them to be.
+Read the original article on
+
+
+Load-Date: January 30, 2025
+
+
+End of Document

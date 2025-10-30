@@ -1,0 +1,35 @@
+
+
+
+
+
+The Guardian (London)
+February 26, 2025 Wednesday 9:08 AM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: TECHNOLOGY; Version:1
+Length: 389 words
+Byline: Joanna Partridge
+Highlight: Tech company blames ‘phonetic overlap’ for problem where US president’s name appears
+Body
+
+
+Apple has promised to fix a bug in its iPhone automatic dictation tool after some users reported it had suggested to them “Trump” when they said the word “racist”.
+The glitch was first highlighted in a  , when the speech-to-text tool sometimes briefly flashed up the word “Trump” when they said “racist”, and was later repeated by others on social media.
+“We are aware of an issue with the speech recognition model that powers dictation and we are rolling out a fix,” an Apple spokesperson said.
+The company blamed the bug on its tool displaying words that have “phonetic overlap” before the “intended word” is identified, which in this case included words with the “r” consonant.
+However, the glitch caused outrage among some conservative commentators in the US, who have   against those on the right.
+The bug also called into question Apple’s artificial intelligence capabilities, only a day after the company announced a  , widely interpreted as a move designed to appeal to Donald Trump’s government.
+The tech company said on Monday that the investment, running over the next four years, would include a giant factory in Texas for artificial intelligence servers and would create about 20,000 research and development jobs across the country.
+The AI announcement came only days after Apple’s chief executive, Tim Cook, reportedly met Trump. The company could face 10% tariffs on its devices, many of which are assembled in China before being imported into the US.
+The maker of the iPhone did manage to secure some waivers on tariffs levied on China during Trump’s first term.
+It is not the first time Apple has announced a multibillion-dollar investment in the US economy during a Trump administration. In 2018, during his first term in the White House, Apple said that new and ongoing investments would contribute $350bn to the US economy over five years.
+Since Trump’s election and his signing of   overturning diversity, equity and inclusion measures in the federal government, many in the tech sector have followed suit with   – including Google, Amazon and Meta. However, on Tuesday Apple shareholders   urging the company to drop its own DEI programmes.
+
+Load-Date: February 26, 2025
+
+
+End of Document

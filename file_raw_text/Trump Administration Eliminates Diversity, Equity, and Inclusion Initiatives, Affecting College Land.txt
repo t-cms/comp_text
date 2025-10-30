@@ -1,0 +1,94 @@
+
+
+
+
+
+The New Hampshire: University of New Hampshire
+February 17, 2025 Monday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 913 words
+Byline: Rebecca Colby
+Body
+
+
+On Monday, Jan. 20, President Donald Trump signed an executive order terminating diversity, equity and inclusion initiatives introduced by the Biden administration.
+The next day, President Trump issued a second executive order repealing past DEI initiatives dating as far back as 1965. An excerpt from Section 1 of the first executive order titled Ending Radical and Wasteful Government DEI Programs and Preferencing reads as follows:
+"The Biden Administration forced illegal and immoral discrimination programs, going by the name 'diversity, equity and inclusion' , into virtually all aspects of the Federal Government".
+The actions of the Trump administration aren't the first aimed at dismantling DEI initiatives. In May 2023, Florida Gov. Ron DeSantis signed a bill that prohibited public colleges and universities from spending money on DEI programs, citing their discriminatory initiatives and woke ideologies in a press release.
+Universities across the country have already repealed or begun to repeal DEI programs, and many did so before the executive order(s) in late January, with some repeals and cuts dating as far back as Spring 2024. The University of North Carolina repealed its DEI policies in May 2023 and replaced them with new policies. In March 2024, the University of Florida released a memo stating that they had closed their Office of the Chief Diversity Officer, and eliminated over a dozen DEI-related positions.
+Since the executive orders in late January, Northeastern University has removed their DEI website, with the link to the site now redirecting to "Belonging at Northeastern". These are among a few of the many universities amending, replacing or changing DEI policy. This raises the question of how the University of New Hampshire administration intends to address the recent executive orders.
+On Monday, Jan. 27, President Elizabeth Chilton sent out a statement to the University of New Hampshire community regarding the executive orders from the Trump administration and the university's plan to address the changes. An excerpt from the statement details: "Our leadership team, legal counsel, and the appropriate campus offices are closely reviewing guidance from federal agencies. We are evaluating how these changes might affect our students, faculty, staff, and programs." The statement also included continually updated resources and instructions for those who may be impacted by the recent presidential actions.
+On Tuesday, Feb. 11, during the 2025 State of the University, President Elizabeth Chilton addressed the Jan. 20 executive orders. "Our leadership team, our legal counsel, and relevant campus offices are closely reviewing federal guidance to assess the potential effects on our students, our faculty, staff, and programs," said Chilton.
+Several information sessions were held in the weeks and days prior to the address by Nadine Petty, chief diversity office and associate vice president for the division of diversity, equity and inclusion, as well as Marion McCord, senior vice provost for research, economic engagement, and outreach, and Chad Pimentel, legal system general counsel for UNH. "We'll continue to try our best to answer your questions and provide guidance throughout this shifting landscape," said Chilton.
+Pimentel asserted the current shifting landscape, and how it continues to shift daily: "What we've been seeing as these orders have come out and then in the subsequent court actions is that the initial headlines aren't necessarily the requirements that legally apply to us when you break it down...things are changing very quickly and we're trying to move mindfully." Pimentel said that they expect guidance from government agencies such as Health and Human Services, the Department of Education, and the Department of Justice throughout the coming months.
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 17px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: Source Serif Pro;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 17px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #01358f;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: Source Serif Pro;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 17px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #01358f;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Source Serif Pro;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #01358f;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Source Serif Pro;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 17, 2025
+
+
+End of Document

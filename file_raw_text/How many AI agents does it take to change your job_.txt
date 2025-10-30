@@ -1,0 +1,65 @@
+
+
+
+
+
+ 
+FT.com
+February 12, 2025 Wednesday
+
+
+Copyright 2025 The Financial Times Ltd. All Rights Reserved Please do not cut and paste FT articles and redistribute by email or post to the web.
+
+
+Length: 1738 words
+Byline: Isabel Berwick
+Body
+
+
+Hello and welcome to Working It.
+For years, my Gen-Z son had been telling his sceptical mother that a second Trump term would usher in the tech and political dominance of anti-woke young men who had grown up online. He was right and I was wrong. 
+This shift is intimately linked with the dismantling — and outlawing, in some cases — of US corporate diversity, equity and inclusion programmes. 
+Can corporate DEI be refocused and rebuilt? Many experts think the answer to non-partisan, long-term progress is already available. A great piece in Bloomberg  has a good shorthand: the authors cite two sorts of DEI. The first is “lifting”, which gives preference or exclusive access to certain groups, and uses quotas and targets. These practices are now illegal for some US organisations and are  in many more.
+In contrast, “levelling DEI” has been in workplaces for a long time — and is likely to stay. It focuses on things such as de-biasing recruitment and promotion processes to make them fairer for everyone, and “opening gender and race-based affinity groups to all comers”. 
+With thanks to the article’s co-author  and to  at PwC for sharing the lifting/levelling idea on LinkedIn — both of these experts are great follows for DEI wisdom that isn’t knee-jerk and/or panicked. Keen to hear your views on the future of diversity at work, on or off the record: 
+Sorry, that was long, but there’s a lot going on \uD83D\uDDD2️. Keep up with the FT’s latest DEI reporting . 
+Read on for some mind-blowing insights into agentic AI at work — now and in the future. 
+The (not-so-secret) agents who will power up your workflow \uD83D\uDD0C
+I first talked to  last summer, on the . She has an AI-powered digital twin called Laila, who looks and sounds like her human companion \uD83D\uDC6F, and is trained on Iliana’s work at Accenture — where she (the IRL Iliana) is a managing director and leads its North American innovation hubs. Laila can go to meetings, research and answer questions for Iliana, freeing the human up for more complex tasks. 
+When Iliana was passing through London this week, I caught up with her to ask about what’s new and coming in AI. Not everyone can have a sophisticated digital twin, but what’s changed since we last talked eight months ago is that the idea of everyone using digital agents in their work (I keep wanting to call them “helpers”) is no longer a “frontier” topic. 
+A bellwether for this huge shift, part of what Accenture calls “ ”, came in September 2024, when Salesforce chief executive Marc Benioff announced the company would “hard pivot” to the Agentforce platform, which creates and deploys agents to help workers. (I see ads for Agentforce on the London underground \uD83D\uDE87, so it’s truly mainstream now.) 
+How, I asked, do Iliana, and her teams and clients, use agentic AI — and what can the rest of us learn? The answer is complex, and I hope I do Iliana justice when I say that my key takeaway from our conversation was that we can’t just “stick” AI agents into our existing workflows and get them to do things better. We all need to think about work differently, and that’s probably going to be harder for leaders in big legacy companies, with multiple internal departments and functions (dare I say, “silos” \uD83E\uDEE3) than it might be for a nimble start-up or scale-up where the company blueprint, not to mention its org chart, is more recent. (Related: my colleague Andrew Hill  on the problems facing 20th-century industrial titans in the US.) 
+Here’s Iliana: “When you are building processes you have to reimagine the entire process from the ground up to embed the agent. You’re not just taking a clunky process and then having the agent doing exactly what the humans used to do.” 
+So the future is likely to be agentic, and, while a lot of the technology is intuitive - thanks to generative AI that can process and speak our languages - new skills will be needed to implement the rollouts. As Iliana highlights, “there’s a skillset around business process mapping that is not very glamorous but it is about to become very much in vogue and very much needed, because to design for AI systems, you need to be able to map a process, beginning to end.” 
+Hop on that mapping to future-proof your career. Or just sit back and enjoy the possibility of efficient agents giving us a lot more free time. With Iliana’s futurist hat on, she suggests that in the long term, AI may save us 10 hours a week in our jobs. “Start developing hobbies, so you are ready for the AI world.” 
+I love this. Time for more ⛳️, \uD83C\uDFC3\uD83C\uDFFB‍♂️, and my favourite, \uD83C\uDFCA‍♀️.
+In a nutshell: Agentic AI is going to remake our jobs, but it’s not a bolt-on. We have to map everything we do, take it apart and rebuild better, with integrated agents. 
+Want more? Accenture’s  has the charts and trends you need for your next presentation \uD83D\uDE09
+Office Therapy
+The problem:I am two years into my career in a financial institution after a degree in a business-related field. My work is mind-numbing, with excessive bureaucracy and no room for innovation. How can I pivot towards a field where my interests are more prominent? 
+If I could have my time at university again, I would have pursued the humanities, ideally going into academia. I feel very stuck. Am I doomed to work in a dull corporate forever? Is going back to school the answer?
+The answer: You are experiencing the money vs passion argument (or we could say “head vs heart”, as it’s almost Valentine’s Day ❤️). 
+As someone who has spent their career working in the same postcodes as financial institutions, but without earning anything like City money \uD83E\uDEE4, I know both sides of this equation. I have met many people on the finance side who yearn for a more artistic and purpose-driven career. (But . . . have you watched ! Finance is cool again.) 
+I asked Jonathan Black, director of the careers service at Oxford university, for his expert advice for you: “One option is to stay put, try to enhance your current work, and divert your creative energies into activities outside work; you might even go part-time to free up a day or two a week to do that seriously, perhaps studying for a humanities degree. 
+“Or stay in financial services but move sideways to an organisation with a culture that better suits you, less bureaucratic and more creative. ”
+I did a masters degree in the evenings while working in my first job because back then I was halfhearted about journalism and fancied returning to academia. If you try a part-time degree you’ll meet fascinating people and will get a perspective on what it’s really like inside universities. 
+It turned out that the world did not need my proposed PhD thesis on the representation of women in 19th-century Spanish literature, but I do sometimes still think about the path not travelled. Whatever you decide, it will turn out fine. You may just need to make a few pit stops and detours along the way. 
+As Jonathan reminds us: “In this difficult job market, especially for people in their 20s, you are in a relatively luxurious position of having a well-paid and secure role. This is a strong foundation to build on.” 
+Have a good holiday, maybe get some career coaching (even better if your employer will pay for it) — and take your time. 
+Got a dilemma for Office Therapy? We anonymise everything. Email: 
+Five top stories from the world of work 
+Emma Jacobs and Anjli Raval examine the emerging trend of bosses’ checking their employees’ office attendance data — and then using it in pay and performance reviews. Better data means more monitoring, and it’s harder to escape the return-to-office mandates. 
+I really enjoyed this column by Sam Joiner about the unexpected ways that generative AI is being used in workplaces, often under the nose of employers who don’t know about it. 
+Tim Harford delves into the phenomenon of creativity and productivity in later life — a time when many people are, wrongly, written off. Time for change (and it includes a mention of my book\uD83D\uDE0D). 
+: As the consequences of Donald Trump’s ban on DEI policies in government start to be felt more widely, this move from Deloitte is in contrast to its UK arm, which is set to “double down” on its diversity policies, write Ellesheva Kissin and Myles McCormick.
+More than 150,000 Hongkongers have settled in the UK since 2021, many of them highly qualified and with years of experience. As Delphine Strauss reports, many are struggling to find jobs that come anywhere near matching their skills. 
+One more thing . . . 
+A work book with a difference:  by Polly Borland narrates the life and career of an unnamed country GP \uD83E\uDE7A, accompanied by beautiful photography. The book is set in the same valley as John Berger’s classic book , written in the 1960s, which chronicled the life and work of John Sassall (a pseudonym), then the local doctor. This modern version confirms that the village medical practice and the care it provides is still a pillar of the community. If you are a fellow urban person who thinks this kind of medical care has disappeared: read this and marvel. 
+This week’s book giveaway \uD83D\uDCD5
+I am intrigued by  (come on, the title is genius), a new book about “the secrets of successful virtual communication” by Andrew Brodsky, a management professor at McCombs School of Business, University of Texas at Austin. It has advice on upping your virtual meeting game, effective workplace messaging — and building a relationship with your team when you’re working hybrid and remotely. The book is published in the UK by Penguin Life, and in the US by Simon and Schuster (it costs £16.99/$28.99). We have 10 copies to give away to Working It readers — enter on  before 5pm on Friday, February 14. 
+(I managed to mess up the book giveaway last week, thank you to everyone who persisted with their entries — winners will get their books very soon ❤️‍\uD83E\uDE79.)
+
+Load-Date: February 12, 2025
+
+
+End of Document

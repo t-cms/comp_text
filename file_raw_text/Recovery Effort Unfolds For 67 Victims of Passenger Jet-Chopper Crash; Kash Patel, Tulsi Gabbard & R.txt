@@ -1,0 +1,333 @@
+
+
+
+
+
+CNN CNN NEWSROOM 3:00 PM EST
+January 30, 2025 Thursday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 8661 words
+Byline: Jim Sciutto, Richard Quest, Peter Goelz, Eva McKend, Josh Rogin, Oren Liebermann
+Guests: Shawn Pruchnicki
+Highlight: An American Airlines passenger jet and an Army Black Hawk helicopter collided mid-air; and all 67 people on both aircraft are now presumed dead. Three of President Trump's most contentious cabinet picks were on Capitol Hill today for hearings that could make or break their nominations, though Republicans have largely lined up. President Trump has just signed an executive order to formally appoint the deputy administrator for the FAA, and also, memorandum ordering an immediate assessment of aviation safety and ordering an elevation of competence over DEI.
+Body
+
+
+TODD INMAN, BOARD MEMBER, NATIONAL TRANSPORTATION SAFETY BOARD: That notification will be handled by the D.C. medical examiner.
+[15:00:03]
+We will not be discussing fatalities or names that will be handled by them as the proper authority.
+So we want to talk a little bit about our process. We will analyze the facts and determine the probable cause of the accident, and then issue a report of those determinations. I also want to talk a little bit about some additional people that are here with us, and they're very important to us, and that is our family assistance group.
+Later today, we will be briefing the families. We normally try to do this before a media event, but in this case they're still arriving. Our family assistance specialists are already working closely with local officials and others to help assist them in their efforts to support everyone that's affected by this accident.
+And let me just reiterate what the chair said -- a loss of life in an aviation accident is very unusual in the United States, and our heartfelt sorrow goes out to everyone that's affected. It affects us. It affects everyone around us. There are a lot of people hurting today.
+We will help find out what happened. We will do it factually and we will do it accurately. As part of this, we are going to be standing up some specific working groups.
+Those working groups will be operations. They will be looking at the history of the accident. Flight and crew members duties for as many days before the crash as appears relevant.
+We will be forming a structures group, which will be the documentation of the airframe wreckage and the accident scene, including calculation of impact angles to help determine the planes pre-impact course and altitude.
+We'll have a power plants group. They will do the examination of the engines and the engine accessories.
+We'll have a systems group. They will study the components of the planes hydraulic, electrical, pneumatic and associated systems, together with the instruments and elements of the flight control system.
+We will have an air traffic control group. They will do reconstruction and review of air traffic control systems provided to and including acquisition of pertinent flight track surveillance information. What you might typically think of as radar or ADS-B, along with controller, pilot communications.
+We will also have a survival factors group. They will be doing the documentation of impact forces and injuries, community emergency planning and all crash and fire rescue efforts.
+Also, due to the unique nature of this crash, we will be having a helicopter group as well.
+Lastly, we will have a human performance group and this will not be its own group. It will actually be a part of the operations, air traffic control and helicopter groups. They will study the crew performance and all before the accident. Factors that might be involved in human error, including fatigue, medication, medical histories, training, workload, equipment design and work environment.
+Now we're going to take a few questions, but I will again stress, we don't have a lot of information now. We will continue to gather that. We will try to release it as we can, but we will only talk about the facts of the case that we know right now.
+So I'm going to ask, well call it a few people. I'm going to ask that you state your name affiliation.
+REPORTER: James Matthews from Sky News. So we've heard from President Trump today talking about the DEI hiring policy within the FAA and associating that with the cause of this accident. What do you say?
+INMAN: Well, unfortunately, I didn't hear the remarks. I was briefing House and Senate members, but I believe, Chair, would you like to take that.
+JENNIFER L. HOMENDY, CHAIR, NATIONAL TRANSPORTATION SAFETY BOARD: As part of any investigation? We look at the human, the machine and the environment. So we will look at all the humans that were involved in this accident. Again, we will look at the aircraft, we will look at the helicopter, we will look at the environment in which they were operating in. That is part of -- that is standard in any part of our investigation.
+I'll turn it back.
+REPORTER: Can I ask you, has the flight data recorder been recovered yet? And what is the difficulty in a water disaster like this, which presents a very difficult environment for your investigators and the people out of the water right now?
+HOMENDY: Well, the question was on the flight data recorders and we have not recovered the flight data recorders yet. We know they're there. They are underwater. This is not unusual for the NTSB. We have many times recovered flight data recorders in water. We have our lab right here that is about a mile from the NTSB. So it's not unusual. And once we get those, we'll be able to get those read and information from them to be able to provide further information to you.
+[15:05:07]
+REPORTER: Chair --
+HOMENDY: I'm going to turn it back over to member Inman.
+INMAN: Sir?
+REPORTER: Skyler Henry, with CBS News.
+Earlier today, Defense Secretary Pete Hegseth said a mistake was made last night. Based off of you all's initial investigations and preliminary findings, have you all been able to tell whether this was human error or mechanical failure?
+INMAN: The question was, has there been human error or mechanical failure? We don't know what we know just yet. We do not know enough facts to be able to rule in or out human factor, mechanical factors. That is part of the NTSB investigative process and where all of these groups will come together.
+It's one of the reasons why the NTSB is known as the gold standard. We will take the time that's necessary. But id also like to reiterate, if we find something that is a significant issue that warrants immediate action, we will not hesitate to make those recommendations and make them public.
+We have a good track record on that, and we want to continue doing so.
+Sir?
+REPORTER: Hello, sir. Tom Costello with NBC News.
+Does it hurt your investigative process? Maybe for the chairman -- does it hurt your investigative process to have the president already suggesting possible causes here as you try to keep an open mind and begin this investigation?
+INMAN: Thank you.
+Chair?
+HOMENDY: Tom, with all due respect, I think the press also likes to state what probable cause is before we get to the probable cause. So what I'm going to say is you need to give us time.
+You need to give NTS -- it's not that we don't have information. We do have information. We have data. We have substantial amounts of information. We need to verify information. We need to take our time to make sure it is accurate. That's best for you. That's important for the families. It's important for legislators who are seeking answers to try to figure out what they're going to do about this.
+And so it will take time. We do have a lot of information, but we need some time to verify that.
+REPORTER: Chase Williams with Fox Business.
+I'm wondering about the conditions in the tower last night. Were there any performance issues in the past with any of these controllers? Anything of that?
+INMAN: The question is about controllers. As I said, we are just now forming the groups. The controllers do have union representation, which they are entitled to.
+They'll be working with our party system and our party groups. They will be conducting interviews. Those interviews will need to be analyzed, transcribed, and other team members will need to look over it. It'll be a long process, but we will go through the entire history.
+REPORTER: Michelle Wu, "The Independent".
+My question is for the chairwoman. Can you tell us more about what the president, the vice president's responses were when you briefed them this afternoon?
+HOMENDY: Sure. So, the question was about my briefing for the president and the vice president. As is standard, we offer briefings on our process and what we know. And this was a briefing with the president and vice president and with Secretary Duffy and Secretary Hegseth and also the acting administrator of the FAA.
+There was discussion on what we know so far. And our process, and that was about it.
+REPORTER: Madam Chairwoman, Stephanie Ramos (ph) with ABC News.
+Similar to Tom Costello's question, the president has stated what may have caused the crash, stating common sense. Does that affect your progress at all at this early stage?
+HOMENDY: Yeah. So the NTSB, we -- we are -- we conduct an -- a -- an important safety mission where we take a very careful approach. I'm sorry -- the question was on speculating during investigations, which is, we often hear about. What I will say is we look at facts on our investigation, and that will take some time. And at some point, we'll be able to provide that factual information, as member Inman said. And, provide that hopefully tomorrow.
+INMAN: Hang on a second.
+REPORTER: Dave Jefferson (ph) from Reuters. Have you been able to retrieve the black boxes from the helicopter? The military decided whether they're going to read those to the NTSB. And what about the ATC tapes?
+INMAN: So the question was about black boxes, which are referred to as black boxes, which typically orange. We have not recovered any of the boxes involved yet.
+We feel comfortable and confident that we will be able to. Right now, recovery of life is probably the most important. And those that were involved, I mean, there are still ongoing recovery efforts involving the fatalities involved, along with some debris is coming out as well.
+[15:10:08]
+We will make sure that that perishable evidence is maintained. We have a great process for that. We will probably have more than one black box, so to speak. It's our understanding that the Sikorsky helicopter is equipped with some form of recording devices.
+And those will be read either by the DOD or by us. We have a good starting relationship with them, and we've already made agreements in order to be able to do that. So I feel comfortable in what we're going to be doing.
+The other question was about air traffic control. We received a very large package of information from the FAA at about 3:00 a.m. I believe, this morning that is still being reviewed and analyzed. I would say there's a lot more information that usually comes in that than what you may find online, and people might speculate about, and that is part of that overall process where we take the time to get the information correct and to make sure all the parties are engaged and involved and can fact check that information.
+One --
+GABE COHEN, CNN CORRESPONDENT: Gabe Cohen from CNN. Can you tell me if the NTSB has reviewed this FAA internal report that has been cited by "The New York Times", indicating that the controller that was on duty at the time of the crash was doing a job that's usually done by two people?
+INMAN: I -- we have not reviewed any specific reports about the controllers at this time, at least from the leadership team. Our investigators are continuing to pull all that information. Their personnel records, their files, where they were at, whether they were fatigued, all that information will be part of that investigative process.
+But right now, we cant speculate on anything that may have been reported in the media until we get the opportunity to validate and understand how it impacts the investigation.
+We're going to take just a few more questions.
+REPORTER: Follow up on that. INMAN: Sir?
+REPORTER: Yes, (INAUDIBLE) magazine.
+What's the process in the logistics like of bringing the families in? Are they coming into the airport? And how are you going to sort of do the sensitivity of the sensitivity of bringing them to a place where this tragedy happened?
+INMAN: So the question is about the families and many of those families are still in route. Some are still being notified, from both the military and from the commercial crash.
+There is a family assistance facility that's being stood up by American and PSA airlines, in Bethesda, Maryland. They've already been working on that, standing up. Our team from our disaster assistance team has also been coordinating with them. We plan on briefing them.
+It is customary that at some point, if the families wish to go to part of the accident site, that we would arrange such a thing. But it will only be when we know that it's safe. We have the correct perishable evidence, and we can do it in the proper modesty that should be for those family members. It will be a little bit of a process, but it will take some time.
+REPORTER: Sir, to follow up on the air traffic control.
+INMAN: No.
+Sir, or you.
+REPORTER: I know that -- Mariel Carbone (ph) with DC News Now.
+We've heard from some witnesses that they saw people were able to come down the slides of the plane. Has there been any indication that people made it off the plane into the water?
+INMAN: Well, again, we will not speak to the fatalities. The dc medical examiner will, but I think the D.C. fire chief this morning very succinctly said, correctly, that we believe there are no survivors.
+REPORTER: Did they get even get out of the plane.
+UNIDENTIFIED MALE: Last question.
+INMAN: We -- so hang on one second. Right now, we're going through the debris fields. Nothing we've seen would indicate that maybe slides or chutes were deployed. It was a very quick, rapid impact, but we've seen nothing in that regard so far from the evidence we have. But we still need to verify all of that information.
+One more question.
+REPORTER: Are you going to be looking at the family member's cell phone? INMAN: Go ahead.
+REPORTER: Jeff Cook (ph), ABC News.
+What do you know about the altitude of the helicopter at the moment of impact? And can you talk about the procedure for such helicopters in that area?
+INMAN: The question was about the helicopter procedures. And in D.C., it's kind of a unique environment. We've been getting briefed more and more by the FAA. I'm not an air traffic control specialist, but they're actually helicopter zones, if you will, or tracks. And this one was transiting, I believe, from track 1 to 4 as part of their normal procedure.
+If you live in D.C., you see a lot of helicopters going down into this area. So there's a very well defined system in that regard as far as altitude, until we get the additional information, we can't validate or basically corroborate any of that until we get more of the electronic data and the data that's on the plane.
+I do want to clarify one question that also came about cell phones. You know, in today's age and time, a lot of electronics and other devices do contain a lot of different information. We found on a number of our accidents that we actually are notified through a smart phone that made sense that.
+As part of our process, we will obviously treat the all of the effects of the deceased with dignity.
+[15:15:08]
+We are already starting to pull that information together. If we feel that it's necessary to find or pull some of that information, we will work with the families and make sure that we do it in a in a manner that's respectful for them and their privacy.
+But right now, we don't have any plans specifically on that amount -- on that area until we need to. Thank you very much.
+UNIDENTIFIED MALE: Thank you very much.
+JIM SCIUTTO, CNN HOST: We've just been listening there to an update from the National Transportation Safety Board, briefing the public on what it described as only the very early stages of its investigation into the deadliest airline crash in the United States since 2001.
+Some headlines there. They said that they have not yet recovered the black boxes as they're known. They're not actually black, but the black boxes that record flight data and flight communications. He said that, of course, the passenger jet had one, and there were recording devices on the Black Hawk military helicopter.
+The chairman of the NTSB there saying that we look at facts in our investigation when pressed on President Trump's unfounded claim that DEI was somehow responsible for the crash -- for the crash. Also asked about a "New York Times" report that there was a staffing issue with controllers at DCA at the time of the crash, they said that all those kinds of questions will be a part of their investigation. Again, it's early days, and of course they did notice, as you can see from those live pictures there, that recovery efforts for those lost in this crash continue.
+Our Richard Quest is with us here now.
+I mean, Richard, it's -- I've seen a lot of these press conferences before this one unusual in that among the natural questions reporters asked about President Trump's claim that somehow die policies were responsible for this crash, though, of course, the president did not offer any evidence of that, and they clearly was not an issue. They wanted to touch with any substance.
+RICHARD QUEST, CNN BUSINESS EDITOR-AT-LARGE: No, quite clearly so. I mean, two things to note here, Jim. First of all, the location of this crash right in the heart of Washington, D.C., along with the presidential involvement in terms of comments. And I think that's one of the reasons why all five members of the board came out there. You had the chair, you had all the members.
+This was a full court board, if you will, to try and ensure and to reassure Americans that the gold standard of investigations, the NTSB would be followed through. It is not usual for all five to turn up. But then that's also because often crashes are at different places or incidents are at different places. But they wanted to look fully on deck.
+Now to the actual gravamen of it. Well, the president said, we have to wait for the facts, but here are some opinions and here are some views and some thoughts. That's the way the president chose to deal with it.
+Today, the board said, we're not going to do any of that. We're going to tell you that we are setting up these working parties, the operations group, the ATC group, the human factors group, all these groups are going to be set up. We will brief families. We will take families.
+That's how it normally goes. There was nothing unusual about what we heard from the NTSB today. And that's how it should be at this point.
+SCIUTTO: No question. Before we go, Richard, you've reported on a number of a number, sadly, of crashes and accidents through -- through your time here. Based on what we know now. And we have the communications, we have the flight path, the communications in the final moments.
+What is drawing your attention at this point in terms of what could have been the error or a series of errors that led to this?
+QUEST: Okay. I'm going to -- I'm going to caveat my comments. I'm not blaming anybody, but it's air traffic control.
+My gut feeling says, you know, one of those planes was where it shouldn't be, and somebody should have noticed that it was where it shouldn't be, and it was probably air traffic control, probably the helicopter transiting from track one to track four. But it's far too early to say with any certainty. But that's the way. It's sort of a gut feeling.
+SCIUTTO: All right, Richard Quest, thanks so much. Certainly a number of questions to explore.
+Joining us now, CNN aviation analyst Peter Goelz.
+He's -- and, Peter, you've investigated a lot of crashes yourself here. I don't want to put you on the spot, because I know the first thing you're going to say is quite similar to what the NTSB officials said there, which is that it's early. We're going to follow the facts.
+But as you look at the limited set of facts that we have so far, including the flight path, those communications from the tower and the communications we heard from the pilots, what is drawing your attention as to potential causes?
+[15:20:12]
+PETER GOELZ, CNN AVIATION ANALYST: Well, I'm with Richard. You're going to focus in on the course of the Black Hawk. The pilots were in a standard approach. They were in within 500 feet of the runway. The flying pilot, the person with his hand on the wheel. He's so focused, was getting the plane safely on the runway. His copilot was responsible for putting down the flaps, communicating, performing other tasks related to the -- to the landing.
+They were not seeing and avoiding. They were landing the plane. The responsibility for see and avoid rested with the Black Hawk, and the idea that they were not at the correct altitude should have been picked up by air traffic control.
+SCIUTTO: Now, based on the communications, the radio communications between the Black Hawk helicopter and the tower that we have, the pilot of that Black Hawk asked for visual separation. What does that mean? And would that be the pilot saying it's on you, in effect, tower, to let me know where I should be?
+GOELZ: It might be. And you know, you want to you want to study the entire communication, not just the last 30 seconds. You want to make sure what were what was going on inside the various cockpits may be difficult to find out with the Black Hawk, depending on what devices they have, but you need to find out, you know, were they paying attention? Was this -- where this? Were there any confusion in the cockpit? Did they know where they were headed?
+The human factor side of this will be very important. And, it's simply -- it's simply appalling to try and approach this from a DEI standpoint. I mean, that that was breathtaking. And, I'm glad to see the NTSB, did not take the bait on that.
+SCIUTTO: Well, in your experience, just on that while you brought it up, have you seen any evidence of a lowering of standards for pilots or air traffic controllers based on race or any other factor?
+GOELZ: Absolutely not. You know, the idea of DEI is to open the door to everybody so that they have a chance to achieve, you know, a success based on established standards. Standards were not changed. I mean, that's simply not true.
+SCIUTTO: I want to ask now just about a systemic question, because there have been at least three incidents of close calls involving helicopters near DCA in the past three years.
+I fly into DCA all the time, and I live in the area not far from the Potomac. I see those choppers fly around and I know that's a busy flight path, and the question has often popped into my mind is that a good idea?
+Is it too busy around there, given that this is one of the nation's busiest airports? Should those helicopters be regularly flying so close to the flight path, a landing path and takeoff path of passenger jets?
+GOELZ: That's a very good question. And the issue is, is -- is it absolutely necessity, a necessity to have this helicopter corridor in the location that it is? Why can't it be diverted back over land to get to Fort Belvoir, you know, ten miles down the river?
+And the question is -- the answer is, unfortunately, it's a beautiful flight. I've taken it on a military helicopter. You know, there is nothing better than flying the Potomac at night, watching the monuments at 300 feet.
+SCIUTTO: Yeah.
+GOELZ: So -- but the question is, is it essential? And that's one of the things I think the investigation will examine. And well have some recommendations on.
+SCIUTTO: Is there something bigger going on beyond DCA? Because you and I have talked on the air a fair number of times in the last several years, following near misses at a number of airports around the United States, both on the tarmac and on takeoff or landing, what's -- what's happening here? Is there a broader systemic problem?
+GOELZ: Well, of course, of course, there is. And the issue is, you know, were not building a lot of new airports. There's not a lot of new runways being built.
+But the -- and we're stretching the capacity of the existing runways and airports to their max.
+[15:25:05]
+You know, air travel is becoming completely accessible to the general public. It's not something that just rich people do. I mean, you -- you can fly to various cities for under $200.
+And the idea that the technology that is still governing the air traffic control in this country is still very antiquated. It has not caught up with the advances in A.I. and in computer technology, that that has really revolutionized other industries. The FAA has been slow to adopt new technologies, in part because they don't want to take a risk.
+And we understand that we don't want a risky technology being put in place that's going to help cause accidents. What we want is safe air travel.
+SCIUTTO: Yeah.
+GOELZ: And we've gotten it. But it's getting tougher.
+SCIUTTO: One has to wonder if an event like this could be an inflection point to bring about changes like the one you mentioned there.
+Well, Peter, I appreciate your thoughts.
+GOELZ: I --
+SCIUTTO: Please go ahead.
+GOELZ: Good to see you. I think I think it will be an inflection point.
+SCIUTTO: One can hope so. Peter Goelz, thanks so much.
+Well, sadly, family and friends were at Reagan National Airport waiting to pick up their loved ones. That, of course, never came.
+Several people on board the American airlines flight were from the figure skating community, including world champion skaters returning from a developmental camp in Kansas. That close knit community currently processing, which, well, it seemed unthinkable.
+(BEGIN VIDEO CLIP)
+NANCY KERRIGAN, U.S. OLYMPIC FIGURE SKATER: You don't have to know everybody to feel that connection. We've been through the same thing, that training, that that rigorous schedule of falling over and over and somehow picking yourself back up, which is like the main lesson, I think learned in skating is you get back up, keep on trying.
+And even when it's hard, you get back up. Even when you're crying, hurt, pain, you get back up and move forward. It's not easy, but that's what we all have to do now together.
+(END VIDEO CLIP)
+SCIUTTO: Yeah.
+Well, the enormous sense of loss. The father of one of the American Airlines pilots, First Officer Sam Lilly, was an army helicopter pilot himself who flew that same route for years. Today, remembering his son pictured there, he said, it hurts so bad, I can't even cry myself to sleep.
+CNN's Eva McKend joins me now.
+Tell us about some of the stories on board. I always feel like you see the faces, you see the names, you hear the stories, and it humanizes. It takes away that that number 67 and puts names and faces on it.
+EVA MCKEND, CNN CORRESPONDENT: Yeah, Jim, these are real lives. Dozens of people are reeling.
+Among the victims, as you mentioned, is this very young pilot who's left behind a family. Samuel Lilly was the first officer on the flight that crashed in D.C. last night. That's according to a Facebook post from his father.
+The victims father actually served as a helicopter pilot in the army himself, and he believes the military helicopter that made this tragic error may be to blame here, he said, in part, from what I can see, those guys turned right into the jet. I think the PSA jet was doing everything right. The army pilot made a grave error. It hurts because those are my brothers and now my son is dead.
+And the skating community across the country is also feeling the impact of this as well. You just heard from Nancy Kerrigan. They are convening today at the skating club of Boston. As they are reflecting on so many of the lives lost and then some in the community were talking about very, very young people, teenagers who were extraordinarily -- extraordinary athletes -- Jim.
+SCIUTTO: No question. And they were returning from doing what they love.
+Eva McKend, thanks so much.
+We will continue to follow the breaking news of the crash, which officials now say killed all 67 people on board, both chopper and the passenger jet. Crews -- they're continuing the mission of recovering the bodies of those lost in the waters there next to Reagan national airport here in D.C.
+Much more on the investigation throughout the hour. Please do stay with us.
+(COMMERCIAL BREAK)
+[15:32:41]
+SCIUTTO: Three of President Trump's most contentious cabinet picks were on Capitol Hill today for hearings that could make or break their nominations, though Republicans have largely lined up.
+One was Kash Patel, tapped to lead the FBI. Democrats laid into him on a number of his past statements, including a list of so-called deep state officials in his book, and saying the FBI should go after, including arresting members of the media. Here's that exchange.
+(BEGIN VIDEO CLIP)
+SEN. SHELDON WHITEHOUSE (D-RI): And here's what this nominee himself has said about using his office to prosecute journalists. We will go out and find the conspirators, not just in government, but in the media. We're going to come after you, whether it's criminally or civilly.
+Is that a correct quotation, Mr. Patel?
+KASH PATEL, NOMINEE FOR FBI DIRECTOR: Senator, that's a partial quotation.
+WHITEHOUSE: But it's correct?
+PATEL: In part.
+WHITEHOUSE: Regarding his publication of his enemies list, Mr. Patel proclaimed, the manhunt starts tomorrow, and reposted a video depicting him taking a chainsaw to his political enemies. Is that you, Kash Patel, re-truth, reposting that at the top of that page?
+PATEL: Senator, I had nothing to do with the creation of that.
+WHITEHOUSE: Is that you reposting was my question.
+PATEL: And that's me at the top.
+(END VIDEO CLIP)
+SCIUTTO: Him at the top.
+Republicans seemed much friendlier to Patel, signaling he may have the votes to be confirmed -- confirmed. Of course, Republican majority in the senate. Turning to another nominee whose confirmation might be less certain, that is Tulsi Gabbard, former Democratic congresswoman picked by Trump to be the next director of national intelligence. Just a single Republican no vote on this committee could derail her.
+There were multiple Republicans who at least were willing to ask questions, particularly on her long running and vocal support for Edward Snowden.
+(BEGIN VIDEO CLIP)
+SEN. JAMES LANKFORD (R-OK): So was Edward Snowden a traitor?
+TULSI GABBARD, DNI NOMINEE: Senator, my heart is with -- my commitment to our constitution and our nation's security.
+LANKFORD: Was he a traitor at the time when he took America's secrets, released them in public, and then ran to China and became a Russian citizen?
+[15:35:11]
+GABBARD: Senator, I'm focused on the future and how we can prevent something like this from happening again.
+SEN. SUSAN COLLINS (R-ME): If confirmed, would you support or recommend a pardon or any kind of clemency for Edward Snowden?
+SEN. TODD YOUNG (R-IN): I think it would befit you and be helpful to the way you are perceived by members of the intelligence community, if you would at least acknowledge that the greatest whistleblower in American history, so-called, harm national security by breaking the laws of the land around our intel authorities. So thank you for being here.
+(END VIDEO CLIP)
+SCIUTTO: Josh Rogin is the lead global security analyst at "The Washington Post" for intelligence, joins me now to discuss.
+Listen, the questions regarding Tulsi Gabbard are numerous because it's not just Edward Snowden, who she has defended in the past. She visited Bashar al-Assad, said that Syria was not an enemy of the American people. And she also often echoed Putin's justification for invading Ukraine.
+I want to play an exchange when she was asked about that by Senator Jerry Moran, a Republican. Get your thoughts on the other side.
+(BEGIN VIDEO CLIP)
+SEN. JERRY MORAN (R-KS): I want to make certain that in no way does Russia get a pass in either your mind or your heart, or in any policy recommendation you would make or not make.
+GABBARD: Senator, I'm offended by the question because my sole focus, commitment and responsibility is about our own nation, our own security and the interests of the American people.
+(END VIDEO CLIP)
+SCIUTTO: She didn't answer the question. She didn't say, quite simply, yes, Russia invaded Ukraine.
+What does this mean for the kind of advice she would give President Trump if she were to be confirmed for this position?
+JOSH ROGIN, LEAD GLOBAL SECURITY ANALYST, WASHINGTON POST INTELLIGENCE: Right. Well, Tulsi Gabbard is a unique nominee because she's got about 20 years of public statements on all of these foreign policy issues in her record. So, it wasn't very likely that she was going to reverse herself on all of them.
+At this committee hearing today, she did reverse herself on the issue of foreign surveillance, something called Section 702. She did say that Edward Snowden broke the law, but she wouldn't say he was a traitor. And she did say that Putin started the war in Ukraine, although he wouldn't -- she wouldn't back off her contention that the U.S. and NATO were responsible for Putin starting the war. So I think she just is doubling down on her well-held positions, knowing that she likely will pass the committee and be confirmed with little or no Democratic support. And as for what that means for her and the president, well, it seems pretty clear that her views are the same as they always have been. In many cases, that will result in the president receiving those views, which are, according to most of these senators, even some of the Republican ones that you've outlined are either not based in fact or are not based in a clear understanding of American values and interests.
+SCIUTTO: The thing is, for several of those senators to vote yes on her, they have to contradict themselves on their own, very public positions on the war, factually noting that it is Russia that invaded Ukraine and not buying this justification that you hear from, well, not just from Putin and the Kremlin, but from some in this country that somehow Russia was goaded into this invasion.
+How are Republican senators holding up in terms of how they've -- how they've challenged her on positions that are contradictory to their own?
+ROGIN: Right. There will be plenty of Republican senators who will have to choose between contradicting themselves or running afoul of President Trump, and all the evidence points to the fact that they will choose to contradict themselves rather than running afoul of President Trump by rejecting his nominee.
+Now, because there are 53 Republican senators, three of them may be able to oppose her without killing her nomination, as we saw with Defense Secretary Pete Hegseth. But in the committee, she can't lose any votes. And my sources say she won't lose any votes.
+And even though the Intelligence Committee votes in private, that thing will leak immediately. And so they're all scared and they're all afraid of either losing their position or losing their political capital with the president. And my sources say she's going to get through.
+SCIUTTO: Is she a security risk? Tom Cotton, Senator Tom Cotton says Gabbard has undergone five FBI background checks that its, quote, clean as a whistle. Are there any questions -- reasonable questions about loyalty?
+ROGIN: I don't think. Well, there's two issues security risk and loyalty. And, you know, if Tulsi Gabbard, as someone who served in the military, says that her loyalty is to the United States, then we can take her at her word. I think what's really the security risk is her judgment.
+And as was pointed out many times over the years, she's repeatedly taken the word of Russian government, the Assad government, the Iranian government and the Chinese government over that of the U.S. government and the U.S. intelligence community that she intends to lead.
+So that's a risk. That's a huge risk. If you have a director of national intelligence who doesn't believe the U.S. intelligence community and trusts our enemies more than our allies, that's an issue of judgment, not of loyalty. And I think there's a huge amount of risk there for sure.
+SCIUTTO: Where does this lead us policy under President Trump? Because I should note, as you were saying, that took the position of, say, an Assad or a Putin over the U.S. Trump did that himself in his first term, standing by Putin, the famous Helsinki moment here. There's a question ill just focus on Ukraine for, for the moment about whether Trump drops all U.S. support for Ukraine somehow forces it into a deal that's not in its interest, more in Putin's interests.
+Where is Trump administration policy as it relates to Ukraine going? Arguably still an open question, but what are your sources telling you?
+ROGIN: There is a fight inside the administration between those people who are more traditionally Republican on foreign policy and those who are more traditionally isolationist? Roughly, you have on one side, J.D. Vance, the vice president, Tucker Carlson, Don Jr. And on the other side, you may have people like Secretary Rubio and National Security Advisor Mike Waltz and U.N. Ambassador Elise Stefanik.
+And although those battle lines change issue to issue, it stands to reason that each faction will win some fights and President Trump will meander between the factions with varying levels of awareness and intentionality, as he ultimately makes this decision. It doesn't look good for Ukraine, okay? Because President Trump has said that he doesn't like many things that that about our policy in Ukraine.
+But what about Taiwan? What about China? What about Israel and Gaza? These are issues that will have to be fought over inside the administration. And those fights have just yet just begun.
+SCIUTTO: And I've been told --
+ROGIN: Tulsi Gabbard is on -- is now on the J.D. Vance, Don Jr. side of that equation.
+SCIUTTO: Right, and I've been told by former senior members of Trump's own administration from the first term that they did expect him to back off support for Ukraine and for Taiwan as well.
+We'll see if they're right. Josh Rogin, thanks so much.
+ROGIN: Any time.
+SCIUTTO: We will return to our top story after the break, 67 people now presumed dead after that mid-air collision over the Potomac River right here in Washington, D.C. They're still searching for those lost.
+We'll be right back.
+(COMMERCIAL BREAK)
+[15:46:02]
+SCIUTTO: I want to return now to the tragedy here in Washington, where an American Airlines passenger jet and an Army Black Hawk helicopter collided mid-air. You're looking now at live pictures of the Potomac River, where first responders are still working tirelessly to recover bodies from what are icy waters here? All 76 people on both aircraft are now presumed dead. Questions swirl as to just how this could have happened.
+Joining me now is aviation accident investigator Shawn Pruchnicki.
+Shawn, thanks so much for joining today.
+SHAWN PRUCHNICKI, AVIATION ACCIDENT INVESTIGATOR: Thank you.
+SCIUTTO: So one new piece of information just in the last several minutes here. And that is some new reporting from our Pete Muntean that there was just one air traffic controller working two different tower positions at the time of the collision Wednesday night.
+What's the significance of that and how unusual is that?
+PRUCHNICKI: Well, so okay, so there's a couple of things to think about with that. One is throughout the country is that does happen. We do have a controller shortage in the United States. And sometimes we do that.
+What is surprising is, though, that in such busy airspace as Reagan Airport, that they would do that there. I, you know, that's -- that's a surprising staffing procedure that's being done there. So it'll be very interesting to see what the NTSB finds when they investigate staffing there, how often this happens, or if this was a one off that just this night, they were so short that they had to do that.
+But this does happen where controllers have to monitor several frequencies and work on a couple of different frequencies.
+SCIUTTO: Does that raise further questions just about the technology of our air traffic control system? I had Peter Goelz on earlier himself also, of course, a longtime crash investigator who made the point. He's not alone in this, that the technology that the FAA relies on is not the latest or the best, and for a number of reasons. Is that a technology problem, too?
+PRUCHNICKI: Well, we don't know this accident, if it's -- if it's a technology problem, but I certainly agree with him that the technology that we have in our air traffic, or our national airspace, and for this example, our air traffic control system most certainly is, is, is not new. And it's been around a very long time. And it is -- it has a long way to go before it could be considered, you know, the most recent or the most advanced system.
+So we also don't know what role that could have played.
+SCIUTTO: Right. PRUCHNICKI: Could there have been problems with the radar at that time? That's going to be very interesting to find out as well. But that is quite concerning that that controller was forced in that situation where he had to cover two frequencies at such a busy airport. That's a pretty terrible position to be put in.
+SCIUTTO: Let me ask you another question. In terms of who's responsibility it was in the moment of the crash, because you have the passenger jet coming in -- n on approach, as Richard Quest was describing it to me there. Focus the pilot and copilot there focused on getting that plane on the ground. You have the helicopter coming from the opposite direction.
+It did. We should note, reach out to air traffic control for what's known as visual separation. Whose responsibility is it to look out the window, right, and make sure you're not on a course to hit another? Is it -- was it the pilot of the helicopter? Was it the air traffic controller, when that pilot asked for visual separation? Was it a combination of the three, the pilots and the passenger jet, chopper and the controllers?
+[15:50:06]
+PRUCHNICKI: Well, so what I've heard so far with the information that came off live ATC and again, we don't know if that conversation was truncated or not, but from what we have heard, what -- what is normal is this see and avoid concept that would controllers in such busy airspace. Sometimes they hand off separation to the pilots. So they'll say do you have traffic in sight? And if you do have the traffic in sight now the separation responsibility falls on that of the pilot.
+So then the controller can go and manage other airplanes if they're so tasked, saturated. This is very common throughout the United States. And all airline pilots out there listening are quite aware of this.
+SCIUTTO: But -- but when the pilots --
+PRUCHNICKI: And then to lose --
+SCIUTTO: I was going to say the pilot, but the chopper pilot asked for visual separation, did that, then hand off that responsibility to the air traffic controller?
+PRUCHNICKI: If he asked for visual separation, the controller is going to ask, do you have that traffic in sight? And then if he says he does now, he hands it back to the in this case, the helicopter pilot. And then he would say, then maintain separation and hands it back to that pilot and says, okay, now it's your job to stay away from that.
+And if the helicopter pilot loses sight, then he needs to report that. But there doesn't, you know, the transmission stop at that point. So he possibly, you know, didn't get a chance to report that or just ran out of time or didn't realize that he did lose sight.
+SCIUTTO: Before we go, you've investigated a lot of crashes. Trump is blaming DEI policies, though he didn't offer any evidence of that. In investigations you've been involved in, I'm not asking you to comment on the politics. I'm just asking on investigations you've been involved in, have you seen any evidence of a lowering of standards for pilots or air traffic controllers based on race or any other factor that is factored in to crashes that you have investigated?
+PRUCHNICKI: Absolutely not. Absolutely not. The most ridiculous statement I have heard, I just -- just unfathomable that he would say that. He needs to go back to talking about other things. He knows nothing about, other than accident investigation. Yeah.
+And I feel so sorry for the families that hear that.
+SCIUTTO: Yeah, understood. Yeah. Not. Not. Well, listen.
+PRUCHNICKI: Yeah.
+SCIUTTO: They must be inconsolable.
+Shawn Pruchnicki, thanks so much for joining us.
+PRUCHNICKI: Absolutely. You're welcome.
+SCIUTTO: Well, we're also learning new details about the training mission that that military Black Hawk helicopter was conducting when it collided with a commercial jet approaching Reagan National Airport, killing all 67 people on board the two aircraft.
+CNN's Oren Liebermann joins us now from the Pentagon.
+What kind of training mission and how regular are these along that flight path?
+OREN LIEBERMANN, CNN PENTAGON CORRESPONDENT: Well, this was a night proficiency mission, that according to Defense Secretary Pete Hegseth, who put out a recorded statement earlier today, and these are fairly standard for Army helicopter pilots to fly at night. They have to complete a certain number of hours, a certain number of flights, a certain number of missions. And this was part of that.
+Hegseth also pointed out that this was not an inexperienced crew. There was an instructor pilot on board this three man crew with about 1,000 hours. There was a second pilot with 500 hours, and then there was a crew chief. So it seems a fairly standard crew for a proficiency mission like this, a -- essentially keeping up the ability to fly at night and making sure you're able to do just that.
+Now, the military has not released the names or the identities yet of the three soldiers who were on board the helicopter that awaits next of kin notification. But Hegseth did say that the Army is taking part in all of the investigations to figure out what happened here. An experienced senior level aviation team will help, as well as an investigative team from the Army's Aviation Safety Center, is part of the investigation to figure out what went wrong.
+He does say he believes it should be fairly quick for investigators to figure out what went wrong, and if the helicopter itself was out of position, was it not following the sort of the preplanned route along the Potomac River? Was it at the wrong altitude?
+Those are parts of the questions he -- he hopes can be answered quickly. But, Jim, that may just be a small part of a much bigger investigation here.
+SCIUITTO: Thank you.
+We'll have to leave it there because live pictures now, President Trump has just signed an executive order to formally appoint the deputy administrator for the FAA. Also, memorandum ordering an immediate assessment of aviation safety and ordering an elevation of competence over DEI. Not clear what that means. Let's listen in.
+UNIDENTIFIED MALE: -- deputy administrator of the Federal Aviation Administration.
+DONALD TRUMP, PRESIDENT OF THE UNITED STATES: Right.
+UNIDENTIFIED MALE: And since the commissioner position is -- excuse me, since the administrator position is currently vacant, he will act as the administrator since he's now been appointed deputy.
+[15:55:07]
+TRUMP: And he's a very capable guy.
+UNIDENTIFIED MALE: Extremely experienced in aviation and highly regarded in the industry and in government.
+TRUMP: Okay.
+UNIDENTIFIED MALE: Thank you, sir.
+TRUMP: Thank you.
+UNIDENTIFIED MALE: Second for your signature, we have a presidential memorandum titled immediate assessment of aviation safety in light of the damage done to aviation safety by the Biden administrations DEI and woke policies.
+What this presidential memorandum orders is for your secretary of transportation and FAA administrator, in this case, acting FAA administrator, to basically ensure that we are actively undoing all of that damage, that we are assessing how much damage was done and that were ensuring that people hired within the FAA, in keeping with your memorandum of January 21st, are only the most outstanding, capable people for the jobs that they are being hired into.
+TRUMP: In other words, competence.
+UNIDENTIFIED MALE: Yes, sir. Elevating competence over everything else instead of the die policies that were pursued by the Biden administration.
+TRUMP: I think everyone understands that and Obama.
+UNIDENTIFIED MALE: Yes.
+TRUMP: Both of them. Okay. But Biden much worse. Not even a contest. What they've done is just crazy in so many other ways. Okay?
+REPORTER: Mr. President, to be clear, are you saying race or gender played a role in this tragedy?
+TRUMP: It may have. I don't know, incompetence might have played a role. We'll -- we'll let you know that. But we want the most competent people. We don't care what race they are. We want the most competent people, especially in those positions.
+And you know, you're talking about extremely complex things. And if they don't have a great brain, a great power of the brain, they're not going to be very good at what they do, and bad things will happen.
+REPORTER: Mr. President, there's long been concerns about the amount of congestion out of D.C. airport. Do you think that there's too many flights coming out of that airport?
+TRUMP: No. I think we need very smart people running the flights and doing it. You know, the ones that aren't good when they'll either do one of two things, they'll have too many coming in and they can't handle it, or they'll have the people waiting up in the air, which everyone's been caught in that situation and circling the airports for an hour. And that's no good either.
+REPORTER: Mr. President, are you aware --
+REPORTER: -- of helicopter, the military helicopter training flights that are flying around national airport all the time. What's your view? Should they be rolled back?
+TRUMP: It's fine if they're in the right locations and if they're not at the same levels. I mean, if a plane coming in is at 300 feet or 400 feet and a helicopter is training at 300 or 400 feet, why wouldn't they be up 500 feet higher?
+So I certainly want and that to a certain extent is the air traffic controller.
+(CROSSTALK)
+REPORTER: President Trump --
+TRUMP: Wait. Please, wait, just a second.
+REPORTER: You feel like what happened last night was preventable?
+TRUMP: I do, yeah. Oh, absolutely. And obviously that was something that should not have happened. And we're not going to let it happen again.
+Yes, please? REPORTER: Mr. President, on a slightly different subject. On your Canada and Mexico tariffs, will oil be included or excluded from those tariffs?
+TRUMP: So, we'll be announcing the tariffs on Canada and Mexico for a number of reasons.
+Number one is the people that have poured into our country so horribly and so much.
+Number two, are the drugs fentanyl and everything else that have come into the country.
+And number three are the massive subsidies that were giving to Canada and to Mexico in the form of deficits. And I'll be putting the tariff of 25 percent on Canada and separately, 25 percent on Mexico.
+And we will really have to do that because we have very big deficits with those countries. Those tariffs may or may not rise with time.
+REPORTER: Mr. President --
+REPORTER: Will oil be part of that? Because we get oil from Canada.
+TRUMP: Oil is going to have nothing to do with it, as far as I'm concerned. Oil has nothing to do with it.
+REPORTER: Mr. President, Mr. President, you said the incompetence --
+(CROSSTALK)
+REPORTER: -- in Guantanamo Bay. You want 33,000 -- 30,000 new beds there. Is there a possibility that will increase or is 30,000 --
+TRUMP: It could increase, yes.
+REPORTER: What would be the maximum?
+TRUMP: It depends. But countries that won't take back their criminals that they sent in to us, you know, they sent them to us. They put them into the caravans and they came in as sure as you're standing there. They were sent by those countries. Then they're going to be met very harshly with sanctions, et cetera.
+REPORTER: And when are you hoping to have Guantanamo Bay, this new facility up and running?
+TRUMP: It'll be up pretty quickly.
+REPORTER: How much do you think it's going to cost?
+TRUMP: It's not very much, which a lot of the structure is already there, as you know.
+REPORTER: Mr. President, you said that incompetence may have played a role. Are you aware of any performance issues or disciplinary actions that were taken against anyone who was working the tower last night, or flying the plane?
+TRUMP: No, no, and I hope that's not the case in this case. But certainly over the years, that's been the case, and it's the case with respect to close calls. And it's the case with respect to circling for hours on end.
+
+Load-Date: January 31, 2025
+
+
+End of Document

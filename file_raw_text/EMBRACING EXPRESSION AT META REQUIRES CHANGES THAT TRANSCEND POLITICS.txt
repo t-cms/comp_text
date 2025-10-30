@@ -1,0 +1,45 @@
+
+
+
+
+
+States News Service
+February 14, 2025 Friday
+
+
+Copyright 2025 States News Service
+Length: 1368 words
+Byline: States News Service
+Dateline: WASHINGTON 
+Body
+
+
+The following information was released by the Cato Institute:
+David Inserra
+Last month, Meta announced a set of significant changes to its content moderation strategies. Ditching fact-checking in the US, loosening content policies that restrict important social speech, making sizeable changes to reduce moderation mistakes, and working with the Trump administration to combat foreign regulation and censorship these are all praiseworthy changes that support a culture of freer expression on Meta's products and, more broadly, in our society. Of course, Meta should be free to moderate speech on its platform as it sees fit. But as a private company built around products that connect people and give them a voice, this return to a greater focus on expression should be welcomed.
+,
+One of the critiques from different sides of the political spectrum is that these moves are shallow or purely political. While the politics of this moment are certainly part of why Meta is making such significant changes, they are not out of line with some of Mark Zuckerberg's past comments on free speech. In 2019, he gave a speech at Georgetown extolling the virtues of free expression that coincided with my first day on the job on Meta's content policy team. Unfortunately, the COVID-19 pandemic, the social change and unrest in the aftermath of the death of George Floyd, and the 2020 election were all used by internal and external forces to push for more restrictions on the company's platforms.
+Even as the politics of the moment will inexorably change, if Meta (or any company) wants to embrace expression in a more lasting, fundamental, and apolitical way, then substantial institutional changes are needed. These can be broken down into three categories: Policy, People, and Structure and Incentives.
+Policy
+Content policies at all major tech companies rely on a balancing act between opposing values and worldviews. The ability for users to express their opinions and beliefs is pitted against the emotional and physical safety and dignity of other users. While First Amendment jurisprudence sets a high bar for state intrusion on expression, tech companies conduct these balancing acts that reflect the worldviews and ideologies of those writing the policies. Yet they are far from perfect, as Meta's past policies have silenced many users because its policy teams and leadership decided that some content was too harmful to allow.
+Many of these content policies have been shaped by a decidedly progressive view of the balance between speech and harm. Under this view, for example, any public debate on Facebook about contentious issues could be subject to removal if it violated the platform's hate speech policy. Similarly, during the COVID-19 pandemic, the platform censored content that alleged the virus was leaked from a Chinese lab, considering that speech as dangerous misinformation, even amidst an evolving scientific debate. It's not just mistaken enforcement (though there is plenty of that as well, and Meta has announced changes to reduce such over enforcement) these are clear, well-thought-out policies predicated on the belief that the harm of such content clearly outweighs the importance of expression.
+To change policies more broadly, Meta should recommit itself to its own values. Giving users a voice is already considered a preeminent value by Meta, but it is not always practiced. Any policy predicated on a weak or biased theory of causation or correlation should be removed. While Meta has rolled back some of its more flawed policies, it should conduct a free speech audit of all policies to identify where it has failed to live up to its values. Now is the time for Meta and its Oversight Board to dedicate themselves to broad introspection over where the policy is prohibiting potentially important speech.
+And if the content is judged to be too harmful, "soft actions" such as warning screens and interstitials should be used more, reserving removals for the most clearly harmful content. An even more comprehensive solution would be to empower users with greater explicit control over the type of content they want in their newsfeed rather than relying on content policy teams deciding on one policy outcome for every user in the world.
+People
+To create and enforce a new set of policies, it is not enough to merely emblazon freedom of expression at the top of policy documents. The people crafting these policies must also believe in this new policy direction and be incentivized to support decisions that leave up more content.
+An axiom in Washington, DC, is that 'personnel is policy.' Zuckerberg clearly understands this, as he has elevated new leadership in his policy organization and announced that he is moving some policy teams to Texas. While the latter action is little more than symbolic, it recognizes a deeper truth that I can confirm from personal experience: the workforce of most tech companies is unabashedly progressive. Looking at FEC data reveals that in 2024, over 90 percent of political donations from Meta employees went to Democrats.
+,
+If Meta (or any company) wants to embrace expression in a more lasting, fundamental, and apolitical way, then substantial institutional changes are needed.
+,
+That overwhelming figure points to a progressive bias in the Meta workforce. As a result, even well-intentioned employees striving for fairness are consistently overcome by confirmation bias in a workplace monoculture that lacks sufficient ideological diversity. If Zuckerberg's renewed vision for free expression on Meta's platforms is to be realized, fostering a broader range of perspectives is essential.
+Lasting change thus requires a conscious effort to hire employees not just for diversity based on race, gender, or sexual preferences but also requires a search for employees with a diversity of ideas. Meta's recent decision to end its DEI programs offers the company an opportunity to rethink its approach to diversity.
+Meta's human resource teams should put concrete criteria and metrics in place that value a full spread of worldviews, especially within the policy teams. And given the current imbalance in the company, a drastic increase in personnel with backgrounds and a desire to expand users' speech is essential. All teams should value a variety of viewpoints, with policy teams staffed to clearly favor free expression.
+Structure and Incentives
+Institutionally, Meta has had numerous teams dedicated to assessing what types of speech were harmful and a legal or PR risk to the company, along with teams focused on policing that speech and taking various actions, including removing it. All these teams are ideologically or structurally incentivized to take down content and create more restrictive policies, especially targeting views outside their ideological bubble. As a counterbalance, there should also be a free speech policy team that is formally designed to stand up for all views and users in all situations. This policy team would also drive internal research into the importance of free expression, conduct free speech audits, and partner with external free speech groups to drive greater expression of Meta's policies and products.
+And, as a libertarian, I would be remiss if I didn't note that incentives matter. For the individuals at Meta, pushing back against teams who want to take content down means frustrating peers and leaders who hold your performance reviews and promotions in their hands. Consistently stopping censorious actions is simply not good for an individual's career prospects. While teams should continue to be rewarded for being experts on safety, managing risks, and taking down violating content, performance and compensation policies should also reward Meta employees for expanding and protecting user's speech. And Meta should be looking for other novel ways to build a company culture that deeply values free expression.
+Meta is free to create the platforms and communities that it wants but I take Zuckerberg's renewed commitment to free expression seriously. Each of these proposed recommendations will cement the importance of free expression within Meta and hopefully inspire broader change in the tech industry and beyond.
+
+Load-Date: February 14, 2025
+
+
+End of Document

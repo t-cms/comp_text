@@ -1,0 +1,177 @@
+
+
+
+
+
+CNN CNN NEWSROOM 11:00 AM EST
+February 6, 2025 Thursday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 4384 words
+Byline: Jeff Zeleny, Manu Raju, Pamela Brown
+Guests: Jeff Merkley, Brandon Gill
+Highlight: House GOP lawmakers meet with President Trump at the White House. Congressman Brandon Gill discusses Elon Musk having access to sensitive federal government systems. Senator Jeff Merkley speaks out.
+Body
+
+
+[11:01:22]
+PAMELA BROWN, CNN HOST: Well, good morning. You are live in the CNN NEWSROOM. I'm Pamela Brown in Washington.
+And we begin this hour with breaking news. Any moment now, Speaker Mike Johnson and senior House Republicans are set to meet with President Trump at the White House. And it comes as tensions flare among GOP lawmakers over advancing Trump's agenda, putting the president's legislative plans at risk.
+CNN's Jeff Zeleny joins us now from the White House and CNN's Manu Raju is live on Capitol Hill.
+Jeff, to you first. What do we know?
+JEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: Look, Pamela, the center of the president's legislative agenda and the future of the president's legislative agenda hinges on meetings like this.
+And we know that House Republicans will be here shortly to meet with the president. And, essentially, he wants to sign a bill that will be the heart of his legislative agenda, but the question is, what kind of bill will it be?
+There are very different approaches here. The House wants to do one bill. The Senate wants to break it into a couple different bills. The president has said repeatedly he does not have a preference. He talked about one big, beautiful bill.
+But I am told in recent days he is coming around to the idea being pushed by Senate Republicans of a separate bill. The first would be for some of his big priorities, like the border, like some energy policy ideas, like some immigration ideas, and a second bill would be later for his tax cuts.
+The House is worried about getting a couple bills through, so they would like to do one big bill. So, at issue now is, is the president going to be essentially a referee here? We know that he is not a very big on the small print, not very big on the details. He just wants to get this accomplished.
+But there is a sense of frustration here at the White House that House Republicans have been moving very slowly on this. So, the president right now will be meeting with House Republicans. And, tomorrow, he is having all Senate Republicans down to Mar-a-Lago.
+So, certainly, he is hearing from a lot of those Senate Republicans. But, Pam, the bottom line to all of this, with Republicans in control of the House and the Senate for the first time in six years, they have to show that they can govern, and that has not been their strong suit.
+BROWN: Manu, tell us a little bit more about passing this agenda and why it has Republicans at odds.
+MANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Yes, this is a major clash that is now developing between the House Republicans and Senate Republicans.
+And it's not just a process issue. It's also a policy dispute too and it could threaten to sink the entire agenda. Basically, what the House Republicans are pushing forward, they want to try to lump everything in into this massive bill. That includes energy issues, immigration issues, national defense issues and also a sweeping tax overhaul.
+That last piece, the tax overhaul, is what has caused a lot of divisions within the ranks. Senate Republicans want to punt on dealing with the tax issue until much later. And because of the mechanisms in Congress, they are trying to use a budget process that allows them to circumvent a Republican filibuster -- a Democratic-led filibuster in the Senate, meaning they have to pass it along straight party lines.
+Because of that process and the peculiarities of moving around Capitol Hill, they have to make these strategic decisions now. Otherwise, it could change how they pursue this. It could also affect how they -- they actually could pass down the line.
+Now, the speaker of the House just emerged leaving his office on the way to the White House and he told reporters that essentially the House is still going to try to move everything in one big bill, even though Senate Republicans are planning a different approach.
+(BEGIN VIDEO CLIP)
+QUESTION: Mr. Speaker, are you OK with the Senate moving forward with its own budget plan and the two bills?
+REP. MIKE JOHNSON (R-LA): We're working on one bill for everything.
+(END VIDEO CLIP)
+RAJU: Now, one top Senate Republican who I caught up with, Senator John Cornyn, downplayed that dispute, suggested they could get behind this, even as the House GOP, one House top tax writer, Jason Smith, told me the Senate Republican plan would be unsuccessful. It would fail, he said.
+[11:05:09]
+I asked Cornyn about that comment.
+(BEGIN VIDEO CLIP) RAJU: He says they're still moving on with one bill. What do you think to that when you think you guys are making a misstep here?
+SEN. JOHN CORNYN (R-TX): The difference between the House and the Senate? You're kidding. What a scandal.
+RAJU: But is this going to be difficult to resolve?
+CORNYN: No, no. We will work it out. We -- it's too important to fail, so failure is not an option.
+(END VIDEO CLIP)
+RAJU: But this is a long, complicated process that the Senate Republicans want to begin next week. It's a two-step process. First, they need to approve a budget blueprint that lays out the broad parameters. That needs to be approved by both chambers, the exact same plan.
+And then they need to draft the details of that binding legislation. And that will get even more complicated. So, Pamela, if they can't agree on the sequencing and they can't agree on how to move ahead, how are they going to agree on the details? That's going to be a big question at the White House just in a matter of moments here, Pamela.
+BROWN: Yes, that is that is the question, right?
+Jeff Zeleny, Manu Raju, thank you.
+Well, we are just over two weeks in the Trump second term, and Elon Musk's DOGE has been on a tear. The world's richest man seems determined to remake the federal government in his image, and he's doing it at breakneck speed.
+In the span of just 17 days, Musk has effectively killed DEI in the federal government, offered buyouts to millions of federal workers, gained access and read-only, according to the administration, to the Treasury payment system, ousted key civil servants, effectively shuttered key federal agencies like USAID, and take aim at others, including Medicare and the Department of Education, all of this in less time than it's taken for some of Trump's Cabinet picks to be confirmed, including those who head -- who would have had some of the agencies in Musk's crosshairs.
+And CNN is also learning this morning that, just days into Trump's term, Musk's lieutenants at the Treasury asked its acting head to shut off all payments to USAID, a move so out of line that it prompted the acting secretary to question whether it was even legal.
+Musk's crusade appears to be raising some eyebrows in Trump's orbit. One Trump operative confided to "Wired" that the tech mogul is getting -- quote -- "too big for his britches" and warned a collision course could be coming.
+Joining us now for more is Texas Republican Congressman Brandon Gill. He serves on the House Oversight DOGE Subcommittee. Congressman, welcome to the show. I believe this is the first time you have had you on. Thanks for coming.
+REP. BRANDON GILL (R-TX): Thanks for having me.
+BROWN: So I just want to start off with, what is your current understanding of what specifically Elon Musk is actually doing within the federal government right now with his tech staffers in the name of DOGE?
+GILL: Well, the American people delivered President Trump a very clear mandate to root out waste, fraud and abuse in the federal government.
+And let me tell you, we have been talking about bringing Elon Musk in for months and months and months now. I think my colleagues on the other side of the aisle like to act as if this is something novel, as if this is something that's unexpected.
+This is part of the Trump mandate getting rid of wasteful spending. I think that my colleagues on the other side of the aisle seem not to be upset about our tax dollars going to idiotic projects, particularly within USAID,but the fact that all of this waste is finally being exposed. And Elon Musk is playing a key role in that.
+BROWN: So what specifically, if you could just lay out? Because you're a member of the subcommittee on DOGE oversight. What specifically is Elon Musk doing right now with his staffers that he has brought in to Washington?
+What systems are they gaining access to? What are they doing with the confidential data they're accessing, some with private information about Americans? Just, if you could, just lay that out for us.
+GILL: Well, first of all, let's be very clear. Elon Musk and his team are not acting as outside advisers. They are acting as employees of the relevant federal agencies.
+They have security clearances. They're complying with applicable federal laws. So they're doing this entirely aboveboard. But you saw a great example of this with what Elon Musk has been doing with USAID, for instance.
+He's uncovered that we have been sending millions of dollars for transgender activism in South America, millions of dollars for DEI scholarships in Burma. These are things that the American people largely didn't know about until now. And we're going after them.
+We're going after this kind of waste, fraud and abuse. Taxpayers all over the country are tired of their money being spent in ways that don't benefit them or being spent in partisan left-wing political projects, particularly on the other side of the globe.
+And that's what we're going after.
+BROWN: OK, so look, Americans, of course, they want the government to be more efficient. They want their taxpayer dollars going to good places. I just want to go back, though.
+[11:10:06]
+You said they're all acting aboveboard. How do you know that? Because I'm not hearing specifics from you about exactly what Elon Musk and his staffers are doing, the programs are getting access to, the information, what they're doing with that data, how they're getting security clearances.
+I'm not hearing specifics from you. So I'm just wondering how you know they're all acting above board and that abuse isn't happening, given getting rid of abuse is one of the key missions of your committee?
+GILL: Well, they have been given the same security clearances that any other relevant employee of these applicable federal agencies would need. They are complying with federal laws.
+I think that we need to allow them to do the work that Republicans were given a mandate to do. These people are...
+BROWN: Are you getting briefings?
+GILL: Excuse me?
+BROWN: Are you -- I just want to understand, and I'm sorry to interrupt, because I'm just trying to understand. I think the American people are too. How do you know that?
+Are you getting disclosures, briefings? I know Elon Musk hasn't been subpoenaed. Republicans blocked that. So how do you know this? Where is your information coming from to be able to say that with authority?
+GILL: We have been getting close -- we have been having close contact with the White House.
+But I want to be very clear about what happened yesterday in the Oversight Committee hearing. That was pure political theatrics from our colleagues on the other side of the aisle. Democrats have an opportunity to invite a minority witness to every hearing that we have.
+They chose a political -- excuse me. They chose a college professor. They could have invited Elon Musk. Then, once the committee began, they demanded that Chairman Comer invite Elon Musk, whenever they could have done it to begin with. And then they began this partisan political games of trying to subpoena Elon Musk.
+This is pure theatrics. Democrats can play political games, but Republicans are focused on rooting out waste, fraud and abuse from our federal government and doing real substantive work to save American taxpayer dollars.
+BROWN: Comer is the chair of the committee, so it would make sense for him to ask Elon Musk to come testify. And, again, it's still not...
+GILL: Democrats have that opportunity as well.
+BROWN: Democrats too, but they did want a subpoena to happen. You're right, and that was blocked by the Republicans.
+I do want to just follow up with you, because you talk about, look, Americans knew what the Donald Trump package would be and they put him in office, OK? But there is some polling out from Quinnipiac showing that 53 percent oppose Musk's role in the administration.
+A lot of Americans are looking at this and saying, wait a second, we didn't elect Elon Musk. And there's not a lot of transparency. I have been trying to get some information from you. There just isn't the transparency. Why did Republicans -- why aren't Republicans doing more, especially in your role as oversight -- on the Oversight Committee, to find out what's happening in the federal government from Elon Musk, an unelected special government official with billions of dollars of contracts before the federal government, and his staffers, some as young as 19 years old?
+Why don't you want to know more?
+GILL: Well, first of all, Democrats had the opportunity to invite Elon Musk to the committee. That's on them if they want to ask him questions. They are welcome to do that.
+But what I'd like to know, OK, if we want to talk about transparency, how do we not know until now that taxpayer dollars have been going -- we have been spending millions of taxpayer dollars on transgender activism in South America?
+There's an enormous amount of waste in our federal government, and we're uncovering new, just egregious ways that the federal government has been spending our taxpayer dollars. We're uncovering new ways every single day. That's where the lack of transparency is.
+And we finally have an executive branch in President Trump who is serious about going after this waste, and that's exactly what the American people elected President Trump to do. That's exactly what they elected House Republicans to do, and that's what we're doing.
+BROWN: And I just want to note, Gerry Connolly, your colleague on the committee on the other side of the aisle, he has invited Elon Musk to come. He has said, please come testify to this committee. We haven't heard from anything. We haven't seen any disclosures from him, despite a federal law requiring conflict of interest disclosures.
+So, I do want to note that. We're also doing a fact-check on what you said. My producer is doing that right now.
+But I want to ask you something, because I know some viewers might be watching this right now, Congressman, and saying, well, hold on a second. So, you're all on board with what Elon Musk and his team of staffers are doing.
+Would you be OK if Democrats were doing this? If, for example, George Soros came in under a Democratic administration and had his staffers gain access to sensitive programs about Americans and their personal information and dismantling agencies, would you be OK with that?
+GILL: It's amazing that Democrats are acting as if this is something that's novel.
+I have been talking to my constituents for months and months and months about Elon Musk coming in, having a serious businessperson coming in, and using his team to go through the federal budget with a fine-tooth comb. There is nothing that's surprising about what's happening right now.
+[11:15:10]
+And, again, if my colleagues want to invite hi, they could have done that yesterday. And you're welcome to fact-check anything I have to say. I invite you to do that, in fact. I think that, given the record of fact-checkers over the past four years, I don't think many people are going to put a whole lot of stock in it, but you're welcome to do so.
+BROWN: Well, we will be sure to look at the source. I'm not saying you're right or wrong. I'm just saying I have a duty on this show to make sure that any information that goes out is fact-checked. That's just a personal -- that's what I have to do, but fair enough.
+So I just want to go back, though. Would you be OK -- because it is unprecedented what Elon Musk is doing. I know you say it's not a surprise, but it is. I mean, we have not seen the world's richest man come in and go agency to agency with his staffers, who they're all unelected, and have access to these sensitive programs.
+Would you be OK if Democrats did this? If a George Soros came in with his staffers and did the same thing that Elon Musk is doing, would you accept that?
+GILL: Well, what's unprecedented is spending our taxpayer dollars on left-wing partisan political projects all over the globe. That's what the American people are focused on.
+This is a result of this election. This is a result of President Trump getting a very clear mandate from the American people to get rid of this kind of nonsense from our federal government. And we're doing it more efficiently than we have ever been done -- than it's ever been done before.
+And, again, the fury that we're seeing from the other side of the aisle isn't about this waste. It's not about paying for left-wing activism on the other side of the globe. It's that it's being exposed finally. And that's what the American people want.
+BROWN: Certainly want more transparency about everything, right, about how taxpayer dollars are being spent and about what is happening within their federal government.
+I do want to note that they have done gender activism in South Africa through gender-based violence and promote women's empowerment. It's not possible to verify the millions of dollars of taxpayer dollars being spent. But USAID would say it's not doing left-wing activism. It's helping vulnerable populations.
+I take your point, though. Look, a lot of Americans want the money to be spent...
+GILL: We spent $2 million LGBT and transgender activism in Guatemala.
+BROWN: And, look, and there's a big question with putting Donald Trump in office and what he is campaigned on, whether -- where that money should be going. And that is fair to discuss. That is fair to discuss.
+(CROSSTALK)
+BROWN: Go ahead.
+GILL: Right.
+And if Democrats want to defend that, then they are absolutely welcome. If they want to go to the American people and tell the American people that they think that it's appropriate to spend millions of taxpayer dollars on radical transgender activism in foreign countries, then they are absolutely welcome to defend that.
+BROWN: I want to follow up with you. You said you were hearing from your constituents.
+There are more than 7,000 federal workers in your district who are likely impacted by these orders to either accept a buyout or be fired. They haven't told midnight to make a decision. What are you hearing from them?
+GILL: You know, my constituents are more focused than ever on our federal debt and our federal deficit, which is a result of Biden-level spending.
+They want to right-size the federal government and they want to get rid of left-wing activism. We're spending, for example, over $500 million every single year to fund state-sponsored media like NPR and PBS to promote left-wing values that are utterly antithetical to the American experience.
+BROWN: That's...
+GILL: That is a problem. That is what my constituents are focused on.
+BROWN: It's journalism. But you -- we can agree to disagree on that. I don't want to get into a tit for tat on that, Congressman.
+I just want to follow up with this post that you had on X. You said that Congresswoman Ilhan Omar, a U.S. citizen, should be deported to her home country of Somalia. Omar became a naturalized citizen at 17. Why did you do that?
+GILL: Well, listen, my colleague Ilhan Omar, she is an American citizen. She is a member of the House of Representatives. I didn't call for her to be deported, but I did say that America would be better off were she deported.
+I think that there is a serious problem, particularly given, after the past four years of open borders, of Democrats facilitating the invasion of our country by illegal aliens. My colleague Ilhan Omar was advising illegal alien Somalis on how to evade ICE detection. That is as un-American as you can possibly get.
+It's unbecoming of a congressperson.
+BROWN: What evidence? Where are you getting...
+GILL: And I absolutely think that it is disgusting.
+BROWN: Where are you getting that from specifically? Where are you getting that from specifically?
+GILL: We have the audio of her doing that. It was in an interview.
+BROWN: But do you think that that -- she is a duly elected member of Congress. Her constituents put her in office.
+GILL: She has a duty to uphold the values and customs of America, not to represent foreign illegal aliens who shouldn't be here to begin with.
+[11:20:04]
+BROWN: OK.
+GILL: And I think that that raises serious questions.
+BROWN: She is helping people understand what the laws are.
+But, listen...
+GILL: That raises serious -- to whom is she most loyal, illegal alien Somalis or American citizens? I think that's a very legitimate question.
+BROWN: Well, she's representing her constituents as a member of Congress.
+Congressman Brandon Gill, I really appreciate your time. I appreciate this conversation. I think it's really important.
+GILL: So do I.
+BROWN: And I think our viewers appreciate it as well. Thank you so much, Congressman, and look forward to having you back on the show soon.
+GILL: Thanks for having me.
+BROWN: And still ahead this hour: A key author for Project 2025 is on the verge of being confirmed to Trump's budget office. Why senators like my next guest say he is -- quote -- "the most dangerous man in America."
+(COMMERCIAL BREAK)
+[11:25:11]
+BROWN: Returning to our top story at the White House, right now, House Speaker Mike Johnson and a group of senior House Republicans are due to meet with President Trump.
+And they are dealing with intraparty fighting that's escalating over the agenda, specifically the budget. Senate Republicans went to advance a resolution funding national defense, energy and border security, but punt on a tax overhaul. House Republicans want the overhaul included in one bill, but can't agree on specifics.
+Joining us now is Senator Jeff Merkley, an Oregon Democrat. He is the ranking member of the Senate Budget Committee.
+Hi, Senator.
+So Republicans hold such a slim majority, right, in both houses. Do you feel this meeting speaks to larger difficulties facing the party? How do you think this is going to play out?
+SEN. JEFF MERKLEY (D-OR): Well, right now, Senator Graham has said on the Senate side he is going to put forward a bill this Friday. It will be up for discussion Wednesday and Thursday of next week. So the Senate's proceeding with a reconciliation bill in a two-part strategy, so first addressing the issues of immigration and energy.
+Meanwhile, on the House side, they want to do a single bill, but they can't find a single bill that they can get a majority to agree on. And so they're rather stymied at the moment. And yet reconciliation is the filibuster-free pathway where Republicans can move without Democratic support, so it's essential to their plan.
+BROWN: Let me just ask you. I mean, there's some questions over Democratic messaging and whether Democrats need to get their act together when it comes to messaging and countermessaging right now. What do you say to that?
+MERKLEY: Well, what I can say is that everyone is speaking to the essence of what this Project 2025 plan that's being implemented.
+And it's three basic points. And the first point is to attack the programs that families depend on to be able to thrive and move into the middle class, run up the debt, and, third, give massive tax breaks to the richest Americans.
+This is the great betrayal, because Trump ran on assisting families, but his plan, in fact, is to devastate families and help the richest among them. You could see it at inauguration, where he had the billionaires lined up behind him. This is government by and for the billionaires.
+BROWN: So, all right, I want to shift gears a little bit here, because you brought up Project 2025.
+Just around 21 hours ago, you kicked off the speeches opposing the nomination of Russell Vought to lead the Office of Management and Budget. The protests went through the night. Of course, Vought is one of the top policy architects of the MAGA movement and a key author of Project 2025.
+(COUGHING)
+BROWN: Excuse me.
+You have called Vought the most dangerous man in America. Why do you say that?
+MERKLEY: Yes, he is the most dangerous nominee. I mean, the public is more familiar with Hegseth and others, Tulsi Gabbard.
+But, in fact, it is this individual who believes that, first, the presidency should be the equivalent powers to a king, an imperial presidency, and who believes that laws are just suggestions. So, he is the driver of the president's ability to do what the Supreme Court has said they can't do, which is take the law that says you need to fund X, Y, and Z, and decide to only fund what they want.
+And that is a violation of the separation of powers. And we have already seen law after law after law broken under Russell Vought's guidance. This is -- well, for example, all of the inspector generals being fired. The law says you have to fire for cause and give 30 days' notice. They ignored it, et cetera.
+And the big issue, though, is this separation of powers or the funding of programs. This is making the president both the congressional act -- or the congressional department and the executive department all in one. That's a king. That's why he's so dangerous. He's undermining the law and he's undermining the Constitution.
+BROWN: So, just to follow up, because he obviously hadn't been in his official role yet when some of this stuff has been happening with OMB.
+He was also the head of the OMB in the last year of Trump's first term and the country survived. Why do you consider him such an ominous threat now?
+MERKLEY: Well, look what he did in the last year of the last Trump administration. He was the one who impounded the funds illegally for Ukraine.
+And it led to the president's first impeachment and trial then in the Senate. He was the one who issued an executive order at the end of the last administration which said that they were taken away the impartial professionals out of our government and preparing to replace them with loyalists who did not have the expertise.
+He's repeating the same things now. And, by the way, you said he's not already -- I mean, he's already over at OMB deciding what meetings are held. He's acting as if he's already confirmed. We gave a questionnaire of saying, hey, under what authority are you even in the building? You haven't been confirmed. And we got no answers back.
+
+Load-Date: February 6, 2025
+
+
+End of Document

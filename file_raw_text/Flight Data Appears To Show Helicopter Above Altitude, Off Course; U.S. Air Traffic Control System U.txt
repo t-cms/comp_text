@@ -1,0 +1,207 @@
+
+
+
+
+
+CNN THE SITUATION ROOM 6:00 PM EST
+January 31, 2025 Friday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; Domestic
+Length: 6375 words
+Byline: Jim Sciutto, Danny Freeman, Miles O'Brien, Rene Marsh, Evan Perez, Elie Honig, Brian Todd, Jeff Zeleny, Ed Lavandera
+Guests: Muriel Bowser, Dorothy Hamill
+Highlight: New videos show previously unseen angles of midair crash. NTSB says, salvage barges arriving at crash site tomorrow. NTSB says, Black Hawk data recorder recovered. NTSB says, cockpit voice recorder has some water intrusion. NTSB conducting air traffic control interviews. NTSB says, two distinct debris fields at crash site. NTSB says, confident data can be downloaded from black boxes. Recovery crane arrives at Potomac River crash site. NTSB says, salvage barges arriving at crash site tomorrow. Sources say, FBI agents who worked on Jan. 6 and Trump cases to be fired. U.S. air traffic control system under scrutiny as investigators search for answers after collision. D.C. fire chief says, a lot of challenges to recovering bodies. FAA shuts down low altitude helicopter corridor near crash site. White House doubles down on Trump's claim DEI caused crash. Stocks tumble with Trump's new tariffs about to take effect
+Body
+
+
+(COMMERCIAL BREAK)
+[18:00:00]
+JIM SCIUTTO, CNN HOST: Happening now, breaking news, lots of it in the midair crash investigation, a flight data appearing to show the Black Hawk helicopter was a hundred feet above the maximum allowed altitude and off course just before the deadly collision with that passenger jet. Stand by for all the latest details, including what we just learned from NTSB officials.
+And we are learning more about the victims of the disaster. Officials say 41 of 67 bodies have now been recovered from the wreckage, 28 of them identified tonight. Their loved ones are sharing their stories.
+Plus, an inside look at the nation's air traffic control system already under strain from staffing shortages before this crash. We're going to show you what it's like to work the high stakes, high pressure job, with no room for error.
+Welcome to our viewers here in the United States and around the world. Wolf Blitzer is off today. I'm Jim Sciutto and you're in The Situation Room.
+We are following multiple breaking developments tonight in that deadly midair collision over the nation's capital as CNN exclusively obtains new videos from the crash from previously unseen angles. The disturbing footage, it's a shock to see, shows the explosive impact between the passenger jet and the helicopter and, sadly, the wreckage tumbling into the Potomac River.
+CNN's Danny Freeman is at Reagan National Airport. Danny, listening to that NTSB briefing just now, a fair amount of news in there, one that the combined flight data and voice recorders from the Black Hawk has been retrieved, does not appear to be damaged, but some water damage to the passenger jet's recorder, that's significant.
+DANNY FREEMAN, CNN CORRESPONDENT: That's right, Jim. Both of those updates very significant tonight. I'll start with that Black Hawk recorder because for a little bit there, there was a question of if there would be this type of data recorder inside of the Black Hawk military helicopter. The NTSB confirmed to CNN that there was and then you just heard in that press conference, they have retrieved it. And the reason that this particular combination, cockpit voice and also flight data recorder, is so important is because that can really, if they are able to salvage it, now that they have it, that can really paint an image of what may have been the final moments inside of that military helicopter.
+Some of the other things we learned was we had known that the cockpit voice recorder and the flight data recorder from the passenger jet had been recovered, but we got some more details about both of the -- basically how they are doing. Both had some water issues as well. They were soaked in alcohol, they're being tested in the lab. And the NTSB board member, Todd Inman, who spoke said that he has high confidence that they will be able to extract data out of both of those elements as well.
+Jim, a few of the things that I'll just note that we learned from the NTSB presser just now, air traffic controllers who were working that evening, they have been interviewed by the NTSB. That was something that we learned just this evening. And also one of the questions that was posed to the NTSB board member was, is there any reason to believe at this point that the Black Hawk pilots had made any mistake? Remember, we've been talking about for the past few hours, the potential that the altitude might've been too high for this helicopter leading up to that crash.
+At this point, the NTSB said that it is too early to make conclusions about any actions of any of these pilots. But, again, Jim, that's why the black boxes from both of these aircrafts so important to this investigation.
+And then the last thing I'll note, Jim, is that, at this point, the Navy -- let me get this exactly right -- the Navy supervisor of salvage has been bringing in barges to the area in order to help remove fuselage because still the priority for the NTSB and all first responders here to make sure that they can recover the remaining bodies of those victims who are at the bottom of the Potomac.
+(BEGIN VIDEOTAPE)
+FREEMAN (voice over): Surveillance video obtained by CNN showing the final moments before the two aircraft collide. The type of evidence investigators are sure to examine carefully as they work to determine what happened.
+[18:05:04]
+UNIDENTIFIED MALE: We take everything serious, every potential scenario. So, it's helpful as we see all these different new pieces of evidence, whether it be eyewitness or video in this case, those things help give us a lot more details.
+FREEMAN: In the video, you can see the Black Hawk helicopter flying seemingly as normal, straight into the descending passenger jet. Neither aircraft appeared to try to avoid the other, a sign they may not have seen each other until it was too late. This, despite the helicopter pilots confirming to air traffic controllers it saw the plane seconds before the crash.
+UNIDENTIFIED MALE: Right now it's too early to speculate on what exactly occurred, but you've got a lot of different moving parts. So, we're in the early stages.
+FREEMAN: Now, the altitude of the Black Hawk helicopter is coming under increased scrutiny. Flight tracking data from the company FlightRadar24 appeared to show the helicopter was flying a hundred feet above the maximum allowed altitude and veering off the prescribed route along the east side of the Potomac River.
+On Friday, CNN learned the Federal Aviation Administration indefinitely shut down the low altitude helicopter corridor used by the Black Hawk on Wednesday night. Lawmakers are looking to see if permanent changes are needed around one of the busiest runways in the country.
+SEN. MARIA CANTWELL (D-WA): What the video shows is that they were flying at the same altitude at a moment when that shouldn't have happened, that somewhere in the process of what is now established as these two routes, which I think will raise a lot of questions for lawmakers to discuss, how are those two routes and even the level of separation that is expected, how are we even doing that?
+FREEMAN: Investigators now have their hands on the airliners to black boxes. The device is crucial to understanding what may have happened in the final moments of that flight.
+Meanwhile, recovery efforts continued on the cold and rainy Potomac River Friday. D.C. officials determined to recover every victim under the water whatever it takes.
+UNIDENTIFIED MALE: Yes, we expect to recover all of the bodies.
+That's why our teams are still working. We're going to have to work with the salvage company to do some of that work.
+(END VIDEOTAPE)
+FREEMAN (on camera): And one last thing I'll mention, Jim, that we learned from this press conference, the NTSB said, of course, they're doing this work for the flying public and the safety of the flying public. But they also do this work to get answers for family members of the victims. The NTSB board members saying there are 100 family members in the area now receiving briefings, just, again, another illustration of the toll taken on the river just not too far from where we are right now.
+SCIUTTO: Yes, and they also made the point that they expect to begin lifting some of the debris out of the Potomac beginning on Sunday. And that, of course, is going to be another wrenching moment for families, knowing that some of the bodies still contained in that wreckage.
+Danny Freeman, thanks so much.
+Our team of aviation experts is joining me now with more analysis. And one note, Miles, if I could begin with you, that stuck out to me from that NTSB briefing there was he made the point that off-the-shelf equipment is not as accurate as all the many tools investigators will have here, including from the flight data and voice recorders, I think, deliberately as an injection of caution, right, as folks rushed to conclusions about what exactly led to this crash.
+MILES O'BRIEN, CNN AVIATION ANALYST: Yes, Jim. I say this with some hesitation because I spend a lot of my time talking about possible causes of crashes and I'm cognizant very much of that idea of delving into the world of deep speculation. But what is obvious out there these days is there are an awful lot of armchair experts in the aviation world and on the periphery of it who are coming to conclusions based on information they can glean from open sources, so to speak.
+And so the NTSB has to deal with that and couple that with a president of the United States who's decided he's an accident investigator as well. I think they're trying to carve out some autonomy through their investigation.
+SCIUTTO: No question. And to that point, Rene Marsh, you noted that one demonstration of that independence is that the NTSB It is going to be speaking to an experienced Black Hawk helicopter pilot separate from whatever pilots that, for instance, the Pentagon talks to as it does its own inquiry. And that's, I imagine, deliberate because the NTSB, by design, operates independently.
+RENE MARSH, CNN CORRESPONDENT: Absolutely. So, we know that they stated that they brought in one of their team members, NTSB team members from Alaska, to fly here to Washington D.C. simply because he is a Black Hawk or was a Black Hawk helicopter pilot. And that did stand out to me because you juxtapose this comment about being independent and the NTSB being independent, you put that next to, like you said, the president of the United States already saying what the cause is of the crash.
+[18:10:00]
+But not only the president, you also have two of his cabinet secretaries, the Department of Transportation, echoing the president in that press conference yesterday around this issue of DEI and also the Department of Defense secretary. But the problem with that is that the Department of Transportation is a party to this investigation.
+So, you see how very quickly that a narrative that is being crafted before the investigation even begins could certainly present a problem of influence. And you see right now that the NTSB is fighting for their independence by making these statements about how they operate and what their process is. And, honestly, I really haven't seen the NTSB have to stress their independence so much during the course of an investigation until now.
+SCIUTTO: Yes. Listen, it's the nature of the times.
+Miles, the NTSB said there are two distinct debris fields, make sense, one for the helicopter, one for the passenger jet. They make the point that they are easily recoverable over the next several days in part due to the shallow depth of the water as to where they lay right now. You have seen, we've all seen in the wake of air accidents that they will often then reconstruct the debris at some sites, some hangers somewhere. Tell us the importance of that, what they could learn as they get the debris and try to put it back together.
+O'BRIEN: Yes, Jim. You know, I wouldn't be surprised if that doesn't happen in this case. There's not a lot of mystery as to what brought these two aircraft down. You can think, of course, of remember TWA-800 famously, they rebuilt that 747, but there was a huge mystery as to what -- was it shot down? Was there an internal explosion? And there was some great value in sort of piecing it together and looking how it fell apart. In this case, that may not be a necessary step, but it's always good to sort of look at the metal and see how things failed. And that will be part of the investigation for sure.
+SCIUTTO: Rene, another headline from the NTSB briefing there is that they have interviewed the air traffic controller working at the time of the accident and that those interviews continue. That's a central part of the investigation, because as you and we've already reported, there was one air traffic controller that night directing both the passenger jet traffic and the military helicopter traffic,
+MARSH: Right. I mean, we spoke with the NTSB this morning. At that point, they hadn't interviewed them, but certainly as hours have passed, they have at least started the process. But what it's important to stress is they won't be singular in their questioning. I mean, they will want to know a lot about these air traffic controllers down to like how much sleep they got the night before. I mean, they will be looking at this very broadly.
+And this just goes to why these investigations take such a long time. I mean, you know, it's going to be at least a year before we have the full picture. But this is all a part of the process, Jim.
+SCIUTTO: Yes, the NTSB said that they're interested in looking at the staffing that day, that night, but also progressively over the course of days and nights and what those staffing levels were, how that might have influenced safety. Thanks so much to Miles and Rene.
+Just ahead more on our top story with an inside look at what exactly it is like to be an air traffic controller, which is, of course, one of the most stressful careers in the country.
+First, the latest presidential purge, new details just coming into CNN within the past several minutes on who Donald Trump is firing today as he fulfills his promise to go after people he claims are his enemies, here in The Situation Room.
+(COMMERCIAL BREAK)
+[18:15:00]
+SCIUTTO: Breaking news, the Justice Department has now fired more than a dozen prosecutors who worked on January 6th cases, part of President Trump's continuing purge. Our Senior Justice Correspondent Evan Perez has the details. Evan, so these are DOJ employees who investigated the violent attack on the Capitol in January 6, led to many prosecutions. They've been fired. Any justification offered?
+EVAN PEREZ, CNN SENIOR JUSTICE CORRESPONDENT: Well, the justification that's being offered by the Justice Department is that they're they were converted to stay on after those cases ended. And the new leadership says that that is tying their hands and they don't want them there anymore. And so what this is, is more than a dozen prosecutors, Jim, who were brought on temporarily because there was a surge of activity and cases that were being handled. And near the end of the Biden administration, they were converted to stay on inside the U.S. attorney's office in Washington.
+And I'll read you just a part of what Emil Bove, who's the acting deputy attorney general says. He says that, in the matter, in which these conversions were executed, resulted in the mass purportedly permanent hiring of a group of AUSAs, these are assistant U.S. attorneys, in the weeks leading up to President Trump's seconding inauguration, which is improperly hindered the ability of the acting U.S. attorney to staff his office. So, what they're saying is that this is subversive personnel actions by the previous administration that they want to stop.
+Now, separately from this, we also know that FBI agents are expected to also be targeted as part of this purge. Now, these are agents who worked the January 6th cases as well as the cases, the investigation of Donald Trump's alleged mishandling of classified documents.
+[18:20:03]
+Now, the difference, as you know, Jim, is that agents really have no choice on what cases they're assigned, right? They are told what cases to work. And so there's a lot of consternation inside the FBI as to why these people would necessarily been targeted for doing simply their jobs.
+SCIUTTO: But let me ask you, Evan, those FBI agents, they were not temporary hires for this particular case. So, the justification offered for firing the Justice Department officials does not hold up for firing the FBI officials,
+PEREZ: Right. Those are career agents and analysts. And so the question now, Jim, becomes whether -- you know, obviously whether these firings and if any reassignments, any of that, holds up in court if these people decide to challenge and file lawsuits over the handling of their careers.
+SCIUTTO: Evan, thanks so much. Please stay with us. I want to bring in CNN Senior Legal Analyst Elie Honig. It feels like we're witnessing a Saturday night massacre times, well, pick your multiplier there.
+You just wrote a piece, Elie, for New York Magazine about how Trump has already changed the Justice Department, quoting you to yourself here, imagine working at the Justice Department right now and discovering some investigative thread that might lead to the president or someone close to him, or some administration big wig, what are your choices? Follow up and get fired or look away and keep your job? Either way, the case goes nowhere. I wonder is that the result of these decisions in your view, Elie, or perhaps the goal as well?
+ELIE HONIG, CNN SENIOR LEGAL ANALYST: Well, I think it's absolutely the result of these decisions, Jim. And what we are seeing here is completely abnormal. And here's why. Within the Justice Department, there are a very few handful of positions that are political appointees, the attorney general, the deputy attorney general, and a handful of others. It is completely normal and appropriate for a new presidential administration to fire and replace those people. This is why Merrick Garland is no longer the attorney general.
+But the vast majority of prosecutors, like I once was, FBI agents who work at DOJ, 99-plus percent are nonpolitical appointees. They're people who get hired based on their qualifications, and their job is to just do the work, to follow the facts. That is the very essence of DOJ. When you come in and start firing those nonpolitical appointees, as Donald Trump has been doing, you send a message that simply cannot be missed, that if you do something that threatens the power structure here, you could lose your job.
+SCIUTTO: And, Evan, you've covered these agencies, the FBI and the DOJ, for some time. And while Trump may claim that this is deep state or some sort of partisan operation, just explain the variety of viewpoints, if that's the correct way to describe it, that operate in those agencies. But also just the broader rule, or what used to be the rule, right, where these were civil servants who served administrations, whether Democrat or Republican.
+PEREZ: Right, exactly. I mean, most of these people, you know, some of them get hired during Republican administrations. They stay on during Democratic administrations. You know, they don't necessarily love the politics of whoever's president, but they carry out the work because a lot of what they do is not political. A lot of the cases that they work, criminal cases, it's just, you know, the bread and butter of what is supposed to be law enforcement.
+And, by the way you know, some of the people that they've ousted, some of the people that they've pushed out are people who were actually brought on under Bill Barr or under Jeff Sessions who were obviously not looking for leftists to be installing in the government. That's what the irony is, is that some of the people that they've removed are actually people who were Republican appointees at some point and have stayed on.
+And so that's one of the interesting things about this level of purge that's been going on, because it has touched not only, you know, people who are at the upper echelons, but they're starting to move way below. And the goal, apparently, is to try to bring in more pro-Trump people into the government administration.
+SCIUTTO: Elie, is there any legal recourse for these individuals who have been fired? HONIG: Generally, yes, Jim. So, most of these people have some level of civil service protection, meaning, ordinarily, before you can be fired under the civil service rules, you have to be given administrative process and notice and a hearing and all that. Donald Trump seems to want to flip that where I fire you first, and then you can take the time and expense going out and hiring an attorney and challenging this. So, we could see challenges.
+And, Jim, just to one important point that Evan made when you are on the line, as we used to say, which I used to be, part of the reason you can do your job effectively is it doesn't matter who the president is. It happened in my experience that my first half of my experience at DOJ was under a Republican administration, switched over to the Obama administration. I had another second half under the Obama administration. It made zero difference to the work we did in New York.
+[18:25:02]
+It made zero difference to our pursuit of these criminal cases. That's the way it ought to be.
+But when you're firing people explicitly for political reasons, and the letter that went out earlier this week said the reason you're being fired is because you worked on a case against Trump, that changes the very nature of DOJ.
+SCIUTTO: Yep, and yet it's happening, before our eyes. Evan Perez, Elie Honig, thanks so much.
+Coming up, back to our top story on that deadly midair collision, standing by live to join us is the mayor of Washington, D.C.
+(COMMERCIAL BREAK)
+SCIUTTO: Tonight, the nation's air traffic control system is under intense examination as investigators search for answers after just a horrific collision outside Reagan National Airport.
+[18:30:05]
+Our Brian Todd is joining us from near the airport with an update. And, Brian, of course, a lot of focus around air traffic control staffing. And they've been building for years.
+BRIAN TODD, CNN CORRESPONDENT: Those questions and reports have been building for years, Jim, indeed, reports of air traffic controllers being stretched thin, stressed out. And there are new questions tonight over whether that was the case on Wednesday at Reagan National Airport.
+(BEGIN VIDEOTAPE)
+TODD (voice over): The role of air traffic controllers, under scrutiny tonight, as an internal preliminary FAA report on Wednesday night's collision says staffing was not normal for the time of day and volume of traffic, according to The New York Times. While a source tells CNN the control tower was not short staffed, which would have set off a staffing trigger, that night, one controller was doing two jobs, handling both helicopter and plane traffic, a decision made by the airport control tower supervisor, according to an air traffic control source.
+Was he spread too thin?
+PETER GOELZ, FORMER NTSB MANAGING DIRECTOR: They were probably spread too thin. And the reality is this kind of sharing or doubling up is not uncommon. But should it happen? The answer is no.
+TODD: But one former controller says having one controller could actually have been helpful.
+MICHAEL MCCORMICK, FORMER FAA AIR TRAFFIC MANAGER: Now you have one controller who's actually talking to and controlling both of the aircraft. Otherwise, if it was a separate controller, then the two controllers would have to constantly coordinate back and forth.
+TODD: Did the controller sound overloaded during an exchange Wednesday night with the helicopter pilot?
+UNIDENTIFIED MALE: PAT-25, do you have the CRJ in sight. PAT-25, past (ph) behind the CRJ.
+UNIDENTIFIED MALE: PAT-25 has aircraft in sight, request visual separation.
+VINCE SUGENT, FORMER AIR TRAFFIC CONTROLLER: Now, his voice didn't give me any concern that he was behind or he was rushing or that he was overloaded.
+TODD: But the revelation adding to concerns about nationwide staffing shortages in what is already a demanding job. The FAA having trouble closing the shortfall of 3,000 controllers as of last year, and that was before the Trump administration included air traffic controllers in the buyout offer now available to millions of federal workers.
+It takes months of training, years to be certified for a job with long shifts, sometimes six day weeks starting salary around $60,000 for a job with very high stakes.
+BRANDON BRYLEY, FORMER NAVY AIR TRAFFIC CONTROLLER: With a split of a second, you could have the -- from the air traffic controller standpoint, you could lose the picture in a matter of a millisecond.
+TODD: Those stresses can have consequences.
+GOELZ: Part and partial to the job, it comes higher rates of divorce, higher rates of alcoholism, and even higher rates of suicide. This is a hard job.
+TODD: At Reagan National Airport, the control tower is 85 percent staffed, with 24 of 28 positions filled, the air traffic control source tells CNN. Over the past three years there, there were at least two near misses between planes and helicopters. And it is a particularly demanding airport, according to a former Navy controller.
+BRYLEY: Oh, D.C. is a very complex airspace. There's prohibited areas where, without only certain aircraft are supposed to be in exceptions to rules. There's actually a prohibited airspace just north of the accident. So, it complicates the routes a bit.
+(END VIDEOTAPE)
+TODD (on camera): The stress on air traffic controllers at Reagan National Airport could now, of course, be reduced with the decision by the FAA, according to an FAA official, to shut down those low altitude helicopter corridor routes that were in place Wednesday night at the time of the collision. Analyst Peter Goelz says he doesn't think that corridor, that helicopter corridor, will ever be reopened. Jim?
+SCIUTTO: That's a fair question. Brian Todd, thanks so much.
+Right now, I want to bring in the mayor of Washington, D.C., Muriel Bowser. Mayor, thanks so much for taking the time tonight.
+MAYOR MURIEL BOWSER, WASHINGTON, D.C.: Thank you. Thanks for having me.
+SCIUTTO: In discussing their investigation, NTSB officials make clear that they intend to carry out an independent investigation. This, of course, in the midst of a time when you have political leaders right up to the president sharing their own speculation as to what may have caused this crash, seemingly politically motivated, at least in part. I wonder from your perspective, are you confident that we will get, that D.C. will get an independent, fair, honest investigation as to what led to this collision?
+BOWSER: Well, I will say first and foremost, our hearts go out to all the families and our commitment is to follow the fellow federal officials and get to the bottom of what happened. I've had direct conversations with the chairwoman of the National Transportation Safety Board and her approach seems like an independent, fair, and comprehensive approach.
+She's committed to transparency and accuracy and sharing with the public what she can, when she can.
+[18:35:01]
+So, at this stage I have confidence in how the investigation is proceeding.
+SCIUTTO: One question, the FAA has now closed the helicopter routes near the Reagan National Airport, one of which this helicopter involved was following the latest reporting is it strayed out of that route? What would your recommendation be? Should those routes remain closed going forward?
+BOWSER: Well, I'm glad that swift action has been taken to take a pause and assess the operation of helicopters, especially the military training and the number of flights that are occurring. And I do think a comprehensive look at the operations needs to happen.
+Listen, the Washington D.C. airspace is unique and for good reason. There's restricted airspace around our government's most important buildings and decision-makers. And so that obviously has to be maintained. But also the very good work that happens at Reagan National Airport, we want to continue to invite people from around the country and around the world. And like the commitments that have been made by the president and the secretary, it has to be safe.
+SCIUTTO: Trump has repeatedly blamed this crash on diversity initiatives. He was pressed on it yesterday and he was asked, are you saying that race or gender, and I'm paraphrasing here, may have been involved, and his answer was, maybe. What's your reaction? He's presented no evidence of that, and I haven't heard from any of the investigators that that's even a line of inquiry.
+BOWSER: Well, I think, first of all, of us, as leaders, are called upon in times of calamity, and I think we certainly regard this as a tragedy for our region but also for the nation. So, people are looking to leaders to, first of all, offer sympathy but show what the pathway is forward. And there's no place for speculation in this and there's certainly no place to be casting blame. So, people want leaders to take charge, be in charge, and accept responsibility and act as though they're in charge.
+And so that's the expectation that we have of the investigation of all of the executive agencies that report to the president, transportation, FAA, DOD, to go about the work of finding out what happened, letting the American people know and assuring us that we can be safe when we take flights.
+SCIUTTO: Is there something particularly wrong with speculating and seemingly casting blame on race or gender as a cause of this?
+BOWSER: Well, I think it's wrong to speculate about what happened. All of them, many of us have personal experiences flying in to National Airport. You know, I'm born and raised here. I've taken a lot of flights in and out of national airport. That doesn't qualify me to say what happened in this instance. I know a lot of people are watching simulations of the flight pass of the airplane and the helicopter. Still, none of us are qualified to say what happened but the people who are working very diligently on finding out what happened.
+But for us in the D.C. region, I think, you know, as we move through this recovery phase, we're going to be looking closely at how national -- how decisions are made by the FAA and Congress, quite frankly, about the traffic through National Airport.
+SCIUTTO: Sure. That's one of the key questions. D.C. Mayor Muriel Bowser, thanks so much for joining.
+BOWSER: Thank you.
+SCIUTTO: And just ahead, President Trump is promising tonight to enact one of his key campaign promises tomorrow, saying Americans will experience what he calls short-term disruption. Hear what it is. (COMMERCIAL BREAK)
+[18:40:00]
+SCIUTTO: Breaking news, U.S. stock markets, as you see there, are falling sharply today, as President Trump confirms he will impose new tariffs on Mexico, Canada and China set to take effect tomorrow.
+CNN's Jeff Zeleny is at the White House. And, Jeff, as you know, Canadian officials have told me and others, Canada will retaliate, that, in effect, this will bring about a trade war. But the White House says it's going ahead. What exactly will it target?
+JEFF ZELENY, CNN CHIEF NATIONAL AFFAIRS CORRESPONDENT: Well, Jim, look, this is something that President Trump has talked about for so long when he's running for president. In fact, he did it. In his first term, and is poised to impose these tariffs again as soon as tomorrow. The White House insisted the president was going forward with this despite a vast disagreement among many key advisrrs, including his new treasury secretary, in terms of the number of tariffs.
+But the White House, as they made the announcement, the market responded quite quickly. But the president said he would put a 25 percent tariff on Mexican goods, Canadian goods, and a 10 percent tariff on China.
+But in the Oval Office later this afternoon, the president even acknowledged there could be some short-term economic pain for Americans.
+(BEGIN VIDEO CLIP)
+DONALD TRUMP, U.S. PRESIDENT: Tariffs don't cause inflation, they cause success. They cause big success. So we're going to have great success. There could be some temporary short-term disruption, and people will understand that.
+(END VIDEO CLIP)
+ZELENY: So people will understand that. Jim, we shall see. I assume that would depend upon how much inflation would go up if that is indeed what happens. But the retaliation, as you mentioned, is something that certainly is causing alarm here among many economists. And specifically what goods we're talking about paper goods, obviously, from Canada, oil and gas as well, and a variety of other things.
+[18:45:02]
+You know, Super Bowl is coming up, avocados, of course, is a central thing for Mexico as well.
+The bottom line here, the president is going ahead with his long discussed plan for tariffs. He's not here at the White House this weekend as they're imposed. He left here just a short time ago flying down to Mar-a-Lago. He called it a working weekend. We asked him for his reaction to the market. He didn't answer those questions, Jim.
+SCIUTTO: We should note Canadian officials have their targets picked out and many of them products produced by red states in this country. Jeff Zeleny, thanks so much.
+ZELENY: Sure.
+SCIUTTO: Coming up, a live report from Wichita as we learn more about the victims of Wednesday night's just devastating plane crash.
+(COMMERCIAL BREAK)
+SCIUTTO: We are learning more tonight about the many victims of the devastating midair collision.
+CNN's Ed Lavandera has more on their stories.
+[18:50:02]
+(BEGIN VIDEOTAPE)
+ED LAVANDERA, CNN CORRESPONDENT: The losses are staggering as the stories of victims lost in the mid-air collision come to light.
+The Livingston family was returning to their home in Virginia. The family of four was in Wichita for the U.S. figure skating championships last weekend.
+Lindsey Fields, a community college biology teacher from Kansas.
+Promising youth skaters Angela Yang and Sean Kay and their coach, Alexander Sasha Kurzanov.
+And Luciano and Franco Aparicio, a father and son from Chile.
+Skating champion Lorenzo Arellano (ph) lost four friends in the crash.
+UNIDENTIFIED MALE: It's just really sad. They all have so much potential.
+LAVANDERA: Sadness has reached every corner of the country. Young skaters in California, their coach knew many of the victims, practiced in silence as a tribute to those that died.
+In Detroit, other skaters mourn their friends.
+UNIDENTIFIED FEMALE: It's difficult to describe that kind of loss.
+UNIDENTIFIED MALE: It's really brought the skating world to its knees.
+LAVANDERA: Victims young and old and in the prime of their lives.
+Kiah Duggins, a civil rights attorney from Wichita, who dedicated her life to helping others. She gave a TEDx talk in 2017 on helping underrepresented students.
+KIAH DUGGINS, CIVIL RIGHTS ATTORNEY: By reaching out to our communities when we need help.
+LAVANDERA: She was returning home to Washington, D.C., after visiting her family in Kansas.
+REV. T. LA MONT HOLDER, CALVARY BAPTIST CHURCH: She's the very essence of what you would want in a human being, and her life is irreplaceable.
+LAVANDERA: Duggins was president of the Harvard Legal Aid bureau while in law school, and was a White House intern during the Obama administration.
+Two young legal associates, Sara Lee Best and Elizabeth Ann Keyes, also died on American Airlines Flight 5342. And on the Black Hawk helicopter, three more lives lost, including U.S. Army Staff Sergeant Ryan O'Hara and Chief Warrant Officer Andrew Eaves.
+Sixty-seven lives in all tragically cut short, creating ripples of sorrow for those who knew them well.
+MINA ESFANDIARI, COMPETITIVE SKATER: All I could do was call the people that we knew were on that flight, and to hear their voicemail.
+(END VIDEOTAPE)
+LAVANDERA: And, Jim, of the 64 people who were on the American Eagle flight, by our count, we've confirmed that at least 16 of those 64 were under the age of 30. So kind of really drives home the amount of youthfulness that was lost in this tragedy.
+SCIUTTO: Yeah, just so heartbreaking to see their faces.
+Well, our thoughts go out to their families and friends.
+Ed Lavandera, thank you.
+Coming up next in THE SITUATION ROOM, we're going to speak live with the Olympian Dorothy Hamill, who knew some of the figure skating coaches killed in the crash.
+(COMMERCIAL BREAK)
+[18:57:06]
+SCIUTTO: More now, in the D.C. area, disaster among the 67 victims of the crash, multiple U.S. figure skating athletes, coaches and family members.
+Joining me now is retired figure skating champion Dorothy Hamill.
+So good to have you on tonight.
+DOROTHY HAMILL, RETIRED FIGURE SKATING CHAMPION: Thank you so much, Jim. Thanks for having me.
+SCIUTTO: As you know better than me skating, it's a close knit community, and I just wonder how this terrible tragedy has rocked the community these last two days.
+HAMILL: It really has. It's just such a tragedy and it's just hard to imagine, you know, our stars of the future with the investment, and the years that it takes to create a great skater. The loss is just beyond imaginable, and, of course, the loss of the skaters, but also the families and the coaches and, it's just -- just tragic. Just tragic.
+SCIUTTO: And so many young, young faces as we look at those photographs, there. I know you knew some of the coaches on board. What can you tell us about them?
+HAMILL: Yes. Well, I knew the coach. I knew two coaches. I, I worked alongside of them in a couple of exhibition shows. I did not know them well, but I have a lot of friends that were colleagues of mine that skated together and that actually have worked with some of those young youngsters --
+SCIUTTO: Wow.
+HAMILL: -- in the different camps. So and I'd heard the names of some of them. So it, it, you know, it is a very tight small community, and just the -- the horrific fact that, you know, skating has just, you know, our future stars are, you know, not going to be the ones that happen to be on that plane. It's just -- it's just so, so, so sad.
+SCIUTTO: How is the community supporting each other now? I'm sure there are a lot of phone calls, a lot of offers of support going around right now.
+HAMILL: Lots of phone calls, which, you know, it's -- it's wonderful, but it's not. You know what I mean? There's a group of us, Olympians, I guess, if you will, that have been texting were on a text chain, and, you know, the feelings and the thoughts and the memories and just the investment, not necessarily money wise, but all the time that the families and the brothers and sisters and neighbors, you know, all of those people that are committed to these youngsters, adults, too.
+But it's just -- I don't want to say wasted, but it's just awful. But there's a lot of communication and were, our hearts go out to them and to their families.
+SCIUTTO: Well, ours do as well.
+HAMILL: I don't know how you ever. Yeah. I don't know how you ever come. Skating comes back from this. We will. But it's hard to imagine at this point how and how long it takes.
+SCIUTTO: Well, Dorothy Hamill, thanks so much. This is generational, right? And our hearts, as we said, do go out to the families.
+Appreciate Dorothy's input.
+I'm Jim Sciutto in THE SITUATION ROOM. Thanks so much for watching.
+"ERIN BURNETT OUTFRONT" starts right now.
+
+Load-Date: February 1, 2025
+
+
+End of Document

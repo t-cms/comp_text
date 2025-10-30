@@ -1,0 +1,121 @@
+
+
+
+
+
+Wellesley News: Wellesley College
+February 5, 2025 Wednesday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 1526 words
+Body
+
+
+Less than a week after his inauguration on Jan. 20, President Donald Trump signed sweeping executive orders aimed at higher education institutions, which could affect Wellesley College and its student body. 
+While it is not yet clear how the executive orders will be implemented by agencies and institutions, such as Wellesley, they will need to understand how to comply with federal laws while supporting students across diversity initiatives, federal research funding, student financial aid and more. 
+Wellesley College has yet to make any official statement, as of Feb 4. 
+"Two Sexes"
+On his first day in office, Trump signed an order declaring that the federal government would only recognize two sexes, a move that has significant implications for the LGBTQ+ community across the country, including members of the Wellesley community who identify as transgender.
+The order directs federal agencies to use this definition to enforce laws, such as Title IX, the statute prohibiting sex-based discrimination at federally funded colleges and K-12 schools. It directed the US Attorney General to issue guidance that Title IX does not require "gender identity-based access to single-sex spaces." 
+It also banned federal funds from being used "to promote gender ideology."
+The Education Department already sent a notice to schools that it would not enforce the revised interpretation made under the Biden administration which broadened the scope of Title IX protections to sexual orientation and gender identity. 
+Currently, the College allows admission to anyone who lives and consistently identifies as a woman - including trans and nonbinary people. 
+In a statement to The Wellesley News, the College wrote that its policies reflect Massachusetts' state law protections against discrimination and harassment of individuals based on gender identity and expression. 
+Diversity and Inclusion
+New White House orders ban any race or gender-based DEI initiatives in institutions that receive federal funding. Across higher education, institutions like Wellesley College, rely on federal funding for research grants, projects and contract work.
+"Institutions of higher education have adopted and actively use dangerous, demeaning and immoral race- and sex-based preferences under the guise of so-called 'Diversity, Equity and Inclusion,'" Trump wrote in the order.
+Trump has called for federal agencies to compile lists of "nine potential civil compliance investigations" of organizations, including schools with endowments over $1 billion. Wellesley, with a nearly $3 billion endowment, could be a target for investigation.
+Some schools have already revised their language shortly after the executive order came into effect. Northeastern University recently renamed programs and websites to replace language referring to Diversity, Equity and Inclusion with "belonging" for all. 
+It is unclear how the College will approach its commitment to diversity under this executive order. 
+The College spotlights "inclusive excellence" as a core tenet of its 2021 strategic plan. In the 51-page plan, President Paula Johnson and former Provost Andrew Shennan, with the help of other members of faculty and administration, wrote that the College was inspired to commit to the concept because of the "disparate impacts of the pandemic and the growing recognition of systemic racism."
+"Without inclusivity and the bringing together of different perspectives, there is no Excellence," they wrote. 
+On the previous website, before the new site was launched on March 11, Wellesley had a page "Diversity and Inclusion" that showcased messages from President Paula Johnson, Dean Peach Valdes and their diversity recruitment team. The web link  is no longer available, and now redirects to "Where You Belong." 
+The College also told The News that the new language was added in March 2024 to "better reflect what we want all students to know about Wellesley - that this is a community where they will be welcomed and where they belong."
+On the front of admission, the College said the current process is already compliant with the SFFA decision, and they do not anticipate any changes.
+Financial Future
+Trump's administration announced orders for a pause on the disbursement of federal funding to nonprofit organizations, states, colleges and universities before a federal US district judge blocked it, pending further arguments. 
+For Wellesley College, federal funding plays a relatively small role in financial aid. 77% of financial aid sources come from endowment income and distributions, annual gifts and college revenue, according to data compiled from the 2023-24 annual report.
+In 2024, the College received a total of $4 million in Federal Government grants including around $3 million in Pell Grants, $530,000 in Supplemental Educational Opportunity Grants and $367,000 for the Federal Work-Study Program. 
+The Department of Education reiterated that Pell Grants and federal student loans are exempt from the rescinded Wednesday freeze. However, if the freeze is reinstated, Federal Work-Study Program funds will not be exempted.  
+Moreover, federal funding supports research at Wellesley, with at least 29 STEM faculty receiving federally funded grants, according to the website. 
+Republicans are also expected to move with hiking the existing 1.4% federal excise tax on the investment income of the endowments. The College paid around $2 million and $447,000 in fiscal years 2024 and 2023 respectively. 
+While the College confirmed to The News that Federal financial aid funding has not been impacted by the US Office of Personnel Management memo, it remains unpredictable how the White House's measures may hurt Wellesley's financial future and ability to support its students, faculty, and staff in the future. 
+Anticipated Moves and potential troubles
+Trump is expected to sign an executive order "Keeping Men Out of Women's Sports" this Wednesday to ban transgender girls and women from participating in female sports events.
+The news is set to come on Feb. 5, National Girls and Women in Sports Day, which celebrates and recognizes female athletes and the importance of sports for girls and women.
+According to the Transgender Participation Student-Athlete Policy for Varsity and Club Sports, Wellesley currently incorporates the National Collegiate Athletic Association's requirements that apply to transgender student-athlete participation on women's sports teams. However, the NCAA has indicated that it will move rapidly to change its rules. 
+In the months coming, Wellesley College and its senior officials have to confront an administration whose leaders have posed challenges for institutions of higher education. 
+The News learned that Wellesley and Amherst College hired Lewis-Burke Associates, a Washington, D.C. government relations firm specializing in advocating for the public policy interests of higher education institutions, according to data from the Senate Office of Public Records. Williams and Smith College have recently joined the consortium as well. 
+The College said they work with the firm to receive updates on new federal legislation and executive orders such that they can understand, prepare and respond to changes. 
+As an institution that champions inclusivity, Wellesley will undoubtedly face the challenge of maintaining its prior commitments to diversity and its support for students while abiding by the new administration's policies.
+Contact the editors responsible for this story: Sazma Sarwar
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 20px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: PT Serif;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #002776;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: PT Serif;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #002776;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: PT Serif;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #002776;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: PT Serif;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 5, 2025
+
+
+End of Document

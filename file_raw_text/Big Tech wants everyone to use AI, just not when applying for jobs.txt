@@ -1,0 +1,85 @@
+
+
+
+
+
+Business Insider
+February 28, 2025 Friday 12:17 PM EST
+
+
+Copyright 2025 Insider Inc. All Rights Reserved
+
+
+Length: 1486 words
+Byline: ddefrancesco@businessinsider.com (Dan DeFrancesco)
+Highlight: Tech companies love AI. Just don't try to use it to get a job at one. 
+Body
+
+
+This post originally appeared in the Business Insider Today newsletter.
+You can sign up for Business Insider's daily newsletter here.
+Happy Friday! What do Lauren Sánchez, Katy Perry, and Gayle King have in common? They are part of . Sánchez is leading the six-person crew on an 11-minute journey on one of her fiancé Jeff Bezos' Blue Origin rockets.
+In today's big story, Amazon's love affair with AI doesn't extend to job candidates .
+What's on deck
+Markets: Goldman Sachs  in its annual report. It says it's just following the law.
+Tech: Internal xAI documents show how workers are instructed to suss out "woke ideology" and "cancel culture" in .
+Business: Netflix isn't losing sleep over your canceled subscription. In fact, .
+But first, AI for me, but not for interviewees.
+If this was forwarded to you, 
+The big story
+Interviewing on AI
+Tech companies love AI. Just don't try to use it to get a job at one.
+Amazon created guidelines for its internal recruiters to sniff out job candidates who might be , writes Business Insider's Eugene Kim.
+The tech giant's stance is that AI tools give candidates an "unfair advantage" that doesn't allow Amazon to evaluate their "authentic" skills, according to guidelines Eugene obtained.
+As a reminder, this is the same Amazon pouring billions of dollars into AI development in the hopes that AI tools become a key part of people's  and professional lives. The same Amazon encouraging employees to . The same Amazon that would love to have its  in homes across America.
+With all that AI encouragement, it's not surprising candidates would turn to these tools to give themselves the best chance possible, especially when .
+Dealing with AI-powered interviewees isn't just an Amazon problem.
+For about as long as AI chatbots have been around, people have been figuring out how to use them to cheat get an advantage.
+BI's Rob Price has covered the topic extensively, writing about the  that feed candidates answers.
+Sometimes, using AI is just about passing a technical test to . Other times, the tools are , doing some, if not all, of their actual work.
+While the latter might sound egregious, using AI tools to get a job that'll require you to use AI tools doesn't seem that out of line. Imagine if you had to try out for a track team but weren't allowed to wear running shoes. Why ban someone from using something they'll eventually need to succeed?
+I put that question to a tech recruiter. They said the problem is candidates solely relying on AI tools instead of having their own logic and general knowledge. It's a big issue, particularly with younger candidates fresh out of college, they added.
+Still, it's not like candidates haven't been trying to get an edge on interviews for years. The recruiter mentioned the 2008 book "Cracking the Coding Interview," which includes programming questions commonly asked during interviews.
+Sometimes, the recruiter has to stay a step ahead, like asking follow-up questions the chatbots might have trouble managing.
+And if all else fails, maybe AI can help with the AI problem.
+News brief
+What to know about the economic blackout that boycotters are planning today to protest corporate corruption.
+The cofounder of Airbnb is joining DOGE.
+Sam Altman says OpenAI's new ChatGPT-4.5 is a more emotionally intelligent model but warns that it's 'expensive' to train and run.
+These are the job responsibilities of DOGE staff embedded in federal agencies, according to Trump.
+North Korea was behind the $1.5B Bybit crypto hack, FBI says.
+I'm a pediatrician working in the middle of Texas's measles outbreak. Here's what I want parents to know.
+Woman charged in Tesla dealership vandalism incident involving Molotov cocktails and graffiti, police say.
+Talen CEO says Amazon is investing 'sweat equity' at its data center next door to the Susquehanna nuclear plant.
+3 things in markets
+1. Meet the fund manager who beats the S&P 500 again and again. Michael Cuggino's Permanent Portfolio Aggressive Growth Portfolio has outperformed the S&P 500, returning 28% versus the index's 17% on a trailing 12-month basis.  also had a higher average annual gain than the S&P 500 over the past decade. The secret? The fund doesn't invest along themes or focus too much on specific indexes, instead prioritizing quality growth firms.
+2. Nvidia still has something to prove. Despite strong earnings, one subject came up a bunch during Nvidia's Wednesday call: . CFO Colette Kress said expectations are in the "low 70s" for the current quarter as the company ramps up Blackwell chip production. Still, she thinks the gross margins will bounce back after. Even once Nvidia isn't as stressed over speeding up Blackwell, .
+3. Goldman wants to play by the rules as it drops DEI references. The bank toned , mentioning diversity much less than in previous years. The bank also said its "aspirational hiring goals" will expire this year without clarifying if new ones will be implemented. Goldman CEO David Solomon said the bank made the adjustments "to reflect developments in the law in the US."
+3 things in tech
+1. xAI is training Grok in anti-wokeness. BI reviewed internal xAI documents outlining how AI tutors should "spot bias" and look out for "woke ideology" and "cancel culture" in its chatbot Grok's responses. Tutors are told to consider the company's "guiding principles," which include "do not moralize, preach, or judge." Some workers said they felt the training methods prioritize right-wing beliefs, while a researcher said he believes Grok's approach can differentiate it from other chatbots. Check out  tutors were shown.
+2. Googlers are using a Google Doc to track Google's layoffs. The tech giant cut jobs across its Cloud, ads, and Trust & Safety teams this week. It follows smaller, surgical cuts across the company over the past few months, employees said. In an effort to track the layoffs, current employees have circulated  reviewed by BI.
+3. An origin story for Amazon's robots revolutionalizing e-commerce. In 2015, Amazon hosted a competition challenging researchers to build robots that could identify and pick up specific warehouse items. A decade later, those ideas have helped launch a  that could help the e-commerce giant save as much as $10 billion a year.
+3 things in business
+1. Rise of the Gen Z realtors. The share of realtors under 30 quadrupled in 2024, data shows, as the profession attracts more young people. the profession helped them experience financial freedom and avoid slogging away at a typical desk job - even if their baby faces made it hard to get off the ground initially.
+2. I just can't quit you, Netflix. The streaming giant isn't worried if you cancel your subscription - data from the analytics company Antenna suggests it'll probably win you back quickly. In 2023, 61% of subscribers who canceled were  within a year. That win-back rate far surpasses Netflix's streaming rivals' average of 45%.
+3. These healthcare startups are ready for acquisitions this year. It's been a slow few years for company combinations in the healthcare startup industry. Nearly a dozen investors and bankers told BI few large companies seem willing to make big deals. The right buyers might be their peers - and  appear ready to move.
+In other news
+Judge says mass firings of probationary employees by the Trump administration were invalid.
+North Koreans are back to fighting alongside Russia, South Korean intelligence says.
+Vistra's stock had surged amid the AI boom. Now Wall Street is getting antsy waiting for a data center deal.
+The major companies that have relocated to Texas, from Tesla to Chevron.
+One map shows where Americans are paying the highest electricity bills.
+The Oscars gift bags are worth over $216,000. Here's what's inside.
+Real estate investors explain why they're all in on the 'steady' Louisville market and how they picked it.
+Betting markets are skeptical DOGE will accomplish some of its big goals.
+What's happening today
+Ramadan begins.
+Apple's iPhone 16e hits stores.
+The Insider Today team: Dan DeFrancesco, deputy editor and anchor, in New York. Grace Lett, editor, in Chicago. Ella Hopkins, associate editor, in London. Hallam Bullock, senior editor, in London. Amanda Yen, associate editor, in New York. Elizabeth Casolo, fellow, in Chicago.
+Read the original article on
+
+
+Load-Date: February 28, 2025
+
+
+End of Document

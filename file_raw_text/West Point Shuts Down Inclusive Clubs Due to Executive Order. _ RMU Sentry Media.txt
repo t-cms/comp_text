@@ -1,0 +1,101 @@
+
+
+
+
+
+The Sentry: Robert Morris University
+February 7, 2025 Friday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 605 words
+Byline: Brooke Hart
+Body
+
+
+Recapping Groundhog Day 2
+Monroeville Mall Bought by Walmart in $34 Million Deal 3
+L.A. Wildfires are 100% Contained, Leaving Residents to Rebuild 4
+NHL 25 is the Best NHL Game in Over a Decade 5
+Trump Imposes New Tariffs on Canada, Mexico, and China 6
+Opinion: Utah Hockey Club Unveils Three Potential Names 7
+Luka Doncic Traded to Lakers in Surprise Move 8
+Women's Basketball Falls in Thriller Against Undefeated Purdue Fort Wayne 9
+Suspect Arrested in Ohio Warehouse Mass Shooting
+West Point Shuts Down Inclusive Clubs Due to Executive Order.
+Brooke Hart
+February 7, 2025
+As of Feb 5th, the U.S. Military Academy at West Point has been forced to disband 12 sanctioned clubs that were for women and minorities. This was done in accordance with Donald Trump's executive order that got rid of diversity, equity, and inclusion initiatives.
+The academy's deputy commandant, Chad R. Foster, said that the clubs were being disbanded "in accordance with recent presidential executive orders, Department of Defense guidance, and Department of the Army guidance."
+The Corbin Forum was a prominent group that promoted female leaders and was founded in 1976 when women were able to be admitted into West Point. The National Society of Black Engineers was another club that was forced to be disbanded due to this executive order. These clubs were ordered to "unpublish, deactivate, archive or otherwise remove all public-facing content."
+This decision has sparked controversy and left people disappointed. AP News conducted an interview with West Point graduate Geoffery Easterling, who was formerly a member of a now-disbanded club. "It was just community. There wasn't any teaching of all these things people are worried about. You could find help with your homework from upperclassmen, get help to know the military." Story continues below advertisement
+Donald Trump claims that "Illegal DEI and DEI policies not only violate the text and spirit of our longstanding Federal civil-rights laws, they also undermine our national unity."
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 20px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: Roboto;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #00289E;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: Roboto;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #ededed;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #990000;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Roboto;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #990000;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Roboto;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 7, 2025
+
+
+End of Document

@@ -1,0 +1,102 @@
+
+
+
+
+Forbes.com
+January 24, 2025 Friday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 1635 words
+Byline: Danielle Chemtob, Forbes Staff
+Highlight: Friday's Forbes Daily covers Bloomberg's UN climate pledge, judge blocks Trump's end to birthright citizenship, Oscar nominations unveiled, OpenAI's latest tool and more.
+Body
+
+
+Good morning,
+The next time you need to order groceries or purchase tickets, AI might be able to save you some time.
+OpenAIunveiled its latest tool,  Operator, anAI assistant designed to carry out a wide variety of tasks. Operator can navigate web pages and interact with buttons and menus, though OpenAI noted it s not fully autonomous and users may need to input information like passwords. The tool is currently only available to users on the ChatGPT Pro plan, which costs $200 a month, though the company plans to expand Operator to other subscriptions.
+It s part of the AI juggernaut s move toward artificial general intelligence, the idea that AI could eventually match the cognitive abilities of humans.
+This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.
+FIRST UP
+<figure>
+<figcaption>
+Michael Bloomberg
+Getty Images for Bloomberg Philanthropies
+</figcaption></figure>
+BillionaireMichael Bloomberg announced Thursday that Bloomberg Philanthropieswillstep in to help fund the United Nations  climate change work after President Donald Trump withdrew from the Paris Climate Agreement. Bloomberg, the former mayor of New York City, cofounder of Bloomberg Media and special envoy to the UN, also helped cover the U.S.  portion of its climate commitments to the UN from 2017 to 2020 after Trump withdrew from the Paris Agreement for the first time.
+A federaljudge granted a request from Democratic-led statesto pause PresidentDonald Trump s executive order ending  birthright citizenship  while litigation moves forward, describing the order as  blatantly unconstitutional.  Trump s executive order states that in 30 days, anyone born to parents who are not citizens or permanent U.S. residents will not automatically be granted citizenship even if their parents are in the U.S. legally, such as on student visas or work visas.
+BUSINESS + FINANCE
+<figure>
+<figcaption>
+JPMorgan Chase CEO Jamie Dimon
+Photo by Kevin Dietsch/Getty Images
+</figcaption></figure>
+President Donald Trump s executive order designed to dismantle diversity, equity and inclusion programs in the federal governmentalso alludes to potential legal action against private entitieswith these programs, and some companies are already taking pre-emptive actions. New York University lawyer Kenji Yoshino told the New York Timesthat the orders are  a way of striking fear into organizations  hearts.  Walmart, Ford, McDonald s, Meta, Amazon and a host of other major corporations have taken steps back on DEI and DEI-adjacent initiatives.
+MORE: JPMorgan CEO Jamie Dimonstood by his bank s DEIefforts, despite facing challenges from conservative activist shareholders and the Trump Administration s recent crackdown. JPMorgan has developed a comprehensive suite of diversity-focused programs, which Dimon sees as sound business strategy rather than a charitable effort.
+Blockstream, led by cryptography pioneer and Satoshi Nakamoto s first collaborator Adam Back, ismaking a move into asset managementwith a set of funds under its new Blockstream Asset Management division. Though investors now haveaccess to a variety of crypto-adjacent funds, the menu for comprehensive, risk-managed lending strategies especially for institutions and accredited investors remains limited. Blockstream wants to fill that gap.
+TECH + INNOVATION
+Federalprosecutors in San Francisco said Thursdaythat the founder of venture-backed AI chat startup On allegedly used over $4 million of investor funds to purchase a home, fund private schools, buy luxury cars, and even pay for his wedding venue. Alex Beckman, the former CEO of the company, which raised $125 million from VCs and sports stars like Joe Montana and André Iguodala, is now being charged with wire fraud, along with his wife Valerie Lau Beckman.
+Hive, a $2 billion content moderation company, usesmachine learning models to flag harmful contenton the internet, and a new partnership with a U.K.-based child safety nonprofit will better equip the startup toidentify and remove child sexual abuse material from its customers  websites. The new partnership aims to stem the flood of such AI-generated images, of which offenders created tens of thousands in 2024.
+MONEY + POLITICS 
+TheJustice Department ordered its civil rights divisiontopause ongoing litigation and not engagein any new cases, according to the Washington Post. The memo reportedly says the pause, which will freeze litigation linked to the Biden Administration, is being implemented to  ensure that the President s appointees or designees have the opportunity to decide whether to initiate any new cases. 
+SPORTS + ENTERTAINMENT
+<figure>
+<figcaption>
+Zoe Saldana, Adriana Paz, Karla Sofia Gascon and Selena Gomez attend the "Emilia Pérez" premiere.
+Photo by Dominik Bindl/WireImage
+</figcaption></figure>
+TheAcademy announced Oscar nominationsThursday, and thedivisive Spanish-language French crime musical Emilia Pérez ledwith 13 nominations. The Vatican dramaConclaveearned eight nominations but missed out on several crucial nods that were expected, including a nomination for director Edward Berger. The 97th Academy Awards will air March 2 at 7 p.m. EST.
+TRENDS + EXPLAINERS
+The CEO of the Anti-Defamation Leagueblasted Elon Musk on Thursday for a seriesofHolocaust-related jokes he posted on X, just days after the nonprofit defended the billionaire s use of what many have said closely resembles a Nazi salute and calling it an  awkward gesture.  Jonathan Greenblatt, CEO of the ADL, responded to a series of puns Musk posted evoking the names of famous Nazi party members, saying  The Holocaust was a singularly evil event, and it is inappropriate and offensive to make light of it. 
+DAILY COVER STORY
+<figure>
+<figcaption>
+Illustration by Yunjia Yuan for Forbes; Photos by Getty Images: Andrew Harnik; SimoneN; Javier Zayas; AlexandrMoroz; Vicente Méndez; John M Lund
+</figcaption></figure>
+TOPLINEOn Wednesday around 1:30 p.m. Pacific time, Esther Choo, a professor of emergency medicine at Oregon Health & Science University, got an email that the National Institutes of Health study section she was slated to sit on the next day was cancelled. Within hours, as word of NIH meeting cancellations pinged across the social media platform Bluesky, she realized that this wasn t only about the opioid research she would be reviewing, but a broader NIH research shutdown.
+The NIH is the crown jewel of American scientific research, investingmost of its $47 billion budget on medical research. Without the NIH meetings known as study sections, the agency can t review grants and thus can t make research awards. Those funds are critically important in helping researchers study cancer, Alzheimer s disease, diabetes and opioid addiction, among numerous other health issues   and have helped fund major breakthroughs, including Moderna s development of its mRNA vaccine against Covid-19. Vaccinations against Covid-19 saved at least 14 million people from dying in the first year.
+In the short-term, the cancellation of these meetings means that some researchers who expect to receive funds in January will see those funds delayed, while others who had expected grant proposals slated to be reviewed would be subject to the challenges of rescheduling once the pause is lifted. It s not clear if NIH grant review meetings will resume after February 1, when the pause on federal health communications is slated to end.
+Longer term, researchers fear the Trump Administration will use federal research funding as acudgel to force universities and other institutions that receive it in its purge of diversity, equity and inclusion efforts.
+WHY IT MATTERS  This pause in grant reviews jeopardizes not just my career, but the progress of our field,  Sema Quadir, a postdoctoral research scholar studying alcohol use disorder at the Northwestern University Feinberg School of Medicine, toldForbes. What happens to the researchers whose work is delayed indefinitely? And what happens to the 46 million people in the U.S. living with a substance use disorder, waiting for breakthroughs that depend on federally funded research? 
+MORE Trump Administration Delays Funding To Cancer Research
+FACTS + COMMENTS
+President Donald Trump ordered aU.S. withdrawal from a global tax deal, among hisdirectives focused on global tax and trade policy. The two pillars of the global tax efforts focus on where tax should be paid and the amount:
+140: The number of countries that have agreed in theory to the pillars, which included the U.S. until recently
+15%: The global minimum corporate tax rate that would be established under Pillar Two agreement
+ No force or effect within the United States : A presidential memorandum said of any commitments made by the prior administration in relation to the Global Tax Deal
+STRATEGY + SUCCESS
+Many professionals face the decision at some point whether to accept apromotion that doesn t come with an increasein pay. Resist the urge to act on a knee-jerk reaction, and assess the offer objectively. While it can be worth it if the title will boost your overall career prospects, be wary of vague promiseslike that it s a  stepping stone  or your salary will be  revisited  later. Refusing a promotion in some cases is the smartest move, especially if the role comes with significantly more responsibilities, higher expectations, and no clear payoff.
+VIDEO
+https://www.forbes.com/video/d5fffa97-896a-4298-b2eb-eb85137c1f50/
+QUIZ
+A slew of celebrities will fill the commercial airtime during this year s Super Bowl. Daytime TV host Drew Barrymore will star in the first-ever Super Bowl commercial forwhich cruise brand?
+A. Royal Caribbean
+B. Norwegian
+C. MSC Cruises
+D. Virgin Voyages
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire, Chis Dobstaff and Caroline Howard.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Web Publication
+
+Subject: CITIZENSHIP (91%); AGREEMENTS (90%); ARTIFICIAL INTELLIGENCE (90%); CLIMATE ACTION (90%); NATIONAL SECURITY & FOREIGN RELATIONS (90%); UNITED NATIONS (90%); CHARITIES (89%); CLIMATE CHANGE REGULATION & POLICY (89%); DIVERSITY & INCLUSION (89%); EXECUTIVE ORDERS (89%); EXECUTIVES (89%); IMMIGRATION, CITIZENSHIP & DISPLACEMENT (89%); GOVERNMENT BODIES & OFFICES (87%); GOVERNMENT & PUBLIC ADMINISTRATION (79%); ACTIVIST INVESTORS (78%); LAW & LEGAL SYSTEM (78%); LITIGATION (78%); PASSPORTS & VISAS (78%); SHAREHOLDERS (78%); COMPANY STRATEGY (75%); CHATBOTS (73%); PHILANTHROPY (73%); SUITS & CLAIMS (73%); UNITED NATIONS INSTITUTIONS (73%); BUSINESS IMMIGRATION (72%); CRYPTOLOGY (71%); US FEDERAL GOVERNMENT (71%); INTELLIGENCE & COGNITION (69%); POLITICAL PARTIES (69%); EMPLOYMENT VISAS (67%); CONSERVATISM (66%); Leadership (%)
+
+Company:  JPMORGAN CHASE & CO (82%);  GETTY IMAGES INC (56%)
+
+Ticker: JPM (LSE) (82%); JPM (NYSE) (82%)
+
+Industry: NAICS522110 COMMERCIAL BANKING (82%); NAICS523150 INVESTMENT BANKING AND SECURITIES INTERMEDIATION (82%); NAICS523999 MISCELLANEOUS FINANCIAL INVESTMENT ACTIVITIES (82%); NAICS551111 OFFICES OF BANK HOLDING COMPANIES (82%); SIC6022 STATE COMMERCIAL BANKS (82%); SIC6211 SECURITY BROKERS, DEALERS, & FLOTATION COMPANIES (82%); SIC6712 OFFICES OF BANK HOLDING COMPANIES (82%); NAICS518210 COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES (56%); NAICS541430 GRAPHIC DESIGN SERVICES (56%); NAICS541922 COMMERCIAL PHOTOGRAPHY (56%); SIC7336 COMMERCIAL ART & GRAPHIC DESIGN SERVICES (56%); SIC7374 COMPUTER PROCESSING & DATA PREPARATION & PROCESSING SERVICES (56%); ARTIFICIAL INTELLIGENCE (90%); ASSET MANAGEMENT (87%); ACTIVIST INVESTORS (78%); PASSPORTS & VISAS (78%); CHATBOTS (73%); CRYPTOLOGY (71%); EMPLOYMENT VISAS (67%)
+
+Person: MICHAEL BLOOMBERG (92%); DONALD TRUMP (89%); JAMES DIMON (89%)
+
+Geographic: NEW YORK, NY, USA (79%); NEW YORK, USA (92%); UNITED STATES (92%)
+
+Load-Date: January 25, 2025
+
+
+End of Document

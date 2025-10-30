@@ -1,0 +1,94 @@
+
+
+
+
+
+Wellesley News: Wellesley College
+February 18, 2025 Tuesday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 1210 words
+Body
+
+
+On the evening of Sunday, Feb. 9, I, along with 133.5 million viewers, tuned in to watch Kendrick Lamar's Super Bowl LIX Halftime Show. While I was excited to see the 22-time Grammy-winning artist perform on America's biggest stage, I was not expecting to come away feeling inspired by one of the most thought-provoking and culturally significant shows in Super Bowl history. In Lamar's own words, "the revolution is about to be televised." 
+It is no secret that this is a dark time politically for many people in our country. The lives of marginalized communities are increasingly at risk, with fundamental rights constantly being threatened. In just the first few weeks of the Trump administration, executive orders have been put forth aimed at trans erasure, anti-DEI policies, immigration restrictions, an NIH funding freeze, and revoking environmental regulations among many other barbaric and hate-filled policies.
+Our democracy is at stake and, from the consensus of my peers, it has been easy to lose sight of hope. Even so, I remain optimistic because things often get worse before they get better. Just like the namesake of our country, we need to be people united. This is why Lamar's halftime show could not have come at a better time with its powerful symbolic commentary.
+As an homage to the Black community, Lamar's performance featured Black dancers dressed in our nation's colors of red, white and blue to demonstrate the essential contributions of Black Americans to the formation of our country. Politically-charged declarations such as dancers forming the American flag and Samuel L. Jackson portraying a disruptive Uncle Sam, a popular symbol of American nationalist ideals, added a satirical element about the true values of patriotism.
+In a mockery of white supremacy, "Uncle Sam" could be heard yelling at Kendrick's performance, "Too loud, too reckless, too ghetto." These descriptions have often been used by racist commentators to marginalize the Black community and to "put them in their place" implying a level of inferiority in the social order. The choice of Jackson to play this character was purposefully ironic as Jackson himself has been an outspoken political activist for the Black community. 
+In an attempt to demonstrate the metaphorical nature of a video game, each of the performance stages was shaped like a different button of a PlayStation controller. While this had thematic elements alluding to Kendrick's own life, it also served as a personification of the "American Dream" where people's lives have been, in actuality, controlled by the rich and powerful. Lamar, Art Director Shelley Rodgers, Creative Director Mike Carson, Director Dave Free, and the rest of the production team used creative storytelling to evoke emotions of critique and resilience. The Black Buick Grand National Experimental , a dream car for Lamar, signifies his journey from Compton. 
+Serena Williams, one of the greatest tennis players of all time, was highlighted on stage doing a "Crip walk" which she has been criticized for doing as a celebratory dance after tennis matches by referees. While the dance was certainly an illustration of how Black expression has been previously shut down in mainstream media, her presence, as a previous romantic interest of Drake, was one allusion  to Lamar's famous "beef" with the rapper, along with his chart-topping diss track "Not Like Us." Lamar's halftime show masterfully wove a bold critique of Drake, as Lamar used his Pulitzer-Prize-winning lyrical prowess to produce bold sociopolitical commentary.
+Some have even argued that Lamar's performance was directly aimed at current US President Donald Trump. Kendrick's opening line proclaims, "The revolution is about to be televised; You picked the right time but the wrong guy." This remark seemingly alludes to the 2024 election year having been the right time for social change and progress but that Americans chose to elect the wrong candidate for the job. 
+Perhaps one of my favorite moments of the performance was when singer-songwriter SZA joined Lamar onstage to perform their hit collaborations "All the Stars" and "Luther." The song "All the Stars" is nostalgic for me as it came out when I was a high school student obsessed with Marvel movies like the one it was released for, "Black Panther." Yet, SZA's appearance goes deeper as an expression of a successful Black artist within feminist spaces. Her inclusion on the stage stands as a testament to the progress that can be made when gender equality and empowerment are prioritized in the entertainment industry. 
+As an impactful conclusion to the halftime show, Kendrick Lamar repeated a call to action to viewers saying "Turn this TV off." I viewed this as him telling the audience not to give up after losing hope, but to stay motivated and take action. In a final closing, the words "Game Over" illuminated the New Orleans Stadium as the crowd erupted into cheers. There have been many interpretations of these final words. Some believe these words mean that Kendrick is pointing out that he has ended the beef with Drake, while others believe that, like the Super Bowl being a football game, Lamar was just ending his show as a game being over.
+With all of his metaphorical genius, I believe that Lamar was using the words "Game Over" as a powerful conclusion to tell his audience that if they are not motivated, and the rich and powerful will continue to maintain control of the narrative, then it will be game over for all of us. And while I am certainly optimistic about the future of our great nation, I have to agree with Lamar's nuanced sentiments.
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 20px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: PT Serif;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #002776;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: PT Serif;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #f3f3f3;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #002776;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: PT Serif;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #002776;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: PT Serif;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: February 18, 2025
+
+
+End of Document

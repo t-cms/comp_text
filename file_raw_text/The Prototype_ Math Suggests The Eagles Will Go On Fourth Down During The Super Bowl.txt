@@ -1,0 +1,60 @@
+
+
+
+
+
+Forbes.com
+February 7, 2025 Friday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 1200 words
+Byline: Alex Knapp, Forbes Staff
+Highlight: Plus: A constellation of data-gathering balloons, an asteroid may strike the Earth next decade and how to perfectly boil an egg.
+Body
+
+
+In this week s edition of The Prototype, we explore the relative risk tolerance of Andy Reid and Nick Sirianni, a startup building a constellation of data-gathering balloons, the scientific secret to the perfect boiled egg  and more. .
+<figure>
+<figcaption>
+Getty Images
+</figcaption></figure>
+On Sunday, the Philadelphia Eagles will once again face the Kansas City Chiefs in the Super Bowl. In 2023, the Chiefs eked out a one-possession victory over the Eagles, winning 38-35. We can probably expect a similarly close game this time, which means that one crucial factor in the game will be fourth down decisionmaking.
+When it comes to fourth downs, NFL coaches are more conservative than the math. In situations where a conversion is likely, coaches usually opt to punt, though they have been getting more aggressive in the past few years.
+Anew studyled by mathematician Nate Sandholtz illustrates how this could play out in the Super Bowl. His team used statistical analysis of fourth down calls by 85 NFL coaches over the course of the 2014-2022 seasons to determine the relative fourth down risk tolerance of each coach.
+The study found that Nick Sirriani is more likely to go for it on fourth down than Reid: he has the sixth highest risk tolerance of all the coaches analyzed, Reid, by contrast, is about average. But we ll have to wait until Sunday to find out if their history plays out the same way during the biggest game of the year.
+Stay tuned.
+This Startup Raised $30 Million To Build A Constellation Of Stratospheric Balloons
+<figure>
+<figcaption>
+Urban Sky
+</figcaption></figure>
+Colorado-based Urban Sky, which has developed high-tech stratospheric balloons to collect a variety of data,announced this weekthat it has raised a $30 million investment round. The capital will be used to help the company develop a global constellation of long-duration balloons that can be used for environmental monitoring and disaster response.
+Founded in 2019, Urban Sky s first commercial balloon can be navigated remotely and deployed in just a few minutes. The balloon can operate at altitudes as high as 60,000 feet, and the company s customers include companies in the oil & gas sector as well as government agencies like NASA, the U.S. Army and U.S. Air Force.
+One advantage that stratospheric balloons have over satellites, planes and drones is persistence is that they can monitor areas over long periods of time, which could be particularly useful for things like natural disasters, Urban Sky cofounder and CEO Andrew Antonio told me in an email.
+ Imagine hovering a constellation of balloons above LA for days or weeks to map the spread of fire perimeters minute-by-minute in high-resolution,  he wrote.
+DISCOVERY OF THE WEEK: BREEDING LOW-METHANE RICE
+Methane is a potentgreenhouse gasand about 12% of the total emitted into the atmosphere every year comes from a surprising source:growing rice. But a team of scientists was able to successfully identify thechemicals in the rootsof rice plants that cause methane production. This enabled them tobreed a strainof rice that produces70% less methane, while maintaining high yields. The research waspublished this weekin the journalMolecular Plant.
+FINAL FRONTIER: AN ASTEROID MAY HIT EARTH IN 2032
+The International Asteroid Warning Network hasissued an alertabout near-Earth asteroid2024 YR4. It s currently estimated to have about as high as a 6% chance of striking Earth onDecember 22, 2032. Scientists will continue to observe the asteroid as much as they can to get a better chance of figuring out the impact risk. It was discovered in December of last year and is estimated to be between 100 to 300 feet wide. This is no global killer (stand down, Bruce Willis), but if it strikes the Earth theimpact could be devastatingnear the site of impact.  Everything within three or four kilometers would be incinerated. Everything out to maybe 10 kilometers is smashed,  John Tonry, an astronomer at the University of Hawaii, told.
+BLACK HISTORY IN SCIENCE AND TECH
+Thefirst Black Americanto travel to outer space wasGuion Bluford, Jr., who went to orbit on the space shuttleChallengerin 1983. But that milestone might have been hit two decades earlier if history had turned out differently. That s because in 1961, Air Force pilotEd Dwightwas selected to enter training as an astronaut candidate, the first Black pilot to do so. Though he completed astronaut training, he was not selected for a NASA mission and left the Air Force in 1966. There s a happy ending to the story, though. Last May,at age 90, Dwight became theoldest person to travelto space while on board a Blue Origin flight.
+WHAT ELSE I WROTE THIS WEEK
+Inmy other newsletter, InnovationRx, my colleague Amy Feldman and I took a look at thehealth impactsof the Trump administration s efforts to halt operations ofUSAID. We also exploredlitigationagainst the administration s executive orders that affect healthcare as well as the FDA approval of a newnon-opioid painkiller.
+I sat down with my colleague Brittany Lewis on theForbes NewsroomYouTube show,where we talkedabout how the Trump Administration s executive orders havedisrupted the workof scientific researchers. You can watch it below.
+SCIENCE AND TECH TIDBITS 
+Trump s executive orders on DEImay make it harder for government scientists topublish their research, journal editors  say. A coalition of universities, governments and non-profitshas suedthe Administration over the orders, challenging their Constitutionality.
+Sam Altman s fusion power startup Helioncould bea big winnerfrom the $500 billion Project Stargate, which aims to ensure U.S. supremacy in AI.
+Nuclear reactor startup X-Energyhas raised anadditional $200 millionin capital from Laurene Powell Jobs, Emerson Collective and others.
+A new study will test an experimental drugfrom Lilly on patients with a goal ofpreventing Alzheimer s diseasebefore it begins.
+Scientists made a sponge covered in nanoparticlesthat canpull microplastics, metals and other contaminantsout of polluted water.
+PRO SCIENCE TIP: HOW TO PERFECTLY BOIL AN EGG
+A team of scientists usedmathematical modelingto develop a way toperfectly boil an eggwith a solid white part but a soft, creamy yolk. The method, which they callperiodic cooking, compensates for the fact that the yolk and whitescook at different rates. To do it yourself, cook an egg in boiling water for two minutes, transfer it to cold water for two minutes, then repeat the cycle 8 times for a total of32 minutes(which, let s be honest, makes it more of a weekend breakfast thing). Their methods and resultswere publishedin the journalCommunications Engineering.
+WHAT S ENTERTAINING ME THIS WEEK
+This week I ve been revisiting one of my favorite novels: Kurt Vonnegut s. It s the story of Howard W. Campbell, Jr., an American who became a notorious propagandist for the Third Reich whose radio broadcasts featured coded signals providing valuable information to the Allied war efforts. Taking place 15 years after the war, the book is a memoir of Campbell s life as a Nazi as he awaits trial as a war criminal, and explores the question of whether his time during World War II made him a hero or villain. I can t recommend it enough.
+MORE FROM FORBES 
+
+Load-Date: February 8, 2025
+
+
+End of Document

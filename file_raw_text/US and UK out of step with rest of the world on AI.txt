@@ -1,0 +1,64 @@
+
+
+
+
+
+The Guardian (London)
+February 18, 2025 Tuesday 12:58 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: GLOBAL; Version:1
+Length: 1656 words
+Byline: Blake Montgomery
+Highlight: Why the Paris summit on artificial intelligence failed and how Silicon Valley is toeing the Trump administration’s line
+Body
+
+
+Hello, and welcome back to TechScape. Today – the grand failure of the Paris AI summit, the fungibility of facts online, and how to ditch diversity if you’re a tech giant.
+                   Why did the Paris AI summit fail?                   
+Last week, leaders from around the world gathered in Paris to discuss artificial intelligence and arrive at a common understanding of how to both encourage and regulate the technology’s development. They failed.
+My colleagues Dan Milmo and Eleni Courea report:
+The US and the UK have refused to sign a declaration on “inclusive and sustainable” artificial intelligence at a landmark Paris summit, in a blow to hopes for a concerted approach to developing and regulating the technology.
+The communique states that priorities include “ensuring AI is open, inclusive, transparent, ethical, safe, secure and trustworthy, taking into account international frameworks for all” and “making AI sustainable for people and the planet”.
+The document was backed by 60 other signatories on Tuesday, including France, China, India, Japan, Australia and Canada.
+Why couldn’t the US and the UK come to the same common understanding? “America first.”
+In his speech in the Grand Palais, the US vice-president, JD Vance, made it clear the US was not going to be held back from developing artificial intelligence by global regulation or an excessive focus on safety.
+“We need international regulatory regimes that foster the creation of AI technology rather than strangle it, and we need our European friends, in particular, to look to this new frontier with optimism rather than trepidation,” he said.
+The US is competing with China for the lead on AI in a cutthroat race that has led industry executives to decry any laws regulating their businesses as threats to national security. Donald Trump already perceives most European regulations as overly cautious, so he’s inclined to agree. What’s more, Trump is under the heavy influence of Elon Musk, who is himself the owner of a fledgling AI company. The president doesn’t want to follow any law that business leaders tell him will hinder the development of AI, so he’s not going to follow Europe’s safety-focused lead. The UK has adopted a similar approach in hopes of fostering unfettered AI development and the mammoth investment that often comes with it like the US’s $500bn Project Stargate.
+
+                   Facts online are so fungible                   
+Google and Apple changed the name of the body of water between Mexico and Florida to “the Gulf of America” last week. People in Mexico will see the maiden name, people in the US the Maga name. People outside of either nation will see both, which looks a bit like a hyphenated last name.
+You may not view these new names as facts. However, in the eyes of map software, they are. In its blogpost explaining the change, Google cited the US Geographic Names Information System, which officially updated “Gulf of Mexico” to “Gulf of America” after an executive order from Trump. Google Maps pulls its geographic information from online government documents, which have changed to reflect Trump’s whims.
+Other erasures:   removed Black History Month, Pride and other cultural events. They won’t appear by default on users’ calendars any more. The US Centers for Disease Control and Prevention cut online resources for contraception, gender-affirming care, STIs and HIV. Some flickered in and out of existence; some vanished completely.
+Though we may remember our lives as a single continuous, factual narrative, our collective history comprises many. Modify the official sources that make up the record, and the past changes with them. It is a basic but destabilizing realization. We may say that the Stonewall monument in New York City is dedicated in part to the trans community. That becomes a matter of discussion, dispute and controversy rather than one of agreed-upon fact if the National Parks Service preserves none of its own record of the transgender Americans who fought for their rights there. The incontrovertible proof we might cite in an argument, the Wayback Machine archive of previous versions of websites, is itself fragile and incomplete. A historian’s record is good evidence, but it is the recollection of a researcher who relies on primary sources much like the National Parks Service’s own record, which is now different. We are faced with the brittleness of the truth.
+The internet’s recollection is long, but like human memory, it decays. Didn’t this website used to say something different, we wonder as we stare at the parks department’s site on Stonewall. Left with only a suspect official record, facts online are fungible, subject to alteration by those with control of the reference materials.
+                   Ditching diversity: Meta’s history, Google’s present                   
+Silicon Valley is moving away from diversity, equity and inclusion. Donald Trump has given private US companies permission that borders on an order to do so. He’s mandated that the US government get rid of programs that aim to improve the experiences and increase the numbers of underrepresented employees in the workplace, often abbreviated into a bogeyman as DEI.
+Last week, the Guardian published two stories that give exclusive details on how tech giants are dismantling their diversity programs.
+Mark Zuckerberg’s company once invested millions and attracted top talent as tech’s leader in corporate diversity. Those aspirations peaked in 2019, but just a few years later, Meta scuttled them altogether. 
+My colleagues Johana Bhuiyan and Dara Kerr report:
+“Facebook used to be the place to be if you wanted to work on diversity,” said a former recruiter on the DEI team, who asked not to be named for fear of professional reprisal. “Everyone wanted to work with Maxine Williams. Everyone wanted to follow what Facebook was doing. We were the leaders in this.”
+Seven former Facebook employees who worked on the company’s DEI and trust and safety teams say the shift had been a long time in the making. As Zuckerberg’s priorities have shifted with political winds, the company’s emphasis on diversity and other policies have followed suit, they said. The former employees said it was never clear how personally invested Zuckerberg was in making Meta a more inclusive workplace.
+This particular anecdote from 2014 made me laugh. It seems like the most 2014 thing to ever happen.
+Rognlien, a former employee, said Facebook’s workers seemed to be taking the lessons of anti-bias workshops to heart. He cited an enthusiastic example of their success: a group of male engineers who had taken the training printed posters of Kanye West’s face and hung them in the company’s conference rooms. Captioned with “Imma let you finish” in reference to West cutting off Taylor Swift at the Video Music Awards five years earlier, the oversized heads served as reminders not to interrupt women in meetings.
+
+Google has also dropped its diversity program as well as a pledge not to develop weaponized artificial intelligence. In the first all-staff meeting since that one-two-punch announcement, executives defended their decision. My colleague Johana Bhuiyan got inside.
+*** On diversity:
+Melonie Parker, Google’s former head of diversity, said the company was doing away with its diversity and inclusion employee training programs and “updating” broader training programs that have “DEI content”. It was the first time company executives have addressed the whole staff since Google announced it would no longer follow hiring goals for diversity and took down its pledge not to build militarized AI. The chief legal officer, Kent Walker, said a lot had changed since Google first introduced its AI principles in 2018, which explicitly stated Google would not build AI for harmful purposes. He said it would be “good for society” for the company to be part of evolving geopolitical discussions in response to a question about why the company removed prohibitions against building AI for weapons and surveillance.
+Parker said that, as a federal contractor, the company had been reviewing all of its programs and initiatives in response to Donald Trump’s executive orders that direct federal agencies and contractors to dismantle DEI work.
+*** On AI:
+After employee protests in 2018, Google withdrew from the US defense department’s Project Maven – which used AI to analyze drone footage – and released its AI principles and values, which promised not to build AI for weapons or surveillance.
+Kent Walker, Google’s chief legal officer, said, “While it may be that some of the strict prohibitions that were in [the first version] of the AI principles don’t jive well with those more nuanced conversations we’re having now, it remains the case that our north star through all of this is that the benefits substantially outweigh the risks.”
+The kicker of the story elicited another laugh from me:
+For each category of question from employees, Google’s internal AI summarizes all the queries into a single one. The third-most-popular question employees asked was why the AI summaries were so bad.
+“The AI summaries of questions on Ask are terrible. Can we go back to answering the questions people actually asked?” it read.
+
+                   The wider TechScape                                                                                              
+
+Load-Date: February 18, 2025
+
+
+End of Document

@@ -1,0 +1,52 @@
+
+
+
+
+
+The Guardian (London)
+February 25, 2025 Tuesday 2:02 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: GLOBAL; Version:1
+Length: 1526 words
+Byline: Blake Montgomery
+Highlight: The tech giant bets Starmer will fold, Musk faces GOP pushback and tech sees returns on Trump investment
+Body
+
+
+Hello, and welcome back to TechScape, a newsletter about tech and the intersection of whatever you want it to be.
+                   UK’s ‘backdoor’ demand                   
+Apple and the UK are whacking the neon-yellow ball of digital security back and forth like they are at Wimbledon, each trying to volley a winner past the other.
+In January, Keir Starmer’s government served Apple with a demand to build a “backdoor” into its cloud service, an entry point that would allow British law enforcement to access the contents of users’ iCloud even if the information were encrypted. Apple has long maintained it will never create a means to bypass its cryptographic protections, arguing that privacy is a fundamental right and that no government would be able to preserve a monopoly on an encryption backdoor. Malicious actors will, inevitably, gain access.
+Apple hit a strong backhand return last week by entirely eliminating the encryption feature the government had taken issue with, Advanced Data Protection, from the UK market. My colleague Rachel Hall   : “UK users will no longer have access to the advanced data protection (ADP) tool, which uses end-to-end encryption to allow only account holders to view items such as photos or documents they have stored online in the iCloud storage service.”
+Security has long been a major selling point for Apple, an image carefully crafted with billboards across the world reading: “Privacy. That’s iPhone.” The company took the US government to court in 2016 when asked to break its own encryption on an iPhone owned by an American mass shooter. (It won.)
+Apple said last week it was disappointed it had been “forced” to rescind advanced data protection. UK users will now be more vulnerable to data breaches from bad actors, and other threats to customer privacy, the company argued in a press release.
+Annulling advanced data protection does not represent a reputational loss for Apple, however. The security downgrade volleys the debate into Starmer’s court. The change will also mean that all data is accessible by Apple, which can share it with law enforcement if they have a warrant. The government’s request for a workaround is rendered moot. Starmer’s government got what it claimed to want: access to iCloud data by law enforcement, albeit encumbered by the requirement of a warrant. It did not obtain its own encryption bypass point, though.
+Apple seems to be betting that, faced with weakened security for any iPhone owner in the UK, Starmer’s forehand will not be strong enough to maintain his demand for a backdoor.
+                   Musk, nearly normalized, faces a modicum of Republican pushback                   
+Over the weekend, Elon Musk emailed every single employee of the US federal government: “Please reply to this email with approx. 5 bullets of what you accomplished last week and cc your manager.” If they didn’t answer by midnight last night, he said he would fire them. The email reads like a phishing attempt. He pulled the same stunt during his takeover of X, née Twitter.
+Musk’s clear-cutting of US bureaucracy has hit few roadblocks. He seemed to act and tweet unfettered. Even before last week’s order, about 20,000 federal workers have been fired, and the White House claims 75,000 more have accepted buyouts. Looking at our phones and learning about new, dire results of his vendetta against government services has become anticipated in the way that once astonishing mass shootings, lies by Trump, or Covid deaths had. Slate’s tech podcast asked the question on many Americans’ minds a few weeks ago: “   ” The implied answer was yes.
+In a surprising response to his email, however, some Republican agency leaders told their employees to ignore it.
+My colleague Ed Pilkington   : “Kash Patel, a devout Trump loyalist fresh off confirmation as director of the FBI, advised his employees not to heed the warning: ‘FBI personnel may have received an email from OPM requesting information. The FBI, through the Office of the Director, is in charge of all of our review processes, and will conduct reviews in accordance with FBI procedures. When and if further information is required, we will coordinate the responses. For now, please pause any responses.’”
+The US state department, headed by the Trump appointee Marco Rubio, directed its staff not to respond to Musk’s message, as did the Departments of Energy and Homeland Security. Tulsi Gabbard, Trump’s director of the office of national intelligence who was likewise only recently confirmed, told her staff to let it lie, per .  The US attorney John Durham, a top federal prosecutor in New York, also told his staff not to touch the email. Durham was once tasked by Trump with reviewing the origins of the FBI’s inquiry into Russian interference in the 2016 US presidential election. He is no liberal crusader.
+The Department of Defense similarly instructed its employees mildly but forcefully to disregard the ultimatum: “The Department of Defense is responsible for reviewing the performance of its personnel and will conduct any review in accordance with its own procedures.”
+Musk responded with frustration on X, writing that any Pentagon worker who did not share his view of things should find a job somewhere else.
+Democrats appear to have erected few substantive roadblocks to Musk’s so-called “department of government efficiency”. It may be Republicans within government who rein him. Don’t hold your breath, though; the wait for the emergence of a powerful contingent of anti-Trump Republicans has been ongoing since 2015. Case in point, lest you fantasize that the deep state is going full resistance against Musk: Robert F Kennedy Jr, Trump’s worm- and conspiracy theory-addled health secretary, wrote to the 80,000 staff members at the Department of Health and Human Services on Sunday: “This is a legitimate email. Please read and respond per the instructions.” The Social Security Administration issued similar instructions.
+Later, though, the health department reversed course. Sunday night, an email informed employees they should “pause” their responses.
+Ultimately, the only one who may bring Musk to a halt will be Trump, and that may leave hopeful resisters waiting a long time. Musk’s bullet point email came in a response to a Saturday post from Trump telling the world he thought the billionaire should go even harder at slashing the government, in which he wrote: “Elon is doing a great job, but I would like to see him get more aggressive.”
+                   Tech’s Trump investments bear sweet, juicy fruit already                   
+My colleagues Dara Kerr and Johana Bhuiyan report:
+Just one month into Donald Trump’s presidency, the millions that US tech companies invested in currying favor with him seemed to pay off, as the new administration issued a flurry of directives that relaxed regulations and dropped lawsuits previously aimed at holding the industry to account. Crypto, AI and social media companies, many of which made donations to Trump, are all expecting to benefit. Perhaps the biggest beneficiary? Elon Musk, of course.
+Over the past week, federal agencies under the president’s authority dropped legal fights against Musk’s rocket company as well as the US’s biggest cryptocurrency exchange. The White House also issued a “deregulatory initiative” aimed at loosening tech-sector regulation by empowering Musk’s Doge.
+On Friday, Coinbase said the Securities and Exchange Commission had communicated plans to dismiss its lawsuit against the cryptocurrency exchange. The same day, the justice department announced that it was dropping its discrimination case against Musk’s SpaceX.
+Trump is also cutting regulatory safeguards on artificial intelligence, which Silicon Valley CEOs have long said are overly burdensome. The body charged with testing the safety of cutting-edge AI models is bracing for layoffs after probationary employees received notice Wednesday. Two weeks ago, the White House rolled back an executive order by Joe Biden meant to ensure AI safety.
+                     What’s behind all Trump’s pro-tech moves, and why does an inquiry by the US’s federal trade commission into “big tech censorship” read like a mafia-esque threat? .                    
+                   The wider TechScape                                                                                                 
+
+Load-Date: February 25, 2025
+
+
+End of Document

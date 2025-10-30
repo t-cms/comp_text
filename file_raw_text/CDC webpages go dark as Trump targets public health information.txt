@@ -1,0 +1,46 @@
+
+
+
+
+
+The Guardian (London)
+February 4, 2025 Tuesday 1:32 PM GMT
+
+
+Copyright 2025 The Guardian, a division of Transcontinental Media Group Inc. All Rights Reserved
+
+
+Section: US NEWS; Version:1
+Length: 1092 words
+Byline: Carter Sherman and Jessica Glenza
+Highlight: Resources for contraception, gender-affirming care, STIs and HIV flicker in and out of existence or vanish completely
+Body
+
+
+Several federal government websites  and databases dedicated to public health have gone dark in recent days, sparking fears about the Trump administration’s plans to remove, alter or otherwise censor vital health information repositories.
+Between Friday and Tuesday, Centers for Disease Control and Prevention (CDC) resources for  ,   and treating HIV;   (STIs); and    have flickered in and out of existence. A  , once hosted on the website for the office of the assistant secretary for health, was gone as of Tuesday.
+The National Institutes of Health (NIH) website for the  , which as recently as 25 January had pages about “supporting women in biomedical careers” and “women’s health funding opportunities”, had been stripped of information, including a portal about maternal morbidity and mortality.
+Some webpages have reappeared but with only skeletal information or are hosting links that are unworkable. Much of the CDC’s  , a decades-old poll of American youth’s physical and mental health, was still missing on Tuesday
+So had the CDC’s  , which uses Census Bureau data to score vulnerability to natural disasters. The website and interactive map allowed users to compare communities’ vulnerability through the lens of race, education status and income level – all of which are associated with health outcomes.
+“This has international ramifications – it distorts the science base,” said Nancy Krieger, a professor of epidemiology, social and behavioral sciences at Harvard’s TH Chan School of Public Health. “Science is disappearing from US websites, the work of government-sponsored science is disappearing, the datasets are disappearing.”
+In total,  , some 8,000 pages from more than a dozen government websites were taken down in recent days, although some have since returned. The CDC and Census Bureau websites appear to be among the hardest hit. As of Tuesday,   was still unusable.
+“If you’re going to do replicable, reproducible science, you need access to the data. You need to have the data from the past,” Krieger said.
+The NIH scrubbed a   where Krieger discussed “Why is it important to think about sex-linked biologies and also gender – in all its complexities” with the office of research on women’s health. That work helped researchers appropriately include people in scientific research.
+Some of the affected resources are longtime targets of the right. The Youth Risk Behavior Survey, for example, provided an unmatched window into US students’ sexual activity and drug use. Recent editions revealed that girls and LGBTQ+ youth are at elevated risk of sexual assault and poor mental health.
+But the survey has come under fire in red states and several – such as Florida and Idaho – dropped out. One Florida official   “inflammatory and sexualized”. The state came up with its own version of the survey, which asked just three questions about sexual behavior and “abstinence awareness”, . 
+“Removing information that protects Americans is deeply disrespectful to the American kids who participated in these surveys, and it’s dangerous,” Dr Tom Frieden, who ran the CDC during Barack Obama’s administration, said in a statement. “Suppressing or limiting access to facts weakens our ability to address urgent health challenges – from infectious disease outbreaks to mental health crises. Hiding the facts puts lives at risk.”
+In a statement, the CDC said that the changes to its webpages were in response to recent executive orders from Donald Trump, which commanded federal agencies to purge themselves of DEI initiatives and references to genders other than “male” and “female”.
+Dr Rachel Jensen, a North Carolina OB-GYN who is completing a fellowship in complex family medicine, routinely relies on CDC guidelines for medical professionals on prescribing birth control and treating STIs. Webpages for some of those guidelines had returned to the internet by Tuesday – but not all of the links worked. If they do return for good, Trump’s executive order means they may be scrubbed of information that Jensen uses when treating trans, non-binary or otherwise gender-nonconforming patients.
+“We regularly see patients who are on various gender-affirming hormone protocols as part of their process in transitioning or in gender-affirming care in general,” Jensen said. “It’s really important to be able to have access to that resource, because it can help providers to figure out what the best contraceptive methods are for those patients.”
+The loss of whole websites and datasets sent researchers and journalists scrambling to preserve information. Krieger said Harvard researchers pulled together their first “datathon” on Friday, working to archive as much information as possible through the . 
+“We were very busily identifying websites that were at risk or were taken down, to be able to look at them in the Wayback Machine – and we will be figuring out a way to make them publicly available as soon as we can manage,” said Kreiger, who is a leader in the fields of health equity and the emerging field of political determinants of health.
+“The time for it comes out of our sleep,” she said. “That’s the way it was for us during Covid. Many of us went into overdrive – we care deeply about people’s health and we just do the work that’s necessary, whether or not it’s funded.”
+Jensen said she downloaded CDC guidelines in anticipation of losing access to them. But if the agency stops publishing research on gender-diverse populations, or stops conducting it altogether, Jensen worries what will happen to her patients – and to doctors who may never have access to the guidelines in the first place.
+“To think about an entire generation of doctors not having access to that information is frightening,” she said.
+“Having these resources and having them at my fingertips and having them developed by the CDC is something that makes me really proud to be an American physician,” said Dr Katherine Lee, a family medicine physician who works in the US south-east and also often consults the CDC guidelines for birth control and STIs when treating patients.
+She added: “It’s something that I so value as a physician, and the idea of them going away – the only thing that does is cause harm to the American people.”
+
+Load-Date: February 4, 2025
+
+
+End of Document

@@ -1,0 +1,87 @@
+
+
+
+
+
+Forbes.com
+February 5, 2025 Wednesday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 1602 words
+Byline: Danielle Chemtob, Forbes Staff
+Highlight: Today s Forbes Daily covers Palantir's all-time high, what China tariffs could make more expensive, Google parent company's slump, uncertainty at USAID and more.
+Body
+
+
+Warehouses are integral to modern e-commerce, but they can also be chaotic. One startup is using AIto help prevent accidents, and Amazon and Tesla are already on board.
+Protex AI monitors worker safety at warehouses and factories by analyzing security video footage, and on Tuesday it announced it had raised $36 million in its latest funding round. The company s software can detect behaviors that might lead to an accident, like not wearing protective gear, while also blurring individual faces to focus on overall trends.
+The potential market is huge, with the global warehouse and storagemarket expected to grow to $643 billionin the next four years, according to research firm Technavio.
+FIRST UP
+<figure>
+<figcaption>
+Getty Images
+</figcaption></figure>
+At a press conference with Israeli Prime Minister Benjamin Netanyahu, President Donald Trumpproposed that the U.S.  take over  the Gaza Strip,calling for the resettlement of Palestinians away from the war-torn enclave. The comments, which drew strong condemnation from multiple world leaders and key U.S. allies, came just a few hours after he told reporters at the White House that Palestinians should be resettled in Jordan, Egypt or other countries and referred to Gaza as a  demolition site. 
+Last week s tragic collision of an Army Black Hawk with a passenger jet in Washington, D.C. is thelatest in a slew of troubling incidentsfor the Army. In fiscal 2024, the Army had 15 flight accidents claiming 11 lives that it classified as Class A mishaps, the most severe kind,the most in a decade. Veterans tellForbes it s a result of a deadly mix of inexperience and flawed training.
+This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.
+BUSINESS + FINANCE
+<figure>
+<figcaption>
+Palantir co-founder and CEO Alex Karp (Photo by STEFANI REYNOLDS/AFP via Getty Images)
+AFP via Getty Images
+</figcaption></figure>
+Shares ofrecent stock market favorite Palantir surged 24% Tuesday, reaching an all-time high after its latest earnings report as the software giant benefits handsomely from its position at the center of the AI revolution,  according to billionaire CEO Alexander Karp. The defense tech company s market capitalization reached as high as $240 billion during trading hours, which is more than household names like the $221 billion American Express, $208 billion McDonald s and $207 billion Disney.
+President Donald Trump s 10% additional tariffs on Chinese imports went into effect Tuesday, which could make several categories ofgoods from smartphones to household appliances more expensive. TheU.S. imported $426.9 billion worth of Chinese goods in 2023 and $401.8 billion in 2024 s first 11 months, according to the U.S. Census Bureau.
+Targetshareholders sued the retailer, its CEO and current and former board members claiming Target defrauded investors about the risksof its corporate DEI policies, according to Reuters. Target was previously sued by America First Legal, a conservative nonprofit, on behalf of a shareholder, and the company ended its DEI program in January.
+WEALTH + ENTREPRENEURSHIP   
+The White House has said Elon Musk, who appears to be wieldingunprecedented power over the federal bureaucracy, is a Special Government Employee, or SGE, which means hedoes not have to publicly disclose his financial interestsor potential conflicts of interest. This distinction poses ethical and possible legal issues, according to former White House ethics lawyers who spoke withForbes.
+TECH + INNOVATION   
+Shares ofGoogle parent Alphabet sank in after hours trading Tuesdayafter reporting mixed fourth quarter results, and perhaps most pressing for investors,worse-than-expected revenue in its artificial intelligence heavy Google Cloud unit. The tech giant is also forecasting much higher 2025 spending than Wall Street expected, as it races to compete in the generative AI space.
+MONEY + POLITICS
+Jared Kushner s private equity firm had been working on aninvestment in one of Mexico s leading infrastructurecompanies for the last 20 months, butthe deal is now on hold. President Donald Trump s decision to impose 25% tariffs on Mexico this week now paused for 30 days pending negotiations has complicated his son-in-law s investment plans, and also raises the question of a conflict of interest for Trump.
+NineFBI agents sued the Justice Departmenton Tuesday to stop the agency from identifying them and other agents who investigated the January 6 Capitol attack and Trump s handling of classified documents. The lawsuit argued the president s request for the agents  names is  unlawful and retaliatory,  amid the newadministration s push to target personnelwho have investigated the president.
+WORLD
+<figure>
+<figcaption>
+Protestors gather outside of USAID headquarters in Washington, DC. (Photo by Kayla Bartkowski/Getty Images)
+Getty Images
+</figcaption></figure>
+Nearly all ofUSAID s global workforce will be placed on administrative leavestarting Friday, which, according to a recent Congressional report,  totals more than 10,000, with approximately two-thirds serving overseas.  The move comes as President Donald Trump and several members of his administration have spoken of plans to review and potentially restructure or abolish parts of USAID, theprimary international humanitarian aid and development branch of the U.S. government.
+The U.S. Postal Serviceannounced the suspension of all incoming packagesfrom China and Hong Kong Posts on Tuesday evening, a move that will likelyseverely disrupt operations for major e-commerce platformslike Shein, Temu and Amazon Haul. The move comes after the Trump administration s sweeping 10% tariffs on all Chinese goods went into effect after midnight on Tuesday, which also closed the  de minimis  exemption that allowed packages valued under $800 to be processed without paying any customs duties or tariffs.
+TRENDS + EXPLAINERS
+Elon Musk posted on X that he had  deleted  18F, the group responsible for creating the technology behind projects like the IRS  Direct File program, causingconfusion about the free program s status. But despite speculation from some social media users that the program had been axed,Direct File remains open and operational for this tax season.
+DAILY COVER STORY
+<figure>
+<figcaption>
+Nova Credit CEO Misha Esipov
+Aleksandr Karnyukhin for Forbes
+</figcaption></figure>
+TOPLINEIn early 2020, after four grueling years trying to prove itself to financial institutions and investors, Nova Credit was finally starting to taste success. It had built Credit Passport, a novelfinancial technology that enabled immigrantsfrom India, Mexico, the United Kingdom, Australia and Canada to import and convert their credit histories from back home into U.S. terms. American Express had signed on to use the feature, and the company completed a $50 million funding round.
+Then the Covid pandemic hit, immigration abruptly stopped, and demand for Nova s tech vanished. Banks  usage of Credit Passport dropped by 75%, pulling Nova s revenue down from $2 million on an annualized basis to about $500,000.
+Instead of quitting, Novajumped into cash flow underwriting,a buzzy new concept where lenders assess the risk of individual consumers based on their current bank account inflows and outflows, often in addition to using a score based on their historical loan and credit card payments.
+In 2022, as its cash flow underwriting business gained traction, Nova started to see demand bounce back for Credit Passport, along with a revival of legal immigration. But with the fintech market slumping, that couldn t save it from a down round it raised $45 million in 2023 at a $200 million valuation. Last year, growth finally took off, and Nova s revenue reached an estimated $25 million, doubling from the year prior.
+WHY IT MATTERS Now the 90-person company faces yet another challenge: The cash flow underwriting industry, which Nova has hitched its future to,has grown intensely competitive, and Nova has to be nimble to avoid being elbowed out of this growing and lucrative market.
+MORE 30 Under 30 Finance 2025: From Fintech s Top Founders To Wall Street s Best Dealmakers
+FACTS + COMMENTS
+Super Bowlticket prices have fallensharply in the last week, indicating that this year s championship game between the Kansas City Chiefs and the Philadelphia Eagles will not be the priciest in NFL history after all. Ticket reseller Gametime predicts prices will bottom out on February 5 and game day:
+58%: The decline in cost for the highest-priced tickets in the last week
+$4,000 and $6,000:The range for the average resale ticket to previous Super Bowls
+$6.6 billion: The net worth of the Philadelphia Eagles, the eighth most valuable NFL team, compared to $4.85 billion for the Kansas City Chiefs
+STRATEGY + SUCCESS
+It might be easier for executives to downplay problems with company culture, but that comes with a cost: Studies show that employees who feel connected to their organization s cultureare more likely to be engaged at work.Start with curiosity rather than judgement, and look for patterns rather than individual incidents. The most effective leaders understand that by nurturing a positive culture, they can create an environment that drives their business goals.
+VIDEO
+https://www.forbes.com/video/f19f153d-888e-431b-87dc-a6181518d193/
+QUIZ
+A star-studded slate of artists are set to perform at Sunday s Super Bowl. Which Grammy award winneris slated to perform the national anthem?
+A. Carrie Underwood
+B. Lady Gaga
+C. Jon Batiste
+D. Bruno Mars
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire and Chris Dobstaff.
+
+Load-Date: February 6, 2025
+
+
+End of Document

@@ -1,0 +1,99 @@
+
+
+
+
+
+Forbes.com
+January 30, 2025 Thursday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 1739 words
+Byline: Kelly Phillips Erb, Forbes Staff
+Highlight: As President Trump continues to make sweeping changes to federal agencies, sections of the IRS s Internal Revenue Manual appear to have been taken offline.
+Body
+
+
+<figure>
+<figcaption>
+The missing pages have been described as part of a review to ensure that the manual complies with President Trump s January 22 executive order.
+getty
+</figcaption></figure>
+As President Trump continues to make sweeping changes to federal agencies, sections of the IRS  Internal Revenue Manual have been taken offline.
+The Internal Revenue Manual (IRM) sets forth the policies, procedures, instructions, guidelines, and delegations of authority that control the operation and administration of the IRS. It details how the agency works and is a blueprint for not only IRS employees but also tax professionals. IRM provisions aren t laws and aren t intended to be treated as such they do, however, provide some insight on how the IRS may regard a certain tax matter or criteria important to IRS agents and officers in an exam or collections action.
+Missing Pages
+The missing pages, which were first flagged on social media, were removed as part of a review to ensure that the manual complies with Trump sJanuary 22 executive orderwhich, among other things, terminates  diversity, equity, and inclusion (DEI) discrimination  in the federal workforce, and federal contracting and spending.
+Predictably, the pages that are directly related to DEI are missing and significant sections focused on human resources are down. However, some of the pages that no longer appear online don t appear to fit that description.
+That s because the method used to comply quickly a word search for certain terms flagged a broader set of content, according to a source. The search was needed because the IRM is massive. (The manual is thousands of pages; its table of contents alone takes up dozens of pages.)
+For example, sections focusing on Offers In Compromise seem to have been removed. An offer in compromise allows you to settle your tax debt for less than the full amount you owe based on your ability to pay there are specific procedures to apply and be accepted.
+The section on LB&I Subject Matter Experts (SMEs) also appears to be unreachable online. LB&I stands for Large Business and International. The LB&I Division is responsible for tax administration activities for domestic and foreign businesses with a United States tax reporting requirement and assets equal to or exceeding $10 million as well as the Global High Wealth and International Individual Compliance programs.
+Pages on the Taxpayer Advocacy Panel (TAP) Program also appear to be missing. The Taxpayer Advocacy Panel is a committee that works with the IRS to identify tax issues that are important to taxpayers and to provide a taxpayer perspective to the IRS on key programs, products, and services notably, TAP is demographically and geographically diverse, and has at least one member living abroad to represent international taxpayers. TAP also serves as a focus group that makes recommendations to the IRS and the National Taxpayer Advocate, an independent organization within the IRS. The Advocateworks in two main ways helping taxpayers with individual problems, and recommending  big picture  or systemic changes at the IRS or in the tax laws.
+There is also a gap in content related to the Low Income Tax Clinic Program. LITCs are independent from the IRS. LITCs can represent taxpayers before the IRS or in court on audits, appeals, tax collection matters, and other tax disputes. Services are provided for free or for a small fee. In order to qualify for assistance from an LITC, generally a taxpayer s income must be below a certain threshold, and the amount in dispute with the IRS is usually less than $50,000 LITCs also provide services for taxpayers for whom English is a second language. Although LITCs receive partial funding from the IRS, LITCs, their employees, and their volunteers are completely independent of the IRS.
+Also unavailable? IRM sections on Multilingual Initiatives. In recent years, the IRS has made a real effort to ramp up services for traditionally underserved taxpayers, including bilingual ones. As of last year, there are currently 1,369 tax forms, instructions, and publications andabout 10% of those are in Spanish. There s also a Spanish-language version of theIRS.govwebsite (which, among other things,allows you to track your refund in Spanish). TheIRS2go mobile app(also useful for refund tracking) is available in Spanish and English.
+The IRS also provides foreign language translation services during regular operating hours in Taxpayer Assistance Centers (TACs). These services include not only account assistance but also foreign language services either in person or via the Over the Phone Interpreter (OPI) line, sign language interpreter services and reasonable accommodation for those with a disability. As of this morning (January 30), multi-lingual services were still available on the IRS website.
+(The Spanish version of the White House website was taken down on January 20, 2025 it now gives the reader an error message. The Spanish profile of the White House on X has also been removed. )
+A word of caution: it s difficult to say exactly what has been removed the manual is thousands of pages long and divided into dozens of parts. I attempted to match up an archived version of the manual with the online version, which was particularly tricky.
+The IRS confirmed that, due to the executive orders, parts of the IRM and other things (including web pages and forms) had been taken down. Why so many? The answer is simple. The IRS has a huge amount of material literally, thousands of forms and even more reference pages and guidance. The expectation is that a lot of it will go back up it is not gone forever.
+Leadership
+It s no coincidence that significant sections focusing on leadership is also offline. The organization of the agency also looks a little different these days. Former IRS Commissioner Danny Werfelleft officeon January 27, 2025 and Deputy Commissioner Douglas (Doug) O'Donnell stepped in as Acting Commissioner.
+The IRS is led by the Commissioner and Deputy Commissioner, who oversee the organization s operating divisions and integrated support functions. The Commissioner is responsible for the agency s 82,990 employees (full-time workers as of 2023).
+IRS revenue collections the bulk of which keep the lights on in the federal government reached a ten-year high in 2022 (taking a slight dip in 2023). The IRS processed almost 271.5 million federal tax returns and supplemental documents in fiscal year 2023 (163,146,934 of those were individual income tax returns) and assisted nearly 60.3 million taxpayers through correspondence, telephone helplines, or Taxpayer Assistance Centers.
+Specialized IRS units report to the Commissioner's office. The IRS Chief Counsel also reports to the Treasury General Counsel on certain matters. Here s how that currently breaks down:
+Chief of Staff: Emily Kornegay
+IRS Chief Counsel: William Paul (acting)
+Taxpayer Advocate Service: Erin M. Collins, National Taxpayer Advocate
+Appeals: Elizabeth Askey, Chief of Independent Office of Appeals
+Taxpayer Experience Office: Fumi Tamaki, Chief
+Communications and Liaison: Jodie Reynolds, Chief
+Transformation & Strategy Office: David Padrino, Chief
+Direct File: Bridget Roberts, Chief
+The Deputy Commissioner, which is currently vacant, reports to the Commissioner and oversees four primary operating divisions: taxpayer service, tax compliance, information technology, and operations. Some of the offices under the Deputy are as follows:
+Office of Online Services: Karen Howard, Director
+Taxpayer Services: Kenneth Corbin, Chief
+Chief Tax Compliance Officer: Heather Maloy
+Criminal Investigation: Guy Ficco, Chief
+Enterprise Case Management: Lou Ann Kelleher, Director
+Large Business and International Division: Holly Paz, Commissioner
+Office of Professional Responsibility: Elizabeth Kastenberg, Director (acting)
+Return Preparer Office: Kimberly Rogers, Director
+Small Business/Self-Employed Division: Lia Colbert, Commissioner
+Tax-Exempt and Government Entities Division: Edward Killen, Commissioner
+Whistleblower Office: John Hinman, Director
+You can see what the organizational chart looks like here:
+<figure>
+<figcaption>
+IRS organizational chart (2025)
+Kelly Phillips Erb
+</figcaption></figure>
+(For a full sized version as a PDF, click on the chart.)
+What s Next?
+Just because pages are missing today doesn t mean they will be gone forever for now, the agency is referring to the missing sections as simply under review. So far, there s no public target date for any of the material to be reposted. The speed and breadth of the changes are hard to digest for now. Many tax professionals, myself included, have indicated that they ve never seen anything like this in the agency.
+An official IRS statement provided toForbes noted, The Internal Revenue Service removed portions of its Internal Revenue Manual, or IRM, to comply with recent executive orders. Because of the document s size, and in an abundance of caution, the agency removed all sections associated with specific key word searches (performed using an automated tool). Employees are currently at work updating the IRM and will repost these sections as quickly as possible. The IRS apologizes to tax professionals and others for any inconvenience this temporary situation may cause. 
+We ll keep you posted.
+(Note: Updated to include an official IRS statement. This is a developing story.)
+ 
+Looking for timely tax tips and the latest news? Check out our free .
+Chief of Staff: Emily Kornegay
+IRS Chief Counsel: William Paul (acting)
+Taxpayer Advocate Service: Erin M. Collins, National Taxpayer Advocate
+Appeals: Elizabeth Askey, Chief of Independent Office of Appeals
+Taxpayer Experience Office: Fumi Tamaki, Chief
+Communications and Liaison: Jodie Reynolds, Chief
+Transformation & Strategy Office: David Padrino, Chief
+Direct File: Bridget Roberts, Chief
+Office of Online Services: Karen Howard, Director
+Taxpayer Services: Kenneth Corbin, Chief
+Chief Tax Compliance Officer: Heather Maloy
+Criminal Investigation: Guy Ficco, Chief
+Enterprise Case Management: Lou Ann Kelleher, Director
+Large Business and International Division: Holly Paz, Commissioner
+Office of Professional Responsibility: Elizabeth Kastenberg, Director (acting)
+Return Preparer Office: Kimberly Rogers, Director
+Small Business/Self-Employed Division: Lia Colbert, Commissioner
+Tax-Exempt and Government Entities Division: Edward Killen, Commissioner
+Whistleblower Office: John Hinman, Director
+
+Load-Date: March 29, 2025
+
+
+End of Document

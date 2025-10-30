@@ -1,0 +1,82 @@
+
+
+
+
+
+The New York Times 
+January 24, 2025 Friday 05:53 EST
+
+
+Copyright 2025 The New York Times Company All Rights Reserved
+Section: BUSINESS; dealbook
+Length: 2105 words
+Byline: Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund LeeAndrew Ross Sorkin is a columnist and the founder of , the flagship business and policy newsletter at The Times and an annual conference.
+Highlight: President Trump’s accusation that Bank of America dropped conservatives as clients serves as a reminder C.E.O.s may face unexpected attacks by the White House.
+Body
+
+
+President Trump’s accusation that Bank of America dropped conservatives as clients serves as a reminder C.E.O.s may face unexpected attacks by the White House.
+Good morning from Davos, Switzerland, on the final day of the World Economic Forum. The hottest chatter over the past 24 hours has been about two topics. First, jaws were on the floor when President Trump, during a Q. and A. session that included Brian Moynihan of Bank of America, claimed to Moynihan’s face that his institution had debanked conservatives. The bank is now scrambling to undo the damage.
+Second, the tech community here can’t stop talking about an A.I. model by the Chinese start-up DeepSeek that is as powerful as ChatGPT and purportedly uses much less compute power. (We have more on both of these below.)
+And on a more personal note, a very unusual thing happened yesterday: A meme coin called “Sorkincoin” emerged after Larry Fink of BlackRock joked on CNBC that there should be one. It appears some viewers created it — and the token has since topped $160 million in trading volume. Please know I have absolutely no affiliation with the coin in any way whatsoever. — Andrew
+“Brian got whacked” 
+For a few minutes at least, it seemed as though the air had been sucked out of the main auditorium on Thursday at the World Economic Forum in Davos, Switzerland.
+President Trump had just dodged a softball question from Bank of America’s Brian Moynihan, and instead went after him, accusing the lending giant of routinely debanking many of his supporters, a hot-button issue among conservatives.
+“Brian got whacked,” was how one prominent executive described the frosty exchange to DealBook’s Lauren Hirsch. Replays of the presidential rebuke continued well into the night, especially over drinks.
+It didn’t seem to diminish the bullish mood that’s hung over Davos all week, as executives here celebrated Trump’s low-tax, low-regulation policy agenda. But it was another reminder — as if business leaders needed one — that Trump has thrown out the old rules of engagement between Washington and C-suites.
+His blustery approach may lead to more deals and more profits. But it carries unexpected pitfalls, too.
+A recap: Moynihan appeared onstage alongside Blackstone’s Steve Schwarzman and others to ask questions of Trump in his return (via video live feed) to Davos. The Bank of America chief asked how the president would maintain economic growth.
+But Trump turned the tables on Moynihan, as well as on peers like JPMorgan Chase’s Jamie Dimon. “I hope you start opening your bank to conservatives, because many conservatives complain that the banks are not allowing them to do business within the bank, and that included a place called Bank of America,” he said.
+Republican officials for years have accused banks of selectively closing accounts of conservative customers, or refusing to do business with them. (Crypto executives have also complained that they’ve been debanked.) The issue is : Bill Halldin, a Bank of America spokesman,  that the lender had never closed accounts for political reasons, but was “required to follow extensive government rules and regulations that sometimes result in decisions to exit client relationships.”
+Moynihan didn’t acknowledge Trump’s remarks. (Some wondered whether he had even heard Trump, or just stayed mum.) Instead, he circled back to safer territory:the 2026 World Cup, which Trump had mentioned earlier and for which Bank of America is a sponsor.
+The fallout is continuing. “Bank of America” and “debanking” were trending on Elon Musk’s X platform. Marc Andreessen, the venture capitalist who has accused banks of unceremoniously dropping crypto executives as clients,  that “the President’s own wife and son were debanked,” posting a screenshot of a passage in Melania Trump’s book.
+The crypto industry did score a win on this front on Thursday as a new Trump executive order promised “.”
+Bank executives may have come to Davos feeling upbeat about the prospect of fewer regulations and more deals. That hasn’t completely faded away, but now they have at least one big new issue to address.
+HERE’S WHAT’S HAPPENING 
+Pete Hegseth faces a nail-biter confirmation vote. The Senate is expected to vote on President Trump’s pick for defense secretary on Friday, after Republicans broke a Democratic filibuster to , 51-49. Just two Republican senators — Susan Collins of Maine and Lisa Murkowski of Alaska — voted against advancing Hegseth’s nomination; Democrats are still seeking to persuade others to join them for the final vote, citing accusations about his conduct.
+A federal judge temporarily blocks Trump’s birthright citizenship executive order. Judge John Coughenour called the president’s effort to end automatic citizenship for babies born on American soil “.” It was a first legal setback to Trump’s expansive efforts to clamp down on immigration; the president told reporters hours later, “Obviously we’ll appeal it.”
+OpenAI unveils an artificial intelligence agent to the public. The ChatGPT creator announced Operator, a service that can go out onto the internet and , like shopping for groceries or booking a restaurant reservation. It’s the latest effort by tech companies to prove that A.I. software can have meaningful real-world applications, though OpenAI acknowledges that Operator is still in an experimental stage.
+Trump moves markets in his trademark way 
+President Trump loves stock market rallies. He may well take credit for Thursday’s  after he took aim at OPEC, interest rates and Fed independence.
+The benchmark index soared on Thursday shortly after he addressed global business leaders at the World Economic Forum in Davos, Switzerland, promising a “golden age” of peace and prosperity. 
+What heartened investors:
+Trump demanded that OPEC lower the price of oil for the sake of consumers — and for international peace. “If the price came down, the Russia-Ukraine war would end immediately,” he said.  shortly after his remarks.
+He also called on central bankers around the world to lower interest rates. Some market watchers said such moves would help weaken the dollar, bolstering exports and eroding America’s huge trade deficit, a point of frustration for Trump. That said, the Bank of Japan  on Friday; still the dollar fell against the yen.
+After the presentation, Trump offered more dovish comments on levies. In an interview with Fox News, the president again seemed to back off his earlier warnings that huge tariffs against China were coming. “,” he said of such a threat.
+Stocks in Asia were up on Friday.
+There was one point that could still unsettle markets: another shot at Jay Powell. Trump again  with high interest rates in the United States, a sign that he intends to keep pressure on the Fed chair even if the president  to meddle in central bank policy, or remove him from office.
+“If I disagree, I will let it be known,” Trump told reporters, potentially setting up another showdown ahead of next week’s Fed meeting. Economists widely expect the central bank to leave rates unchanged for several more months as inflation worries grow.
+Altman’s Stargate power move
+Sam Altman grabbed headlines this week when he stood next to President Trump and the fellow tech moguls Larry Ellison of Oracle and Masa Son of SoftBank to announce a hugely expensive data center initiative.
+The project, known as Stargate, dragged the OpenAI chief into a new feud with his A.I. archnemesis, Elon Musk, and caused friction with an important ally, Microsoft. But new details suggest that if the project comes to fruition — a big if — Altman may reap big benefits.
+Altman may have boxed out rivals. Though some tech watchers initially wondered whether Stargate would be open to other tech companies, reports in  and  suggest that it would serve only the company behind ChatGPT.
+Moreover, it’s a project with important backers. Oracle will dedicate its forthcoming data center in Abilene, Texas — which is initially expected to draw 1.2 gigawatts, or enough electricity to power Austin, according to The Information — to Stargate. And Ellison and Son have Trump’s ear.
+Now Altman does, too. As part of his fusillade of attacks on Stargate, Musk quoted old social media posts by the OpenAI chief criticizing Trump. But the president now appears happy with Altman, saying, “The people in the deal are very, very smart people.”
+ that after the election, OpenAI employees asked what Trump’s victory, and growing alliance with Musk, might mean for their company, especially given that Altman has donated to Democrats. That worry appears to have been allayed, for now.
+Separately, Musk risks causing a rift with Trump. Politico reports that some administration officials and allies were  on Stargate. Trump said  by Musk’s criticism: “He hates one of the people in the deal,” he shrugged.
+But White House observers have long questioned what might divide the two men, who are known for demanding the spotlight and holding grudges. Is it possible that Musk may be eroding his standing with Trump just as his rival is making inroads?
+The dark-horse Chinese candidate for A.I. dominance
+While one of the Trump administration’s signature A.I. initiatives already finds itself weighed down by questions about its future, a small Chinese start-up is quickly becoming the talk of the town, from Silicon Valley to Davos, Switzerland.
+Meet DeepSeek, whose A.I. chatbot can  with OpenAI’s ChatGPT and Google’s Gemini with a fraction of the costly semiconductor resources its American rivals need. Its achievements have tech leaders and policymakers asking: Are U.S. efforts to deny China access to high-end A.I. resources ineffective, or has DeepSeek found a way around them?
+What DeepSeek says: Because of U.S. restrictions on shipments of advanced chips, its engineers are forced to do more with a lot less. The company says it used about 2,000 Nvidia chips; tech giants use as many as 16,000. 
+Others are skeptical. Chinese companies have been stockpiling thousands of Nvidia chips as the Biden administration increased export controls. (DeepSeek’s owner, High Flyer, is a quantitative trading shop that by 2021 spent a lot of money amassing processors.) Others are .
+Alexandr Wang of the A.I. training giant Scale AI — who called DeepSeek’s latest A.I. model “earth-shattering” — told Andrew at the World Economic Forum that Chinese companies  than U.S. controls allowed. DeepSeek, he said, probably has about 50,000 Nvidia advanced H100 processors, “which they obviously can’t talk about.”
+DeepSeek poses another challenge to assumptions about the A.I. status quo. The company also makes its software open source, meaning anyone around the world can gain access to the underlying code and build products on top of it.
+While many in the United States have argued that allowing unfettered access to open-source A.I. software is dangerous, others say the risk is that Chinese open-source products will end up becoming the global default.
+THE SPEED READ 
+Deals
+In banking deals: Monte dei Paschi has made an all-stock  for a fellow Italian lender, Mediobanca; and Commerzbank’s new C.E.O. is  with her counterpart at UniCredit of Italy about a potential merger. (WSJ, FT)
+“Goldman Defeats Hollywood Managers’ ” (Bloomberg)
+Politics, policy and regulation
+, a partner at the law firm Holtzman Vogel who was named as the top lawyer for Elon Musk’s government cost-cutting initiative in December, is quitting the panel. (WSJ)
+The Sackler family, which owns the opioid maker Purdue Pharma, has offered more money to settle OxyContin litigation — but . (NYT)
+Best of the rest
+“Instagram and Facebook ” (NYT)
+“Emilia Perez,” “The Brutalist” and “Wicked” , and are all in the running for best picture. (NYT)
+We’d like your feedback! Please email thoughts and suggestions to .
+PHOTO: “Debanking” began trending on social media after President Trump accused Bank of America and its C.E.O. of the practice. (PHOTOGRAPH BY Agence France-Presse — Getty Images FOR THE NEW YORK TIMES)
+
+Load-Date: January 27, 2025
+
+
+End of Document

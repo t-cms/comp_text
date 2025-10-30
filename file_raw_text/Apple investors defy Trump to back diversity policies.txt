@@ -1,0 +1,53 @@
+
+
+
+
+The Daily Telegraph (London)
+February 26, 2025 Wednesday
+Edition 1, National Edition
+
+
+Copyright 2025 Telegraph Media Group Holdings Limited All Rights Reserved
+
+
+Section: BUSINESS; Pg. 18
+Length: 302 words
+Byline: James Titcomb
+Body
+
+
+APPLE shareholders have thrown their support behind the company's diversity policies in defiance of Donald Trump and despite a wider retreat across Silicon Valley.
+A majority of shareholders at the technology giant's annual meeting yesterday voted against a proposal calling for Apple to abolish its inclusion and diversity programme.
+Apple had urged shareholders to oppose the motion, which had been put forward by US conservative group the National Center for Public Policy Research (NCPPR).
+Other tech companies, including Meta, Amazon, Google and Microsoft, have backtracked on diversity schemes in recent months amid political pressure to cut down on the initiatives.
+Donald Trump has vowed to name and shame "woke companies" that continue to run diversity, equity and inclusion (DEI) programmes. He signed an executive order last month to "combat illegal private-sector DEI preferences".
+The president has also sought to cut funding for companies that employ diversity programmes, as well as eliminating them in the US government.
+Google said earlier this month it was cancelling DEI programmes in part due to the Trump administration's new rules for federal contractors.
+Meta removed its DEI schemes days before Mr Trump's inauguration, saying: "The legal and policy landscape surrounding diversity, equity and inclusion efforts in the United States is changing".
+The NCPPR's shareholder resolution criticised Apple's diversity programmes, which include a "supplier diversity" scheme, employing a vice-president of inclusion and diversity and giving money to organisations to promote DEI schemes.
+It argued that "DEI poses litigation, reputational and financial risks to companies and therefore financial risks to their shareholders, and therefore further risks to companies for not abiding by their fiduciary duties".
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Journal Code: DTL
+
+Subject: SHAREHOLDERS (93%); DIVERSITY & INCLUSION REGULATION & POLICY (91%); DIVERSITY & INCLUSION (90%); HOLDING COMPANIES (90%); WORKPLACE DIVERSITY & INCLUSION (90%); PUBLIC POLICY (79%); ASSOCIATIONS & ORGANIZATIONS (78%); POLITICAL ORGANIZATIONS (78%); SHAREHOLDER MEETINGS (78%); TRUMP'S FIRST 100 DAYS (78%); NEGATIVE PERSONAL NEWS (77%); US FEDERAL GOVERNMENT (76%); CONSERVATISM (73%); EXECUTIVE ORDERS (73%); SHAMING (73%); TALKS & MEETINGS (72%); LITIGATION (68%); PUBLIC CONTRACTING (67%); FIDUCIARY DUTIES (50%)
+
+Company:  APPLE INC (96%);  GOOGLE LLC (85%)
+
+Ticker: AAPL (NASDAQ) (96%)
+
+Industry: NAICS423430 COMPUTER & COMPUTER PERIPHERAL EQUIPMENT & SOFTWARE MERCHANT WHOLESALERS (96%); NAICS334413 SEMICONDUCTOR & RELATED DEVICE MANUFACTURING (96%); NAICS334112 COMPUTER STORAGE DEVICE MANUFACTURING (96%); NAICS334111 ELECTRONIC COMPUTER MANUFACTURING (96%); SIC5045 COMPUTERS & COMPUTER PERIPHERAL EQUIPMENT & SOFTWARE (96%); SIC3674 SEMICONDUCTORS & RELATED DEVICES (96%); SIC3577 COMPUTER PERIPHERAL EQUIPMENT, NEC (96%); SIC3572 COMPUTER STORAGE DEVICES (96%); SIC3571 ELECTRONIC COMPUTERS (96%); NAICS519290 WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES (85%); BIG TECH (79%); MEDIA & TELECOMMUNICATIONS (74%)
+
+Person: DONALD TRUMP (91%)
+
+Geographic: SILICON VALLEY, CA, USA (78%); UNITED STATES (92%); National Edition
+
+Load-Date: February 26, 2025
+
+
+End of Document

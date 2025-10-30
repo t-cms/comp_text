@@ -1,0 +1,127 @@
+
+
+
+
+
+The Sentry: Robert Morris University
+January 29, 2025 Wednesday
+
+
+University Wire
+Copyright 2025 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 954 words
+Byline: Isabella Timpano
+Body
+
+
+Flames Reported in Patrick Henry Center Elevator Shaft 2
+Pennsylvania State Rep. Matt Gergely Passes Away 3
+NHL 25 is the Best NHL Game in Over a Decade 4
+Ranking the Top 10 Veggie Tales 5
+Jennica Suggs Named Freshman of the Week 6
+Robert Morris Sports Semester Preview 7
+LarryBoy feature film set to hit theaters in 2026 8
+#FormerColonialWatch: Bell, Mosjej, Koterwas Named Moon High School Girls Lacrosse Coaches 9
+Divine Providence Review
+President Trump Returns to Office, Leading with a Historic First Week
+Isabella Timpano
+January 29, 2025
+Photo retrieved via the White House's Official Presidential Headshot
+January 20 marked the return of President Trump, with his 'Coca Cola' request button and his notorious blue suit and red tie. Following a peaceful transfer of power, President Trump was set on keeping his promises by signing the most executive orders within the first 100 hours than any other president.
+Many of these executive orders were aligned with promises Trump made along the campaign trail, with a majority centering around immigration and deportation, including:
+A national emergency declared at the Mexican border
+U.S Refugee Admissions Program suspended for 90 days
+The "Remain in Mexico" policy was reinstated
+I.C.E deportation raids were also approved to begin, with raids being seen in various cities around the nation.
+A motion to end birthright citizenship was also presented in an executive order, but this motion is facing legal challenges due to the Constitutional protections.
+Environmental promises were also kept, with many orders being expected, including:
+Declaration of a "national energy emergency," which calls for expedited, deregulated oil drilling. This order is targeted specifically at energy production in Alaska and rolling back protections from the Biden Administration.
+Removed the U.S from the Paris Climate Treaty, an action that will take a year to complete. The U.S. was removed from the treaty within Trump's first term but rejoined on the first day of Biden's term.
+DEI and transgender policies were also affected: Story continues below advertisement
+Trump established a policy that only recognizes two sexes, male and female, within official U.S. documents.
+Rescinded the Biden administration's provision that allowed transgender people to serve within the military.
+As part of the crusade against "woke" culture, Trump ordered the dismantling of government DEI initiatives within the next 60 days.
+Federally, Trump made some big changes within the first week.
+The Trump Administration tried to put a blanket freeze on federal funding, which was blocked by U.S District Judge Loren L. AliKhan. This freeze would put a pause on all federal grants and loans, impacting various services such as Social Security, Medicare, military equipment, and many more. The block on this freeze is in effect until Monday, January 28, 2025.
+A hiring freeze was also placed for government positions, with all current federal employees required for a full-time return to in-office work.
+Various other executive orders were made within the first week, including:
+Requiring the Attorney General to pursue federal death sentences, with a focus on lethal injections for executions.
+Re-designating Houthi rebels in Yemen as a terrorist organization.
+Formally establishing the Department of Government Efficiency
+Suspending the TikTok ban for 75 days, within which the app and its U.S. data must be bought by a U.S. company to continue operating.
+Renaming Denali to 'Mount McKinley'
+Renaming the Gulf of Mexico to the Gulf of America
+Establishing a President's Council of Advisors on Science and Technology composed of up to 24 members.
+Many of these executive orders and legal decisions align with promises Trump made along the campaign trail, showing an energetic beginning to Trump's historic 2nd term.
+Referenced Articles, in order of appearance:
+The First 100 Hours: Historic Action to Kick off America's Golden Age - The White House
+Executive order list: What executive orders did President Trump sign and what to know
+How will a 'freeze' on federal funding impact the U.S.? Find out here
+.sno-story-body p:not(.infographic-widget-container p, .imagelink-wrap p),
+.sno-collection-body p,
+.live-update-wrap p {
+font-size: 20px;
+line-height: 1.4em;
+margin-bottom: 15px;
+font-family: Roboto;
+color: #000000;
+}
+.sno-story-body h1:not(.infographic-widget-container h1, .imagelink-wrap h1),
+.sno-story-body h2:not(.infographic-widget-container h2, .imagelink-wrap h2),
+.sno-story-body h3:not(.infographic-widget-container h3, .imagelink-wrap h3),
+.sno-story-body h4:not(.infographic-widget-container h4, .imagelink-wrap h4),
+.sno-story-body h5:not(.infographic-widget-container h5, .imagelink-wrap h5),
+.sno-story-body h6:not(.infographic-widget-container h6, .imagelink-wrap h6) {
+color: #000000;
+}
+.collection-tile-text {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body a, .sno-collection-body a, .live-update-wrap a {
+color: #00289E;
+}
+.sno-story-body ul, .sno-story-body ol, .live-update-wrap ol {
+margin-bottom: 15px;
+font-family: Roboto;
+color: #000000;
+}
+.sno-story-body li, .live-update-wrap li {
+font-size: 20px;
+line-height: 1.4em;
+}
+.sno-story-body {
+margin-bottom: 40px;
+}
+.sno-story-body .sno-network {
+background: #ededed;
+color: #8b8b8b}
+.sno-story-body .sno-drop-cap > p:first-of-type:first-letter {
+color: #990000;
+font-size: 96px;
+padding-top: 3px;
+font-weight: normal;
+font-family: Roboto;
+}
+.sno-story-body .sno-drop-cap-inverted > p:first-of-type:first-letter {
+background: #990000;
+font-size: 96px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+font-weight: normal;
+font-family: Roboto;
+}
+@media only screen and (max-width: 800px) {
+.sno-story-body {
+margin-left: 20px;
+margin-right: 20px;
+}
+}
+@media only screen and (max-width: 600px) {
+
+Load-Date: January 29, 2025
+
+
+End of Document

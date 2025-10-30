@@ -1,0 +1,88 @@
+
+
+
+
+
+Forbes.com
+January 31, 2025 Friday
+
+
+Copyright 2025 Forbes LLC All Rights Reserved
+Length: 1456 words
+Byline: Danielle Chemtob, Forbes Staff
+Highlight: Friday's edition of Forbes Daily covers the investigation of the deadly plane crash, OpenAI's whopping valuation, sluggish economic growth, dethroning Nvidia and more.
+Body
+
+
+This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here.
+Good morning,
+Details are beginning to emerge about the deadliest U.S. plane crash in over two decades, though it will be some time before the investigation is complete.
+There were 64 people aboard the passenger plane that collided with a Black Hawk military helicopter carrying three people near Washington, D.C., on Wednesday night. Authorities believe there are no survivors.
+The incident underscores the ongoing shortage of air traffic controllers, as a preliminary investigation into the crash showed thestaffing at the air traffic control tower at Ronald Reagan National Airportwas reportedly  not normal for the time of day and level of traffic. 
+Still, the National Transportation Safety Board sinvestigation could take over a year.
+FIRST UP
+<figure>
+<figcaption>
+OpenAI CEO Sam Altman
+Photo by JASON REDMOND/AFP via Getty Images
+</figcaption></figure>
+OpenAI is inearly discussions for a funding roundthat couldvalue it at a whopping $340 billion, according toThe Wall Street Journal, which would more than double the company s valuation amid competitive threats from up-and-coming Chinese AI firm DeepSeek. OpenAI has the highest valuation among all U.S. AI startups, and has more than quadrupled its value from 2023 to 2024.
+TheFood and Drug Administration approvedVertex Pharmaceuticals   Journavx  on Thursday,greenlighting the non-opioid painkiller for treating moderate to severe pain in what the FDA considered the start of a new class of non-addictive medicines. Wall Street analysts have estimated the painkiller could produce $1 billion in annual sales.
+BUSINESS + FINANCE
+TheU.S. economy grew at a slower pace than expectedin the fourth quarter of 2024, according to data released Thursday,the weakest Q4 annualized GDP growth since 2018. Still, the economy continues to dodge the recession many feared after the Covid-19 pandemic.
+Applemet Wall Street s expectations for top and bottom line resultslast quarter, butfell short on sales in China and for its iPhones.The world s most valuable company reported $69.1 billion in iPhone sales, missing estimates even as its newest AI-enabled iPhone 16 model launched.
+TheTrump Administration offered almost all federal civilian workerseight months  pay if they resign by February 6, and suchbuyout programs are common in the private sector. But the blanket Trump pay-to-quit offer reportedly driven by Elon Musk ignores a big risk: The top performers with the most marketable skills may take the money and run.
+TECH + INNOVATION
+<figure>
+<figcaption>
+NurPhoto via Getty Images
+</figcaption></figure>
+National security experts areraising concerns about DeepSeek, the Chinese company that claims to have built an AI model as good as those of American tech giants. DeepSeek says in its privacy policy that the personal information it collects about its users is stored on secure servers in China.  It already appears to be the new TikTok from a security perspective,  Chris Herndon, who ran cybersecurity for Donald Trump s presidential campaign, toldForbes.
+MORE: DeepSeek wiped more than a staggering $800 billion from the market caps of America s AI chip juggernauts, but fora slew of AI chip companies chomping at the bit to dethroneNvidia, it s theopening they ve been waiting for.DeepSeek showed not only that you could train a model more cheaply, but that investing more in inference, essentially the act of running an AI model and allowing it to  think  and reason like a human, would produce better results.
+MONEY + POLITICS
+Following the fatal plane crash, President DonaldTrump attacked the Federal Aviation Administration s DEIpolicies, blaming former President Joe Biden and former Transportation Secretary Pete Buttigieg. Hedid not provide any evidencethat DEI was related to the tragedy, and these hiring policies have existed for years including during President Trump s first term.
+WORLD
+<figure>
+<figcaption>
+A cargo ship traverses the Agua Clara Locks of the Panama Canal. (AP Photo/Matias Delacroix, File)
+Copyright 2024 The Associated Press. All rights reserved
+</figcaption></figure>
+President Donald Trump has called for the U.S. to take back the Panama Canal, butwhat is the waterway really worth? Forbes spoke to half a dozen experts and determined thatthe critical waterway is worth at least 11 figures. Last year, the canal threw off nearly $3.5 billion in net income on roughly $5 billion in revenue.
+TRENDS + EXPLAINERS
+As President Donald Trump continues to make sweeping changes to federal agencies,sections of a blueprint for IRS employeesand tax professionalshave been taken offline. Some of the Internal Revenue Manual sections removed relate to DEI, which Trump has ordered scrubbed, while other missing pages appear to be unrelated.
+DAILY COVER STORY
+<figure>
+<figcaption>
+Illustration by Philip Smith for Forbes
+</figcaption></figure>
+TOPLINETheseemingly overnight success of DeepSeekwiped billions of dollars from the fortunes of the world s richest people, as its app rocketed to the top of app stores in the United States, dethroning those of its AI competitors including OpenAI s ChatGPT and Anthropic s Claude.
+It also made the Chinese AI firm s founder, Liang Wenfeng, a likely billionaire.
+The best-known AI startups in the U.S. are worth tens of billions of dollars ranging from $50 billion for Elon Musk s xAI to $157 billion or more for OpenAI and have raised huge sums from the world s most prominent investors. Unlike its U.S. competitors, DeepSeek appears to have no external investors outside of Liang and his three cofounders.
+Forbes spoke to five analysts and investors who offered a range of potential valuations for Liang s open-source AI model. The three who provided a specific number agreedDeepSeek is worth at least $1 billion and potentially far more, despite the fact that it doesn t yet generate much revenue.
+According to Chinese corporate records, Liang owns about 84% of the Hangzhou-based DeepSeek, which he founded in 2023 and financed with funds from High-Flyer Capital Management, the quantitative trading hedge fund he cofounded in 2015. Liang also owns at least 76% of High-Flyer, which has $8 billion in assets according to financial data provider Preqin.Forbesvalues High-Flyer at $240 million, with Liang s stake worth about $180 million.
+ We hope that more people, even a small app, can use the big model at a low cost, rather than having the technology be monopolized by a few people and companies,  Liang said in 2023.
+WHY IT MATTERS  For someone who gained so much international influence so quickly, it s important to understand Liang's skin in the game,  sayForbes  Phoebe Liu and Giacomo Tognini.  He appears to have built an AI model that s competitive with U.S. firms that have raised at astronomical valuations at a seemingly much lower cost. (There s also the case of DeepSeek s Chinese competitors, none of which seem to have achieved performance as good as DeepSeek s, but all of which external investors have valued at $1 billion or more in various funding rounds.)
+ Knowing what he owns and how he built it can shed light on his future role as a power player in both the AI revolution and in geopolitical relations between China and the U.S. as tensions over AI chip imports and exports ramp up and amid a race to artificial general intelligence. 
+MORE The Chinese AI Company Trump Says Is A 'Wakeup Call' For Silicon Valley
+FACTS + COMMENTS
+Twice asmany retail stores are projected to close in the U.S. this yearcompared to 2024, andmany more stores will close than open, according to Coresight Research. Inflation-weary consumers are shifting their buying habits and making more purchases online:
+Up to 15,000: The number of stores retailers are expected to close this year, compared to 7,325 closures in 2024
+5,800:The number of openings expected
+ We continue to see a trend of consumers opting for the path of least resistance : Coresight CEO Deborah Weinswig said
+STRATEGY + SUCCESS
+In today s competitive workplaces,standing out is key.Be willing to take on work that others may overlook or avoid, whichwill help you demonstrate your reliabilityat the company. Build rapport with colleagues to gain visibility, and start to create a network of mentors, coaches and sponsors who can help provide guidance and opportunities for career advancement.
+VIDEO
+https://www.forbes.com/video/d5b4a49b-2a35-4246-b1c3-36ef36c2b810/
+QUIZ
+A major retailer just introduced same-day pharmacy delivery for most of the country amid increasing competition. Which chainis it?
+A. Costco
+B. Target
+C. Walmart
+D. Kroger
+Check your answer.
+Thanks for reading! This edition of Forbes Daily was edited by Sarah Whitmire, Chris Dobstaff and Caroline Howard.
+
+Load-Date: February 1, 2025
+
+
+End of Document

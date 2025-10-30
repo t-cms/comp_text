@@ -1,0 +1,144 @@
+
+
+
+
+
+CNN CNN NEWSROOM 11:00 AM EST
+February 4, 2025 Tuesday
+
+
+Copyright 2025 Cable News Network All Rights Reserved 
+Section: NEWS; International
+Length: 3363 words
+Byline: David Culver, Vanessa Yurkevich, Rene Marsh, Manu Raju, Phil Mattingly
+Guests: Vittoria Elliott, Ryan Mac
+Highlight: Republicans appear poised to confirm Robert F. Kennedy Jr. as health and human services secretary. What is Elon Musk doing in the federal government? Will Elon Musk and Donald Trump target the Department of Education next? Egg prices continue to rise. El Salvador offers to house violent U.S. criminals.
+Body
+
+
+[11:01:38]
+PHIL MATTINGLY, CNN HOST: Well, good morning. You are live in the CNN NEWSROOM. Pamela Brown is on assignment. I'm Phil Mattingly in Washington.
+And we begin with the breaking news on Capitol Hill. Robert F. Kennedy Jr. just cleared a major hurdle in his path to become health and human services secretary, the Senate Finance Committee advancing his nomination a long party lines. It all came down to GOP Senator Bill Cassidy, who ultimately voted yes.
+I want to go straight to CNN's Manu Raju on Capitol Hill.
+Manu, what more are we learning about Cassidy's decision to vote?
+MANU RAJU, CNN CHIEF CONGRESSIONAL CORRESPONDENT: Well, this was a surprise, Well, for people on both sides. They really did not know how he would ultimately come down, because he had been struggling with this nomination. He said that publicly last week.
+He had not made a decision last on -- as of last night. This morning, he indicated in a post on X that he had had a number of conversations all up until this critical vote. And he posted on social media, saying that he had intense conversations with Bobby Kennedy over the weekend, as well as with the White House.
+He said he received some -- quote -- "serious commitments" from the administration. He also indicated that he spoke to the vice president, J.D. Vance, in order to get to yes. But he really has not tipped his hand other than that. He did talk to us very briefly coming out of this high-stakes moment where he voted to advance this nomination to the Senate floor.
+He indicated that he would be speaking on the Senate floor in just a matter of moments. Listen.
+(BEGIN VIDEO CLIP)
+RAJU: How did you get to yes? How did you get to yes?
+SEN. BILL CASSIDY (R-LA): I will be speaking on the floor at 11:40, OK?
+(CROSSTALK)
+RAJU: But you were troubled last week. What changed? What changed? What changed?
+(END VIDEO CLIP)
+RAJU: And one of the big questions is, what did RFK Jr. tell him behind the scenes? Because what Bill Cassidy raised concerns about was the issue of vaccines. Cassidy up for reelection in 2026, also a medical doctor, someone who had raised issues about Kennedy hedging at last week's hearings, not saying directly that vaccines do not cause childhood autism.
+Of course, Kennedy has long expressed those views of vaccine skepticism. How did those conversations happen behind the scenes? We will be watching, of course, his comments on the Senate floor later this hour to see if he shed any light on that.
+But, Phil, the Senate majority leader, John Thune, wants to move on to this nomination by early next week, which means he will get the job unless four Republicans break ranks and stop this nomination on the Senate floor, Phil.
+MATTINGLY: Yes, a huge step forward. We will wait about 36 minutes to hear if Cassidy outlines the serious commitments he posted on X that he received. '
+Manu Raju, great reporting, as always, my friend. Thanks so much.
+Now to an in-depth look at the federal government under President Trump rapidly changing almost every day right before our eyes, or oftentimes behind the scenes. We hear about it later. It's only been two weeks.
+At the center of it all, the billionaire special government employee, Elon Musk. Now, CNN is learning more about his extensive, expansive reach and those who are helping him complete his mission, a group of inexperienced college-age engineers.
+Now, here's a look at what Musk and his allies have done over the past several days. They have gained full access to the Treasury's payment systems, threatened to shut down USAID, offered all federal employees a buyout-like plan, and pushed aside career civil servants in several agencies.
+There are reports that President Trump and Musk will next turn their attention to the Department of Education.
+[11:05:06]
+Joining us now is tech reporter for "The New York Times" Ryan Mac and powers and platforms at "Wired" Vittoria Elliott.
+I appreciate you guys both joining me right now. Vittoria, I want to start with you. You have been very frustrating for me personally with all of the news that you have broken on this front, which has made it more difficult for me on a day-to-day basis.
+(LAUGHTER)
+VITTORIA ELLIOTT, POWER AND PLATFORMS REPORTER, "WIRED": Apologies.
+MATTINGLY: Yes, it's OK.
+What you have found and what you have been reporting on, particularly in terms of the teams that are at these agencies, and I think that they have been kind of moving agency to agency. It's tough to track them at some point. What stands out to you about what you have been told?
+ELLIOTT: Yes, so I think the biggest thing, as "Wired" sort of first reported, people in the General Services Administration, which controls a ton of stuff for the government, whether that's -- it's actual property or deals with the I.T. systems, that people in these agencies didn't necessarily know who was being brought in.
+Sometimes, they were on calls with people whose names they didn't recognize, in one instance that we know of didn't even have a government e-mail on the call. So, I think the thing that stands out to me is this has been a pretty opaque process for the public, right?
+We as the public have not had a ton of information about how DOGE was going to operate or how Musk and his allies were going to operate, but I think what's really astounding is that the federal work force actually are similarly in the dark and feel quite afraid.
+MATTINGLY: Yes, it's -- you mentioned the GSA, the kind of meetings that they have been having where the point person on the tech division is meeting with them and there's the two kind of assistants that are with them or advisers that are with them that don't actually give their full names, according to people we have been talking to, these young kind of engineers that they have been working with.
+It's a fascinating dynamic and one we just -- there's no precedent for it. And that's why, Ryan, it's so interesting to talk to you because there is precedent for Musk taking this course of action, and you can read about it in your book. And the number of times that I have been told things that are happening at GSA or OPM or OMB and I think I feel like I have read that somewhere and it's almost inevitably in your book with Kate Conger.
+Is that fair? Is this very similar to what you saw at Twitter?
+RYAN MAC, TECH REPORTER, "THE NEW YORK TIMES": I think it's the almost exact same playbook we have seen play out in Elon Musk's Twitter takeover, down to the e-mail subject line, "Fork in the Road," which is something that government employees got the other day.
+That's a very similar e-mail to the one that was sent to Twitter employees offering them buyouts in the weeks after he bought the company. We see the same players as well, folks like Steve Davis, kind of one of Elon Musk's right-hand men, one of his lieutenants who is in charge of cost-cutting.
+You have Steve Davis' wife, Nicole Hollander, who's also at GSA overseeing buildings in real estate, which is something she did at Twitter. It's very similar to what's going on and what's happened in the past.
+I also think about something like a technique that they're using to zero out budgets called zero-base budgeting. So, with Elon, it's not like he is deploying a whole new set of tricks here. We have seen this before at Tesla and SpaceX and, of course, the Twitter takeover.
+MATTINGLY: You know, Vittoria, to Ryan's point, I remember getting a call saying, we have a Steven Davis in the GSA directory. We have a Nicole Hollander in the directory. We don't know if it's Steve Davis and Nicole Hollander, but we're pretty sure they do and they have GSA e-mail addresses.
+And I feel like there's been a lot of that where career officials, senior career officials are finding out through second or third hand. They don't really associate much with the Musk team as they're kind of operating right now. The biggest question I have is, I would constantly think to myself, yes, but this is the government. Like, private sector is one thing. A private company is one thing. This is the government.
+There's a way that things work. Is this -- is that not true here?
+ELLIOTT: I mean, there are many systems and processes and protocols in terms of how things are supposed to work, but I think one of the things that Musk and the DOGE team have been really explicit about demonstrating through how they're going about this is that they don't think those systems should apply to them.
+And I think Musk and his allies have really made a big deal about sort of bringing these ideals of the private sector and particularly of this sort of cost-cutting analysis and ethos to the government. But Silicon Valley is the place of move fast and break things, but it's very different when you're breaking a start-up that people are still learning how to use, if they're new users and stuff.
+It's very different than breaking systems that possibly tens, if not hundreds of millions of people rely on. And I think as much as maybe you could argue that there are ways in which the government could be more efficient, ways that it could be improved, the downsides of getting it wrong are just so much bigger.
+[11:10:11]
+And that's the reason that so many protocols and processes are in place to make sure that people who have access to certain data are vetted, to make sure that people who are changing code in these systems are doing so in particular ways because the consequences are just so much bigger. And I think a really important thing to note too is a lot of these people are coming in from the private sector. From what we understand, they may be special government employees, which means they're coming in on sort of a limited volunteer basis. And that means they're probably going to go back to their jobs at some point with knowledge and data that other companies don't have.
+And keep in mind Musk is a massive government contractor. SpaceX is a big government contractor.
+MATTINGLY: Yes, what's amazing is the scale of the conflicts here is, again, also unprecedented, and yet we can almost barely get to them because you're so focused on just what they're trying to do day to day.
+Ryan, to Vittoria's point, the analog breaks down in the sense of Twitter was a private company that must took private. The federal government exists and these systems are in place because they're not just supporting the investments of your fellow investors or, if you're a public company, your stockholders.
+It is a government-wide approach that involves payments like Social Security, payments like Medicare and Medicaid and CMS. And I think the point of yes, there are things that can be changed, there are certainly efficiencies that can be found, but it's not a private company and it's not a tech company.
+What happens when lawsuits come, when lawmakers try and do things? Well, what do you think Musk's response will be?
+MAC: I think we're about to find out. I mean, that's the question of when these lawsuits will come, when there's going to be opposition to kind of this unelected involvement that he's had over the last couple weeks, the repercussions.
+But in the past, what Musk has done with legal challenges is he's kind of brushed them aside. He has faced very little accountability in the past for firing executives on the spot at Twitter or withholding payments for rents at Twitter, for example. He's challenged all that in court or said he would or delayed, and it's gotten him this far.
+And so we may see that same kind of delay technique again, this or this willingness to openly flaunt laws or challenge them in courts. He is someone that is largely unaccountable. He is the world's richest person who has an unlimited amount of resources available to him. And that kind of behavior has gotten him this far and he will continue to act that way moving forward.
+MATTINGLY: Yes, there's certainly no sense that he won't.
+The book was "Character Limit," Kate Conger, Ryan Mac. It's a great book. Highly suggest you read it. Vittoria Elliott over at "Wired" is doing great reporting on this as well.
+Guys, thanks so much for coming in. Appreciate it.
+ELLIOTT: Thank you so much for having me.
+MAC: Thank you.
+MATTINGLY: Well, I mentioned there are reports that President Trump and Musk will next turn their attention to the Department of Education.
+Sources are telling CNN the move is part of a larger push by the White House to strip the federal work force of all ties to diversity, equity, inclusion and accessibility efforts.
+CNN's Rene Marsh joins us now for more on this.
+Rene, Education Department employees got word about this last week. What are they hearing?
+RENE MARSH, CNN GOVERNMENT REGULATION CORRESPONDENT: Yes, so starting Wednesday and into Friday, employees started to get these e-mails, which essentially said that they're being placed on paid administrative leave.
+At this point, the union president who represents these employees say that number is about at 75 of these Department of Education employees. But that's a lowball number, because that just represents people who are actually members of the union. There are likely many, many more.
+These employees received this e-mail. They were locked out of their e- mail accounts after they received it. And then they were told that they would be put on paid administrative leave for an indefinite period of time. However, the union is pointing out that many of these employees who were targeted in this round of paid leave didn't even work on DEI-related issues.
+According to the union, you have one employee who worked in a grant office not related to DEI. Another worked at integrating A.I. into education, something that's really top of mind for schools right now. There was an attorney who was focused on discrimination complaints.
+She said the common denominator amongst the people she spoken to who have been impacted is that they attended a two-day training session in 2019. And if you do the math, that was during the first Trump administration. And then they did a refresher under the Biden administration. And they were encouraged to take this. And so they believe, looking back, that that is likely the reason why that they have been singled out to be placed on paid administrative leave.
+[11:15:03]
+I just want to say, we reached out to the Department of Education here is what they're telling us. They said that they're evaluating staff in line with the commitment to prioritizing meaningful learning ahead of divisive ideology in schools and putting students' outcomes above special interests.
+MATTINGLY: All right. OK. Keep us posted. A lot of stuff going on in the Education Department right now, including, as we have been reporting on, Elon Musk heading that way, it seems, shortly as well.
+Rene Marsh, great reporting, as always. Thanks so much.
+Well, still head this hour, scattered, smothered, covered, and now more expensive. Say it ain't so. The bird flu egg shortage is now affecting Waffle Houses across the country. No.
+A live report next.
+(COMMERCIAL BREAK)
+[11:20:25]
+MATTINGLY: Egg prices are on the rise, and Waffle House says you're going to have to pay up.
+This is now what you will see on the menu there. That is a literal sticker shock, saying you will have to pay an extra 50 cents for every single egg.
+CNN's Vanessa Yurkevich joins us now.
+Vanessa, I'm going to ask the hard questions. Why?
+VANESSA YURKEVICH, CNN BUSINESS AND POLITICS REPORTER: Well, there are simply fewer eggs, and eggs are getting more expensive.
+Waffle House saying that they're going to have to raise prices on their eggs by 50 cents per egg, and they're doing this nationwide at their 2,100 locations. And they're doing this because of egg shortages, and because of those rising costs.
+Waffle House sells 272 million eggs every single year. That's their bestselling menu item. That's even double what they sell in waffles. But the company says that they're targeting eggs specifically, not raising prices across the menu, but just eggs, because they're hoping, Phil, that this is temporary, that they will be able to take this surcharge off.
+But this is all because of the deadly avian flu virus. This virus has wreaked havoc on egg-laying birds for about a year or two now, but in November and December of last year, Phil, there was such an increase in the virus, and about 17 million egg-laying birds were killed. That's about half of all birds that were killed of last year.
+That just signals that this virus is resurging, and it's forcing restaurants and major restaurants like Waffle House to really reconsider their prices. They're saying that this was a tough decision, but they were forced into this decision, Phil. They had to raise prices in order to offset these rising egg costs.
+MATTINGLY: Yes, that's a significant market disruption. Do we have any sense whether the cost will change any time soon?
+YURKEVICH: I wish I had better news for you, but the answer is no, because it takes about nine months to rebuild these flocks, these egg- laying bird flocks that were lost.
+So the USDA is projecting that prices this year on eggs are going to rise by about 20 percent. So just to give people a sense, right now, about a dozen eggs nationwide for the average is about $4.15 for a dozen. That's up 14 percent from the month of November. And, unfortunately, Phil, the prices are just going to keep going up until we can replace these birds that are providing us with all of these eggs that we so desperately want -- Phil.
+MATTINGLY: Yes, Vanessa, we're going to need better news out of you next time, please.
+(LAUGHTER)
+MATTINGLY: Vanessa Yurkevich, really appreciate it. Thanks so much.
+YURKEVICH: Thanks.
+MATTINGLY: Well, still ahead, a chilling look inside a Central American prison and the offer to the Trump White House to deport some U.S. citizens here. You heard that right.
+You're in the CNN NEWSROOM.
+(COMMERCIAL BREAK)
+[11:27:47]
+MATTINGLY: This morning, the Central American country of El Salvador is making an unprecedented offer to the Trump administration. For a fee, it will House violent U.S. criminals and deportees of any nationality.
+The offer includes accepting convicted U.S. citizens, a scenario that is alarming, illegal. And legal experts and human rights groups are trying to figure out what it actually means. Right now, the country's president says he will use a notorious mega-prison there.
+CNN's David Culver actually visited that prison and takes us inside.
+(BEGIN VIDEOTAPE)
+DAVID CULVER, CNN SENIOR NATIONAL CORRESPONDENT: All right, We're going to go in here.
+CULVER (voice-over): Even as I'm stepping through these doors...
+(CROSSTALK)
+CULVER: ... I don't fully grasp what we're about to walk into.
+Suddenly, you're hit with the intense gaze of dozens locking onto you. These men described as the worst of the worst, tattooed with reminders of El Salvador's dark past.
+It's tense and uncomfortable, but here, officials say comfort isn't meant to exist.
+(on camera): There's no mattresses. There's no sheets. You've got a toilet over here for them to go to the bathroom. You've got this basin here that they use to bathe themselves. And then you can see there, there's a barrel of water that they can drink from.
+(voice-over): This is a rare look inside El Salvador's Terrorism Confinement Center, known as CECOT.
+(on camera): And he says there's always somebody standing here in front of the cells and then if you look up there's another corridor with more security personnel, 24/7 light.
+(voice-over): The prison sits like an isolated fortress nestled in mountainous terrain about an hour and a half drive from the capital.
+Even with government officials on board with us, we're stopped a mile out.
+(on camera): Oh, OK. He's going to inspect bags now, too.
+OK. We're clear to get back in.
+(voice-over): Only to hit another checkpoint.
+Approaching the main gate, our cell signals vanish.
+(on camera): They want to do a full search on us before we enter.
+(voice-over): Once cleared, we tour the vast campus.
+(on camera): It's been equated to seven football stadiums. It's almost multiple prisons within the prison. You can see, off in the distance, there's three different rings that they describe. At the far end, you have one that's nine meters high of concrete, and then above that, three meters of electrified fencing.
+
+Load-Date: February 4, 2025
+
+
+End of Document

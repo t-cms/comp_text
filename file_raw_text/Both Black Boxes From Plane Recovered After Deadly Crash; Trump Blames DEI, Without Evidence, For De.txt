@@ -1,0 +1,291 @@
+
+
+
+
+
+The Source with Kaitlan Collins
+January 30, 2025 Thursday 09:00 PM EST
+
+
+Copyright 2025 Cable News Network, Inc. All Rights Reserved 
+Section: NEWS; Domestic
+Length: 7547 words
+Byline: Kaitlan Collins, Pete Muntean, David Sanger, Danny Freeman
+Guests: Greg Feith, Dave Hoagland, Adam Blake, Sarah Hughes, William "Burner" Dunn
+Highlight: Both black boxes from the plane recovered after the deadly crash. President Trump blames DEI, without evidence, for the deadly crash. Sen. Maggie Hassan (D-NH) questions Robert F. Kennedy Jr., on past autism comments
+Body
+
+
+[20:59:00]
+KAITLAN COLLINS, CNN CHIEF WHITE HOUSE CORRESPONDENT, CNN HOST, THE SOURCE WITH KAITLAN COLLINS: And good evening. I'm Kaitlan Collins.
+And tonight, THE SOURCE is live on the scene, near the deadliest commercial airliner crash, in the United States, in 24 years.
+No one survived when an American Airlines flight, and a Black Hawk Army helicopter, collided here, almost exactly 24 hours ago. The aftermath has been nothing short of devastating, for the families of the 67 people, who were on board that plane, or inside that helicopter.
+So far, somewhere around 40 bodies have been pulled from the icy waters of the Potomac River. And sources familiar with the recovery efforts believe about 14 are still missing in the water, tonight. Four, I am told, are said to be accounted for, but they are pinned inside that plane still.
+Two U.S. Army soldiers, inside the helicopter, have yet to be removed. And we are told a crane, to salvage what is left of the aircraft, is about 24 to 48 hours away from being used here on the Potomac.
+[21:00:00]
+And we've also just learned, tonight, that searchers have recovered both of the black boxes from the plane. Obviously, that will be a huge help to investigators who, tonight, are vowing to determine how this midair disaster happened, while also urging the public not to speculate. Transportation officials say they just don't know yet about the cause behind this.
+CNN has learned from an air traffic control source that there was only one controller working two different tower positions, at the time of the collision. And we now have more information from a government source on that. We'll bring it to you in just a moment.
+But despite this investigation being in its still very early stages, President Donald Trump did, in fact, speculate, when he came out to address the tragedy, inside the White House briefing room today. I was there, when he basically placed blame on Democrats, and diversity initiatives, as people were still waiting for word about their loved ones. (BEGIN VIDEO CLIP)
+DONALD TRUMP, PRESIDENT, UNITED STATES OF AMERICA: Democrats put policy first.
+The FAA is actively recruiting workers who suffer severe intellectual disabilities, psychiatric problems and other mental and physical conditions, under a diversity and inclusion hiring initiatives.
+Pete Buttigieg. Do you know how badly everything's run since he's run this Department of Transportation? He's just got a good line of bullshit. He's run it right into the ground with his diversity.
+COLLINS: We don't even yet know the names of the 67 people who were killed. And you are blaming Democrats and DEI policies.
+Don't you think you're getting ahead of the investigation right now?
+(END VIDEO CLIP)
+COLLINS: You'll hear his answer in just a few moments.
+But when NTSB officials were asked about the President's DEI claims, they said this.
+(BEGIN VIDEO CLIP)
+JENNIFER L. HOMENDY, NTSB CHAIRWOMAN: As part of any investigation, we look at the human, the machine and the environment.
+You need to give us time. You need to give NTS -- it's not that we don't have information. We do have information. We have data. We have substantial amounts of information. We need to verify information. We need to take our time to make sure it is accurate.
+(END VIDEO CLIP)
+COLLINS: My source tonight is CNN's Pete Muntean, who has been working his sources from the moment that this collision first happened.
+And Pete, first just on what we're learning tonight, about now they have both black boxes. Earlier, they only had one. How much of a gamechanger is this for investigators, right now?
+PETE MUNTEAN, CNN CORRESPONDENT: Huge and critical. Because investigators will need the information from the black boxes, the cockpit voice recorder, and the flight data recorder, in order to begin really piecing together, in any meaningful way, what happened to American Airlines Flight 5342, as it was coming into land on Runway 33, here at Reagan National Airport.
+The voice recorder will be able to decipher what actually was taking place on the flight deck, and what the flight crew, the captain and the first officer, were saying to one another.
+The data recorder, a 1,000 points of data every nanosecond, really, providing critical information about whether or not there were in- cockpit warnings, about the collision that was about to take place.
+That was submerged under about eight feet of water. And the NTSB assured the public today that they will be able to take that to their lab, at L'Enfant Plaza, not far away from here, and use that data, recover that data, to try and figure out exactly a bit of a narrative.
+COLLINS: Yes, and so, last night, you and I, as this was -- I mean, this happened just before we went on air, about 08:48 p.m. Eastern, last night. That was when the first alert came down about this emergency.
+We could hear the air traffic control conversations, where they were asking the helicopter, and the pilots, if they saw this aircraft. They seemed to say, yes. We're not sure if they were referring to this one.
+But these black boxes will be able to recover what was being said between the two pilots inside the airplane?
+MUNTEAN: That's right. And the only downfall here is that there is no black box data from the Black Hawk helicopter. And that would be so telling, as to whether or not the crew on that helicopter was able to see this flight, as it was approaching from the South, as the helicopter was coming from the north.
+We know that the crew had night vision goggles on board that helicopter. It's unclear if they were using them. It's unclear if they saw this airplane, as it was approaching Reagan National Airport. So, a huge bailiwick of questions that is only now starting to be opened.
+COLLINS: Yes, when we were inside that briefing, earlier today, the President and -- seemed to suggest that the night vision goggles could maybe hinder vision of being able to see a plane. Pete Hegseth, the Defense secretary, was shaking his head yes, at this suggestion.
+How much of that is something that they take into consideration during these night flights?
+MUNTEAN: Night vision goggles essentially change your depth perception.
+And I just spoke to an Apache Helicopter pilot from the United States Army. He says, Black Hawk helicopter pilots, flying up and down the Potomac River here, use night vision goggles all the time.
+They were on a training flight, to try and keep up their night currency, something that they do every year. We know that from the Department of Defense, and Secretary Pete Hegseth. But there are some big questions about whether or not training flights should even occur here.
+[21:05:00]
+And I've been speaking to airline pilots, who say that they know that these helicopters fly through this special corridor here, known as Route 4, down the Potomac River, on the east side of southeast D.C. They know that it comes very close to the approach path for planes, landing here at Reagan National Airport.
+And there was a very specific altitude restriction written into the charts for helicopters flying down the Potomac River. It says at altitude equal or no greater than 200 feet above the ground. That is so critical. And of course, investigators will want to know if the helicopter was adhering to that, or if they were a little bit higher.
+COLLINS: How quickly can a -- can a helicopter navigate? The President seemed to be suggesting earlier, in this briefing, which we'll get more into in a moment, but that they can navigate, obviously, faster they're more nimble than an airplane.
+But is that necessarily the case, I mean, if they were going this fast and this close to -- with such a low altitude?
+MUNTEAN: The impetus of a control in a helicopter is much different than a commercial flight.
+And this plane, as it was arriving here on Runway 33, was going about 150 miles an hour, so we're talking about three times highway speed.
+A helicopter has the advantage of flying incredibly slow, and it can essentially stop, hover or even fly backwards. It is something, though, that takes an incredible amount of awareness.
+And so, if you are barreling down the Potomac River, and a plane is barreling towards you, and you don't see them because of some sort of built-in blind spot to the helicopter or the airplane? Then it's really moot (ph).
+COLLINS: Yes. And obviously, a big focus today is where we're standing. You can see the Washington Metro behind us, but this is also Reagan airport behind us. Flights are taking off again, right now, which they were not. As of this time, last night, the entire airport had been shut down. They didn't start till close to noon today.
+The air traffic control has gotten a lot of questions and focus, understandably so.
+You learned that there was only one air traffic controller working what could be typically two positions. What is the reasoning that you've heard behind that?
+MUNTEAN: Essentially, they do this when things are a little bit more quiet, late at night.
+And it's at the discretion of the supervisor in the air traffic control tower cab to combine two positions into one, having one person work two radio frequencies. In this case, work the radio frequency for civilian, commercial flights, landing and taking off here, and also the military helicopter traffic, the helicopter frequency that is used for helicopters flying north and south along the Potomac River.
+We know that is not typically unusual, and it's a thing that is done relatively frequently. But it begs mentioning that controllers are really stretched to the limit, right now. And many of them are working mandatory six-day weeks, 10-hour shifts.
+There's an incredible shortage of controllers. There's an incredible backlog at the FAA Training Academy, in Oklahoma City, something the Biden administration really started to shore up. Back in 2024, they hired 1,800 new controllers. But it's a shortage that's not going away anytime soon.
+And of course, the NTSB would want to know if controller fatigue was a factor here. Something they found was a factor in some of the near misses of 2023 and 2024.
+COLLINS: Yes, and well, and you were just talking, last night, about how helpless they must have felt watching this happen, because obviously they were talking to the pilots on this plane, and the pilots on that helicopter, and were unable to avoid this collision that happened, last night.
+As you're just looking at that, and seeing just the view overall, on the air traffic control. The runway, we talked a lot about that last night, that the runway they were -- the plane was told to switch to, at the last minute, is a lot shorter than the other one that it was initially destined for.
+MUNTEAN: It's not necessarily the shortness of the runway that is an issue. It's a secondary runway that controllers use, to essentially keep the flow of traffic moving quickly, so they can shim in another plane here and another one there.
+It seems like the controllers, in this case, were trying to get one more departure out. And you've seen it in some of the video, that surfaced online, of one more airplane taking off as this fireball of collision is happening at the same time. This is a maneuver typically used by controllers here, to try and make it so that things just keep flowing.
+They told the flight, this American Airlines flight that was approaching from the South, to land on Runway 1, the main runway here that runs north, south. And then they asked if they could land on Runway 33, sidestepping to the right, to the east a little bit, swinging out a bit.
+But that is the big question now, whether or not that flight path is a little too close to the specialized helicopter corridor, here. And the airline pilot sources that I've been talking to say, yes, they know in the back of their mind that that's been a problem before. They've worried about it before. And now, it's at the top of their mind.
+COLLINS: Yes, we've seen the near misses before.
+Pete Muntean, thank you for that. If you get any new reporting, this hour, please check back in with us.
+My next source tonight is a former NTSB investigator. Greg Feith is here joining me.
+And Greg, it's great to have you, just as this NTSB investigation is underway.
+We heard today, from them, about having essentially so much information that they were going through. Now that both black boxes from the flight -- from the plane have been recovered, what does that -- where does that leave this investigation, as of this hour? What does it look like behind-the-scenes?
+[21:10:00]
+GREG FEITH, FORMER NTSB INVESTIGATOR: Well, it really starts the investigation. The first part of it, from yesterday till earlier today, was just data collection, trying to identify where the sources of information that the Board was going to use, or needed to, to gather. That was the process.
+But now that the flight data recorder, cockpit voice recorder, are in their possession, their readouts will give direction to the investigation. And you'll start to see that, based on their comments or the information they release. That will give away the pathway of what they're going to be focusing on.
+COLLINS: What about the black box, essentially, for the Black Hawk? How is that a factor into this? And also, would that be in the custody or jurisdiction of the NTSB? Or is that something that the Pentagon handles first? How does that work here?
+FEITH: It's going to be a joint investigation. Of course, the DOD is in, at least, been brought in as a party to the investigation. They will provide their level of expertise, and any equipment that they need to read out their recorder, because it may be a specialized recorder for the Black Hawk helicopter. But they will have an NTSB person there. The information will then flow.
+Everything will flow through the NTSB now. They are the only ones that are often with the repository of all the information, and then the organization that will provide the information to the public.
+COLLINS: Yes, and Greg, I want you to listen. Because we just got this new audio from air traffic control, confirming that on Tuesday of this week, a flight here into Reagan National was actually forced to go around the flight pattern it was initially set to take, because of helicopter traffic.
+I want you to listen to this, and then I'd like for you to analyze it for us.
+(BEGIN VIDEO CLIP)
+UNIDENTIFIED MALE: 4514 watch out, reduce the final approach speed. The 1-9 is clear to land. At this time there is a helicopter over Georgetown, northbound 300 feet.
+PILOT: All right, slowing down the final approach speed 1-9 clear to land (inaudible).
+ATC: 4514, so would you like to go around to go around (inaudible) turn right heading 2-5-0, climb maintain 3 thousand.
+PILOT: What was the reason for the go around?
+ATC: We had an RA with the helicopter traffic below us, Brickyard 4514.
+UNIDENTIFIED MALE: Thank you.
+(END VIDEO CLIP)
+COLLINS: What indications do you have from that about just how this was a problem that may have been one that was -- you could have foreseen it?
+FEITH: In this particular instance, the system worked. Of course, the airplane that was calling in that was given clearance to land, moved here.
+The female pilot say, We got an RA with the helicopter below us. That means that the TCAS system, the Traffic Collision Avoidance System on their aircraft worked, that identified the traffic. It showed that there was a conflicting flight path that could have led to a collision.
+The system worked. They did the right thing. They went around, they came back, rather than try to salvage a bad situation, or being -- operating in close proximity to that helicopter.
+COLLINS: Yes, just unfortunately did not, last night.
+Greg Feith, thank you for your expertise, as always. We'll continue to check in with you as this NTSB investigation develops.
+My next source here tonight is Dave Hoagland. He is the President of a D.C. firefighters union, whose members are on the front lines of these recovery efforts.
+And it's great to have you here.
+I know your guys were on the scene, within seven minutes of this collision happening, last night. Can you just describe what the last 24 hours have been like for them?
+DAVE HOAGLAND, PRESIDENT, D.C. FIRE ASSOCIATION - IAFF LOCAL 36: Hi, Kaitlan. Thanks. Yes.
+I just want to start off by saying all the hearts of D.C. firefighters are with the families affected by this terrible tragedy.
+But we had -- our marine fire boat was returning from dewatering a vessel at the James Creek Marina nearby, and they've just gotten back and gotten to the dock. And they have a direct line with DCA here, and it rang. And typically it's saying, We've got an aircraft in distress. This time, it rang, and it just said, Crash, crash, crash.
+So, our members hit the pavement, went running for the boat. When they were on the pier, getting onto the boat, they could see debris falling from the sky.
+COLLINS: Wow.
+HOAGLAND: Yes. And they've been working ever since.
+COLLINS: And what did they see when they got to the scene? I mean, within seven--
+HOAGLAND: Yes.
+COLLINS: They were the first people there.
+HOAGLAND: Yes, so they were just -- they just started encountering wreckage in the water, and were starting to make as many rescues as possible. And they started up Incident Command. And it's been very strong and disciplined since then, with the D.C. Fire Department in charge. And we got divers in place, and they got divers in the water to start diving, to attempt to rescue people.
+COLLINS: And obviously, there were no survivors, as we -- we had a hint of, last night, as we were getting into hour four and five, and not had heard of anyone yet. What has that looked like today, as far as pulling -- pulling people from the water?
+[21:15:00]
+HOAGLAND: It's a -- it's a long, arduous task. Last night, they dove and they encountered -- you know, this is terrible, and it's graphic, right? But they encountered people inside the plane, still strapped in their seats, and they weren't able to remove them right away.
+Our divers, and the Metropolitan Police Department's divers, dived continuously, for five hours, in these frigid, cold temperatures. Interestingly enough, they had, you know, they were cutting their suits on debris, and things like that.
+But we're dealing with one of the coldest winters, here in the District of Columbia, for quite some time. And they had a decent amount of visibility, once they were able to get through the ice. And they were able -- you know, they were only working in about eight feet of water, so they were able to identify victims with flashlights from the surface, as well as retrieve them from underwater, as with the divers.
+COLLINS: And so, some people were still wearing their seat belts when they were coming up upon the wreckage, and finding these bodies?
+HOAGLAND: Yes, yes, there were still people inside the plane. And today, a lot of the effort has been focused on removing people from inside the plane, who they were not able to remove last night, as well as just continuing to scan the entire area to see who they can locate.
+COLLINS: It's just heartbreaking to hear that, and to know, to see what these first responders have been dealing with, for 24 hours now. And I know their loved ones appreciate it, as they've been getting this news. Where does that stand, right now, in terms of recovery? We knew -- we knew that about eight to 10 bodies had been pulled out of the water today. How many do your guys think are left for them to get?
+HOAGLAND: Yes, so I think there's still quite a few still unaccounted for.
+So, what they're really focusing and working on -- and these D.C. firefighters, they're tough, they're working hard, they're resilient. We're putting them in touch with their own first response, our own IAFF Peer Support, mental health resources, to help them cope with this as they continue to work.
+But now that we're focused on it being a recovery operation, they've suspended things for the night. And we're going to get started bright and early, tomorrow morning, and keep working.
+COLLINS: And so, it's suspended, right now, for this evening. They'll begin again in the morning.
+What is the difficulty in trying to rescue, and make sure you pull everyone out of the water, and also trying to preserve the integrity of the site for the investigation?
+HOAGLAND: Right, exactly. We're no longer -- we're assisting in the recovery efforts now. We're no longer the jurisdictional authority in charge. So, everybody's working hard to preserve evidence, and be really careful, and maneuver through this debris in a way. And this water still frigidly cold, and really just trying to weather it, and make sure we can get everybody out of there.
+COLLINS: Yes. I mean, it's hard to imagine what they've been through, in the last 24 hours. Please give them our thanks, and tell them, everyone appreciates the hard work that they've been putting in, in such a difficult time.
+HOAGLAND: Thank you. We will.
+COLLINS: Thank you so much, Dave.
+HOAGLAND: We'll continue to work till the job gets done.
+COLLINS: Thank you very much.
+And up next. We are going to get into what we heard not far from where we are, at the site of this today. My exchange with the President, who initially came out and had a moment of silence for the victims, but then quickly began blaming Democrats and diversity initiatives, air traffic controllers, even the helicopter pilot, as we still wait for the facts to emerge.
+Plus, we're hearing tributes, tonight, to the victims of this tragedy, the figure skating community now reeling from the losses of athletes, coaches, and family, who were on board.
+Olympic gold medalist, Sarah Hughes, is here. [21:20:00]
+(COMMERCIAL BREAK)
+COLLINS: There's a lot we don't know about the collision that claimed 67 lives, here last night.
+But with the investigation only a few hours old, President Trump entered the White House briefing room today, took a moment of silence for the victims, and then almost immediately began to speculate, while providing no evidence, that diversity in hiring, and policies of prior administrations, somehow caused this disaster.
+(BEGIN VIDEO CLIP)
+TRUMP: Then it's a group within the FAA, another story, determined that the workforce was too white, that they had concerted efforts to get the administration to change that and to change it immediately.
+This was in the Obama administration just prior to my getting there. And we took care of African Americans, Hispanic Americans, we took care of everybody at levels that nobody has ever seen before. It's one of the reasons I won.
+But they actually came out with a directive, too white.
+(END VIDEO CLIP)
+COLLINS: Now, the President has access to more information than almost anyone.
+But in a similar fashion to how he reacted to the New Orleans terror attack, falsely linking it to migrants. Today, he suggested that diversity initiatives were to blame, even as the bodies of these survivors were still being pulled from the Potomac.
+(BEGIN VIDEO CLIP)
+COLLINS: We don't even yet know the names of the 67 people who were killed. And you are blaming Democrats and DEI policies, and air traffic control, and seemingly, the member of the U.S. military who was flying that Black Hawk helicopter. Don't you think you're getting ahead of the investigation right now?
+TRUMP: No, I don't think so at all. I don't think where the names of the people -- you mean the names on the -- of the people that are on the plane? You think that's going to make a difference?
+(END VIDEO CLIP)
+COLLINS: As for evidence of his claims, Trump offered this.
+(BEGIN VIDEO CLIP)
+Q: On DEI, and the claims that you've made, are you saying this crash was somehow caused and the result of diversity hiring? And what evidence have you seen to support these claims?
+TRUMP: It just could have been. We have a high standard. We've had a higher -- much higher standard than anybody else. And there are things, where you have to go by brain power, you have to go by psychological quality. And psychological quality is a very important element of it.
+(END VIDEO CLIP)
+[21:25:00]
+COLLINS: Here's what is true. The standards in training to become an air traffic controller, in the United States, which are the highest in the world, are relatively straightforward. You must be a citizen, speak English, be younger than 31, and have either enough work experience or a college education. There is no mention of race or gender.
+The President referenced President Obama, who expanded the hiring process, by including people who may not have gone to one of the 33 schools that offer specific training, to be an air traffic controller. But every applicant still must go to the FAA Academy for training. That's before the candidates spend another one to three years doing on-the-job training, before they're fully certified. They all undergo rigorous mental and physical testing.
+And one reason that Obama expanded the hiring pool was because there weren't enough people applying, to do one of the most stressful jobs that there is.
+As divers are still in the water today, Trump started quoting from the FAA's website.
+(BEGIN VIDEO CLIP)
+TRUMP: And I do want to point out that various articles that appeared prior to my entering office. And here's one. The FAA's diversity push includes focus on hiring people with severe intellectual and psychiatric disabilities.
+That is amazing.
+And then it says, FAA says, people with severe disabilities are most underrepresented segment of the workforce, and they want them in, and they want them -- they can be air traffic controllers.
+I don't think so.
+(END VIDEO CLIP)
+COLLINS: Now, every administration since George W. Bush's has pushed to increase the number of people, who have targeted disabilities. That includes people who may be deaf or blind or use a wheelchair.
+And that includes the first Trump administration's efforts to, quote, "Continue to promote and support the hiring of people with disabilities and targeted disabilities." That covers tens of thousands of jobs at the FAA, not just the people in the air traffic control tower. And all of this was in place during Trump's first term.
+His administration even announced "A pilot program to help prepare people with disabilities for careers in air traffic operations." That's because the problem has never been about letting in or keeping out certain kinds of people. It's been that there aren't enough people involved.
+In fact, the FAA needs 3,000 more air traffic controllers right now. Yet, among the first steps of this administration have been to gut a bipartisan Aviation Safety Committee, freeze the hiring of new federal workers, and offering many more of them buyouts.
+My source tonight is New York Times White House and National Security Correspondent, David Sanger, who was in the briefing room with me today. And David joins me now.
+David, just, this was a moment, where the press was kind of hustled in. We had about a two-hour heads-up that Trump was going to be speaking.
+Obviously, these are moments, when you cover the White House, as you have, where people look to the President for leadership, or for comfort, or for some kind of update on what is happening with an investigation, or a collision as tragic as this one.
+DAVID SANGER, CNN POLITICAL & NATIONAL SECURITY ANALYST, NEW YORK TIMES WHITE HOUSE & NATIONAL SECURITY CORRESPONDENT: Well, Kaitlan, there's sort of a cadence to all of these. I mean, think of Reagan after the Challenger disaster, or George W. Bush after the Columbia disaster, or other air disasters that we've seen.
+And usually, there is, as you say, a role of consoling. And then usually a, Let's not get ahead of where the evidence is. And I thought that was sort of where he was headed, at the beginning, the moment of silence. We were right -- right near each other during -- during this briefing. And then all of a sudden, he began doing what you just ran.
+And what was somewhat remarkable was he skipped around. Initially, he said -- he seemed to suggest that DEI considerations were the cause of this. Then he suggested that it was the helicopter pilots, and didn't understand why they were flying at the same level. Well, none of us understand that right now. And at other moments, he said, We're still in the investigation.
+So, it was sort of a scattershot operation. And yet he got pretty defensive, when you and I and others challenged him on the -- on the DEI part, for which he had no evidence it was connected to this -- to this incident.
+COLLINS: And he was asked, later on, in the Oval Office, again, about the DEI claim that he had been making that this was responsible. He seemed to kind of say, he wasn't sure if it was or it wasn't responsible.
+But he was also asked if he was going to come and visit the scene of this collision. And here's what he told reporters.
+(BEGIN VIDEO CLIP)
+REPORTER: Do you have a plan to go visit the site--
+TRUMP: I have a--
+REPORTER: --or meet with any of the first responders?
+TRUMP: I have a plan to visit, not the site, because what it -- you tell me, what's the site? The water? You want me to go swimming?
+REPORTER: Or to meet with the first responders down there?
+[21:30:00]
+TRUMP: I don't have a plan to do that. But I will be meeting with some people that were very badly hurt, with their family member, obviously.
+(END VIDEO CLIP)
+COLLINS: What's your takeaway from that?
+SANGER: Wouldn't be a very far trip for him to go, just to thank the first responders, who were out here. That, I found less jarring, to my mind, because then the fact that he somehow had to fit this incident into his political narrative. Look, the first nine days of this administration has been very heavily about DEI.
+COLLINS: And we saw -- it was striking to me that JD Vance, the Vice President, got up and spoke. So did the Defense secretary, Pete Hegseth, and the Transportation secretary.
+But the NTSB chair, who was there, and the new FAA acting Administrator, both were also there, and neither -- neither mentioned or was asked to speak up and say anything.
+SANGER: Well, the FAA Administrator was just made the acting FAA Administrator, today, after the accident happened.
+It would have been really interesting to hear from the NTSB Director, because what we want to know right now is, have they recovered the black boxes? We're told they have. What are the next steps in the investigation?
+And instead, we heard a lot more about how this sort of fit into what is clearly a drive by the administration, on DEI, across the government. And I can understand why he may decide he wants to go do that. But attaching it to the -- to the accident was a bit of a stretch.
+COLLINS: Yes. David Sanger, great reporting. Thank you. Great to be in the briefing room with you, as always.
+And we are learning more tonight about the people, the victims of this collision. The figure skating community is in particularly reel -- is in particular reeling tonight, as there are many losses of U.S. and Russian skaters, family and coaches. They were all coming home from a training camp.
+We're going to be joined by two people in that tight-knit community, up next. That includes the former Olympic gold medalist, Sarah Hughes.
+[21:35:00]
+(COMMERCIAL BREAK)
+COLLINS: We're learning more about the victims of this midair disaster, tonight. Among the 64 people, who were on the American Airlines plane, were a pair of champion Russian figure skaters.
+Evgenia Shishkova and Vadim Naumov were two-time Olympians, and 1994 World Champions, who were traveling back from the U.S. Figure Skating Championships in Wichita. They had coached their 23-year-old son, Maxim, who placed fourth in the competition. He was not on that flight with his parents.
+A friend and a colleague of his parents, Adam Blake, joins me now.
+And Adam, I just want to say, first off, that I'm so sorry, just for the last 24 hours. I don't even really know how to put it into words.
+And I know how close you were with not just the parents, but also you were the choreographer for Maxim. I know you talked to him, but understandably, want to keep that private. Just tell me, how's he doing tonight?
+ADAM BLAKE, CHOREOGRAPHER, THE SKATING CLUB OF BOSTON: I think he's doing the best that he can with everything that's happening. This is something that no one should be going through ever. And he is a young man, and a young athlete, that has more resilience than anyone can ever know and. But this is (inaudible) anybody to never (ph) experience.
+COLLINS: And just knowing him, and his parents who were on that flight. He was not on that flight. I mean, just the news was so devastating, last night, as there were people, who were finding out that their loved ones were yes, on that plane, and then waiting and waiting and waiting to see what happened.
+What can you tell us about his parents?
+BLAKE: They were -- they were just the most beautiful people. We had a long-standing relationship, being part of the same figure skating coaching team, and where I would choreograph for most of their students. And it was just -- it was just a wonderful experience working with them.
+They were kind, but firm in regards to work ethic and professionalism, and that they were massive pillars within The Skating Club of Boston's coaching -- coaching staff. And as much as they were World Champions on ice, they were World Champion, just people.
+COLLINS: I love to hear that.
+And we're seeing this video now that you -- that you showed us and -- or that you provided to us.
+And just thinking of, they must have been so proud of their son, and having him, carry on this -- this legacy of theirs, and seeing that live out in their family.
+BLAKE: There was nothing in the world that they were more proud of than Maxim. Like, he was the light of their life, like I -- anytime I would see an interaction between Evgenia and Max, like it was one of a mother's love. It was one that was just pure, pure love for her son.
+[21:40:00]
+And the team would not have been without (ph) Max, every time he stepped on the ice. The amount of things that Max has had to face within his skating career, injury (inaudible) always -- and Vadim has always been at his back, and he's always been there to just to be there for Max. And this -- this one's really hard.
+COLLINS: Yes, I think it's hard for everyone to even fathom. And please, tell him we're thinking of him and praying for him. And just devastated watching, watching this disaster and him learning about it.
+Adam, but thank you for taking this moment, to come on and talk about them, and their proudest legacy, with us.
+BLAKE: Of course. Thank you for having me.
+COLLINS: Also here tonight is 2002 Olympic figure skater, gold medalist, Sarah Hughes is joining me now.
+And Sarah, just hearing Adam talk about, that he was a choreographer for Maxim, and knew his parents so well. It's very clear to everyone how tight-knit the skating community is, and just how much everyone is reeling from the devastation here with this collision, and the aftermath of this with no survivors.
+SARAH HUGHES, 2002 OLYMPIC FIGURE SKATING GOLD MEDALIST: I mean, it's absolutely heartbreaking. And seeing Adam just now, it's really hard, and it's hard to put into words, and to think that, there were people there from U.S. Figure Skating at the development camp. It's such a high point for a lot of these athletes in their lives.
+Like, I've reached the highest level of this -- of the sport, and I think back to, like, what are some of my greatest memories? And it's like, when you first make it, or you feel like you make it, and you have such a bond with all of the other skaters, and it's exactly at that point.
+And you -- and just like thinking what they're, a lot of them are going through now, with people that they know and they spent a lot of time with, in this. I mean, it's something that you don't expect, you don't prepare for. It's just absolutely heartbreaking. COLLINS: What have you heard from others today? Just as people were learning about this, and realizing just how many of them were traveling together, coming back. We heard parents, obviously traveling together. I mean, what have you heard from others?
+HUGHES: I mean, look, the skating community is so tight-knit, like you train together, you travel together. Like, a lot of these people, they spend more time with their fellow skaters than with their own families, and they become like a family. So, it's hard to think about.
+But hearing from so many people, and especially from people in different parts of my life, send their thoughts, condolences. It's really nice to know that a lot of people care about the skating community.
+COLLINS: Yes, and so many people do. And I just want you to know so many people are grieving with you tonight.
+Sarah Hughes, thank you. Thank you for taking the time to join us tonight.
+HUGHES: Thank you for covering this. And I also want to express all my condolences to everyone, on the flight, and their families.
+COLLINS: Yes, absolutely. Thank you so much for that.
+And as we're here tonight, live at the scene of where this collision happened, at Reagan National Airport, a big question that remains is how a helicopter and a passenger plane got so close to each other, that this collision could happen.
+I'm going to speak to a retired Black Hawk pilot next, who knows this airspace so well.
+[21:45:00]
+(COMMERCIAL BREAK)
+COLLINS: We're live on the scene here at Reagan National Airport, where, 24 hours ago, tragedy struck, when a passenger plane collided with a Black Hawk Army helicopter, killing 67 people, who were on both aircraft, after no survivors were found.
+First responders were in the water all night, and all day, today, recovering bodies. They still have more left to do. But they have suspended that search this evening, and, we are told plan, to restart it in the morning. Part of the difficulty has been recovering some of the bodies, who were still strapped inside their seats in that airplane.
+All of this, of course, has been the heroic work of these first responders, who were on the scene within seven minutes, last night, and are continuing to work. As this investigation is also getting underway, tonight, into how this collision could have occurred.
+It is one of the busiest runways in the nation, as we heard from CNN's Pete Muntean.
+And for more on this, I want to bring in CNN's Danny Freeman, who is here with me, at Reagan National Airport.
+And Danny, obviously, anyone who lives in this area has flown inside this airport, a million times, and understands how busy these runways are.
+This was actually a huge fight in Congress, last year.
+DANNY FREEMAN, CNN CORRESPONDENT: Yes.
+COLLINS: Because lawmakers want to always add a direct flight, so they can get back home easily, on the weekends, when they're out of session.
+But lawmakers from Virginia and from Maryland were expressing a lot of concern, about adding more -- more flights to put in this airspace, given how congested it already was.
+[21:50:00]
+FREEMAN: Yes, you heard Senator Tim Kaine speak about that a lot, both last night and, of course, today as well, that this has been a concern that he's been talking about for quite some time.
+And I think you can expect to hear more about that, not only because of the tragedy that happened yesterday. But also because part of our CNN Investigates team, they've been unveiling, or I should say, reporting on, near misses, specifically here at Reagan National Airport, in the past, that have also specifically happened, when it comes to landing around helicopters.
+According to, again, some of our CNN Investigates teammates, in the past three years, at least two other pilots have reported near misses, specifically where they had to make evasive maneuvers with passenger planes, to avoid hitting helicopters, as they were coming in for a landing.
+So, you can expect that piece of information to definitely get more scrutiny, and perhaps fuel more fire to this conversation about if there perhaps is too much traffic in general, but also when it comes to these helicopters flying, sometimes routine missions around this area.
+COLLINS: Yes, and that was something that stood out to me, today, from that briefing that we had, at the White House, where the new Defense secretary, Pete Hegseth, was there. And he was essentially saying that -- he said that the pilots on the helicopter were fairly experienced. We know it was three members. That's pretty standard for a lot of these training flights, which we thought it was a training flight because it happened at night.
+He said that this one was a continuity of government flight. We know that we had heard that sometimes they do these where, essentially, if there was something to -- that had to happen, and they had to whisk someone, a senior congressional leader, for example, out of wherever they were in Washington, it would be a flight like this where it would happen. So that's why these helicopters were flying so close to the airspace.
+FREEMAN: Well, and Kaitlan, I mean, we heard from Natasha Bertrand today, also from the Pentagon, saying that these pilots aboard that Black Hawk helicopter had as much as 1,500 hours of experience.
+So, again, to your point, these were not inexperienced people, who were behind the controls here. But we're still waiting to see just what went so wrong, last night.
+COLLINS: Danny Freeman, thank you for that.
+And also tonight, an Army pilot, who has flown a Black Hawk helicopter, near the airport, describes what that is like. Retired Marine Colonel, William "Burner" Dunn, a former attack helicopter pilot, is here with me now.
+And Colonel, thank you for being here.
+Can you just, as someone who has done this, can you tell us, one, what it's like and how challenging it is -- it is to fly over in this airspace?
+COL. WILLIAM "BURNER" DUNN, RETIRED MARINE COLONEL, AUTHOR, "GUNFIGHTERS RULE": Thank you.
+It is very challenging. I've flown Marine Cobras right there, the low- level route around Reagan National Airport, several decades ago. That's very difficult. You're working with air traffic control, non- stop, and you're focused completely on ensuring that, in my time, you couldn't go above a 100 feet above the ground level. And so, it's very challenging, but it's very doable.
+COLLINS: And so, what was the first thought that went through your head, when you heard this?
+Because, we heard a small plane had crashed in the Potomac. That was the initial report. And obviously, we got a lot more information. But the minute I heard Black Hawk helicopter, I mean, it was just stunning to hear that it had collided with a passenger plane.
+DUNN: Well, the first thing, when I heard the news, is I was very confident there were not going to be any survivors. We've had several mishaps, over our years in the military, that I've been in. And almost always, a midair results in complete fatalities. Sometimes, people are able to survive, but rarely. So, I was very upset, and I felt for the families of the soldiers, as well as all the civilians on the airplane.
+COLLINS: Yes, and as did we, of course. Those three soldiers, who were -- who were serving, and were on that Black Hawk helicopter.
+Colonel, thank you for coming on, and sharing your expertise with me tonight. DUNN: Thank you, and have a great night.
+COLLINS: There was also other dramatic moments, here in Washington, that you should see today, when it comes to the President's cabinet. Stay with us. We'll show you that in a moment.
+[21:55:00]
+(COMMERCIAL BREAK)
+COLLINS: With so much of Washington's focus, understandably here on the Potomac today, there was still other major business happening on Capitol Hill, including the confirmation hearings for three of President Trump's most controversial Cabinet nominees.
+Tulsi Gabbard, Trump's pick to be the Director of National Intelligence, faced a bipartisan grilling, including over her history of echoing Russian propaganda.
+Democrats pressed FBI director nominee, Kash Patel, about whether or not he'd launch investigations into Trump's opponents.
+And there was also this searing moment, from Senator Maggie Hassan of New Hampshire, confronting Robert F. Kennedy Jr.
+(BEGIN VIDEO CLIP)
+SEN. MAGGIE HASSAN (D-NH): You may not know that I am the proud mother of a 36-year-old young man with severe cerebral palsy. And a day does not go by when I don't think about what did I do when I was pregnant with him that might have caused the hydrocephalus that has so impacted his life.
+So please, do not suggest that anybody in this body of either political party doesn't want to know what the cause of autism is. Do you know how many friends I have with children who have autism?
+[22:00:00]
+The problem with this witness' response on the autism cause, and the relationship to vaccines, is because he's relitigating and churning settled science, so we can't go forward and find out what the cause of autism is, and treat these kids, and help these families.
+Mr. Kennedy, that first autism study rocked my world. And like every mother, I worried about whether, in fact, the vaccine had done something to my son. And you know what? It was a tiny study of about 12 kids. And over time, the scientific community studied, and studied, and studied, and found that it was wrong.
+(END VIDEO CLIP)
+COLLINS: I should note, Kennedy was silent, as the Senator then moved on to questions that she had about Medicaid.
+Thank you all so much for joining us, tonight, on this breaking news hour.
+Our coverage continues with "CNN NEWSNIGHT" up next.
+
+Load-Date: January 31, 2025
+
+
+End of Document
