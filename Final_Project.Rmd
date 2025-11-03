@@ -107,50 +107,16 @@ library(tidytext)
 library(lubridate)
 library(stringr)
 library(ggplot2)
+library(topicmodels)
+library(lda)
+library(tm)
+library(knitr)
+library(kableExtra)
+library(reshape2)
+library(tidyr)
+library(dplyr)
 ```
 
-
-
-
-
-
-## Loading Trump DEI data 
-
-```{r}
-
-## do not reload this block unless adding more articles to analysis, becuase it will add more articles to the already set folder rin my lapto  ### 
-# Reformat .RTF files
-# Load required packages
-# Set the paths for your folders
-input_folder <- "./DEI_updated_files/master_folder_dei/"  # Replace with your input folder path
-output_folder <- "./file_raw_text/" # Replace with your output folder path
-# Create output folder if it doesn't exist
-if (!dir.exists(output_folder)) {
-  dir.create(output_folder)
-}
-# Get a list of all .rtf files in the input folder
-rtf_files <- list.files(path = input_folder, pattern = "\\.RTF$", full.names = TRUE)
-# Convert each .rtf file to .txt
-for (file in rtf_files) {
-  # Extract the file name without extension
-  file_name <- tools::file_path_sans_ext(basename(file))
-  
-  # Read the RTF content
-  rtf_content <- read_rtf(file)
-  
-  # Create output file path
-  output_file <- file.path(output_folder, paste0(file_name, ".txt"))
-  
-  # Write the content to a .txt file
-  writeLines(rtf_content, output_file)
-  
-  # Print progress
-  cat("Converted:", file, "to", output_file, "\n")
-}
-cat("Conversion complete!\n")
-
-## reload this after deleting the file raw text stuff, try to locate 200 missing files 
-```
 
 ### Compiled Index 
 
@@ -335,10 +301,6 @@ final_data |>
 
 
 
-
-
-<RESTART, RERUN AFTER SECURING ARTICLES AND INDEX> 
-
 ## Publication Count 
 
 ```{r}
@@ -356,6 +318,7 @@ print(pub_count)
 
 ```
 
+- The top 5 publications are the University Wire, MailOnline, States News Service, CNN Transcripts and Targeted News Service. 
 
 
 ## Political Leaning Publication Assignment 
@@ -433,6 +396,7 @@ print(top_five_domestic)
 
 
 ```
+
 
 ## Top 5 International Articles 
 ```{r}
@@ -538,6 +502,17 @@ bigram_counts_1 <- bigram_counts |>
   separate(bigram, c("word1", "word2"), sep = " ")
 ```
 
+```{r}
+filtered_bigram_count <- bigram_counts_1 |> 
+  filter(!word1 %in% stop_words$word) |> 
+  filter(!word2 %in% stop_words$word) |> 
+  filter(!is.na(word1), !is.na(word2)) |> 
+  mutate(bigram = str_c(word1, word2, sep = " ")) |> 
+  filter(
+    !str_detect(bigram, regex("news channel|cnn host|cnn anchor|news host|begin video|channel host|00 00", ignore_case = TRUE))
+  )
+```
+
 
 ```{r}
 filtered_bigram_count <- bigram_counts_1 |> 
@@ -582,7 +557,6 @@ ggplot(top_bigrams, aes(x = reorder(bigram, n), y = n)) +
 
 ## filter out news channel, 00:00 (after looking at context), cnn host, cnn anchor, channel host, 
 ```
-
 
 ## Creating Domestic articles tokenization
 ```{r}
@@ -797,7 +771,6 @@ sentiments_intl_all %>%
 
 ```
 
-{start here and finish then rewrite the new insights into the rmd file knit it to html and add to paper}
 ## Topic Modeling
 
 ```{r}
@@ -868,7 +841,8 @@ sum(articles_per_dom_intl_category$n)
 ```
 
 
-##### So I have 1916 total articles. In my dataframe US articles make up 40.1 percent and international artidcles make up 59.1 percent. 
+##### So I have 3504 total articles. In my dataframe US articles make up 74.91  percent and international artidcles make up 25.09 percent. 
+
 ```{r tm12}
 # number of topics
 # K <- 20
@@ -939,6 +913,12 @@ topics <- enframe(topicNames, name = "number", value = "text") %>%
 topics
 ```
 
+```{r}
+# Remove the specific unwanted topic
+topics <- topics %>%
+  filter(text != "• news search art sport opinion student content submit contentclassskipcontentskip")
+```
+
 ### Review the topics and determine a 1-2 word label after reading the source documents.
 
 ```{r}
@@ -965,27 +945,27 @@ topic1 <- theta2 %>%
 #add categories
 vizDataFrame <- vizDataFrame |>
   mutate(category = case_when(
-    str_detect(str_squish(variable), "trump order execut feder presid divers donald dei govern inclus") ~ "trump_executive_orders",
-    str_detect(variable, "divers dei inclus equiti compani polici target initi back program") ~ "corporate_dei",
-    str_detect(variable, "feder fund trump educ univers state program order student grant") ~ "federal_education_policy",
-    str_detect(variable, "trump crash plane washington presid divers air blame helicopt donald") ~ "airplane_helicopter_crash",
-    str_detect(variable, "trump presid donald musk govern world histori month day american") ~ "trump_elon_musk",
+    str_detect(str_squish(variable), "trump order presid feder execut dei divers donald program administr") ~ "trump_executive_orders",
+    str_detect(variable, "trump presid cnn musk air hous fire donald feder white") ~ "trump_elon_musk",
+    str_detect(variable, "trump feder dei divers govern donald musk compani ’ “") ~ "federal_dei_policies",
+    str_detect(variable, "trump news fox host presid democrat channel america doge interview") ~ "trump_fox_news",
+    str_detect(variable, "crash trump collis plane helicopt air black washington dead nation") ~ "air_crash_trump",
+    str_detect(variable, "• news search art sport opinion student content submit contentclassskipcontentskip") ~ "misc_noise",
     TRUE ~ "other"
   ))
   
-  
-
 
 ```
 
 ## Fact Check and Validate Topics
 
---Topic 1: 	univers word fund student length  feder educ state program school
---Topic 2: order trump feder dei execut divers govern program inclus presid
---Topic 3: trump presid state musk nation donald govern countri administr hous
---Topic 4: right reserv copyright februari januari crash air bodi thursday control
---Topic 5: compani divers end dei document inclus target busi polici year
---Topic 6: news bodi load-date februari nyu load-date januari search sport student edit open
+--Topic 1: 	• news search art sport opinion student content submit contentclassskipcontentskip
+--Topic 2: trump order presid feder execut dei divers donald program administr
+--Topic 3: trump presid cnn musk air hous fire donald feder white
+--Topic 4: trump feder dei divers govern donald musk compani ’ “
+--Topic 5: trump news fox host presid democrat channel america doge interview
+--Topic 6: crash trump collis plane helicopt air black washington dead nation
+
 
 #### For Topic 2 dei_topics in administration topic
 
@@ -1105,41 +1085,49 @@ ggplot(vizDataFrame, aes(x = dom_vs_intl, y = value, fill = category)) +
 
 ```
 
+## Continued Plan: 
+
+- To take a good look at seniment analysis and possibly implore new method that Rob sent me. 
+- To look deeper into political leaning of the publications and see if there is any trends there.
+- Will attempt to do a topic modeling for US and International articles depending on the political     affiliation of the publication.
+- To develop more graphics for the topic modeling section
+- To figure out the insights from the additional sentiment analysis 
+- To manually look through data and provide context examples for paper. 
 
 
-control + left click + option = file path 
 
 ## My Findings: 
 
 ###Key Findings from Overall Analysis: 
--there are more international articles than there are domestic articles, which is interesting since Trump dismantling of DEI in the federal landscape and for the most part impacts Americans. With this, you would think that domestic outlets would be covering the topic rather than their international counterparts
-- international articles topics focused more on trump_elon musk and corporate_dei 
-where as domestic articles topics focuse more on federal_education_policy
+- international articles topics focused more on federal_dei_policies and air_crash_trump
+where as domestic articles topics focuse more on trump_elon_musk and trump_fox_news
 -the top 20 bigrams included: diversity equity, white house,  donald trump, president dei which is not surprising, other ones included, history month, civil rights.  
--sentiment analysis: I was surprised that fear made up 5038 in the sentiment count, also anger made up 3434, sadness made up 2908
 -topic modeling: Overall, the most interesting topics for me were the **trump_exective_orders, federal_education_policy, trump_elon_musk, airline_helicopter_crash (because Trump attributed it to DEI hires failure).**
 
 
 ### Comparing International vs. Domestic Newspaper Coverage of DEI Issues under Trump: A Content Analysis
 
-In this project, I conducted a content analysis of 1,916 news articles that mentioned DEI-related (Diversity, Equity, and Inclusion) issues during the post-affirmative action landscape, with a special focus on former President Donald Trump’s policies. My goal was to explore how coverage of these issues varied between **domestic** (U.S.-based) and **international** media outlets. Through a combination of topic modeling, bigram analysis, and sentiment analysis, I aimed to uncover the thematic, emotional, and topical patterns shaping news discourse on DEI during this period.
+In this project, I conducted a content analysis of 3,504 news articles that mentioned DEI-related (Diversity, Equity, and Inclusion) issues during the post-affirmative action landscape, with a special focus on former President Donald Trump’s policies. My goal was to explore how coverage of these issues varied between **domestic** (U.S.-based) and **international** media outlets. Through a combination of topic modeling, bigram analysis, and sentiment analysis, I aimed to uncover the thematic, emotional, and topical patterns shaping news discourse on DEI during this period.
 
-#### More International Coverage Than Domestic
+### My Limitations 
+- I downloaded 4,023 articles from NexisUni, upon loading them in R I had 519 duplicate entries which I deleted from the data. So, in the end I have 3,504 articles. 
+- I am  analyzing articles published between January 20, 2025 (the start of Trump’s second term) and February 28, 2025. This one-month window may not fully capture longer-term trends or shifts in DEI coverage.
+- The dataset is limited to articles available through NexisUni, which may not represent the full spectrum of media outlets or perspectives on DEI issues.
+- I manually selected the publications, so I could have a wide range of politically leaning outlets, but there may still be selection bias in which outlets were included.
 
-One of the most surprising findings was that **international outlets published more articles** related to DEI and Trump than domestic newspapers. This is noteworthy given that Trump’s actions—such as the executive orders targeting federal diversity trainings and the broader dismantling of DEI programs—have **direct implications for American institutions and citizens.** Yet, international publications devoted more attention to these issues than U.S.-based media did. This raises important questions: Are domestic outlets deprioritizing DEI coverage due to political fatigue, commercial pressures, or editorial bias? Or are international outlets more attuned to global trends in democratic backsliding and human rights, recognizing Trump’s DEI rollback as part of a broader ideological shift?
 
-This gap may suggest that American media has normalized attacks on DEI in a way that international observers have not. Alternatively, it could reflect an international interest in the U.S. as a bellwether for racial and social justice policy—particularly in the wake of the 2020 George Floyd protests and their global ripple effects.
 
 #### Top Bigrams Reveal Central Framing
 
 My analysis of the top 20 bigrams (two-word combinations) in the dataset provided further insight into how DEI-related discourse is framed. Among the most common bigrams were:
 
-* **“Diversity equity”**
+* **“Donald Trump"”**
 * **“White house”**
-* **“Donald Trump”**
-* **“President DEI”**
-* **“History month”**
-* **“Civil rights”**
+* **“President Trump”**
+* **“Fox News”**
+* **“President Donald”**
+* **“Elon Musk”**
+
 
 These pairings confirm that discussions of DEI were closely tied to federal leadership and political developments. Terms like “White House” and “Donald Trump” suggest a central focus on presidential authority, while “diversity equity” and “civil rights” speak to the broader social justice context. The inclusion of “history month” likely reflects how DEI is seasonally spotlighted during observances like Black History Month—further evidence that coverage may be reactive or symbolic rather than ongoing or systemic.
 
@@ -1149,14 +1137,16 @@ These pairings confirm that discussions of DEI were closely tied to federal lead
 
 Emotionally, the media coverage of DEI under Trump was far from neutral. A sentiment analysis of the article corpus revealed high counts of negative affect:
 
-* **Positive** appeared **12,525** times 
-* **Fear** appeared **5,038** times
-* **Anger** appeared **3,434** times
-* **Sadness** appeared **2,908** times
+* **Positive** appeared **2742253** times 
+* **Trust** appeared **1992543** times 
+* **Fear** appeared **1334435** times
+* **Anger** appeared **956269** times
+* **Sadness** appeared **746093** times
+
 
 ##### Postive Leading Words: 
 
-Overall the top positive words such as president, equity, united, and /university made sense; however as I looked on words like basketball, police, widespread, and choice could be perceived as negative or neutral in some context. 
+Overall the top positive words such as president, equity, content, and united made sense; however as I looked on words like basketball, police, widespread, and choice could be perceived as negative or neutral in some context. 
 ### Leading negative sentiment 
 
 ##### Negative Leading Words:
@@ -1174,15 +1164,16 @@ This emotional charge could either amplify or dampen public engagement, dependin
 To better understand the underlying themes across the dataset, I applied topic modeling using keyword-based string detection. From this, I coded articles into six main topic categories:
 
 1. **Trump Executive Orders** – Articles discussing specific policy rollbacks and federal mandates that banned or restricted DEI training and language in government agencies.
-2. **Corporate DEI** – Coverage focused on companies’ diversity initiatives, particularly in response to external political pressure or internal culture debates.
-3. **Federal Education Policy** – Articles dealing with the intersection of DEI and higher education, including student grants, Title IX issues, and university policy changes.
+2. **Trump Fox News** – Coverage emphasizing Fox News reporting on companies’ diversity initiatives, political commentary, and internal corporate culture debates.
+3. **Federal DEI Policies** – Articles dealing with the intersection of DEI and higher education, including student grants, Title IX issues, and university policy changes.
 4. **Airplane/Helicopter Crash** – A non-DEI-related outlier category that likely emerged due to Trump being mentioned in unrelated breaking news contexts.
 5. **Trump and Elon Musk** – Articles speculating on shared ideologies or public commentary by the two figures, often linked to anti-DEI sentiment.
-6. **Media Website Info** – Flagged as **not useful**, this group contained metadata and generic web content rather than editorial substance. (Ended up filtering this topic out of the topic modeling visualization and findings result). 
+6. **Misc/Noise** – Flagged as **not useful**, this group contained metadata and generic web content rather than editorial substance. (Ended up filtering this topic out of the topic modeling visualization and findings result). 
 
-Most of the content was centered in the **Trump Executive Orders** and **Corporate DEI** categories, underscoring the media’s tendency to focus on high-profile political acts and large institutions rather than individual or community-level impacts. Surprisingly, while education was a battleground for DEI policy, it was not as dominant in the dataset—possibly due to limited access to localized education reporting.
 
 #### Domestic vs. International Framing
+
+[will rewrite the section below upon additional data analysis]
 
 When comparing topic categories across domestic and international coverage, early results suggest **international articles tended to frame DEI as part of a broader human rights narrative**, linking U.S. policy to global democratic trends or regressions. Domestic outlets, in contrast, were more likely to treat DEI as a political football, emphasizing partisan divides or executive overreach.
 
